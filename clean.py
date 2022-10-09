@@ -2,40 +2,40 @@ import json
 import os
 import argparse
 import dateutil.parser
+import numpy
 
-#Adds comma as a delimiter
-#Currently, I am manually adding "{"messages":[" to the beginning, "]}" to the end, and manually removing 
-#the last comma that is added by this function so it converts to a JSON object correctly
+#Formats file into JSON file
 def file_formatting(fp):
-    open_bracket = -1
-    with open(fp) as original, open("formatted_conti.txt","a") as new:
-        for line in original:
-            for char in line:
-                new.write(char)
-                if(char=="{"):
-                    open_bracket+=1
-                elif(char=="}"):
-                    open_bracket-=1
-                    if(open_bracket==0):
-                        new.write(",")
+    parser = json.JSONDecoder()
+    parsed = []  # a list to hold individually parsed JSON structures
+    with open(fp) as f:
+        data = f.read()
+    head = 0  # hold the current position as we parse
+    while True:
+        head = (data.find('{', head) + 1 or data.find('[', head) + 1) - 1
+        try:
+            struct, head = parser.raw_decode(data, head)
+            parsed.append(struct)
+        except (ValueError, json.JSONDecodeError):  # no more valid JSON structures
+            break
+    json_obj = json.dumps(parsed, indent=2)
+    return json_obj
 
-def json_converter(data_fp):
-    data_objects = json.loads('{"messages": []}')
-    f = open(data_fp)
-    data = json.load(f)
-    f.close()
-    for i in data['messages']:
-        data_objects['messages'].append(i)
-    return data_objects
+#Merges a directory of JSON files into one
+def merge_chats(dir, output):
+    result = []
+    with open(output, "w") as out:
+        for file in os.listdir(dir):
+            #print(file)
+            #input()
+            f = os.path.join(dir, file)
+            if os.path.isfile(f):
+                out.write(file_formatting(f))
+    result = file_formatting(output)
+    with open(output, "w") as out:
+        out.write(result)
 
-#creates json file to store our cleaned data in 
-
-#file_formatting("original_conti_data.txt")
-# result = open("conti_chats.json", "w")
-# result_str = json.dumps(json_converter("formatted_conti.txt"))
-# result.write(result_str)
-# result.close()
-
+#Returns JSON object with datetime value 
 def time_parser(data_json):
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', action='store')
@@ -45,26 +45,63 @@ def time_parser(data_json):
     for i in (json_data["messages"]):
         i['ts'] = dateutil.parser.isoparse(i['ts']) # ISO 8601 extended format
     return json_data
-print(time_parser("conti_chats.json"))
 
-# date_string = '2021-07-05T19:21:07.978947'
-# new = dateutil.parser.isoparse(date_string) # ISO 8601 extended format
-# print(type(new))
-# print(new)
+#Returns a unique list of users from a JSON file
+def user_parser(data_json):
+    users = []
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-i', action='store')
+    filename = data_json
+    with open(filename) as f:
+        json_data = json.load(f)
+    for i in (json_data):
+        user_str = i['from']
+        lst = user_str.split('@')
+        users.append(lst[0]) 
+        user_str = i['to']
+        lst = user_str.split('@')
+        users.append(lst[0]) 
+    users_np = numpy.array(users)
+    return numpy.unique(users_np)
+
+#Merge all jabber into one json file
+jabber_dir = "/Users/sabrygateley/Downloads/Conti Jabber Chat Logs 2021 - 2022/"
+jabber_out = "jabber_logs.json"
+merge_chats(jabber_dir,jabber_out )
+
+#Merge all chats into one json file
+chat_dir = "/Users/sabrygateley/Downloads/Conti Chat Logs 2020/"
+chat_out = "chat_logs.json"
+merge_chats(chat_dir,chat_out)
+
+#Evaluates user lists
+jabber_users = user_parser(jabber_out)
+chat_users = user_parser(chat_out)
+both = [i for i in jabber_users if i in chat_users]
+unique_chat = [i for i in chat_users if i not in jabber_users]
+unique_jabber = [i for i in jabber_users if i not in chat_users]
 
 
+#Various result printers
+def print_users(jabber_users,chat_users):
+    print("Jabber Users")
+    print(jabber_users)
+    print("Chat Users")
+    print(chat_users)
+    
+def print_unique_lists(both, unique_jabber, unique_chat):
+    print("---Comparison---")
+    print("Both")
+    print(numpy.array(both))
+    print("Only Jabber")
+    print(numpy.array(unique_jabber))
+    print("Only Chat")
+    print(numpy.array(unique_chat))
 
+def print_analysis(jabber_users,chat_users,both,unique_jabber,unique_chat):
+    print("---ANALYSIS---")
+    print("Jabber+Chat:", len(jabber_users)+len(chat_users))
+    print("Intersection:", len(both))
+    print("Jabber & ~Chat:", len(unique_jabber))
+    print("Chat & ~Jabber:", len(unique_chat))
 
-#checks for duplicates in the "body" of each message
-#don't do this for body of the message- need to update it to compare every part of each object
-# def remove_duplicate_messages(data_fp):
-#     unique_data_objects = json.loads('{"messages": []}')
-#     unique_messages = []
-#     f = open(data_fp)
-#     data = json.load(f)
-#     f.close()
-#     for i in data['messages']:
-#         if i['body'] not in unique_messages:
-#             unique_messages.append((i['body']))
-#             unique_data_objects['messages'].append(i)
-#     return unique_data_objects
