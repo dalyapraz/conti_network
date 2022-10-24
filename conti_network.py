@@ -3,6 +3,7 @@ import igraph as ig
 from numpy import loadtxt
 import json 
 import matplotlib.pyplot as plt
+import dateutil.parser
 G = nx.MultiDiGraph()
 
 #Accepts a text file of usernames and returns as a list
@@ -25,11 +26,10 @@ def generate_edges(data_json, src):
             data = G.get_edge_data(sender, receiver, key='edge')
             if data['channel'] == src:
                 G.add_edge(sender, receiver, key='edge', weight = data['weight'] + 1)
-                #print(G.edges(data=True))
             else:
-                G.add_edge(sender, receiver, key='edge', weight = 1, channel = src)
+                G.add_edge(sender, receiver, key='edge', weight = 1, channel = src, time = [dateutil.parser.isoparse(interaction['ts'])])
         else:
-            G.add_edge(sender, receiver, key='edge', weight = 1, channel = src)
+            G.add_edge(sender, receiver, key='edge', weight = 1, channel = src, time = [dateutil.parser.isoparse(interaction['ts'])])
     #print(G)
     return
 
