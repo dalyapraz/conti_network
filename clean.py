@@ -92,6 +92,10 @@ unique_jabber = [i for i in jabber_users if i not in chat_users]
 all_users = numpy.union1d(jabber_users, chat_users)
 with open('users.txt', 'w') as file:
     numpy.savetxt(file, all_users, fmt='%s')
+with open('jabber_unique_users.txt', 'w') as file:
+    numpy.savetxt(file, unique_jabber, fmt='%s')
+with open('chat_unique_users.txt', 'w') as file:
+    numpy.savetxt(file, unique_chat, fmt='%s')
 
 #Various result printers
 def print_users(jabber_users,chat_users):
