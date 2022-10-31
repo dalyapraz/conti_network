@@ -25,11 +25,16 @@ def generate_edges(data_json, src):
         if (sender, receiver) in G.edges():
             data = G.get_edge_data(sender, receiver, key='edge')
             if data['channel'] == src:
+                # lst = data['time']
+                # lst.append(dateutil.parser.isoparse(interaction['ts']))
+                #G.add_edge(sender, receiver, key='edge', weight = data['weight'] + 1, time = lst)
                 G.add_edge(sender, receiver, key='edge', weight = data['weight'] + 1)
             else:
-                G.add_edge(sender, receiver, key='edge', weight = 1, channel = src, time = [dateutil.parser.isoparse(interaction['ts'])])
+                #G.add_edge(sender, receiver, key='edge', weight = 1, channel = src, time = [dateutil.parser.isoparse(interaction['ts'])])
+                G.add_edge(sender, receiver, key='edge', weight = 1, channel = src)
         else:
-            G.add_edge(sender, receiver, key='edge', weight = 1, channel = src, time = [dateutil.parser.isoparse(interaction['ts'])])
+            #G.add_edge(sender, receiver, key='edge', weight = 1, channel = src, time = [dateutil.parser.isoparse(interaction['ts'])])
+            G.add_edge(sender, receiver, key='edge', weight = 1, channel = src)
     #print(G)
     return
 
@@ -45,10 +50,15 @@ generate_nodes(users)
 generate_edges(jabber_json, "jabber")
 generate_edges(chat_json, "chat")
 
+nx.write_gexf(G, 'conti.gexf')
+node_degrees = G.degree()
+sorted_nodes = sorted(node_degrees, key=lambda x: x[1], reverse=True)
+print(sorted_nodes)
+
 #with open('sorted_edges.txt','w') as f:
 #    f.write(str(sorted(G.edges(data=True),key= lambda x: x[2]['weight'],reverse=True)))
 
-#fig, (ax0, ax1) = plt.subplots(nrows=1, ncols=2, figsize=(20, 10))
+# fig, (ax0, ax1) = plt.subplots(nrows=1, ncols=2, figsize=(20, 10))
 # ig.layout_with_lgl(G, node_size=50)
 # plt.show()
 # h = ig.Graph.from_networkx(G)
@@ -58,7 +68,7 @@ generate_edges(chat_json, "chat")
 # ig.plot(h, layout=layout, target=ax1)
 # plt.axis("off")
 # plt.show()
-print(max(dict(G.edges).items(), key=lambda x: x[1]['weight']))
+# print(max(dict(G.edges).items(), key=lambda x: x[1]['weight']))
 
 # print(max(dict(G.degree()).items(), lambda x: x[2]['weight']))
 # print(min(dict(G.degree()).items(), lambda x: x[2]['weight']))
