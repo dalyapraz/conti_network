@@ -2,7 +2,6 @@ air
 alto
 answer
 atlas
-
 b2zbrzj5sljbmemgfqnn7zlarduyjhvjwt
 badboy
 baraka
@@ -21,7 +20,6 @@ bloodrush
 born
 btdpnqwg2nqkqceetqnn7zlarduyjhvjwt
 buran
-
 caution
 cert
 chain
@@ -31,25 +29,22 @@ cicada
 cnn
 creamsod
 cybergangster
-
 dantis
 def
 demetrius
 demon
-derekson // dereksupp
+derekson
 dino
 doctor
 dollar
 duna
 dylan
 dylon
-
 ed
 eleos
 eleoslin
 elvira
 exploit.im
-
 fatboy
 fire
 firefox333
@@ -61,7 +56,6 @@ freebeer
 front
 frost
 fury
-
 git
 glad
 gm
@@ -77,33 +71,27 @@ grand
 grover
 guava
 gucci
-
 hitech
 hod
 hookahplace
 hors
 horse
-
 impact
 inkognito
-
 jax
 johnyboy77
 joynses
-
 kintaro
 klaus
 kolbasa
 kolin
-
 larry
 loft
 lom
-
 macallan
 mashroom
 master
-mavelak //mavelek
+mavelak
 max17
 meatball
 miner
@@ -113,15 +101,12 @@ mops
 morisson
 mozart
 mult
-
 nek
 netman
 netwalker
 nick
 nuggets
-
 odw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion
-
 packman
 page
 painkiller
@@ -129,15 +114,12 @@ pin2
 porovoz
 prizrak
 pumba
-
 q3mcco35auwcstmt.onion
-qwerqwerqwerqwer //qwertycatt
-qwerty // qwertycatt
-
-romanov // same as below?
-romanov_2 // same as above?
+qwerqwerqwerqwer
+qwerty
+romanov
+romanov_2
 rooty
-
 salmon21
 santi
 sentinel
@@ -155,23 +137,18 @@ starfall
 sticks
 stigg
 subzero
-
 taobao
 tibone
 tiniles
 tort
-tramp // trump
+tramp
 ttrr
-
 valemy
 verchunls
 veron
 void
-
 wertu
 wind
 wowddoz
-
 xenkee
-
 zolotoy

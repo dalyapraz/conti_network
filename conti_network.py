@@ -51,9 +51,6 @@ generate_edges(jabber_json, "jabber")
 generate_edges(chat_json, "chat")
 
 nx.write_gexf(G, 'conti.gexf')
-node_degrees = G.degree()
-sorted_nodes = sorted(node_degrees, key=lambda x: x[1], reverse=True)
-print(sorted_nodes)
 
 #with open('sorted_edges.txt','w') as f:
 #    f.write(str(sorted(G.edges(data=True),key= lambda x: x[2]['weight'],reverse=True)))

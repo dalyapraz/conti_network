@@ -120,4 +120,4 @@ def print_analysis(jabber_users,chat_users,both,unique_jabber,unique_chat):
     print("Jabber & ~Chat:", len(unique_jabber))
     print("Chat & ~Jabber:", len(unique_chat))
 
-print_analysis(jabber_users,chat_users,both,unique_jabber,unique_chat)
+#print_analysis(jabber_users,chat_users,both,unique_jabber,unique_chat)
