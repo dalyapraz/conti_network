@@ -3,6 +3,9 @@ import json
 import dateutil.parser
 import datetime
 from clean import time_parser
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import statistics
 
 G = nx.read_gexf('conti.gexf')
 
@@ -25,6 +28,44 @@ def message_cluster(message_lst):
             result+=1
             start = message_lst[i] + datetime.timedelta(hours=12)
     return result
+
+def create_buckets(message_lst, delta):
+    start = message_lst[0] + datetime.timedelta(hours=delta)
+    buckets = {}
+    buckets[start] = 1
+    for i in range(len(message_lst)):
+        if message_lst[i] > start:
+            start = message_lst[i] + datetime.timedelta(hours=delta)
+            buckets[start] = 1
+        else:
+            buckets[start] += 1
+    return buckets
+
+def find_interaction(to, fro):
+    #create a formula to determine number of interactions, not just messages
+    #determine 12 hour differences between conversation 
+    chat_logs = time_parser('chat_logs.json')
+    jabber_logs = time_parser('jabber_logs.json')
+    messages = {}
+    with open('users.txt') as f:
+        users = f.read().splitlines()
+    for i in users:
+        messages[i] = {}
+    for i in users:
+        for j in users:
+            messages[i][j] = []
+    for i in chat_logs:
+        sender = i['from']
+        receiver = i['to']
+        messages[sender][receiver].append(i['ts'])
+    for i in jabber_logs:
+        sender = i['from']
+        receiver = i['to']
+        messages[sender][receiver].append(i['ts'])
+    for i in messages.keys():
+        for j in messages[i].keys():
+            messages[i][j] = sorted(messages[i][j])
+    return messages[to][fro]
 
 def node_communication_frequency():
     #create a formula to determine number of interactions, not just messages
@@ -50,6 +91,7 @@ def node_communication_frequency():
     for i in messages.keys():
         for j in messages[i].keys():
             messages[i][j] = sorted(messages[i][j])
+    print(messages['carter']['stern'])
     interactions = {}
     for u in users:
         interactions[u] = {}
@@ -88,14 +130,36 @@ def sorted_node_lifespan():
     result = dict(sorted(result.items(), key=lambda item: item[1]))
     return result
 
+def extract_conversation(interactions):
+    conversations = []
+    delta_init = interactions[1] - interactions[0]
+    delta_list = [delta_init]
+    init_interaction = interactions[0]
+    for i in range(len(interactions)-2):
+        delta_new = interactions[i+2]-interactions[i+1]
+        if delta_new > datetime.timedelta(hours=24):
+            end_interaction = interactions[i+1]
+            conversations.append([init_interaction, end_interaction])
+            init_interaction = interactions[i+2]
+        else:
+            delta_list.append(delta_new)
+    return conversations
 
-all_user_interactions = node_communication_frequency()
-number_of_interactions = {}
-for i in all_user_interactions.keys():
-    number_of_interactions[i] = sum(all_user_interactions[i].values())
-number_of_interactions = dict(sorted(number_of_interactions.items(), key=lambda item: item[1]))
-print(number_of_interactions)
+carter_stern = find_interaction('carter', 'stern')
+stern_carter = find_interaction('stern', 'carter')
+both = carter_stern + stern_carter
+print(extract_conversation(both))
 
+
+#all_user_interactions = node_communication_frequency()
+#print(all_user_interactions)
+# number_of_interactions = {}
+# for i in all_user_interactions.keys():
+#     number_of_interactions[i] = sum(all_user_interactions[i].values())
+# number_of_interactions = dict(sorted(number_of_interactions.items(), key=lambda item: item[1]))
+#print(number_of_interactions)
+# mango to bentley 50
+# carter to stern 60
 # top_lifespan_users = sorted_node_lifespan()
 # for i in top_lifespan_users:
 #     print(i, ": ", top_lifespan_users[i])
@@ -103,3 +167,14 @@ print(number_of_interactions)
 # top_senders = sort_out_degrees()
 # top_receivers = sort_in_degrees()
 # print(top_receivers)
+# carter_stern = find_interaction('carter', 'stern')
+# stern_carter = find_interaction('stern', 'carter')
+# both = carter_stern + stern_carter 
+# interaction_dict = {}
+# for i in carter_stern.keys():
+#     interaction_dict[i] = carter_stern[i]
+# for i in stern_carter.keys():
+#     if i in 
+# carter_stern_test_buckets = create_buckets(both, 2)
+# plt.bar(carter_stern_test_buckets.keys(), carter_stern_test_buckets.values(), color='g')
+# plt.show()
