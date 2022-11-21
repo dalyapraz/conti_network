@@ -130,26 +130,41 @@ def sorted_node_lifespan():
     result = dict(sorted(result.items(), key=lambda item: item[1]))
     return result
 
-def extract_conversation(interactions):
+def extract_conversation(interaction_dict):
+    interactions = []
+    users = []
+    for i in interaction_dict.keys():
+        interactions += interaction_dict[i]
+        users.append(i)
+    user1 = users[0]
+    user2 = users[1]
+    interactions.sort()
     conversations = []
-    delta_init = interactions[1] - interactions[0]
-    delta_list = [delta_init]
     init_interaction = interactions[0]
-    for i in range(len(interactions)-2):
-        delta_new = interactions[i+2]-interactions[i+1]
-        if delta_new > datetime.timedelta(hours=24):
+    if init_interaction in interaction_dict[user1]:
+        sender2 = user2
+    else:
+        sender2 = user1
+    check_users = False
+    for i in range(len(interactions)-1):
+        delta_new = interactions[i+1]-interactions[i]
+        if interactions[i+1] in interaction_dict[sender2]:
+            check_users = True
+        if delta_new > datetime.timedelta(hours=8) and check_users:
             end_interaction = interactions[i+1]
             conversations.append([init_interaction, end_interaction])
             init_interaction = interactions[i+2]
-        else:
-            delta_list.append(delta_new)
     return conversations
 
-carter_stern = find_interaction('carter', 'stern')
-stern_carter = find_interaction('stern', 'carter')
-both = carter_stern + stern_carter
-print(extract_conversation(both))
-
+user1 = 'professor'
+user2 = 'target'
+inter1 = find_interaction(user1, user2)
+inter2 = find_interaction(user2, user1)
+both = {user1:inter1, user2:inter2}
+print((extract_conversation(both)))
+# buckets = create_buckets(both, 8)
+# plt.bar(buckets.keys(), buckets.values(), color='g')
+# plt.show()
 
 #all_user_interactions = node_communication_frequency()
 #print(all_user_interactions)
