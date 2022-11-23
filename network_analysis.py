@@ -9,7 +9,6 @@ import statistics
 
 G = nx.read_gexf('conti.gexf')
 
-#future: length of messages
 def sort_in_degrees():
     indegrees = G.in_degree()
     sorted_nodes = sorted(indegrees, key=lambda x: x[1], reverse=True)
@@ -42,12 +41,10 @@ def create_buckets(message_lst, delta):
     return buckets
 
 def find_interaction(to, fro):
-    #create a formula to determine number of interactions, not just messages
-    #determine 12 hour differences between conversation 
-    chat_logs = time_parser('chat_logs.json')
-    jabber_logs = time_parser('jabber_logs.json')
+    chat_logs = time_parser('logs/chat_logs.json')
+    jabber_logs = time_parser('logs/jabber_logs.json')
     messages = {}
-    with open('users.txt') as f:
+    with open('user_lists/users.txt') as f:
         users = f.read().splitlines()
     for i in users:
         messages[i] = {}
@@ -68,12 +65,10 @@ def find_interaction(to, fro):
     return messages[to][fro]
 
 def node_communication_frequency():
-    #create a formula to determine number of interactions, not just messages
-    #determine 12 hour differences between conversation 
-    chat_logs = time_parser('chat_logs.json')
-    jabber_logs = time_parser('jabber_logs.json')
+    chat_logs = time_parser('logs/chat_logs.json')
+    jabber_logs = time_parser('logs/jabber_logs.json')
     messages = {}
-    with open('users.txt') as f:
+    with open('user_lists/users.txt') as f:
         users = f.read().splitlines()
     for i in users:
         messages[i] = {}
@@ -91,7 +86,6 @@ def node_communication_frequency():
     for i in messages.keys():
         for j in messages[i].keys():
             messages[i][j] = sorted(messages[i][j])
-    print(messages['carter']['stern'])
     interactions = {}
     for u in users:
         interactions[u] = {}
@@ -101,16 +95,12 @@ def node_communication_frequency():
                 interactions[i][j] = message_cluster(messages[i][j])
     return interactions
 
-#Going to start by doing this for users and then transferring the logic over to nodes in the graph?
-#Make list of each users timestamps and sort, then find difference
-#look at both sending and receiving as separate lists
-#to think about lifespan, we can combine two lists
 def sorted_node_lifespan():
     user_frequency = {}
-    with open('users.txt') as f:
+    with open('user_lists/users.txt') as f:
         users = f.read().splitlines()
-    jabber_json = time_parser('jabber_logs.json')
-    chat_json = time_parser('chat_logs.json')
+    jabber_json = time_parser('logs/jabber_logs.json')
+    chat_json = time_parser('logs/chat_logs.json')
     for u in users:
         user_frequency[u] = []
     for i in jabber_json:
@@ -130,51 +120,30 @@ def sorted_node_lifespan():
     result = dict(sorted(result.items(), key=lambda item: item[1]))
     return result
 
-def extract_conversation(interactions):
+def extract_conversation(interaction_dict):
+    interactions = []
+    users = []
+    for i in interaction_dict.keys():
+        interactions += interaction_dict[i]
+        users.append(i)
+    user1 = users[0]
+    user2 = users[1]
+    interactions.sort()
     conversations = []
-    delta_init = interactions[1] - interactions[0]
-    delta_list = [delta_init]
     init_interaction = interactions[0]
-    for i in range(len(interactions)-2):
-        delta_new = interactions[i+2]-interactions[i+1]
-        if delta_new > datetime.timedelta(hours=24):
+    if init_interaction in interaction_dict[user1]:
+        sender2 = user2
+    else:
+        sender2 = user1
+    check_users = False
+    for i in range(len(interactions)-1):
+        delta_new = interactions[i+1]-interactions[i]
+        if interactions[i+1] in interaction_dict[sender2]:
+            check_users = True
+        if delta_new > datetime.timedelta(hours=8) and check_users:
             end_interaction = interactions[i+1]
             conversations.append([init_interaction, end_interaction])
             init_interaction = interactions[i+2]
-        else:
-            delta_list.append(delta_new)
     return conversations
 
-carter_stern = find_interaction('carter', 'stern')
-stern_carter = find_interaction('stern', 'carter')
-both = carter_stern + stern_carter
-print(extract_conversation(both))
 
-
-#all_user_interactions = node_communication_frequency()
-#print(all_user_interactions)
-# number_of_interactions = {}
-# for i in all_user_interactions.keys():
-#     number_of_interactions[i] = sum(all_user_interactions[i].values())
-# number_of_interactions = dict(sorted(number_of_interactions.items(), key=lambda item: item[1]))
-#print(number_of_interactions)
-# mango to bentley 50
-# carter to stern 60
-# top_lifespan_users = sorted_node_lifespan()
-# for i in top_lifespan_users:
-#     print(i, ": ", top_lifespan_users[i])
-
-# top_senders = sort_out_degrees()
-# top_receivers = sort_in_degrees()
-# print(top_receivers)
-# carter_stern = find_interaction('carter', 'stern')
-# stern_carter = find_interaction('stern', 'carter')
-# both = carter_stern + stern_carter 
-# interaction_dict = {}
-# for i in carter_stern.keys():
-#     interaction_dict[i] = carter_stern[i]
-# for i in stern_carter.keys():
-#     if i in 
-# carter_stern_test_buckets = create_buckets(both, 2)
-# plt.bar(carter_stern_test_buckets.keys(), carter_stern_test_buckets.values(), color='g')
-# plt.show()

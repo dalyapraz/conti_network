@@ -39,10 +39,10 @@ def generate_edges(data_json, src):
     return
 
 #Pulls needed data from files
-users = find_users('users.txt')
-with open('jabber_logs.json') as f:
+users = find_users('user_lists/users.txt')
+with open('logs/jabber_logs.json') as f:
     jabber_json = json.load(f)
-with open('chat_logs.json') as f:
+with open('logs/chat_logs.json') as f:
     chat_json = json.load(f)
 
 #Builds network
@@ -52,8 +52,8 @@ generate_edges(chat_json, "chat")
 
 nx.write_gexf(G, 'conti.gexf')
 
-#with open('sorted_edges.txt','w') as f:
-#    f.write(str(sorted(G.edges(data=True),key= lambda x: x[2]['weight'],reverse=True)))
+with open('sorted_edges.txt','w') as f:
+   f.write(str(sorted(G.edges(data=True),key= lambda x: x[2]['weight'],reverse=True)))
 
 # fig, (ax0, ax1) = plt.subplots(nrows=1, ncols=2, figsize=(20, 10))
 # ig.layout_with_lgl(G, node_size=50)
