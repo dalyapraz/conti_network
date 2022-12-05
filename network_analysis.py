@@ -86,14 +86,15 @@ def node_communication_frequency():
     for i in messages.keys():
         for j in messages[i].keys():
             messages[i][j] = sorted(messages[i][j])
-    interactions = {}
-    for u in users:
-        interactions[u] = {}
-    for i in messages.keys():
-        for j in messages[i].keys():
-            if len(messages[i][j]) > 0: 
-                interactions[i][j] = message_cluster(messages[i][j])
-    return interactions
+    # interactions = {}
+    # for u in users:
+    #     interactions[u] = {}
+    # for i in messages.keys():
+    #     for j in messages[i].keys():
+    #         if len(messages[i][j]) > 0: 
+    #             interactions[i][j] = message_cluster(messages[i][j])
+    # return interactions
+    return messages
 
 def sorted_node_lifespan():
     user_frequency = {}
@@ -126,8 +127,12 @@ def extract_conversation(interaction_dict):
     for i in interaction_dict.keys():
         interactions += interaction_dict[i]
         users.append(i)
-    user1 = users[0]
-    user2 = users[1]
+    if len(users) == 1:
+        user1 = users[0]
+        user2 = users[0]
+    else:
+        user1 = users[0]
+        user2 = users[1]
     interactions.sort()
     conversations = []
     init_interaction = interactions[0]
@@ -136,6 +141,7 @@ def extract_conversation(interaction_dict):
     else:
         sender2 = user1
     check_users = False
+    if user1 == user2: check_users = True
     for i in range(len(interactions)-1):
         delta_new = interactions[i+1]-interactions[i]
         if interactions[i+1] in interaction_dict[sender2]:
@@ -143,7 +149,8 @@ def extract_conversation(interaction_dict):
         if delta_new > datetime.timedelta(hours=8) and check_users:
             end_interaction = interactions[i+1]
             conversations.append([init_interaction, end_interaction])
+            if i == len(interactions)-2:
+                break
             init_interaction = interactions[i+2]
     return conversations
-
 
