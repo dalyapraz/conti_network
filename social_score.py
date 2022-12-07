@@ -32,3 +32,27 @@ print(G)
 # reverse the graph (network): 
 #  1.	Nodes = users; 
 #  2.	Edges = undirected; meaningful conversations (threshold >5 convs)
+
+def cliques(user):
+    lst = nx.cliques_containing_node(user)
+    return len(lst)
+
+# def betweeness_centrality_of_node(user):
+#     return
+betweeness_centrality_dict = nx.betweenness_centrality(G)
+degree_centrality_dict = nx.degree_centrality(G)
+hubs_authorities = nx.hits(G)
+
+def avg_shortest_path(user):
+    return
+
+for node in nodes:
+    num_cliques = cliques(node)
+    deg = G.degree[node]
+    betwn_cent = betweeness_centrality_dict[node]
+    deg_cent = degree_centrality_dict[node]
+    #check syntax here
+    hub_val = hubs_authorities[node]['hub']
+    clustering_coefficient = nx.clustering(G, nodes = node)
+    #might have to take sum here
+    shortest_path_val = nx.shortest_path_length(G, source=0)
