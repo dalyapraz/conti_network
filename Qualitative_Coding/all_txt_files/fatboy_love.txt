@@ -1,0 +1,24 @@
+Timestamp	From	To	Message
+2021-10-06 17:50:56.453984	fatboy	love	hi
+2021-10-06 17:51:02.578411	fatboy	love	omemo est?
+2021-10-06 17:51:09.178781	love	fatboy	привет
+2021-10-06 17:51:11.271174	love	fatboy	nea
+2021-10-06 17:51:16.452369	love	fatboy	сделаю на днях)
+2021-10-06 17:51:46.667554	love	fatboy	отр нет?
+2021-10-06 17:52:49.036015	fatboy	love	sdelaju na dnyah
+2021-10-06 17:52:54.079233	fatboy	love	)
+2021-10-06 17:53:10.952383	love	fatboy	hi
+2021-10-06 17:53:10.955420	love	fatboy	omemo est?
+2021-10-06 17:53:10.959625	love	fatboy	sdelaju na dnyah
+2021-10-06 17:53:10.961365	love	fatboy	)
+2021-10-06 18:00:19.552565	love	fatboy	как его включить только не догоняю)
+2021-10-06 18:00:22.030871	love	fatboy	нету шифрования?)
+2021-10-06 18:05:18.338027	love	fatboy	включи
+2021-10-06 18:25:51.274664	love	fatboy	123
+2021-10-06 18:26:57.121062	fatboy	love	sek
+2021-10-06 18:33:22.721126	fatboy	love	otr sdelal
+2021-10-06 18:35:06.793832	fatboy	love	vidish?
+2021-10-07 09:37:10.432230	fatboy	love	tutu
+2021-10-07 09:37:22.305878	fatboy	love	privet
+2021-10-09 10:24:42.617125	love	fatboy	привет, вы пн будете слать?
+2021-10-14 19:14:27.746328	fatboy	love	tut

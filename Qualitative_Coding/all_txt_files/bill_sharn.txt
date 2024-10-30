@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-07-03 10:14:05.616602	bill	sharn	привет
+2020-07-30 11:50:05.223956	bill	sharn	привет

@@ -1,0 +1,10 @@
+Timestamp	From	To	Message
+2020-09-10 08:54:50.685401	atlant	clickclack	опа
+2020-09-10 08:54:52.859859	atlant	clickclack	привет
+2020-09-13 12:21:17.518204	atlant	clickclack	бро
+2020-09-13 12:21:20.331598	atlant	clickclack	знаешь че
+2020-09-16 10:32:34.429270	clickclack	atlant	привет
+2020-09-18 13:11:45.164488	atlant	clickclack	кароче бро
+2020-09-24 08:44:17.544033	clickclack	atlant	привет файл обещал полу
+2020-09-24 19:10:04.164697	clickclack	atlant	?
+2020-09-25 03:17:39.572738	clickclack	atlant	?

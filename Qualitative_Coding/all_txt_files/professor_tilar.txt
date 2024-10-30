@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2020-06-29 14:06:43.670196	tilar	professor	otpishi
+2020-06-29 14:06:45.992693	tilar	professor	kak bydehs' tyt
+2020-06-29 14:19:43.866165	tilar	professor	otpishi
+2020-06-29 14:19:43.867103	tilar	professor	kak bydehs' tyt
+2020-06-29 14:21:18.514235	professor	tilar	отписываю
+2020-06-29 14:21:19.209098	professor	tilar	привет

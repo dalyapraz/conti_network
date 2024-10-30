@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-07-24 17:32:30.846343	total	poll	ok
+2020-08-28 20:14:58.385269	poll	total	[15:49:56] <poll> BBBS-LIZWATSON_W10018363.55F775133D53539BB378F0F19B2DAECF
+[15:49:58] <poll> ti ego bral?

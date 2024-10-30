@@ -1,0 +1,24 @@
+Timestamp	From	To	Message
+2021-05-19 23:18:30.165905	carter	carter	папапа
+2022-01-27 13:33:25.209160	carter	carter	+
+2022-01-27 13:33:28.797407	carter	carter	-
+2022-01-27 13:33:38.575356	carter	carter	+
+2022-01-27 13:50:52.469671	carter	carter	?
+2022-01-27 13:51:09.919617	carter	carter	+?
+2022-01-27 13:51:12.143996	carter	carter	+
+2022-02-02 11:42:47.309176	carter	carter	дж
+2022-02-02 11:42:56.768367	carter	carter	жд
+2022-02-02 11:43:00.573384	carter	carter	юз
+2022-02-15 13:53:44.332292	carter	carter	0
+2022-02-15 14:01:22.055339	carter	carter	i
+2022-02-15 14:02:00.202561	carter	carter	olo
+2022-02-15 14:06:49.300991	carter	carter	33
+2022-02-15 14:16:26.597275	carter	carter	l
+2022-02-15 14:30:11.306595	carter	carter	l
+2022-02-15 14:49:59.494621	carter	carter	д
+2022-02-15 14:50:01.951755	carter	carter	дд
+2022-02-15 14:50:01.953571	carter	carter	д
+2022-02-15 14:50:05.639171	carter	carter	д
+2022-02-15 14:50:09.394271	carter	carter	дд
+2022-02-15 14:50:09.395157	carter	carter	д
+2022-02-15 14:50:20.118896	carter	carter	ааа

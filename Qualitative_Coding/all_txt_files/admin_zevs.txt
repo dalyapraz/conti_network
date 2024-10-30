@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-12-09 19:12:02.982239	admin	zevs	ку
+2021-12-09 19:12:11.010545	admin	zevs	это тейкер

@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-06-14 12:47:23.195800	rand	cherry	1+1=?
+2021-06-14 12:47:30.531602	cherry	rand	2
+2021-06-14 12:47:31.723679	rand	cherry	1+1=?
+2021-07-05 10:47:48.854800	rand	cherry	Привет

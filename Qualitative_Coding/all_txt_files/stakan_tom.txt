@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-09-24 16:10:42.632495	stakan	tom	привет

@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-05-17 21:24:15.398123	fog	ramon	123
+2021-05-19 14:35:57.734114	ramon	fog	nik-da@q3mcco35auwcstmt.onion
+2021-05-19 15:00:33.600433	ramon	fog	nik-da@q3mcco35auwcstmt.onion
+2021-05-19 15:01:49.338289	fog	ramon	test

@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-06-30 15:50:15.678379	bentley	cruz	Привет
+2020-06-30 15:53:52.961455	cruz	bentley	re
+2020-06-30 15:53:54.394754	cruz	bentley	kyky

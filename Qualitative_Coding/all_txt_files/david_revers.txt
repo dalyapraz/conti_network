@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-07-16 20:03:39.883417	revers	david	привет бро
+2020-07-23 16:46:53.552950	revers	david	здарова
+2020-09-21 13:58:24.838543	revers	david	здарова

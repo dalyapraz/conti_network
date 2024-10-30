@@ -1,0 +1,43 @@
+Timestamp	From	To	Message
+2020-10-20 13:22:10.831136	dominik	mavelek	привет
+2020-10-20 13:22:12.406304	dominik	mavelek	от стерна
+2020-10-20 13:23:27.803309	mavelek	dominik	hi
+2020-10-20 13:28:20.928004	dominik	mavelek	привет
+2020-10-20 23:57:13.474822	dominik	mavelek	бро есть такая возможность?
+2020-10-20 23:57:37.405993	dominik	mavelek	modar@
+2020-10-20 23:57:39.155171	dominik	mavelek	?
+2020-10-20 23:57:42.803184	dominik	mavelek	нет этого контакта
+2020-10-21 00:10:32.006944	dominik	mavelek	modar@q3mcco35auwcstmt.onion
+2020-10-21 00:10:33.905286	dominik	mavelek	так?
+2020-10-21 10:04:55.484263	dominik	mavelek	бро есть такая возможность?
+2020-10-21 10:04:55.674461	dominik	mavelek	modar@
+2020-10-21 10:04:55.675945	dominik	mavelek	?
+2020-10-21 10:04:55.677292	dominik	mavelek	нет этого контакта
+2020-10-21 10:04:55.834026	dominik	mavelek	modar@q3mcco35auwcstmt.onion
+2020-10-21 10:04:55.834784	dominik	mavelek	так?
+2020-10-21 10:05:11.024698	mavelek	dominik	modar@q3mcco35auwcstmt.onion
+2020-10-22 11:59:56.498740	dominik	mavelek	modar полчит
+2020-10-22 11:59:59.857979	dominik	mavelek	молчит*
+2020-10-30 13:22:24.316184	dominik	mavelek	привет
+2020-10-30 13:22:24.357310	dominik	mavelek	modar пропал со связе
+2020-10-30 16:28:28.061834	dominik	mavelek	[09:22:17] <dominik> привет
+[09:22:23] <dominik> modar пропал со связе
+2020-10-30 16:28:39.124881	mavelek	dominik	привет
+2020-10-30 16:30:33.624635	mavelek	dominik	да он что-то пропал давай я сделаю
+2020-10-30 16:30:37.026170	mavelek	dominik	мне только надо знать откуда эту инфу из хранилища
+2020-10-30 16:30:43.332661	mavelek	dominik	брать
+2020-10-30 16:43:58.755318	dominik	mavelek	ее можно дергать
+2020-10-30 16:44:12.224521	dominik	mavelek	автоматом, когда бот заходит на онлайн банка своего
+2020-10-30 16:44:12.277230	dominik	mavelek	выгружать и на сервак отправлять
+2020-10-30 17:07:49.997480	mavelek	dominik	уточняю у стерна, тебя походу не комне отправили, я работаю уже с пришедшими данными
+2020-10-30 17:15:39.205029	dominik	mavelek	ну ты можешь онлик чекать?
+2020-10-30 17:15:42.273016	dominik	mavelek	руками?
+2020-10-30 17:16:09.905045	mavelek	dominik	так а что чекать то ? я обработкой данных только занимаюсь
+2020-10-30 17:17:11.287816	dominik	mavelek	аа понял
+2020-11-13 20:53:06.633864	dominik	mavelek	
+11a829bbd8eed553d1df26c668b3380c770f52a0 
+ https://privnote.com/mzqtrk3y#tQS4U3Qfd
+2020-11-13 20:53:15.645498	dominik	mavelek	а что ты в приснот 4 буквы скинул?)
+2020-11-16 14:29:20.227291	dominik	mavelek	привет
+2020-11-16 14:29:24.612088	dominik	mavelek	скинешь доступ нормальный бро*
+2020-11-16 14:29:25.893700	dominik	mavelek	?

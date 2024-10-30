@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-10-13 15:56:03.502046	love	bullet	123
+2021-10-13 15:56:04.748605	love	bullet	321
+2021-10-22 12:34:43.251040	love	bullet	???
+2021-10-22 12:35:05.875984	bullet	love	на связи

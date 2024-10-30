@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2021-05-13 19:39:23.739542	zolotoy	love	тут
+2021-05-13 19:39:27.185933	zolotoy	love	отр жрет
+2021-05-13 19:39:30.318471	zolotoy	love	так вижно???
+2021-05-13 19:39:38.246542	zolotoy	love	love@q3mcco35auwcstmt.onion/ has requested an Off-the-Record private conversation <https://otr.cypherpunks.ca/>.  However, you do not have a plugin to support that.
+See https://otr.cypherpunks.ca/ for more information.
+2021-06-10 21:29:06.217635	love	zolotoy	Привет

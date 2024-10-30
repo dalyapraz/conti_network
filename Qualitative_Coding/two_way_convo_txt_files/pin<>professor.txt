@@ -1,0 +1,133 @@
+Timestamp	From	To	Message
+2021-05-22 12:12:37.827660	professor	pin	5*20=
+2021-05-22 15:25:36.905172	professor	pin	5*20=
+2021-05-22 15:34:46.519270	pin	professor	100
+2021-05-25 13:24:26.680963	pin	professor	100
+2021-05-25 13:24:28.852497	professor	pin	5*20=
+2021-05-25 15:00:34.701257	pin	professor	100
+2021-05-25 15:00:56.614229	pin	professor	s
+2021-05-26 07:01:25.014406	pin	professor	100
+2021-05-26 07:01:25.020357	pin	professor	s
+2021-05-26 07:01:26.400996	professor	pin	5*20=
+2021-05-26 09:30:28.915324	pin	professor	10
+2021-05-26 09:30:30.358160	pin	professor	100
+2021-05-26 09:30:32.243793	pin	professor	13
+2021-05-26 09:30:32.986594	pin	professor	1
+2021-05-28 20:46:23.911131	pin	professor	10
+2021-05-28 20:46:23.911913	pin	professor	100
+2021-05-28 20:46:23.912176	pin	professor	13
+2021-05-28 20:46:23.912495	pin	professor	1
+2021-05-28 20:46:25.396515	professor	pin	5*20=
+2021-06-07 19:54:02.396117	professor	pin	ping
+2021-06-08 16:46:45.177938	pin	professor	ку
+2021-06-08 17:34:53.056022	pin	professor	ку
+2021-06-09 18:42:22.126082	pin	professor	ку
+2021-06-09 19:20:19.157965	pin	professor	ку
+2021-06-09 19:20:29.752048	professor	pin	ку
+2021-06-10 09:57:50.228979	pin	professor	53.83 dct xnj ghbikj dsckfk nt,t
+2021-06-10 09:58:09.281238	pin	professor	53.83 все что пришло выслал тебе
+2021-06-10 09:58:14.783712	pin	professor	просто кошелек не мой был
+2021-06-10 10:37:04.176324	professor	pin	Mega.nz:
+log: warrenmega@protonmail.com
+pas: Qwerty234@#$_
+2021-06-10 10:41:39.095425	professor	pin	Mega.nz:
+log: warrenmega@protonmail.com
+pas: Qwerty234@#$_
+2021-06-11 14:25:38.998649	pin	professor	привет
+2021-06-15 19:59:38.546587	pin	professor	привет
+2021-06-15 19:59:54.125741	pin	professor	как там дела с закачкой файлов и с секьюрите репортом?
+2021-06-16 17:18:18.837724	pin	professor	ye xnj nfv
+2021-06-16 17:18:24.317670	pin	professor	ну что там
+2021-06-16 18:38:01.448142	pin	professor	ye xnj nfv
+2021-06-16 18:38:01.465888	pin	professor	ну что там
+2021-06-16 19:01:19.733521	pin	professor	can you provide security report while data is still uploading.
+2021-06-17 16:34:43.443272	pin	professor	ку
+2021-06-18 10:40:03.246124	pin	professor	ку
+2021-06-18 10:40:33.489571	professor	pin	ку
+через пару часов буду
+в дороге
+2021-06-18 10:40:47.676812	pin	professor	ок
+2021-06-18 10:40:53.502246	pin	professor	кошель словил?
+2021-06-18 10:41:08.535099	pin	professor	и посмотри закачалось ли
+2021-06-18 10:41:46.049250	professor	pin	не словил
+перешли плиз
+2021-06-18 10:44:40.894071	pin	professor	 https://privnote.com/L5biI56u#mi3aYA8Bg
+2021-06-18 10:44:43.407371	pin	professor	b...7d
+2021-06-18 10:46:41.093068	pin	professor	принял?
+2021-06-18 10:50:11.869598	professor	pin	поймал
+открою как доеду да
+2021-06-18 10:50:14.038308	professor	pin	и закину сразу
+2021-06-18 10:50:52.025141	pin	professor	файлы долились?
+2021-06-18 10:50:56.841933	pin	professor	а то кипишуют уже
+2021-06-18 10:52:44.594820	professor	pin	почти закончились доливаться
+2021-06-19 13:00:37.273539	pin	professor	привет
+2021-06-19 13:00:40.994653	pin	professor	не докочалось?
+2021-06-21 20:01:15.332570	pin	professor	нужна дата
+2021-06-23 10:45:58.346086	pin	professor	нужна дата
+2021-06-23 19:52:07.197256	pin	professor	тут?
+2021-06-24 16:11:28.134048	pin	professor	привет
+2021-06-24 16:11:28.136396	pin	professor	по кунсу ты дал мегу
+2021-06-24 16:11:28.136941	pin	professor	там всего 320гб
+2021-06-24 16:11:28.138658	pin	professor	а где же 4тб
+2021-06-25 22:54:25.735160	pin	professor	Weaver оплатили
+2021-06-25 22:54:36.867232	pin	professor	нада отдать декрипторы
+2021-06-26 11:17:48.126309	pin	professor	Weaver оплатили
+2021-06-26 11:17:48.131756	pin	professor	нада отдать декрипторы
+2021-06-27 10:54:05.691246	pin	professor	а скинь
+2021-06-27 10:54:08.003734	pin	professor	плиз
+2021-06-27 10:54:10.336295	pin	professor	кошелек
+2021-07-01 10:00:25.368140	pin	professor	ghbdtn
+2021-07-01 10:00:27.853676	pin	professor	приет
+2021-07-06 16:36:02.464257	pin	professor	ghbdtn
+2021-07-06 16:36:22.601954	pin	professor	privet
+2021-07-06 16:36:33.761100	pin	professor	po RYUK ne polu4ilos viasniat?
+2021-07-08 06:24:18.196313	pin	professor	Client ID  
+twjsnbxTMcFxvz2tGAwcKMUsk6OknIfmnrfDiDDj1HvIJtNdq7v5madQQ3nlX6lH
+
+Please let me know specifics.   Ready to move.
+2021-07-09 11:04:56.211705	pin	professor	Client ID  
+twjsnbxTMcFxvz2tGAwcKMUsk6OknIfmnrfDiDDj1HvIJtNdq7v5madQQ3nlX6lH
+
+Please let me know specifics.   Ready to move.
+2021-07-09 11:05:37.530422	professor	pin	че эт за контора?
+2021-07-09 14:43:04.291509	professor	pin	че эт за контора?
+2021-07-09 14:44:48.169965	pin	professor	World Travel Holdings
+2021-07-10 09:03:51.906902	pin	professor	World Travel Holdings
+2021-07-10 11:34:47.963927	pin	professor	а паролей базу залил?
+2021-07-10 16:36:33.956885	pin	professor	а паролей базу залил?
+2021-07-15 11:32:25.676498	pin	professor	привет
+2021-07-18 17:46:30.698859	pin	professor	привет
+2021-07-18 17:46:36.952774	pin	professor	не залили базу?
+2021-07-20 15:11:45.807561	pin	professor	привет
+2021-07-20 15:18:32.967238	professor	pin	привет
+2021-07-21 23:36:52.019564	pin	professor	привет
+2021-07-21 23:53:22.650665	professor	pin	привет
+2021-07-25 15:56:39.057090	professor	pin	меня завтра не будет, если они на 1кк не продавятся - берем 750 тогда и хрен с ними)
+2021-07-25 18:29:50.564768	professor	pin	а все
+понял
+реш мне передал)
+2021-07-26 07:52:16.452909	professor	pin	меня завтра не будет, если они на 1кк не продавятся - берем 750 тогда и хрен с ними)
+2021-07-26 07:52:16.453519	professor	pin	а все
+понял
+реш мне передал)
+2021-07-27 10:39:47.724262	pin	professor	привет
+2021-07-27 10:39:51.908148	pin	professor	монету получил?
+2021-08-05 19:38:17.546210	pin	professor	привет
+2021-08-05 19:45:24.280947	professor	pin	привет
+2021-08-05 19:47:59.450877	pin	professor	ку
+2021-08-05 19:57:06.879823	professor	pin	ку
+2021-08-09 07:21:08.370311	pin	professor	[10:35:58] <pin> привет 
+[10:36:04] <pin> залил базу паролей?
+2021-08-31 18:21:54.828040	professor	pin	привет
+искал меня?
+2021-09-01 09:58:46.128789	professor	pin	привет
+искал меня?
+2021-09-01 09:59:44.277018	pin	professor	привет
+2021-09-01 09:59:46.177245	pin	professor	да
+2021-09-01 09:59:57.691528	pin	professor	как там с базой паролей для расхешивания?
+2021-09-01 10:00:28.777973	professor	pin	привет
+я ж тебе кидал ссыль на мегу?
+2021-09-01 10:00:44.956581	pin	professor	нет
+2021-09-01 10:00:53.594306	pin	professor	или тупо не дошла
+2021-09-03 12:13:46.498938	pin	professor	привет
+2021-10-14 18:38:57.060841	pin	professor	привет

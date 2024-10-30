@@ -1,0 +1,23 @@
+Timestamp	From	To	Message
+2020-07-29 09:28:38.888651	fox	hash	I sent you an OMEMO encrypted message but your client doesn't seem to support that.
+2020-07-29 10:35:34.940298	fox	hash	I sent you an OMEMO encrypted message but your client doesn't seem to support that.
+2020-07-29 10:42:43.454640	hash	fox	Че за хуйню ты мне шлешь?
+2020-07-29 10:42:52.188079	hash	fox	[12:28:39] <Fox> I sent you an OMEMO encrypted message but your client doesn't seem to support that. 
+[13:35:35] <Fox> I sent you an OMEMO encrypted message but your client doesn't seem to support that.
+2020-07-29 10:43:31.041430	fox	hash	писал что оплатил, что-то заглючило
+2020-07-29 10:43:44.485098	hash	fox	Это тебя заглючило, как обычно
+2020-07-29 10:43:51.709744	hash	fox	Нахуй ты мне омемо врубаешь?
+2020-07-29 10:44:13.689691	fox	hash	по обновления наверно само включтлось
+2020-07-29 11:54:43.673106	fox	hash	root:iCR7jAeHAH@37.252.8.193
+root:6d2fE6Qsmr@37.252.8.186
+root:CGTRsh4vRh@37.252.8.161
+root:A8mrEeUbtJ@37.252.8.187
+root:cJLuNj3bV2@37.252.9.154
+root:ptB2#3entZ@23.227.201.122
+root:rgH8!5rcbG@37.120.140.190
+root:ykY2#9fjwC@23.227.201.123
+2020-09-09 11:07:58.798643	fox	hash	денег на кошельке хватило на оплату 27
+2020-10-13 14:20:38.567453	hash	fox	Десятку
+2020-10-13 14:20:44.435491	fox	hash	+
+2020-10-13 14:22:29.540967	fox	hash	готово
+2021-03-22 15:48:04.655132	fox	hash	привет. сообщения до тебя не доходят. серый ключ

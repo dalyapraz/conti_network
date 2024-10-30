@@ -1,0 +1,18 @@
+Timestamp	From	To	Message
+2021-10-14 15:14:14.772011	salamandra	derekson	привет
+2021-10-14 16:44:06.509478	salamandra	derekson	[08:15:21] <elon> Да, точно. Скажи ему "чат новичков", он точно знает
+2021-10-14 16:44:24.101421	salamandra	derekson	нужно завести одного кодера
+2021-10-15 07:07:55.638588	salamandra	derekson	[08:15:21] <elon> Да, точно. Скажи ему "чат новичков", он точно знает
+2021-10-15 07:07:55.639193	salamandra	derekson	нужно завести одного кодера
+2021-10-15 07:11:21.012087	derekson	salamandra	Привет
+2021-10-15 07:11:24.669759	derekson	salamandra	Завожу
+2021-10-15 07:35:33.130444	derekson	salamandra	тут?
+2021-10-15 07:35:41.099029	salamandra	derekson	да
+2021-10-15 07:36:00.116007	derekson	salamandra	oliver
+2021-10-15 07:36:15.443385	derekson	salamandra	https://privnote.com/8mqQH5sF#6bcItLsSP
+2021-10-15 07:36:41.067301	salamandra	derekson	я могу ссылку не открывая ему переслать? там есть адрес чата?
+2021-10-15 07:37:13.890695	derekson	salamandra	там только пароль
+2021-10-15 07:37:29.102814	derekson	salamandra	адрес дать?
+2021-10-15 07:37:40.293454	salamandra	derekson	да
+2021-10-15 07:37:56.904911	derekson	salamandra	https://ojdglzhrquash4igbx6e6wlthe3si4biabcpfopiw33uohvaufjgipad.onion
+2021-10-15 07:38:30.232769	salamandra	derekson	+

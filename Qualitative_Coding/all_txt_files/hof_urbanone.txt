@@ -1,0 +1,33 @@
+Timestamp	From	To	Message
+2020-07-02 17:13:03.402792	urbanone	hof	[19:52:52] <urban> a ti chekal bro dlL? 
+[19:53:13] <urban> Entrypoint: DllRegisterServer 
+[19:53:20] <urban> nichego ne popytali ? 
+[19:53:42] <bentley> Да конечно все длл простучали 
+[19:53:57] <bentley> regsvr32 путьдлл 
+[19:58:05] <urban> regsvr  ? 
+[19:58:12] <urban> ili rundll ?https://prnt.sc/taly4k 
+[19:59:34] <bentley> Щас покажу как запускаю 
+[19:59:57] <urban> file kak bil ranshe ? 
+[20:00:05] <urban> vsegda tak delali ?
+2020-07-14 09:24:09.644090	hof	urbanone	chil67.dll залил на http://62.108.35.179/images/update.dll
+2020-07-17 19:14:55.481161	hof	urbanone	chil71 заливать вмсето 70?
+2020-07-20 10:09:21.702968	hof	urbanone	привет, файлик заменил, линк тотже
+2020-07-20 10:09:25.783719	hof	urbanone	чил72
+2020-07-22 07:30:58.447236	hof	urbanone	привет
+2020-07-22 07:31:05.192008	hof	urbanone	хочу отъехать на 2 часа
+2020-07-22 07:31:15.906067	hof	urbanone	chil75.dll закинул на криптовку
+2020-07-22 07:31:23.888629	hof	urbanone	DllRegisterServer
+2020-07-22 07:31:33.305984	hof	urbanone	ничего больше не нужно?
+2020-07-23 09:42:26.546044	hof	urbanone	закинул чил76
+2020-07-23 10:59:27.257651	hof	urbanone	закинул чил76
+2020-08-07 11:15:07.380616	hof	urbanone	привет, залил
+/images/viewerdll.dll	chil92
+/images/moduleocx.exe chil93
+2020-08-10 15:56:31.034131	hof	urbanone	привет, залил
+/images/viewerdll.dll	chil92
+/images/moduleocx.exe chil93
+2020-08-18 16:21:28.039488	hof	urbanone	chil100 обновил на /images/moduleocx.exe
+2020-08-20 12:45:47.516729	hof	urbanone	привет, заменил файлы на тех же линках
+2020-08-21 11:48:01.481002	hof	urbanone	привет, dll заменил на свежую, линк тот же
+2020-08-31 13:12:44.231845	hof	urbanone	[14:46:07] <hof> обновил chil105
+[14:46:08] <hof> /images/dllhost.dll

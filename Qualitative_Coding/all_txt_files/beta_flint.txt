@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-12-09 11:01:52.111115	flint	beta	Привет)

@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2020-10-02 09:03:39.120184	kerasid	boby	бро))
+2020-10-02 09:03:39.121023	kerasid	boby	13AC5SnjWXFGMDXz1S6mJvV7uTAyyhzCvM
+2020-10-02 09:45:41.086963	kerasid	boby	бро))
+2020-10-02 09:45:41.088079	kerasid	boby	13AC5SnjWXFGMDXz1S6mJvV7uTAyyhzCvM
+2020-10-19 08:50:02.564679	boby	kerasid	man otpishi
+2020-10-19 09:52:51.018541	boby	kerasid	man otpishi

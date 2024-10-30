@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-07-16 09:54:53.209308	gold	zevs	Привет

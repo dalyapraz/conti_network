@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-12-02 11:39:49.873485	rozetka	tiniles	ау
+2021-12-02 21:56:18.943844	rozetka	tiniles	ау

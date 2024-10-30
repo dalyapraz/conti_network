@@ -1,0 +1,47 @@
+Timestamp	From	To	Message
+2021-11-23 05:13:17.995446	cybergangster	paranoik	kupi hdd na 10TB
+2021-11-23 05:13:30.622942	cybergangster	paranoik	ili na 5
+2021-11-23 05:13:33.762137	cybergangster	paranoik	kakoy budet
+2021-11-23 05:13:37.125568	cybergangster	paranoik	luche na 10
+2021-11-23 05:13:43.517187	cybergangster	paranoik	Sdelay tak je kak togda
+2021-11-23 05:13:50.245016	cybergangster	paranoik	postav na hash segodnya
+2021-11-23 05:13:54.827933	cybergangster	paranoik	poka ya splu
+2021-11-23 05:14:22.012764	cybergangster	paranoik	i na teh esxi kotorie ya tebe daval zabei ih virualkami
+2021-11-23 05:14:36.175514	cybergangster	paranoik	Raznogo razmera 50-200GB
+2021-11-23 05:15:07.960227	cybergangster	paranoik	i tramp tebe eshe 1 skinet segodnya
+2021-11-23 05:15:11.645869	cybergangster	paranoik	na nem toje sdelay
+2021-11-23 06:38:32.170239	cybergangster	paranoik	kupi hdd na 10TB
+2021-11-23 06:38:32.176593	cybergangster	paranoik	ili na 5
+2021-11-23 06:38:32.180326	cybergangster	paranoik	kakoy budet
+2021-11-23 06:38:32.184564	cybergangster	paranoik	luche na 10
+2021-11-23 06:38:32.186345	cybergangster	paranoik	Sdelay tak je kak togda
+2021-11-23 06:38:32.189001	cybergangster	paranoik	postav na hash segodnya
+2021-11-23 06:38:32.191743	cybergangster	paranoik	poka ya splu
+2021-11-23 06:38:32.197192	cybergangster	paranoik	i na teh esxi kotorie ya tebe daval zabei ih virualkami
+2021-11-23 06:38:32.202218	cybergangster	paranoik	Raznogo razmera 50-200GB
+2021-11-23 06:38:32.208062	cybergangster	paranoik	i tramp tebe eshe 1 skinet segodnya
+2021-11-23 06:38:32.212878	cybergangster	paranoik	na nem toje sdelay
+2021-12-02 04:42:47.357187	cybergangster	paranoik	Купи мне впнку на каком нибудь сервисе у тебя же битки остались
+2021-12-02 04:43:15.932072	cybergangster	paranoik	И сделай потом как обычно делал мне впнку
+2021-12-02 08:17:19.795401	cybergangster	paranoik	Купи мне впнку на каком нибудь сервисе у тебя же битки остались
+2021-12-02 08:17:19.800767	cybergangster	paranoik	И сделай потом как обычно делал мне впнку
+2021-12-09 05:43:03.119500	cybergangster	paranoik	Тебе дефендер скинет днем жабу
+2021-12-09 05:43:07.429772	cybergangster	paranoik	передай ее макалану
+2021-12-09 07:59:33.147145	cybergangster	paranoik	Тебе дефендер скинет днем жабу
+2021-12-09 07:59:33.151256	cybergangster	paranoik	передай ее макалану
+2021-12-10 01:46:49.142933	cybergangster	paranoik	Передай это трампу днем
+2021-12-10 01:46:50.698215	cybergangster	paranoik	(01:29:20) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Привет
+(01:29:38) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Спишитесь со скиппи с этими boydjen-it@outlook.com
+(01:29:44) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: У них там какие то траблы с декриптом
+(01:29:50) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: We had a chat with your team at http://contirec7nchr45rx6ympez5rjldibnqzh7lsa56lvjvaeywhvoj3wad.onion/NJv9nz4fcgefhEIiAcajtSgi4EhLEriHum6l1ZgTB3opPWhRg8KRrJYjxiLdSOrk but it is no longer active - we have a question about our decryptor and need your help.  Can you please contact us and open that chat again?  Thank you!
+(01:30:07) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Узнайте в чем проблема
+(01:32:24) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Трамп этот id забанил они в чат не могут попасть 
+(01:32:29) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Надо по мылу списаться
+2021-12-10 08:10:39.655150	cybergangster	paranoik	Передай это трампу днем
+2021-12-10 08:10:39.659161	cybergangster	paranoik	(01:29:20) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Привет
+(01:29:38) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Спишитесь со скиппи с этими boydjen-it@outlook.com
+(01:29:44) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: У них там какие то траблы с декриптом
+(01:29:50) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: We had a chat with your team at http://contirec7nchr45rx6ympez5rjldibnqzh7lsa56lvjvaeywhvoj3wad.onion/NJv9nz4fcgefhEIiAcajtSgi4EhLEriHum6l1ZgTB3opPWhRg8KRrJYjxiLdSOrk but it is no longer active - we have a question about our decryptor and need your help.  Can you please contact us and open that chat again?  Thank you!
+(01:30:07) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Узнайте в чем проблема
+(01:32:24) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Трамп этот id забанил они в чат не могут попасть 
+(01:32:29) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Надо по мылу списаться

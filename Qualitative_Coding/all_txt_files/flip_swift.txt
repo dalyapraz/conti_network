@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-12-03 17:43:10.112484	flip	swift	Привет! А не знаешь из за чего может быть падение в memmove MoveSmall amd64 VisualStudio?
+2021-12-03 17:44:14.966070	flip	swift	Все аргументы проверил все ок. При замене на memmove_s все ок

@@ -1,0 +1,110 @@
+Timestamp	From	To	Message
+2020-10-06 16:29:57.182628	stern	ramon	добавь к себе
+2020-10-06 16:29:58.940490	stern	ramon	batka@
+2020-10-07 11:43:09.253830	stern	ramon	надо batka несколько сеток сгрузить с адмники
+2020-10-07 11:43:10.995815	stern	ramon	для теста
+2020-10-07 11:43:12.868645	stern	ramon	или с kevin@
+2020-10-12 17:29:07.001545	ramon	stern	ti tyt bivaesh'?
+2020-10-12 18:38:10.247860	ramon	stern	ti tyt bivaesh'?
+2020-10-12 19:15:36.316009	stern	ramon	жа
+2020-10-12 19:15:37.516651	stern	ramon	да
+2021-03-01 14:56:28.561609	ramon	stern	IP:   75.151.48.49  ety kak ya ponyal on razbiraet
+IP: 24.53.75.60 
+IP:   96.70.44.17	
+IP:   71.105.126.26	
+IP:   64.40.247.118
+IP:   96.93.217.253	
+IP:   173.163.176.177
+IP:   12.191.116.202	
+IP:   184.146.91.74
+2021-03-01 14:56:39.040816	ramon	stern	posmotri ip plz est' ce norm?
+2021-03-01 17:40:19.922686	ramon	stern	IP:   75.151.48.49  ety kak ya ponyal on razbiraet
+IP: 24.53.75.60 
+IP:   96.70.44.17	
+IP:   71.105.126.26	
+IP:   64.40.247.118
+IP:   96.93.217.253	
+IP:   173.163.176.177
+IP:   12.191.116.202	
+IP:   184.146.91.74
+2021-03-01 17:40:19.923181	ramon	stern	posmotri ip plz est' ce norm?
+2021-04-01 19:29:04.095131	ramon	stern	https://privnote.com/S7osIAJq#BeOBLzvcE
+2021-04-01 19:31:32.275078	ramon	stern	https://privnote.com/S7osIAJq#BeOBLzvcE
+2021-04-01 19:31:57.660055	stern	ramon	что там
+2021-04-02 09:42:30.784432	stern	ramon	что там
+2021-04-08 15:03:15.972411	ramon	stern	hey
+2021-04-08 15:03:15.972869	ramon	stern	yo
+2021-04-08 15:03:16.701190	ramon	stern	https://qaz.im/zaq/seYAh4S9#DNK7GDZf
+2021-04-08 19:22:06.471778	ramon	stern	hey
+2021-04-08 19:22:06.474272	ramon	stern	yo
+2021-04-08 19:22:06.475042	ramon	stern	https://qaz.im/zaq/seYAh4S9#DNK7GDZf
+2021-04-08 20:48:51.154983	stern	ramon	там что у нас ?
+2021-04-08 20:50:48.986796	stern	ramon	а понял, заказ
+2021-04-08 20:50:51.020437	stern	ramon	оплатил
+2021-04-08 21:16:18.695300	stern	ramon	https://qaz.im/zaq/Gd9fNySE#QDif97r9
+2021-04-09 07:56:37.485838	stern	ramon	https://qaz.im/zaq/nNG8Edd4#8dZk44HH
+2021-04-09 07:56:43.090430	stern	ramon	вот два заказа еще.
+2021-04-09 07:58:41.557835	stern	ramon	https://qaz.im/zaq/iY2fr3y3#bThrGkzn
+2021-04-09 07:58:47.345801	stern	ramon	всего 3 ссылки на qaz.im
+2021-04-09 13:51:16.078634	stern	ramon	там что у нас ?
+2021-04-09 13:51:16.079420	stern	ramon	а понял, заказ
+2021-04-09 13:51:16.079721	stern	ramon	оплатил
+2021-04-09 13:51:16.080360	stern	ramon	https://qaz.im/zaq/Gd9fNySE#QDif97r9
+2021-04-09 13:51:16.081204	stern	ramon	https://qaz.im/zaq/nNG8Edd4#8dZk44HH
+2021-04-09 13:51:16.081851	stern	ramon	вот два заказа еще.
+2021-04-09 13:51:16.082575	stern	ramon	https://qaz.im/zaq/iY2fr3y3#bThrGkzn
+2021-04-09 13:51:16.083489	stern	ramon	всего 3 ссылки на qaz.im
+2021-04-26 15:27:21.331928	ramon	stern	tiffani, van cleef, chanel
+2021-04-26 15:27:31.342328	ramon	stern	viberi do 4k po 1 item
+2021-04-26 15:27:41.792586	ramon	stern	s kajdogo site
+2021-04-26 17:58:06.182456	ramon	stern	tiffani, van cleef, chanel
+2021-04-26 17:58:06.183489	ramon	stern	viberi do 4k po 1 item
+2021-04-26 17:58:06.193211	ramon	stern	s kajdogo site
+2021-04-30 17:51:14.259956	ramon	stern	sdelauy akk v rozovoi plz
+2021-05-01 02:50:41.748375	ramon	stern	sdelauy akk v rozovoi plz
+2021-05-21 12:33:26.645421	ramon	stern	https://qaz.im/zaq/SGahBGnN#Ft7nByB3
+2021-05-21 12:43:50.387428	ramon	stern	https://qaz.im/zaq/SGahBGnN#Ft7nByB3
+2021-06-08 09:31:51.577764	stern	ramon	У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?
+2021-06-11 15:23:17.438420	ramon	stern	hey
+2021-06-11 15:23:17.959292	ramon	stern	yo
+2021-06-11 15:23:23.593757	ramon	stern	bro eshe nado..
+2021-06-11 15:23:23.594702	ramon	stern	https://privnote.com/twjwWUBh#KsXTHafUU
+2021-06-11 15:23:30.901641	ramon	stern	polucasetcay dolg 3 yje bydet
+2021-06-11 17:11:07.214420	ramon	stern	hey
+2021-06-11 17:11:07.215222	ramon	stern	yo
+2021-06-11 17:11:07.216508	ramon	stern	bro eshe nado..
+2021-06-11 17:11:07.217141	ramon	stern	https://privnote.com/twjwWUBh#KsXTHafUU
+2021-06-11 17:11:07.219672	ramon	stern	polucasetcay dolg 3 yje bydet
+2021-06-16 10:59:52.855875	ramon	stern	hey
+2021-06-16 10:59:54.719544	ramon	stern	yo
+2021-06-16 11:00:00.545735	ramon	stern	vcera ne prishlo ni cego..
+2021-06-16 11:00:00.546111	ramon	stern	bc1qrjdl409wyucrwnmveq50m63dvyy7d5ws6m50gg
+2021-06-16 11:00:26.587144	ramon	stern	zakin' plz seoganuy, lave srocno nado vsem rashitat'
+2021-06-16 11:00:43.255529	ramon	stern	vcera zaplatil dokery i deneg net(
+2021-06-16 12:33:00.457230	ramon	stern	hey
+2021-06-16 12:33:00.457664	ramon	stern	yo
+2021-06-16 12:33:00.458363	ramon	stern	vcera ne prishlo ni cego..
+2021-06-16 12:33:00.459041	ramon	stern	bc1qrjdl409wyucrwnmveq50m63dvyy7d5ws6m50gg
+2021-06-16 12:33:00.459639	ramon	stern	zakin' plz seoganuy, lave srocno nado vsem rashitat'
+2021-06-16 12:33:00.460097	ramon	stern	vcera zaplatil dokery i deneg net(
+2021-06-16 12:34:58.324787	stern	ramon	привет
+2021-06-16 12:35:06.205149	stern	ramon	на будущее предлагаю всех ориентировать на результат
+2021-06-16 12:35:09.246274	stern	ramon	а платить по минимому
+2021-06-28 08:05:03.831270	stern	ramon	1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+2021-06-28 08:05:25.268363	stern	ramon	1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+2021-06-28 09:41:25.690440	stern	ramon	1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.

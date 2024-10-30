@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-10-30 10:21:18.978110	hof	carter	привет

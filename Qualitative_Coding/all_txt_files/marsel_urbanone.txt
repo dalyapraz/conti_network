@@ -1,0 +1,8 @@
+Timestamp	From	To	Message
+2020-07-17 13:21:52.548670	marsel	urbanone	Привет))
+2020-08-04 10:25:38.003043	marsel	urbanone	Chil86 отправил
+2020-08-04 10:31:42.301320	marsel	urbanone	Chil86 отправил
+2020-08-06 10:11:04.623823	marsel	urbanone	Файлы залил
+2020-08-06 10:17:46.086471	marsel	urbanone	Файлы залил
+2020-08-17 18:20:00.426818	urbanone	marsel	сделай чил98 ехе из панели крип т
+2020-09-09 17:44:32.796182	marsel	urbanone	Привет

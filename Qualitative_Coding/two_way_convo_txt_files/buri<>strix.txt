@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2020-07-10 15:51:49.128671	strix	buri	hi
+2020-07-13 17:10:07.653443	buri	strix	tut?
+2020-09-03 11:10:34.395942	buri	strix	https://privnote.com/ARdUBSWj#WrZ3vGf3R
+2020-09-03 11:59:10.306724	buri	strix	https://privnote.com/ARdUBSWj#WrZ3vGf3R
+2020-09-18 18:16:11.258229	buri	strix	vRODE RAZOBRALYSA
+2020-09-18 18:16:13.859523	buri	strix	caps
+2020-09-18 18:16:58.677317	buri	strix	tol'ko zamochek ne nazhimaetsya
+2020-09-18 18:17:05.047634	buri	strix	nado slat' pervoe soobschenie, chtobi on zarabotal

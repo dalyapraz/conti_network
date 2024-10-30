@@ -1,0 +1,8 @@
+Timestamp	From	To	Message
+2021-07-14 15:34:00.474149	rozetka	zevs	привет
+2021-08-05 12:14:37.260485	zevs	rozetka	алло
+2021-08-06 23:37:14.917883	zevs	rozetka	алло
+2021-10-08 21:05:58.097624	rozetka	zevs	hiпривет
+2021-11-07 21:43:17.995265	rozetka	zevs	ky
+2021-11-08 06:15:19.738231	rozetka	zevs	ky
+2021-12-02 10:37:29.575001	rozetka	zevs	а всё

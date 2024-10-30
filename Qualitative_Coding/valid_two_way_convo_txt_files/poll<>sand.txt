@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2020-07-03 13:10:57.693362	poll	sand	13952  - poslali vse bro
+2020-07-03 13:10:59.777914	poll	sand	ubirau?
+2020-07-03 13:31:43.425915	poll	sand	13952  - poslali vse bro
+2020-07-03 13:31:43.428201	poll	sand	ubirau?
+2020-07-23 22:49:30.803067	poll	sand	bro kak vnc?
+2020-07-29 13:12:22.548996	sand	poll	опять отр
+2020-08-18 22:13:39.915370	poll	sand	tyt?
+2020-08-18 22:20:45.311406	sand	poll	tyt?

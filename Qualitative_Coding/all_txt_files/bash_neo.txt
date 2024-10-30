@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-12-27 12:04:33.116705	neo	bash	1
+2021-12-27 12:08:54.320145	neo	bash	тут?
+2021-12-27 12:42:33.421086	bash	neo	тут

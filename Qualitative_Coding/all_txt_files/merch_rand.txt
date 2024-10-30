@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-03-30 17:06:40.363624	merch	rand	от меня получаеш

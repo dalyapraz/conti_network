@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2022-02-16 17:23:30.756373	derekson	derek	ping
+2022-02-16 17:23:32.417624	derekson	derek	повтори
+2022-02-16 17:33:10.999137	derek	derekson	ping
+2022-02-16 17:33:10.999899	derek	derekson	повтори
+2022-02-17 07:47:14.591149	derekson	derek	привет
+2022-02-21 14:00:02.843843	derekson	derek	привет
+2022-02-21 14:11:08.250074	derek	derekson	привет
+2022-02-22 08:44:05.146466	derekson	derek	привет

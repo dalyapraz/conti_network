@@ -1,0 +1,75 @@
+Timestamp	From	To	Message
+2020-10-23 17:41:49.501482	kramer	ramon	ку
+2020-10-26 09:43:52.838255	ramon	kramer	ky
+2021-02-11 16:14:30.466782	kramer	ramon	тут
+2021-03-01 09:15:08.800546	kramer	ramon	hi
+2021-03-01 12:53:33.617770	kramer	ramon	hi
+2021-03-08 12:33:55.543084	kramer	ramon	yo
+2021-03-09 10:19:41.274327	kramer	ramon	yo
+2021-03-25 19:34:22.511448	ramon	kramer	ky
+2021-04-12 15:31:42.931861	ramon	kramer	ay
+2021-04-12 15:31:44.499326	ramon	kramer	ti gdee?
+2021-04-14 14:54:43.237811	ramon	kramer	man
+2021-04-14 14:54:46.235185	ramon	kramer	ti kud apropla?
+2021-05-21 14:59:52.378942	ramon	kramer	ay
+2021-05-21 14:59:52.379613	ramon	kramer	ti gdee?
+2021-05-21 14:59:52.380742	ramon	kramer	man
+2021-05-21 14:59:52.381362	ramon	kramer	ti kud apropla?
+2021-05-28 22:07:56.812342	kramer	ramon	привет. скажи было ли что с моих групп по профиту. по деньгам очень было бы кстати
+2021-06-03 09:15:44.247890	kramer	ramon	привет. скажи было ли что с моих групп по профиту. по деньгам очень было бы кстати
+2021-06-03 18:56:35.199658	ramon	kramer	hey
+2021-06-03 18:56:36.066911	ramon	kramer	bro
+2021-06-03 18:56:39.978742	ramon	kramer	napsihi dereky
+2021-06-03 18:56:43.153895	ramon	kramer	on tebe otcet skinet
+2021-06-03 18:56:48.810508	ramon	kramer	po vipram ne bilo ni cego
+2021-06-03 18:56:53.859723	ramon	kramer	on tebe otcet zakinet
+2021-06-03 18:56:55.578288	ramon	kramer	posmotri
+2021-06-09 21:05:45.735677	ramon	kramer	hey
+2021-06-09 21:05:45.736545	ramon	kramer	bro
+2021-06-09 21:05:45.737753	ramon	kramer	napsihi dereky
+2021-06-09 21:05:45.739562	ramon	kramer	on tebe otcet skinet
+2021-06-09 21:05:45.740313	ramon	kramer	po vipram ne bilo ni cego
+2021-06-09 21:05:45.741034	ramon	kramer	on tebe otcet zakinet
+2021-06-09 21:05:45.742067	ramon	kramer	posmotri
+2021-06-16 23:05:45.617750	kramer	ramon	привет. как дела? я вернусь через 1-3 месяца
+2021-06-17 01:37:31.135601	ramon	kramer	hi, man
+2021-06-17 01:37:35.888843	ramon	kramer	a gde tvoi support?
+2021-06-17 01:37:43.227541	ramon	kramer	pust' shelt poka tebay net
+2021-06-17 01:37:48.428524	ramon	kramer	ona proplaa kuda-to
+2021-06-17 22:45:16.867743	ramon	kramer	hi, man
+2021-06-17 22:45:16.869055	ramon	kramer	a gde tvoi support?
+2021-06-17 22:45:16.869928	ramon	kramer	pust' shelt poka tebay net
+2021-06-17 22:45:16.870902	ramon	kramer	ona proplaa kuda-to
+2021-06-17 22:45:26.665405	kramer	ramon	53456453465677585
+2021-06-18 12:49:47.617359	kramer	ramon	53456453465677585
+2021-06-18 12:50:27.223646	ramon	kramer	chto za cifri?
+2021-06-18 12:50:30.540273	ramon	kramer	ti skinyl?
+2021-06-18 16:49:52.997677	ramon	kramer	chto za cifri?
+2021-06-18 16:49:52.998715	ramon	kramer	ti skinyl?
+2021-06-18 16:49:54.037696	kramer	ramon	53456453465677585
+2021-06-21 12:32:19.207297	kramer	ramon	53456453465677585
+2021-06-21 12:33:48.597264	ramon	kramer	ne poimy
+2021-06-21 12:33:50.758987	ramon	kramer	ce eto))
+2021-06-21 12:33:54.927402	ramon	kramer	pishi normal'no
+2021-06-24 00:21:59.457830	ramon	kramer	ne poimy
+2021-06-24 00:21:59.459822	ramon	kramer	ce eto))
+2021-06-24 00:21:59.460745	ramon	kramer	pishi normal'no
+2021-06-24 00:22:00.737303	kramer	ramon	53456453465677585
+2021-06-28 22:21:00.263327	ramon	kramer	hi
+2021-06-28 22:21:00.263843	ramon	kramer	man
+2021-06-28 22:21:00.265176	ramon	kramer	ot tebya cifri tol'ko odni prishli
+2021-06-28 22:21:00.265917	ramon	kramer	otr  sjiraet vse
+2021-06-28 22:21:22.249595	kramer	ramon	53456453465677585
+2021-06-29 09:15:20.148986	kramer	ramon	53456453465677585
+2021-06-29 09:19:45.334558	ramon	kramer	bro
+2021-06-29 09:19:48.031798	ramon	kramer	ya xz ce ti pisheh'
+2021-06-29 09:19:51.505600	ramon	kramer	no prixodit govno
+2021-06-29 09:19:55.966404	ramon	kramer	otr jret vse
+2021-06-29 22:32:40.772008	ramon	kramer	bro
+2021-06-29 22:32:40.772496	ramon	kramer	ya xz ce ti pisheh'
+2021-06-29 22:32:40.772951	ramon	kramer	no prixodit govno
+2021-06-29 22:32:40.773768	ramon	kramer	otr jret vse
+2021-06-29 22:32:42.438129	kramer	ramon	53456453465677585
+2021-06-30 11:18:58.266937	kramer	ramon	53456453465677585
+2021-07-07 14:45:12.720573	kramer	ramon	53456453465677585
+2021-07-13 15:55:25.705816	kramer	ramon	53456453465677585

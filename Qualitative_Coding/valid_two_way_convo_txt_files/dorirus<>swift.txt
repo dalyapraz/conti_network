@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2020-09-09 10:04:01.252810	dorirus	swift	Привет, 017 занята?
+2020-09-10 09:11:45.993733	dorirus	swift	Привет
+2020-10-06 22:40:57.572208	swift	dorirus	пинг
+2020-10-06 22:40:57.573507	dorirus	swift	пинг

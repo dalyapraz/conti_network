@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-09-15 15:16:25.367710	stern	fergus	привет все отлично
+2020-09-15 15:16:26.402721	stern	fergus	как у тебя

@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-10-05 06:44:22.256230	ford	bullet	привет

@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-10-19 12:22:33.577711	hlor	swift	пинг

@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2022-01-24 12:01:42.519005	idgo	atlas	Привет бро, здесь ?

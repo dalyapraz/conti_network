@@ -1,0 +1,21 @@
+Timestamp	From	To	Message
+2020-07-14 12:48:37.487610	buri	doloto	https://logdog.pw/?sXOR7h
+2020-07-14 15:51:34.798791	buri	doloto	https://logdog.pw/?sXOR7h
+2020-07-16 17:11:39.734442	buri	doloto	https://logdog.pw/?Dax7vu
+2020-07-20 12:49:09.821119	buri	doloto	Hi! Tut?
+2020-07-20 12:49:29.325734	buri	doloto	Vo skol'ko ti bivaesh online po MSK?
+2020-07-20 17:28:09.582455	buri	doloto	https://logdog.pw/?Dax7vu
+2020-07-20 17:28:09.585881	buri	doloto	Hi! Tut?
+2020-07-20 17:28:09.587733	buri	doloto	Vo skol'ko ti bivaesh online po MSK?
+2020-07-21 12:44:05.095270	buri	doloto	Hi!
+https://logdog.pw/?Wp436o
+2020-07-21 16:00:07.807372	buri	doloto	Hi!
+https://logdog.pw/?Wp436o
+2020-08-27 10:45:02.115508	buri	doloto	https://logdog.pw/?ppAALF
+2020-08-27 14:00:52.439743	buri	doloto	https://logdog.pw/?ppAALF
+2020-09-07 22:13:22.335725	buri	doloto	https://privnote.com/iweGXlNt#Fbkq9zvvC
+2020-09-08 13:45:40.914778	buri	doloto	https://privnote.com/iweGXlNt#Fbkq9zvvC
+2020-09-11 17:47:48.723234	buri	doloto	https://privnote.com/yYfBHU5S#kb9Qz2FEG
+2020-09-14 12:35:44.923141	buri	doloto	https://privnote.com/yYfBHU5S#kb9Qz2FEG
+2020-10-12 10:13:37.530212	doloto	buri	hi
+2020-10-12 10:13:37.531554	buri	doloto	hi

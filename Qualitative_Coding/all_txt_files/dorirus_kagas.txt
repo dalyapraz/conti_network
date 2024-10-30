@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-09-07 11:20:57.700105	dorirus	kagas	Макс, привет
+2020-09-09 10:45:05.220596	dorirus	kagas	Макс, привет

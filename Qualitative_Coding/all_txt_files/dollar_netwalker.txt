@@ -1,0 +1,39 @@
+Timestamp	From	To	Message
+2021-06-25 14:26:14.948082	netwalker	dollar	Java
+2021-06-25 14:26:28.229102	dollar	netwalker	hey
+2021-06-25 14:26:28.807611	dollar	netwalker	yo
+2021-06-25 14:26:28.959122	netwalker	dollar	Java
+2021-06-25 14:26:29.283764	dollar	netwalker	man
+2021-06-25 14:26:38.725537	dollar	netwalker	net otr
+2021-07-06 19:04:02.392688	dollar	netwalker	ky
+2021-07-06 19:04:03.157732	netwalker	dollar	Java
+2021-07-06 19:04:03.642449	dollar	netwalker	man
+2021-07-06 19:04:05.718563	dollar	netwalker	tyt?
+2021-07-06 19:04:13.584216	dollar	netwalker	tebe doxodit?
+2021-07-10 15:58:50.961387	netwalker	dollar	Java
+2021-07-10 17:21:55.502179	netwalker	dollar	Java
+2021-07-10 17:23:36.608144	dollar	netwalker	himan
+2021-07-10 19:56:14.665443	dollar	netwalker	himan
+2021-07-10 19:56:15.489413	netwalker	dollar	Java
+2021-07-11 20:30:33.998598	netwalker	dollar	Java
+2021-07-12 17:37:40.144763	netwalker	dollar	Java
+2021-07-12 17:57:44.446025	dollar	netwalker	ky
+2021-07-12 17:57:45.124381	dollar	netwalker	man
+2021-07-12 17:57:45.421316	netwalker	dollar	Java
+2021-07-12 17:57:45.984739	dollar	netwalker	tyt?
+2021-07-27 19:39:05.796741	netwalker	dollar	Привет братикша
+2021-07-28 05:56:16.479372	netwalker	dollar	My kstate uje ne ondu loknuli> tolko ne sraslos; po viplatam (
+2021-07-28 11:09:26.345237	netwalker	dollar	My kstate uje ne ondu loknuli> tolko ne sraslos; po viplatam (
+2021-07-29 13:31:38.042887	netwalker	dollar	привет братишка
+2021-09-13 10:53:34.079144	dollar	netwalker	EXCHCYPR41I01 -  на 30кк DONE
+AWS-O365-RELAY - юристы 40кк DONE
+DB-MAIL-SRV -    юристы 20кк - кто то локнул ( хз че за локер, не оставляет ридми, скрин в рокете)
+прям одновременно с нами кто то лочил
+и то долбоебы, там бэки нужно было за доменом достать \ насы фулл доступ получить
+они просто по домену тупо локнули и пиздец...
+долбо...
+отчеты в рокете
+скрины тоже
+2021-09-13 11:40:41.118511	netwalker	dollar	это ето учудил ?
+2021-09-13 11:40:50.249671	netwalker	dollar	это кто учудил ?
+2021-09-16 13:18:14.931324	netwalker	dollar	прив потихоньку. простыл немного.

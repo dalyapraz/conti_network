@@ -1,0 +1,17 @@
+Timestamp	From	To	Message
+2020-06-24 12:54:13.846594	urbanone	poll	i vio
+2020-06-26 23:56:51.377525	poll	urbanone	smotri man ne protiv, no ti skaji che za soft.. davai snachalo sdelaem consiulium
+2020-06-26 23:57:03.940723	poll	urbanone	dalee po mavematy, emu mojno voobhe skazat delai hto to novoe
+2020-06-26 23:57:07.179868	poll	urbanone	hto nam nujno
+2020-06-27 12:58:43.591955	poll	urbanone	smotri man ne protiv, no ti skaji che za soft.. davai snachalo sdelaem consiulium
+2020-06-27 12:58:43.605734	poll	urbanone	dalee po mavematy, emu mojno voobhe skazat delai hto to novoe
+2020-06-27 12:58:43.606586	poll	urbanone	hto nam nujno
+2020-07-05 20:25:27.481953	poll	urbanone	ok bro. s ytra budu
+2020-07-06 08:27:21.201575	poll	urbanone	ok bro. s ytra budu
+2020-07-06 08:55:57.727628	poll	urbanone	man koroche po servaku kartery skinu mavemat. ti ehe pni ego
+2020-07-06 08:57:42.085584	urbanone	poll	man koroche po servaku kartery skinu mavemat. ti ehe pni ego
+2020-07-14 08:19:54.109791	urbanone	poll	Привет, норм
+2020-07-20 13:25:12.662692	urbanone	poll	пустил ЮК
+2020-08-12 16:06:47.052427	urbanone	poll	запустили
+2020-08-24 06:25:18.803884	poll	urbanone	man tebe skinet BC bentley. ya budu chyt pozje, v doroge
+2020-08-24 09:17:00.855763	poll	urbanone	man tebe skinet BC bentley. ya budu chyt pozje, v doroge

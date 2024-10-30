@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-07-23 10:03:38.845162	dollar	leo	ky
+2021-07-23 10:03:42.681557	dollar	leo	otpishi kak bydesh'
+2021-07-23 13:17:16.553447	dollar	leo	ky
+2021-07-23 13:17:16.554319	dollar	leo	otpishi kak bydesh'

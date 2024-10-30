@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2020-06-30 20:37:06.097965	clickclack	total	привет бро а как там с гучи?
+2020-07-20 12:59:33.234211	total	clickclack	privet
+2020-07-28 16:30:01.745368	clickclack	total	привет вчера ты пропал
+2020-09-02 22:40:43.487251	total	clickclack	https://privnote.com/Ii9nKNnJ#VRzJ9IMuE
+2020-09-03 07:55:39.561122	total	clickclack	https://privnote.com/Ii9nKNnJ#VRzJ9IMuE
+2020-09-09 19:58:51.796172	clickclack	total	привет пол сказал ок

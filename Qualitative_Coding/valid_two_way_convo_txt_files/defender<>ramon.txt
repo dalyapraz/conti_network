@@ -1,0 +1,30 @@
+Timestamp	From	To	Message
+2021-03-17 09:29:30.880500	ramon	defender	hi
+2021-03-17 09:29:31.495467	ramon	defender	man
+2021-03-17 09:29:32.626298	ramon	defender	tyt?
+2021-05-04 10:51:35.117609	ramon	defender	hi
+2021-05-04 10:51:35.271591	ramon	defender	man
+2021-05-04 10:51:37.246414	ramon	defender	tyt?
+2021-05-17 16:27:16.849126	ramon	defender	hey
+2021-05-17 16:27:19.847931	ramon	defender	yo
+2021-05-17 16:27:23.767108	ramon	defender	mna
+2021-05-17 16:27:23.769984	ramon	defender	tyt?
+2021-05-17 16:27:25.014660	ramon	defender	otpihi kak bydesh' tyt
+2021-06-17 11:38:42.374900	ramon	defender	bro
+2021-06-17 11:38:43.620821	ramon	defender	privet
+2021-06-17 11:38:49.674151	ramon	defender	ti tka mne nu cego 3ne skinyl vcera
+2021-06-17 11:38:57.740860	defender	ramon	привет
+2021-06-17 11:38:58.472955	defender	ramon	ща
+2021-10-22 14:15:45.482356	defender	ramon	ЭТО НАДО СДЕЛАТЬ ВСЕМ, иначе жаба перестанет у вас работать
+
+новый домен жабы версии 3
+odw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion
+
+его прописываем в настройках аккаунта - соединение - сервер
+перед этим на это вкладке ставим галку Вручную указать адрес сервера и порт
+
+порт стандартный 5222 
+
+ВАЖНО, все остальное остается, аккаунт отстается со старым доменом... прописывается только домен для соединения 
+
+!!! Как сделаете, отпишите мне что все ОК

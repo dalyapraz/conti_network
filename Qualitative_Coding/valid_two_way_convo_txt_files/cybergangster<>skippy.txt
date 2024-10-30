@@ -1,0 +1,15 @@
+Timestamp	From	To	Message
+2021-11-22 17:40:51.250498	skippy	cybergangster	123
+2021-12-02 02:02:22.067886	cybergangster	skippy	Где хорс?
+2021-12-02 12:23:35.860976	cybergangster	skippy	Где хорс?
+2021-12-09 21:42:26.741983	skippy	cybergangster	бро трампа нет
+2021-12-09 21:42:29.437441	skippy	cybergangster	Xx4uijBItH5sYZ5xs4OXK89NmCgVnQWDeOZNLhjlUmHQa2Qym8vI51F5a5WY8kVz
+2021-12-09 21:42:34.568444	skippy	cybergangster	новый чат
+2021-12-16 10:13:49.730994	cybergangster	skippy	mayakni
+2021-12-16 12:25:23.621357	cybergangster	skippy	mayakni
+2021-12-16 12:25:47.550521	skippy	cybergangster	привет
+2021-12-16 12:25:49.464013	skippy	cybergangster	я тут
+2021-12-16 16:10:11.091674	skippy	cybergangster	привет
+2021-12-16 16:10:11.092750	skippy	cybergangster	я тут
+2021-12-27 17:02:19.730125	skippy	cybergangster	привет
+2022-02-25 18:07:59.787993	skippy	cybergangster	бро привет

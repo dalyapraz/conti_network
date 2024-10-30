@@ -1,0 +1,250 @@
+Timestamp	From	To	Message
+2020-10-07 18:22:00.027659	target	reshaev	10 плюс 10 ровно
+2020-10-07 18:23:10.938792	reshaev	target	20
+2020-10-07 18:23:12.077559	target	reshaev	10 плюс 10 ровно
+2020-10-07 18:23:17.031306	reshaev	target	20
+2020-10-07 18:23:18.115141	target	reshaev	Congratulations! Now you can chat!
+2020-10-07 18:33:13.558683	target	reshaev	привет
+2020-10-07 18:33:14.024036	target	reshaev	1
+2020-10-07 18:33:27.444174	target	reshaev	по билдам
+2020-10-07 18:33:27.447168	target	reshaev	локера
+2020-10-07 18:33:31.737255	target	reshaev	что как у тебя
+2020-10-07 18:33:42.811568	target	reshaev	в какое время онлайн
+2020-10-07 18:33:50.123425	target	reshaev	кто отвечает за чистоту
+2020-10-07 18:33:57.911230	reshaev	target	Привет
+2020-10-07 18:34:08.617151	target	reshaev	введи в курс дела плж
+2020-10-07 18:34:48.073648	reshaev	target	paranoik@q3mcco35auwcstmt.onion 
+contisupport@q3mcco35auwcstmt.onion
+
+У них можешь брать билды почти 24/7 один с утра до вечера сидит, другой с вечера до утра
+2020-10-07 18:34:55.913189	reshaev	target	За чистоту я
+2020-10-07 18:35:08.032371	target	reshaev	ага
+2020-10-07 18:35:11.348902	target	reshaev	тор чат
+2020-10-07 18:35:12.328171	target	reshaev	или почта
+2020-10-07 18:35:23.009090	reshaev	target	Завтра тор чат запускаем
+2020-10-07 18:35:34.785210	target	reshaev	ок, оставим почту по классике пока что
+2020-10-07 18:35:46.508157	target	reshaev	стучу тогда к ребятам
+2020-10-07 18:35:49.583107	target	reshaev	забираю билды
+2020-10-07 18:35:53.269306	target	reshaev	и знакомлю их со своими суппортами
+2020-10-07 18:36:08.795703	reshaev	target	Ок
+2020-10-07 18:43:17.690907	target	reshaev	что за текст
+2020-10-07 18:43:18.429970	target	reshaev	идет
+2020-10-07 18:44:24.209277	target	reshaev	при локе
+2020-10-07 18:44:24.774421	target	reshaev	дай плз ознакомиться
+2020-10-07 18:44:29.324265	target	reshaev	как я понял его можно менять целиком
+2020-10-07 18:45:31.834769	reshaev	target	Можешь свою придоставить если хочешь, сейчас очень простая 
+
+Thе nеtwоrk is lockеd. Dо nоt try tо usе оthеr softwаrе. Fоr dеcryptiоn tоol write hеrе:
+
+xxx@protonmail.com
+xxx@protonmail.com
+
+If you do nоt pаy, wе will publish privаtе dаtа оn оur nеws sitе.
+
+завтра менять ее будем
+2020-10-07 18:45:59.614708	target	reshaev	ок, текст тееб выдавать или суппортам, они уже формирубт билд
+2020-10-07 18:46:08.072049	target	reshaev	и пусть контисуппорт датс ответ
+2020-10-07 18:46:11.228787	target	reshaev	билыд на ночь нужны
+2020-10-07 18:46:11.824428	target	reshaev	молчит
+2020-10-07 18:46:55.739811	reshaev	target	paranoik@q3mcco35auwcstmt.onion
+2020-10-07 18:47:02.165380	reshaev	target	он ночью работает
+2020-10-07 18:47:06.488224	reshaev	target	добавь его
+2020-10-07 18:48:40.727172	reshaev	target	текст ему
+2020-10-07 18:48:42.757254	reshaev	target	им
+2020-10-07 18:50:08.937255	target	reshaev	ага
+2020-10-07 18:50:09.295978	target	reshaev	+
+2020-10-07 18:50:17.157243	reshaev	target	Записку свою делать будешь?
+2020-10-07 18:50:30.088909	target	reshaev	твою оставлю
+уберем ток про данные
+2020-10-07 18:50:35.141639	target	reshaev	Thе nеtwоrk is lockеd. Dо nоt try tо usе оthеr softwаrе. Fоr dеcryptiоn tоol write hеrе:
+
+xxx@protonmail.com 
+xxx@protonmail.com
+2020-10-07 18:51:41.929736	reshaev	target	Параметры запуска: 
+
+-m[all/net/local] 
+all - Шифровать все(По умолчанию) 
+net - шифровать только сетевые ресурсы 
+local - шифровать только локальные файлы 
+
+пример использования: 
+lock.exe -m all либо lock.exe 
+lock.exe -m local 
+lock.exe -m net
+
+-h[Путь до файла с хостами] 
+При использовании этого параметра локер сначала просканирует указанные хосты на наличие сетевых папок/дисков, 
+после чего возьмется за скан всей сети. 
+Параметр можно указывать только при encrypt-mode равным ALL либо NETWORK. 
+Файл с хостами должен содержать ip адреса по одной строке на каждый хост. 
+(В конце файла обязательно должна быть пустая строка). 
+пример содержимого: 
+192.168.1.1 
+192.168.1.2 
+(пустая строка) 
+
+пример запуска: 
+lock.exe -h C:\hosts.txt 
+
+
+-p[Путь до файла содержащий приоритетные пути] 
+При использовании этого параметра локер сначала просканирует указанные пути и 
+зашифрует их содержимое, после чего возьмется за сканирование всего остального. 
+Параметр можно указывать при любом значении encrypt-mode, при этом даже если encrypt-mode равен NETWORK 
+указанные локальные папки все равно будут шифроваться. 
+Файл может содержать как локальные пути так и сетевые(Содержимое должно быть кодировке UTF8 В конце файла обязательно должна быть пустая строка). 
+Пример содержимого файла: 
+C:\database 
+C:\backups 
+\\host\database 
+\\host\backups 
+(пустая строка) 
+
+Пример использования: 
+lock.exe -p C:\paths.txt 
+
+-log[enabled/disabled]
+Включает логирование ошибок
+Файл лога лежит по пути C:\CONTI_LOG.txt
+
+-prockiller[enabled/disabled(по умолчанию)]
+Включает функцию убивания всех процессов кроме нужных для работы системы.
+
+-pids
+Через этот параметр указываем пиды процессов которые не нужно убивать(Ваши сессии, боты и тд).Пиды раздялять зяпятой.
+Пример использования: 
+lock.exe -prockiller enabled
+lock.exe -prockiller enabled -pids 1234
+lock.exe -prockiller enabled -pids 1234,12345
+
+Все параметры можно комбинировать между собой, порядок не важен. Если локер запускается через командную строку, то запускаем ее от админа(Если есть права).
+2020-10-07 18:51:54.412884	reshaev	target	инструкция
+2020-10-07 18:54:05.598064	reshaev	target	Данные вы не выкачиваете?
+2020-10-07 18:54:14.461190	target	reshaev	нет
+2020-10-07 18:54:17.671893	target	reshaev	ты чего
+2020-10-07 18:54:18.670327	target	reshaev	нафиг
+2020-10-07 18:54:26.759338	reshaev	target	Ок
+2020-10-07 18:58:07.716471	reshaev	target	Кобальт юзаете?
+2020-10-07 18:59:54.632317	target	reshaev	да
+2020-10-08 18:24:57.875650	target	reshaev	2 файла для анлока?
+2020-10-09 14:43:58.629685	target	reshaev	так
+2020-10-09 14:44:04.950058	target	reshaev	мы с ними общались очень много по телефону
+2020-10-09 14:44:13.661619	target	reshaev	2й день переговоров, 30+ звонков
+2020-10-09 14:44:14.933873	target	reshaev	вообщем
+2020-10-09 14:44:17.174789	target	reshaev	75 заплатят
+2020-10-09 14:48:28.562598	reshaev	target	Ок
+2020-10-09 15:41:30.807318	target	reshaev	ключ
+2020-10-16 17:56:00.311787	target	reshaev	привте
+2020-10-16 17:56:05.376750	target	reshaev	давайте 2 билда на ток чат
+2020-10-16 17:56:17.074231	target	reshaev	и текст ваш обычный старый с описанием или то что стащены файлы
+2020-10-16 17:56:18.965541	target	reshaev	какой там ставите
+2020-10-16 17:56:22.280169	target	reshaev	2 билда нужно на ночь
+2020-10-16 18:01:42.113262	reshaev	target	ок
+2020-10-16 18:01:43.263076	reshaev	target	щас
+2020-10-16 18:01:53.758881	reshaev	target	All of your files are currently encrypted by CONTI strain. 
+
+As you know (if you don't - just "google it"), all of the data that has been encrypted by our software cannot be recovered by any means without contacting our team directly. 
+If you try to use any additional recovery software - the files might be damaged, so if you are willing to try - try it on the data of the lowest value.
+
+To make sure that we REALLY CAN get your data back - we offer you to decrypt 2 random files completely free of charge.
+
+You can contact our team directly for further instructions through our website :
+
+TOR VERSION :
+(you should download and install TOR browser first https://torproject.org)
+
+http://m232fdxbfmbrcehbrj5iayknxnggf6niqfj6x4iedrgtab4qupzjlaid.onion
+
+HTTPS VERSION :
+https://contirecovery.info
+2020-10-16 18:01:56.785093	reshaev	target	такой норм?
+2020-10-16 18:02:18.711351	reshaev	target	или вот такой
+2020-10-16 18:02:19.258092	reshaev	target	All of your files are currently encrypted by CONTI strain. 
+
+As you know (if you don't - just "google it"), all of the data that has been encrypted by our software cannot be recovered by any means without contacting our team directly. 
+If you try to use any additional recovery software - the files might be damaged, so if you are willing to try - try it on the data of the lowest value.
+
+To make sure that we REALLY CAN get your data back - we offer you to decrypt 2 random files completely free of charge.
+
+You can contact our team directly for further instructions through our website :
+
+TOR VERSION :
+(you should download and install TOR browser first https://torproject.org)
+
+http://m232fdxbfmbrcehbrj5iayknxnggf6niqfj6x4iedrgtab4qupzjlaid.onion
+
+HTTPS VERSION :
+https://contirecovery.info 
+
+YOU SHOULD BE AWARE!
+Just in case, if you try to ignore us. We've downloaded a pack of your internal data and are ready to publish it on out news website if you do not respond. So it will be better for both sides if you contact us as soon as possible.
+2020-10-16 18:02:49.108867	target	reshaev	сек
+2020-10-16 18:03:51.433537	target	reshaev	All of your files are currently encrypted by CONTI strain. 
+
+You can contact our team directly for further instructions through our website : 
+TOR VERSION : 
+(you should download and install TOR browser first https://torproject.org) 
+
+http://m232fdxbfmbrcehbrj5iayknxnggf6niqfj6x4iedrgtab4qupzjlaid.onion 
+
+HTTPS VERSION : 
+https://contirecovery.info 
+
+
+YOU SHOULD BE AWARE! 
+Just in case, if you try to ignore us. We've downloaded a pack of your internal data and are ready to publish it on out news website if you do not respond. So it will be better for both sides if you contact us as soon as possible.
+2020-10-16 18:03:52.872119	target	reshaev	давай так
+2020-10-16 18:04:37.359649	reshaev	target	ты свои переписки сам ведешь?
+2020-10-16 18:04:43.031745	target	reshaev	ага
+2020-10-16 18:04:48.070634	target	reshaev	ну пока ток 1 ответили ранее и заплатили
+2020-10-16 18:04:49.238472	target	reshaev	другие молчали
+2020-10-16 18:05:04.404125	reshaev	target	ты со стерном говорил? Он предлагает что бы boby вел все переписки
+2020-10-16 18:05:20.592505	target	reshaev	мне это не нужно
+2020-10-16 18:05:31.232157	target	reshaev	и говорить мне не нужно с ним)
+2020-10-16 18:05:35.266519	reshaev	target	ок, щас тогда тебе пасс поменяю
+2020-10-20 19:45:56.697049	target	reshaev	привет
+2020-10-20 19:45:58.850580	target	reshaev	доступ к тор чату
+2020-10-20 19:46:00.891132	target	reshaev	с новым пассом
+2020-10-24 02:15:14.122097	target	reshaev	привет
+2020-10-24 02:15:19.874205	target	reshaev	1 билд сможешь щас выдать?
+2020-10-24 02:17:44.099202	target	reshaev	dandis@q3mcco35auwcstmt.onion
+2020-10-24 02:17:46.202571	target	reshaev	скинь ему плз
+2020-10-24 02:17:47.129385	target	reshaev	бид
+2020-10-24 02:17:49.216880	target	reshaev	как подойдешь
+2020-10-24 02:17:53.931455	target	reshaev	текст и ссылка все что ранее делал мне
+2020-10-24 02:17:54.413714	target	reshaev	выше
+2020-10-24 02:17:58.089343	target	reshaev	он ждет
+2020-10-24 02:18:09.241632	target	reshaev	это хакер
+2020-10-24 02:18:11.395579	target	reshaev	мне отойти нужно
+2020-10-24 02:18:48.937822	target	reshaev	он щас постучится тебе
+2020-10-24 02:18:53.543462	target	reshaev	потом отпиши мне как ему билд выдашь
+2020-10-24 02:19:10.365768	target	reshaev	прикрепишь билд к 
+
+login: user03 
+pass: PSdJnGVdblrD0S5y
+2020-10-24 02:19:10.427258	target	reshaev	админке
+2020-10-24 02:19:11.821882	target	reshaev	он ждет
+2020-10-24 02:19:12.444855	target	reshaev	спс
+2020-10-24 04:18:39.445305	reshaev	target	привет
+2020-10-24 04:18:40.551891	reshaev	target	принял
+2020-10-24 06:23:54.646360	target	reshaev	передал ему?
+2020-10-24 07:01:04.293725	reshaev	target	нет его не было
+2020-10-28 21:29:45.972502	target	reshaev	[10:35:44] <reshaev@q3mcco35auwcstmt.onion> T*nS@i2VsYFKpCB1@ZTp~HeE9 
+
+
+Download: https://qaz.im/load/2H77E7/n6F9k9 
+Delete: https://qaz.im/index.php?a=delete&q=2138569718
+2020-10-28 21:29:47.918126	target	reshaev	файл чистый?
+2020-10-28 21:29:50.927581	target	reshaev	можешь еще раз выложить
+2020-10-28 21:30:53.701303	target	reshaev	все уже выдали
+2020-10-28 22:14:09.664647	reshaev	target	завтра апдейт будет и чистка
+2020-10-31 07:23:31.931095	target	reshaev	привет
+2020-10-31 07:28:14.096838	target	reshaev	https://www.sendspace.com/file/9a248o
+2020-10-31 07:28:16.811362	target	reshaev	сделай декрипт
+2020-10-31 07:28:22.882877	target	reshaev	только выложи на сендспейс, а не квиз
+2020-10-31 07:28:38.047783	target	reshaev	и этому пока не отвечай, сначала посмотрю что там за конфиг
+2020-10-31 07:28:44.777780	target	reshaev	я про объект
+2020-11-01 09:53:19.600937	target	reshaev	[08.10.2020 18:34:23] <target> но вроде ставится
+[08.10.2020 19:25:47] <reshaev> user03 
+cJf6rSn7rXuohmr4
+2020-11-01 09:53:21.849261	target	reshaev	почему не подходит

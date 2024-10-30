@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-06-23 21:10:20.176808	professor	zevs	5*20=
+2021-06-23 21:11:12.057609	professor	zevs	5*20=
+2021-06-23 21:13:41.134197	professor	zevs	5*20=
+2021-07-07 06:01:08.289048	professor	zevs	ага добавил

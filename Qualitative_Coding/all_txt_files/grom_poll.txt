@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-11-02 14:00:10.382030	poll	grom	This room is not anonymous

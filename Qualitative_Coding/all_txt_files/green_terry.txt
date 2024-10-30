@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-09-30 17:49:00.003497	terry	green	Ок, ее щас вырубить и снап новый?

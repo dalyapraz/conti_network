@@ -1,0 +1,615 @@
+Timestamp	From	To	Message
+2020-06-23 13:48:02.496552	bentley	many	Привет
+2020-06-23 13:48:04.871053	bentley	many	Работаешь?
+2020-07-21 10:21:37.651255	bentley	many	Привет
+2020-07-21 10:21:44.900825	bentley	many	Сделаем крипт для Бальзака?
+2020-07-21 10:21:55.651315	many	bentley	хай
+2020-07-21 10:21:56.756606	many	bentley	да
+2020-07-21 10:22:08.630707	bentley	many	ono57.bin
+2020-07-21 10:22:11.057439	bentley	many	У Хофа
+2020-07-21 10:23:11.099526	many	bentley	jr
+2020-07-21 10:23:12.798087	many	bentley	ok
+2020-07-21 11:19:01.435503	many	bentley	OIVVPVTC.exe	468.00 KB
+2020-07-21 11:19:04.193709	many	bentley	принял?
+2020-07-21 11:19:06.079738	many	bentley	в ZSS
+2020-07-22 12:46:58.428570	bentley	many	Привет.
+2020-07-22 12:47:10.200269	bentley	many	Сможем сделать док для Манго?
+2020-07-22 12:52:00.086493	many	bentley	хай да
+2020-07-22 12:52:08.802919	many	bentley	150
+2020-07-22 12:52:28.037949	bentley	many	Стерн закинет как придет. Делаем?
+2020-07-22 12:52:39.981414	many	bentley	да
+2020-07-22 12:53:12.156832	bentley	many	man11 сейчас зальет Хоф
+2020-07-22 12:54:04.124111	many	bentley	ок
+2020-07-22 13:04:59.261641	bentley	many	man11.bin залил Хоф
+2020-07-22 13:06:48.205007	bentley	many	Док надо с англ разводкой
+2020-07-22 13:25:49.621822	many	bentley	ща
+2020-07-22 13:31:57.575419	many	bentley	Magpsdo.exe	552.05 KB
+2020-07-22 13:32:07.155909	bentley	many	Смотрю
+2020-07-22 13:50:17.516457	bentley	many	линк с ехе делать?
+2020-07-22 13:53:06.809166	bentley	many	https://www.ottenbourg.com/nagpsdo.exe
+2020-07-22 13:53:11.638627	bentley	many	c ехе
+2020-07-22 13:54:27.670526	many	bentley	ок
+2020-07-22 16:26:53.659630	bentley	many	Бро, как с доком?
+2020-07-22 16:49:46.835599	bentley	many	Бро, уже на завтра тогда
+2020-07-23 07:24:31.998207	bentley	many	Првиет. По Манго - отмена
+2020-07-23 08:06:01.884681	many	bentley	не надо ему сегодня?
+2020-07-23 08:06:05.820219	many	bentley	привет
+2020-07-23 08:23:16.127974	bentley	many	Ага
+2020-07-24 12:16:50.836147	bentley	many	Привет
+2020-07-24 12:16:55.441476	bentley	many	Сможем сделать крипт?
+2020-07-24 12:17:14.191623	bentley	many	Нуен 1 крипт strn1
+2020-07-24 12:35:09.131334	many	bentley	TWGINBUB.exe	312.05 KB	2020-07-24 12:34:16
+2020-07-24 12:38:45.503972	bentley	many	Смотрю
+2020-07-27 14:30:55.923610	bentley	many	Привет.
+2020-07-27 14:31:24.563730	bentley	many	Сделай, пожалуйста, 1 крипт xml1
+2020-08-03 11:55:08.420660	bentley	many	Привет ))
+2020-08-03 11:55:22.451414	bentley	many	Бальзак говорил, что ты сделаешь док для него?
+2020-08-03 11:55:50.039334	many	bentley	не не писал
+2020-08-03 11:55:52.351336	many	bentley	привет
+2020-08-03 11:57:05.132581	bentley	many	<onoredebalzak> и дать мани пускай сделает док
+2020-08-03 11:57:08.403910	bentley	many	Хм... Ок )
+2020-08-03 11:57:31.243948	many	bentley	когда писал
+2020-08-03 11:57:58.011367	bentley	many	часа 3 назад
+2020-08-03 14:24:40.582912	bentley	many	Сделаешь док для Бальзакак?
+2020-08-03 14:24:59.317877	many	bentley	да
+2020-08-03 15:19:12.158163	bentley	many	Да протетстить как будет готово?
+2020-08-06 15:45:50.339700	bentley	many	Привет
+2020-08-06 15:45:57.574847	bentley	many	Сделаеш док для БАльзака?
+2020-08-13 14:16:11.723936	bentley	many	Привет )
+2020-08-13 14:16:23.415166	bentley	many	Для бальзака сделаешь сам крипт для дока?
+2020-08-13 14:17:28.064713	bentley	many	ono63.bin
+2020-08-13 14:18:04.084264	many	bentley	хай
+2020-08-13 14:18:08.060659	many	bentley	ща посмотрю крипт
+2020-08-13 15:27:35.618331	many	bentley	делать?
+2020-08-13 15:28:05.248021	bentley	many	Да
+2020-08-13 15:29:23.598514	many	bentley	ект чистого ща
+2020-08-13 15:29:28.613297	many	bentley	пусть криптонут ему
+2020-08-13 15:29:41.120223	bentley	many	Ок
+2020-08-13 19:09:51.985452	bentley	many	^Feeeeegkdjshgkj
+[01:16:38] <bentley> 
+  Download: https://qaz.im/load/R3sK22/bA244Y  
+  Delete: https://qaz.im/index.php?a=delete&q=557653115
+2020-08-13 19:09:57.368036	bentley	many	Крипт дял Бальзака
+2020-08-13 19:31:19.013432	many	bentley	ок
+2020-08-24 08:16:48.141878	bentley	many	ono67.bin для Бальзака
+2020-08-24 08:18:27.581389	many	bentley	хай
+2020-08-24 08:18:29.203569	many	bentley	ок
+2020-08-24 08:59:03.371978	many	bentley	Okde21.exe	620.00 KB
+2020-08-24 08:59:47.626044	many	bentley	принял?
+2020-08-25 09:17:23.031373	bentley	many	Привет. Криптанешь Бальзаку ono68.bin?
+2020-08-25 11:26:47.214300	many	bentley	OEWFGOXCB.exe	764.00 KB это оно68
+2020-08-25 11:26:53.756477	many	bentley	понадобиться ему позже
+2020-08-25 11:26:55.251764	many	bentley	проверь
+2020-08-25 11:33:05.490975	bentley	many	ок
+2020-08-25 17:19:15.307394	bentley	many	Ты тут?
+2020-08-26 18:03:25.042066	many	bentley	хай
+2020-08-26 18:03:34.322341	many	bentley	скинь адресс панели плз посеял в торе
+2020-08-26 18:03:35.140612	bentley	many	Привет
+2020-08-26 18:03:55.093849	bentley	many	https://xtlw5nzrv7qenweepw65cczadna52rg2r6yk6w6ifwegsscieaolz4qd.onion/crpanel/
+2020-08-26 18:04:29.952809	many	bentley	у меня тупо белая страница
+2020-08-26 18:04:40.339196	many	bentley	не знаешь почему ? у тебя входит?
+2020-08-26 18:04:49.309980	bentley	many	Да у меня работает
+2020-09-03 08:59:08.216802	bentley	many	Привет. Ты тут?
+2020-09-03 09:00:40.868145	many	bentley	хелло
+2020-09-03 09:00:41.666342	many	bentley	да
+2020-09-03 09:01:48.612512	bentley	many	Бро, сделай, пожалуйста, крипты для Мрса его файлы
+2020-09-03 09:02:44.539153	bentley	many	Сделаешь? Очень надо.
+2020-09-03 09:05:51.759960	bentley	many	Что скажешь?
+2020-09-03 09:16:45.670956	bentley	many	Бро????
+2020-09-03 09:22:10.628247	many	bentley	не понял какой файл
+2020-09-03 09:23:44.528828	bentley	many	Там несколько файлов ему
+2020-09-03 09:24:06.340343	bentley	many	он тебе напишет.
+2020-09-03 09:24:16.050440	bentley	many	mors@q3mcco35auwcstmt.onion
+2020-09-03 09:24:45.454253	many	bentley	ок. у него такой же бот?
+2020-09-03 09:25:09.717273	bentley	many	Не знаю
+2020-09-03 09:25:47.483661	bentley	many	Отписал ему сейчас напишет тебе и скажет что хочет
+2020-09-04 07:18:10.728523	bentley	many	Привет ) Бро, ты тут?
+2020-09-04 07:18:28.889133	many	bentley	хай да
+2020-09-04 07:18:34.890971	many	bentley	через 2 часа буду
+2020-09-04 07:18:39.830108	many	bentley	может полтора
+2020-09-04 07:18:49.404480	many	bentley	что нужно было??
+2020-09-04 07:19:33.879263	bentley	many	Криптануть лоадер БК
+2020-09-04 07:24:51.096650	many	bentley	через час - полтора. надо поверить криптует нет его мой крипт
+2020-09-04 07:25:05.574060	bentley	many	Ага. Хорошо. Жду как придешь.
+2020-09-08 14:17:09.907529	bentley	many	Првиет.
+2020-09-08 14:17:14.434157	bentley	many	ono72 для Бальзака
+2020-09-08 14:19:07.189161	many	bentley	ONFLGEKG.exe	752.00 KB
+2020-09-08 14:19:11.431219	many	bentley	ку
+2020-09-09 13:33:48.817332	many	bentley	повтори бро
+2020-09-21 16:26:41.902054	bentley	many	Привет ))
+2020-09-21 16:26:46.568021	bentley	many	Сделаешь крипт?
+2020-09-21 16:28:30.620416	many	bentley	хай
+2020-09-21 16:28:31.662375	many	bentley	кому
+2020-09-21 16:29:50.116260	bentley	many	chil115.exe Полу
+2020-09-21 16:31:10.866044	many	bentley	ща
+2020-09-21 17:01:34.370940	many	bentley	chilafol.exe	592.06 KB	2020-09-21 17:01:25
+2020-09-21 17:02:12.610659	bentley	many	++
+2020-09-21 17:53:55.257188	many	bentley	смотрел?
+2020-09-21 17:54:11.340228	bentley	many	Смотрю детектит на 10 и 2019
+2020-09-21 17:54:38.262466	bentley	many	Log Name:      Microsoft-Windows-Windows Defender/Operational
+Source:        Microsoft-Windows-Windows Defender
+Date:          9/21/2020 7:51:58 PM
+Event ID:      1116
+Task Category: None
+Level:         Warning
+Keywords:      
+User:          SYSTEM
+Computer:      WIN10
+Description:
+Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\TST10ENG\Downloads\chilafol\chilafol.exe
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: WIN10\TST10ENG
+ 	Process Name: C:\Windows\System32\svchost.exe
+ 	Security intelligence Version: AV: 1.323.1633.0, AS: 1.323.1633.0, NIS: 1.323.1633.0
+ 	Engine Version: AM: 1.1.17400.5, NIS: 1.1.17400.5
+2020-09-21 17:55:20.730605	bentley	many	и Log Name:      Microsoft-Windows-Windows Defender/Operational
+Source:        Microsoft-Windows-Windows Defender
+Date:          9/21/2020 10:51:38 AM
+Event ID:      1116
+Task Category: None
+Level:         Warning
+Keywords:      
+User:          SYSTEM
+Computer:      SRV2019
+Description:
+Windows Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+ 	Name: Trojan:Script/Wacatac.B!ml
+ 	ID: 2147735503
+ 	Severity: Severe
+ 	Category: Trojan
+ 	Path: file:_C:\Users\Administrator\Downloads\chilafol\chilafol.exe
+ 	Detection Origin: Local machine
+ 	Detection Type: Concrete
+ 	Detection Source: Real-Time Protection
+ 	User: SRV2019\Administrator
+ 	Process Name: C:\Windows\System32\svchost.exe
+ 	Signature Version: AV: 1.323.1633.0, AS: 1.323.1633.0, NIS: 1.323.1633.0
+ 	Engine Version: AM: 1.1.17400.5, NIS: 1.1.17400.5
+2019
+2020-09-21 17:58:32.304303	many	bentley	ok
+2020-09-24 10:13:57.610451	bentley	many	Првиет, бро! Криптанешь трика?
+2020-09-24 10:15:07.575742	many	bentley	hi
+2020-09-24 10:15:08.127712	many	bentley	da
+2020-09-24 10:15:36.501884	many	bentley	кому? дашь файл ? или в панели?
+2020-09-24 10:15:37.674048	bentley	many	Надо mor126, da7
+2020-09-24 10:15:52.637459	bentley	many	В панели есть исходники
+2020-09-24 10:19:29.123131	many	bentley	залил
+2020-09-24 10:19:37.377551	bentley	many	Зычу )
+2020-09-24 10:29:50.095360	bentley	many	Бро, а можешь еще криптануть локер?
+2020-09-24 10:30:56.405101	many	bentley	скинь но не знаю пашет нет
+2020-09-24 10:31:09.055663	bentley	many	Ща
+2020-09-24 10:32:00.107261	bentley	many	<boby@q3mcco35auwcstmt.onion> 
+pass: na0rQ9 
+Download: https://qaz.im/load/9DQi8r/8Abi9A 
+Delete: https://qaz.im/index.php?a=delete&q=579061928
+2020-09-24 10:34:13.097606	bentley	many	Бро, Мор детектит при старте
+2020-09-24 10:34:14.943606	bentley	many	 Log Name:   Microsoft-Windows-Windows Defender/Operational
+Source:    Microsoft-Windows-Windows Defender
+Date:     9/24/2020 5:31:47 PM
+Event ID:   1116
+Task Category: None
+Level:     Warning
+Keywords:   
+User:     SYSTEM
+Computer:   DESKTOP-78H2QGT
+Description:
+Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/Wacatac.B!ml&threatid=2147735505&enterprise=0
+    Name: Trojan:Win32/Wacatac.B!ml
+    ID: 2147735505
+    Severity: Severe
+    Category: Trojan
+    Path: file:_C:\Users\winow\Downloads\MZZWXRF.exe
+    Detection Origin: Local machine
+    Detection Type: FastPath
+    Detection Source: Real-Time Protection
+    User: DESKTOP-78H2QGT\winow
+    Process Name: C:\Windows\explorer.exe
+    Security intelligence Version: AV: 1.323.1798.0, AS: 1.323.1798.0, NIS: 1.323.1798.0
+    Engine Version: AM: 1.1.17400.5, NIS: 1.1.17400.5
+2020-09-24 10:37:05.862508	many	bentley	посмотри второй
+2020-09-24 10:37:49.230787	bentley	many	Смотрю
+2020-09-24 10:38:08.485494	many	bentley	а при скачке норм?
+2020-09-24 10:38:13.833732	bentley	many	Да
+2020-09-24 10:38:44.791310	many	bentley	ну хз мож бот это
+2020-09-24 10:38:46.949281	many	bentley	гляну
+2020-09-24 10:39:13.256349	bentley	many	Ага
+2020-09-24 11:01:26.072326	many	bentley	da7 норм?
+2020-09-24 11:01:45.113590	bentley	many	Ага не палит
+2020-09-24 11:03:29.914813	many	bentley	хорошо
+2020-09-24 11:03:33.807781	many	bentley	ща мор гляну еще
+2020-09-24 11:05:03.894968	many	bentley	[17:04:35] <hof> привет, возможно 
+[17:04:43] <hof> перезалью сейчас еще несколько моров 
+[17:04:54] <22> ок
+2020-09-24 11:05:11.251603	many	bentley	ща еще хоф даст пару исходников мора
+2020-09-24 11:05:17.493057	bentley	many	Ок гуд
+2020-09-24 11:07:42.707021	bentley	many	ДА7 спалил через 7 минут работы
+2020-09-24 11:07:55.867151	bentley	many	love> Log Name:      Microsoft-Windows-Windows Defender/Operational
+Source:        Microsoft-Windows-Windows Defender
+Date:          9/24/2020 5:49:22 PM
+Event ID:      1116
+Task Category: None
+Level:         Warning
+Keywords:      
+User:          SYSTEM
+Computer:      DESKTOP-78H2QGT
+Description:
+Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+      Name: Trojan:Script/Wacatac.B!ml
+      ID: 2147735503
+      Severity: Severe
+      Category: Trojan
+      Path: file:_C:\Users\winow\Downloads\DWLPVWXH.exe
+      Detection Origin: Local machine
+      Detection Type: Concrete
+      Detection Source: Real-Time Protection
+      User: DESKTOP-78H2QGT\winow
+      Process Name: C:\Windows\System32\conhost.exe
+      Security intelligence Version: AV: 1.323.1798.0, AS: 1.323.1798.0, NIS: 1.323.1798.0
+      Engine Version: AM: 1.1.17400.5, NIS: 1.1.17400.5
+
+[18:03:00] <love> на 10 файл удалился и теперь детект
+2020-09-24 11:08:43.540584	many	bentley	через 7 мин да
+2020-09-24 11:09:36.533525	bentley	many	Ага
+2020-09-24 11:59:27.170810	many	bentley	
+    Download: https://qaz.im/load/a4i7HS/tQd648   
+    Delete: https://qaz.im/index.php?a=delete&q=628892328
+2020-09-24 11:59:32.358179	many	bentley	проверь вот этот
+2020-09-24 11:59:35.114207	many	bentley	мор это
+2020-09-24 11:59:47.019904	bentley	many	Ок
+2020-09-24 11:59:50.499168	bentley	many	А пароль?
+2020-09-24 11:59:54.948440	many	bentley	нет там
+2020-09-24 11:59:59.816239	bentley	many	ок
+2020-09-24 12:00:00.300164	many	bentley	ну удалишь
+2020-09-24 12:01:29.791501	many	bentley	это da7
+    Download: https://qaz.im/load/dbGNR6/t3Ashd   
+    Delete: https://qaz.im/index.php?a=delete&q=2064944095
+2020-09-24 12:01:37.924123	bentley	many	+
+2020-09-24 12:01:40.338770	many	bentley	проверишь их вообщ0ем бро скажешь
+2020-09-24 12:01:46.287379	bentley	many	ага гуд
+2020-09-24 12:25:22.510003	many	bentley	у меня да7 не палит
+2020-09-24 12:25:26.833300	many	bentley	уже мин 20
+2020-09-24 12:25:33.282777	many	bentley	а мор не тестил
+2020-09-24 12:26:12.321414	bentley	many	мор - ок
+2020-09-24 12:26:16.007011	bentley	many	смотрю да7
+2020-09-24 12:26:37.718839	many	bentley	ок
+2020-09-24 12:27:26.773380	bentley	many	<love> Log Name:   Microsoft-Windows-Windows Defender/Operational
+Source:    Microsoft-Windows-Windows Defender
+Date:     9/24/2020 5:24:30 AM
+Event ID:   1116
+Task Category: None
+Level:     Warning
+Keywords:   
+User:     SYSTEM
+Computer:   WIN-9DF4B7G4K30
+Description:
+Windows Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/Wacatac.B!ml&threatid=2147735505&enterprise=0
+    Name: Trojan:Win32/Wacatac.B!ml
+    ID: 2147735505
+    Severity: Severe
+    Category: Trojan
+    Path: file:_C:\Users\Administrator\Downloads\dasiidf\dasiidf.exe
+    Detection Origin: Local machine
+    Detection Type: FastPath
+    Detection Source: Real-Time Protection
+    User: WIN-9DF4B7G4K30\Administrator
+    Process Name: C:\Windows\explorer.exe
+    Signature Version: AV: 1.323.1798.0, AS: 1.323.1798.0, NIS: 1.323.1798.0
+    Engine Version: AM: 1.1.17400.5, NIS: 1.1.17400.5
+[19:26:42] <love> тут при запуске
+[19:26:54] <love> на 10 хром, на 19 фф
+2020-09-24 12:27:37.671623	bentley	many	При сохранении и при старте детект
+2020-09-24 12:28:47.474408	many	bentley	мор чистьый?
+2020-09-24 12:29:09.289848	many	bentley	да7 палит при скачке что ли?
+2020-09-24 12:29:54.144593	bentley	many	да мор чистый а да 7 при страте
+2020-09-24 12:30:17.176079	many	bentley	74 pass
+    Download: https://qaz.im/load/5YT2Z6/E5DZRZ   
+    Delete: https://qaz.im/index.php?a=delete&q=51436726
+2020-09-24 12:30:19.753288	many	bentley	da7
+2020-09-24 12:30:20.564384	many	bentley	это
+2020-09-24 12:31:11.417027	bentley	many	Ок
+2020-09-24 12:50:30.239395	bentley	many	Log Name:   Microsoft-Windows-Windows Defender/Operational
+Source:    Microsoft-Windows-Windows Defender
+Date:     9/24/2020 7:46:16 PM
+Event ID:   1116
+Task Category: None
+Level:     Warning
+Keywords:   
+User:     SYSTEM
+Computer:   DESKTOP-78H2QGT
+Description:
+Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+    Name: Trojan:Script/Wacatac.B!ml
+    ID: 2147735503
+    Severity: Severe
+    Category: Trojan
+    Path: file:_C:\Users\winow\Downloads\dasdrh.exe
+    Detection Origin: Local machine
+    Detection Type: Concrete
+    Detection Source: Real-Time Protection
+    User: DESKTOP-78H2QGT\winow
+    Process Name: C:\Windows\System32\conhost.exe
+    Security intelligence Version: AV: 1.323.1798.0, AS: 1.323.1798.0, NIS: 1.323.1798.0
+    Engine Version: AM: 1.1.17400.5, NIS: 1.1.17400.5
+
+[19:50:01] <love> на 10, спустя пару минут
+2020-09-24 12:50:33.520607	bentley	many	19 - ок
+2020-09-24 12:51:54.571637	many	bentley	ну хз бот это тогда палит(
+2020-09-24 14:39:52.931069	bentley	many	Бро, криптани плиз тройку
+2020-09-24 14:54:56.098841	many	bentley	либ тот залил
+2020-09-24 14:54:59.568955	many	bentley	джим ща позже
+2020-09-24 14:55:10.672694	bentley	many	Ок
+2020-09-24 14:55:30.091889	bentley	many	Еще по тройке тебе будет писать terry@q3mcco35auwcstmt.onion
+2020-09-24 14:55:35.698061	bentley	many	он сейчас за нее отвечает
+2020-09-24 14:56:17.165859	many	bentley	ок
+2020-09-24 16:42:55.189853	bentley	many	Бро криптанешь еще мор124?
+2020-09-24 16:43:02.344828	bentley	many	Ща Хоф зальет
+2020-09-24 16:43:31.963590	many	bentley	да
+2020-09-24 16:46:52.758125	bentley	many	Хоф залил
+2020-09-24 16:50:04.593282	many	bentley	ок
+2020-09-24 17:14:59.392085	many	bentley	норм тройки?
+2020-09-24 17:15:12.494076	bentley	many	Спроси у Терри
+2020-09-24 17:18:15.933709	many	bentley	mor12p4.exe	676.00 KB
+2020-09-24 17:18:20.194230	many	bentley	'nj vjh124
+2020-09-24 17:18:23.766929	many	bentley	это мор124
+2020-09-24 17:18:29.139306	bentley	many	ок смотрю
+2020-09-24 17:25:17.167931	many	bentley	палит вроде
+2020-09-24 17:25:23.720299	many	bentley	залил еще вариант на всякий
+2020-09-24 17:25:24.792519	bentley	many	Ага
+2020-09-24 17:25:26.493896	bentley	many	 <love> Log Name:   Microsoft-Windows-Windows Defender/Operational
+Source:    Microsoft-Windows-Windows Defender
+Date:     9/25/2020 12:15:33 AM
+Event ID:   1116
+Task Category: None
+Level:     Warning
+Keywords:   
+User:     SYSTEM
+Computer:   DESKTOP-78H2QGT
+Description:
+Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/Wacatac.B!ml&threatid=2147735505&enterprise=0
+    Name: Trojan:Win32/Wacatac.B!ml
+    ID: 2147735505
+    Severity: Severe
+    Category: Trojan
+    Path: file:_C:\Users\winow\Downloads\mortdsa.exe
+    Detection Origin: Local machine
+    Detection Type: FastPath
+    Detection Source: Real-Time Protection
+    User: DESKTOP-78H2QGT\winow
+    Process Name: C:\Windows\explorer.exe
+    Security intelligence Version: AV: 1.323.1798.0, AS: 1.323.1798.0, NIS: 1.323.1798.0
+    Engine Version: AM: 1.1.17400.5, NIS: 1.1.17400.5
+
+[00:17:10] <love> при запуске
+[00:17:18] <love> На 10 и 19
+[00:17:20] <bentley> Понял
+[00:17:21] <bentley> Ок
+[00:19:57] <bentley> еще файл на тест
+[00:19:58] <bentley> https://qaz.im/load/6Zb4Y9/2eeFhe
+[00:19:59] <bentley> 123
+[00:24:31] <love> Log Name:   Microsoft-Windows-Windows Defender/Operational
+Source:    Microsoft-Windows-Windows Defender
+Date:     9/25/2020 12:22:26 AM
+Event ID:   1116
+Task Category: None
+Level:     Warning
+Keywords:   
+User:     SYSTEM
+Computer:   DESKTOP-78H2QGT
+Description:
+Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/Wacatac.B!ml&threatid=2147735505&enterprise=0
+    Name: Trojan:Win32/Wacatac.B!ml
+    ID: 2147735505
+    Severity: Severe
+    Category: Trojan
+    Path: file:_C:\Users\winow\Downloads\mor12p4.exe
+    Detection Origin: Local machine
+    Detection Type: FastPath
+    Detection Source: Real-Time Protection
+    User: DESKTOP-78H2QGT\winow
+    Process Name: C:\Windows\explorer.exe
+    Security intelligence Version: AV: 1.323.1798.0, AS: 1.323.1798.0, NIS: 1.323.1798.0
+    Engine Version: AM: 1.1.17400.5, NIS: 1.1.17400.5
+
+[00:25:00] <love> это с 10
+2020-09-24 17:25:32.791020	bentley	many	ок
+2020-09-24 17:25:39.385515	many	bentley	msodfpslf.exe	676.00 KB
+2020-09-24 17:25:44.231101	bentley	many	+
+2020-09-24 17:28:30.034536	many	bentley	у меня непалит последний. там при запуске pdata.css будет выылазить
+2020-09-24 17:28:34.930846	many	bentley	это норм..я так сделал
+2020-09-24 17:28:46.700658	bentley	many	ок
+2020-09-24 17:31:21.347540	bentley	many	Log Name:   Microsoft-Windows-Windows Defender/Operational
+Source:    Microsoft-Windows-Windows Defender
+Date:     9/25/2020 12:28:55 AM
+Event ID:   1116
+Task Category: None
+Level:     Warning
+Keywords:   
+User:     SYSTEM
+Computer:   DESKTOP-78H2QGT
+Description:
+Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+ For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/Wacatac.B!ml&threatid=2147735505&enterprise=0
+    Name: Trojan:Win32/Wacatac.B!ml
+    ID: 2147735505
+    Severity: Severe
+    Category: Trojan
+    Path: file:_C:\Users\winow\Downloads\msodfpslf.exe
+    Detection Origin: Local machine
+    Detection Type: FastPath
+    Detection Source: Real-Time Protection
+    User: DESKTOP-78H2QGT\winow
+    Process Name: C:\Windows\explorer.exe
+    Security intelligence Version: AV: 1.323.1798.0, AS: 1.323.1798.0, NIS: 1.323.1798.0
+    Engine Version: AM: 1.1.17400.5, NIS: 1.1.17400.5
+
+
+[00:30:48] <love> на 19 такой же
+2020-09-24 17:31:56.337980	many	bentley	а на 10? это при скачке или запуске и если запуске то через какое время ? сразу?
+2020-09-24 17:34:06.113056	bentley	many	<love> при запуске
+[00:33:52] <love> сразу
+2020-09-24 17:34:10.065353	bentley	many	на 10 и 2019
+2020-09-24 17:49:07.832806	many	bentley	MQUYZEFHT.exe	676.00 KB
+2020-09-24 17:49:25.837479	bentley	many	+
+2020-09-24 18:50:00.253358	many	bentley	смотрел?
+2020-09-24 18:50:14.168075	bentley	many	Да все ок.
+2020-09-25 07:38:20.970550	bentley	many	Привет
+2020-09-25 07:38:24.012391	bentley	many	Сделаешь крипты?
+2020-09-30 08:33:04.504644	bentley	many	Привет. Ты тут?
+2020-10-02 08:07:50.330740	bentley	many	Привет
+2020-10-19 07:25:55.423863	bentley	many	Првиет )
+2020-10-19 07:32:22.590630	many	bentley	здаров
+2020-10-19 07:32:47.632257	bentley	many	Сделаешь крипт морс?
+2020-10-19 07:32:54.020870	many	bentley	да
+2020-10-19 07:32:59.890621	many	bentley	залит там?
+2020-10-19 07:33:19.547950	bentley	many	Ща Хоф зальет
+2020-10-19 07:35:18.614498	many	bentley	[13:34:28] <hof> привет 
+[13:34:43] <hof> новый конфиг жду, будет новый файл 
+[13:35:11] <22> ok
+2020-10-19 07:36:00.032207	bentley	many	Ок ждем
+2020-10-19 08:59:11.711305	many	bentley	скажешь ок?
+2020-10-19 08:59:21.088738	bentley	many	Ага
+2020-10-19 10:51:53.487418	many	bentley	залил мор133
+2020-10-19 10:51:55.980707	many	bentley	в Zss
+2020-10-19 10:52:02.380665	bentley	many	++
+2020-10-19 11:04:16.890528	many	bentley	смотришь ?
+2020-10-19 11:04:26.375011	bentley	many	Да
+2020-10-19 11:04:34.224351	bentley	many	Чисто на старет жду как отстучит
+2020-10-19 11:04:51.184402	many	bentley	ok
+2020-10-19 11:31:35.721428	bentley	many	Все ок
+2020-10-19 11:39:19.969368	many	bentley	залил яс
+2020-10-19 11:39:23.219440	many	bentley	love отписал
+2020-10-19 11:39:31.234470	bentley	many	Ок .Спс )
+2020-10-22 18:57:21.965801	bentley	many	Првиет, бро
+2020-10-22 18:58:53.869769	many	bentley	ку
+2020-10-22 18:59:26.135268	bentley	many	Сделай ,пожалуйста, Ono95 ехе  для Бальзака
+2020-10-22 18:59:31.937950	bentley	many	Щас Хоф зальет
+2020-10-22 18:59:56.651664	many	bentley	он писал мне
+2020-10-22 19:00:04.998197	many	bentley	я не знаю крипт чистый щас или нет
+2020-10-22 19:00:11.287703	many	bentley	лове провверит щас мора и отпишет
+2020-10-22 19:00:15.383129	bentley	many	Ок
+2020-10-22 19:16:49.652557	many	bentley	давай
+2020-10-22 19:16:54.102653	many	bentley	оно криптону проверишь
+2020-10-22 19:16:57.605949	many	bentley	если ок док сделаю
+2020-10-22 19:17:11.348823	bentley	many	+
+2020-10-22 19:18:00.669941	many	bentley	а хофа нет
+2020-10-22 19:18:04.495646	many	bentley	а там файл битый
+2020-10-22 19:18:05.324868	many	bentley	((
+2020-10-22 19:18:51.225263	many	bentley	ono92 только могу
+2020-10-22 19:25:09.432924	many	bentley	так что
+2020-10-22 19:25:50.844577	bentley	many	Там надо именно тот
+2020-10-22 19:25:53.062503	bentley	many	Эхх
+2020-10-22 19:27:43.590502	many	bentley	ну завтра значит или может кто другой криптонет
+2020-10-22 19:28:01.047085	bentley	many	ЩАс уточню у Бальзака
+2020-10-26 07:38:32.014898	bentley	many	Првиет
+2020-10-27 11:24:53.495608	bentley	many	Привет, бро
+2020-10-27 13:43:11.929237	bentley	many	Ты тут?Вся надежда только на тебя
+2021-04-16 16:44:46.541410	bentley	many	Бро привет. Тебе по докам напишет клиент
+2021-04-16 16:44:48.118708	bentley	many	netwalker@q3mcco35auwcstmt.onion
+2021-04-19 05:14:21.488331	bentley	many	Бро привет. Тебе по докам напишет клиент
+2021-04-19 05:14:21.491856	bentley	many	netwalker@q3mcco35auwcstmt.onion
+2021-06-15 15:21:46.212755	bentley	many	Привет
+2021-06-15 15:30:07.550650	many	bentley	привет
+2021-06-15 15:30:25.736418	bentley	many	криптанешь?
+2021-06-15 15:30:31.561096	many	bentley	да
+2021-06-15 15:30:46.761542	bentley	many	net20.bin
+2021-06-15 15:34:34.662071	many	bentley	уже)
+2021-07-29 10:12:55.633499	bentley	many	Првиет, бро. Криптанешь дллки?
+2021-07-29 19:03:40.515586	many	bentley	бро
+2021-07-29 19:03:42.366462	many	bentley	,
+2021-07-29 19:03:45.225072	many	bentley	тут?
+2021-08-18 13:14:49.013234	many	bentley	zalil
+2021-08-23 08:00:32.458165	bentley	many	Привет, бро. Криптанем длл?
+2021-08-30 14:32:22.271406	bentley	many	Бро ты тут?
+2021-08-30 14:35:10.232448	many	bentley	Бро ты тут?
+2021-10-14 12:14:16.660151	many	bentley	тут если что ку
+2021-12-13 08:45:28.754239	many	bentley	брг
+2021-12-13 08:45:30.202217	many	bentley	привет
+2021-12-13 08:45:33.773247	many	bentley	бро
+2021-12-13 08:45:46.324522	many	bentley	напиши манго плиз
+2021-12-13 08:45:54.940798	many	bentley	пусть добавит меня тут
+2021-12-13 08:46:11.926790	bentley	many	+
+2021-12-13 08:46:47.974900	many	bentley	или дай его адрес
+2021-12-13 08:46:54.149242	many	bentley	я ввожу в жабе
+2021-12-13 08:47:15.724952	many	bentley	mango@q3mcco35auwcstmt.onion
+2021-12-13 08:47:20.792816	many	bentley	не находит
+2021-12-13 08:47:37.086795	many	bentley	может у него другой а у меня просто манго был подписан
+2021-12-13 08:47:56.698774	many	bentley	ну к примеру как бальзак а на самом деле grant
+2021-12-13 08:48:55.636444	bentley	many	mango@q3mcco35auwcstmt.onion
+2021-12-13 08:49:02.246308	bentley	many	Он есть но он в офе
+2021-12-13 08:49:28.679070	many	bentley	в рокете есть ? тор висит
+2021-12-13 08:49:44.047906	many	bentley	пиздец еще стерн пропал
+2021-12-13 08:49:46.723782	bentley	many	Не бро тоже в офф. Спит...
+2021-12-13 08:49:54.483441	many	bentley	когда его видел ? уже недели две нет
+2021-12-13 08:50:14.596465	bentley	many	Я его видел последний раз в четверг по моему
+2021-12-13 08:50:16.440597	bentley	many	болел он
+2021-12-13 08:52:15.550304	many	bentley	есть 100 $ ? появится 150 отдам) да просто он только мне зп выдает я же от манго не завишу. но он же другим крипторам выдает зп , думал его добавить . а хули нету его((((
+2021-12-13 08:52:33.381627	bentley	many	Не бро ваще нет ничего (((
+2021-12-13 08:52:35.785786	bentley	many	Зп жду
+2021-12-13 08:52:43.563493	many	bentley	все ждут)
+2022-02-10 18:01:08.470367	many	bentley	хахахахаххаа
+2022-02-10 18:01:22.693550	bentley	many	??
+2022-02-10 18:01:23.497637	many	bentley	братишка ты живой хотьь ?
+2022-02-10 18:01:27.178656	bentley	many	Да
+2022-02-10 18:01:28.832485	many	bentley	xj
+2022-02-10 18:01:29.770017	bentley	many	А ты как?
+2022-02-10 18:01:40.554644	many	bentley	чо типо важный /)
+2022-02-10 18:01:46.165062	many	bentley	\да так
+2022-02-10 18:01:53.866728	many	bentley	ушел отсюда
+2022-02-10 18:02:02.451250	bentley	many	Куда ушел?
+2022-02-10 18:02:19.110804	many	bentley	говорят С и буза не появится
+2022-02-10 18:02:19.273934	many	bentley	хули тут торчать
+2022-02-10 18:02:31.372830	many	bentley	к реверсу
+2022-02-10 18:02:44.305833	many	bentley	короче по кобе
+2022-02-10 18:02:46.632670	bentley	many	Что делать будешь?
+2022-02-10 18:02:53.338794	bentley	many	Аа понял
+2022-02-10 18:03:17.758072	many	bentley	я рабутаю
+2022-02-10 18:03:17.762256	many	bentley	уже 2 ую нделю
+2022-02-10 18:03:38.274533	many	bentley	манго тоже увольняется
+2022-02-10 18:03:39.376506	bentley	many	Хорошо. Сколько платит?
+2022-02-10 18:03:40.066466	many	bentley	так что пизда брат
+2022-02-10 18:03:53.628391	bentley	many	Он говрил такое?
+2022-02-10 18:03:53.931787	many	bentley	мкак и С
+2022-02-10 18:04:00.716864	many	bentley	платит
+2022-02-10 18:04:00.718434	many	bentley	хватает
+2022-02-10 18:04:21.946327	bentley	many	Понятно
+2022-02-10 18:04:34.397228	many	bentley	ну ты
+2022-02-10 18:04:57.079543	many	bentley	 я тоже тут еще
+2022-02-10 18:04:57.080736	many	bentley	посмотрим
+2022-02-10 18:04:57.247815	many	bentley	мож верхушки выйдут
+2022-02-10 18:05:08.567341	bentley	many	Ясно
+2022-02-10 18:05:37.874084	many	bentley	хотя врятле
+2022-02-10 18:05:37.875124	many	bentley	С ушел.. буза уволтлся..хоф уволился ...
+2022-02-10 18:05:37.914104	many	bentley	манго тоже
+2022-02-10 18:06:14.154786	bentley	many	Эх...
+2022-02-10 18:07:18.374976	many	bentley	хахах
+2022-02-10 18:07:18.377179	many	bentley	да шучяу
+2022-02-10 18:07:22.027062	many	bentley	шучу
+2022-02-10 18:07:24.752794	many	bentley	сиди все ок
+2022-02-10 18:07:31.791158	bentley	many	?????????? ОООООООООООООООООО
+2022-02-10 18:08:03.719193	many	bentley	все ок
+2022-02-10 18:08:36.603215	many	bentley	жди
+2022-02-10 18:08:48.913065	bentley	many	Чего ждать?

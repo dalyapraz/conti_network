@@ -1,0 +1,26 @@
+Timestamp	From	To	Message
+2020-06-23 17:13:55.501856	pin	poll	привет
+2020-06-23 17:13:57.087973	pin	poll	тут?
+2020-06-24 12:56:18.949268	poll	pin	hi man
+2020-06-30 08:28:26.836376	pin	poll	привет
+2020-07-03 08:26:18.677497	pin	poll	привет
+2020-07-03 08:26:28.329635	pin	poll	какие нада
+2020-07-03 08:26:30.828028	poll	pin	hi man
+2020-07-07 07:13:03.944714	pin	poll	доброе утро
+2020-07-07 18:13:13.325896	poll	pin	sympatico.ca
+2020-07-07 20:10:19.868136	poll	pin	sympatico.ca
+2020-07-08 00:13:41.252220	poll	pin	
+1. smotri razgovor bil o tom hto ti prosto nabludaesh a ne tretie lico sidit otvechaet
+2. kogda koshel nujne budet to skajesh, ya dam TOLKO svoi
+2020-07-08 08:42:51.826327	poll	pin	
+1. smotri razgovor bil o tom hto ti prosto nabludaesh a ne tretie lico sidit otvechaet
+2. kogda koshel nujne budet to skajesh, ya dam TOLKO svoi
+2020-07-13 18:07:05.916309	pin	poll	tut?\
+2020-08-31 10:50:46.463556	pin	poll	жду доступ
+2020-08-31 10:52:43.714928	poll	pin	da man
+2020-09-09 16:16:21.903077	pin	poll	как спам пошел?
+2020-09-10 10:16:29.159883	pin	poll	ку
+2020-09-10 10:16:46.629149	pin	poll	а заспавни плиз еще раз T480-1157_W10017134.8BFD725F352335F9B59315B135191597
+2020-09-14 11:02:44.740594	pin	poll	тут
+2020-09-14 11:02:47.743220	pin	poll	привте
+2020-09-14 11:02:50.051349	pin	poll	искал?

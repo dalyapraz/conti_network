@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-10-12 13:28:30.598452	rand	forbes	Привет

@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-07-06 10:57:19.351609	love	bourbon	привет

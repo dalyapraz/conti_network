@@ -1,0 +1,90 @@
+Timestamp	From	To	Message
+2020-09-09 15:48:40.799885	ganesh	viper	!
+2020-09-09 15:51:43.885038	viper	ganesh	!
+2021-07-30 10:46:21.427453	viper	ganesh	root	5.181.156.166	gohrah9aeNg#	MD
+root	94.140.115.123	TJeb8YOJ1hDrVgX	LV
+root	103.124.104.56	34fhjdgEN3rE5ff	USA
+root	194.135.33.150 	34fhjdgEN3rE5ff	USA
+root	5.181.80.121	34fhjdgEN3rE5ff	USA
+root	185.99.133.115	1Dw:e7J5:bsW9R	New Zealand
+root	89.41.182.52	2f2i6sCNAv9LP3jmW5	RO
+root	193.8.172.239	O24CYgxWvl4Z3w49fR	USA
+root	194.15.113.92	123qweASDzxc	EU
+root	5.196.197.27	34fhjdgEN3rE5ff	FR
+root	162.55.32.162	MEW4VJReqWJwCd9eCiHR	USA
+root	31.13.195.184	34fhjdgEN3rE5ff	BG
+2021-08-02 07:17:19.964459	viper	ganesh	https://xflemdsxjrjilw34dsxpvrxp5whnaut7hc5xejwuqs6eqrkt77bxkwid.onion
+ganesh:fp6fqpVxlrYsorC545
+nph-jce-orz
+2021-09-29 17:21:48.806602	ganesh	viper	bc1qqkc9220l6dqh8jlslfsc4xf6wxgkga5uv02vm5
+2021-09-30 11:33:00.896291	ganesh	viper	mist bJY567%&d9o98 + взял али с 14.09
+freeman bv74D^U%&7fdi + взял али с 14.09
+pit 6gIGFR^i76r76r + c 16.09 взял buran
+kenshi +_(GfotU^$E + c 16.09 взял buran
+
+Skillet O*)Yvg986fv^o +
+
+steep ghoiuO&*T*&F +
+2021-10-04 08:33:07.050130	ganesh	viper	bc1qdshsymz4u243ku66ysdqunu4d6wamhquxc386g
+2021-10-30 20:14:24.560824	ganesh	viper	bc1qtjvs79cm5zghe95hr04e5cl9h2fh7x9chfmc6t
+2021-11-08 10:42:35.996870	viper	ganesh	💎 QIWI (ОСНОВНОЙ) 
+——————————————— 
+ЛИЧНЫЙ КАБИНЕТ (QIWI.COM) 
+——————————————— 
+Логин: 79613860171 
+Пароль: 109JNJFdksuUa 
+——————————————— 
+ВИРТУАЛЬНАЯ КАРТА 
+——————————————— 
+Номер: 4890494733526362 
+Дата: 04/22 
+CVC: 827 
+Имя: QIWI CARD 
+——————————————— 
+ПРОКСИ 
+——————————————— 
+IP: 46.8.23.171 
+Порт https: 1050 
+Порт socks5: 1051 
+Логин: x9Cwme 
+Пароль: qwEdNvIymW
+2021-11-08 10:56:23.544972	viper	ganesh	https://teletype.in/@qiwi_service/qiwi
+2021-11-08 15:29:50.538184	viper	ganesh	◻️ QIWI (ПРОФЕССИОНАЛЬНЫЙ)
+———————————————
+ЛИЧНЫЙ КАБИНЕТ (QIWI.COM)
+———————————————
+Логин: 79277420598
+Пароль: 9325sdfSDFGSDG3e4
+———————————————
+ВИРТУАЛЬНАЯ КАРТА
+———————————————
+Номер: 4890494740805551
+Дата: 10/22
+CVC: 268
+———————————————
+ПРОКСИ
+———————————————
+IP: 109.248.15.37
+Порт https: 1050
+Порт socks5: 1051
+Логин: x9Cwme
+Пароль: qwEdNvIymW
+———————————————
+СОСТАВ - УСЛОВИЯ - РЕКОМЕНДАЦИИ
+———————————————
+https://teletype.in/@qiwi_service/qiwi
+2021-11-08 15:39:11.126804	ganesh	viper	3QdNiLEpxKWQ6SoxULAo4xc48d5otumivR
+2021-12-01 13:33:56.667207	ganesh	viper	bc1qxt3gt86tpyn87e8398l97m9kx3f3wrwlejdlal
+2021-12-01 13:58:46.540909	ganesh	viper	bc1qphgsh952kqwcyvqexjfsmguv28dxlgd56ccnrn
+2021-12-15 11:12:44.950068	ganesh	viper	ggmgomes89@outlook.com
+3tqwq89869(^^67FB@Bbb
+2021-12-17 09:29:12.307721	ganesh	viper	bc1q2pnhvfkx0x9cqh8q4z96aa50rqxxcutp65ymx8
+2021-12-20 10:14:37.807007	ganesh	viper	Username: p3255101
+
+Password: afn8TerEtF
+2021-12-21 09:13:34.426026	ganesh	viper	morozova.olga84@outlook.com
+780gofikdI&^ED
+2021-12-29 09:37:35.114393	ganesh	viper	bc1qed8hy4c2hz5m2dpyv7sf3q9p97lah4x5q5d28k
+2022-02-21 16:43:55.534584	viper	ganesh	891176DC3A1523F997D84069748364BD68505DA42153B1D1BF784AFB9DADBE510E3131546DC2
+2022-02-21 16:59:25.597454	ganesh	viper	qviper00@xmpp.is
+2022-02-21 17:04:17.990796	ganesh	viper	D5D9827F7186A50EABC1FBFD3DE8101792F187C584DA9D3D9DEAADBE23DCB16E4FFF275E3879

@@ -1,0 +1,10 @@
+Timestamp	From	To	Message
+2021-05-27 07:59:37.380720	viper	meatball	привет
+2021-05-27 14:59:34.496756	viper	meatball	привет
+2021-05-27 17:07:58.115096	viper	meatball	привет
+2021-05-27 17:08:36.626860	meatball	viper	привет
+2021-05-27 17:23:22.333609	viper	meatball	привет
+2021-05-27 17:23:34.497878	viper	meatball	добавь себе в контакты revers@q3mcco35auwcstmt.onion
+2021-05-27 17:23:45.010203	viper	meatball	это твой тимлидер
+2021-05-27 17:23:54.676127	viper	meatball	он же фаерфок
+2021-05-29 18:59:23.860757	meatball	viper	привет

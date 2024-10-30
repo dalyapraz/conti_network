@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2021-11-29 16:17:04.246625	paranoik	starfall	????
+2021-11-30 07:34:10.102734	paranoik	starfall	????
+2021-11-30 07:34:50.708099	starfall	paranoik	пустые сообщения приходят
+2021-11-30 08:47:07.236559	starfall	paranoik	пустые сообщения приходят
+2021-11-30 08:47:40.809268	paranoik	starfall	shash vizy ti pisal? shto po adminke?
+2021-11-30 09:07:35.170904	paranoik	starfall	получил от тебя сообщение под отр и не видел что ты написал
+2021-11-30 09:58:06.154580	paranoik	starfall	shash vizy ti pisal? shto po adminke?
+2021-11-30 09:58:06.156636	paranoik	starfall	получил от тебя сообщение под отр и не видел что ты написал

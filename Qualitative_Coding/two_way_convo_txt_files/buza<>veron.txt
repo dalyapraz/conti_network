@@ -1,0 +1,167 @@
+Timestamp	From	To	Message
+2021-02-18 09:13:01.249817	buza	veron	привет
+2021-02-22 10:20:04.326330	veron	buza	привет
+2021-02-22 10:33:31.293877	buza	veron	-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+SJ1zyLSvO2Dfz1K5x2WrrwPOdFNwQDA=
+=Yp41
+-----END PGP PUBLIC KEY BLOCK-----
+2021-02-22 10:59:49.606844	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-22 11:01:20.661603	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-22 11:01:26.151419	veron	buza	не вижу
+2021-02-22 11:01:54.295675	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-22 11:01:54.308245	veron	buza	не вижу
+2021-02-22 11:02:26.767144	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-22 11:03:20.731627	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-22 11:42:22.540812	buza	veron	я эту неделю буду не на связи
+2021-02-22 11:52:31.162746	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-22 12:35:37.911869	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:36:06.872460	buza	veron	-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+SJ1zyLSvO2Dfz1K5x2WrrwPOdFNwQDA=
+=Yp41
+-----END PGP PUBLIC KEY BLOCK-----
+2021-02-26 09:38:23.912589	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:38:39.212750	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:38:44.996680	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:38:50.822610	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:38:55.520781	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:39:28.634642	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:39:55.027709	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:41:57.017023	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:42:11.410683	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:42:48.749504	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:49:26.256042	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:54:54.123036	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:55:20.581566	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 09:56:12.562733	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 10:11:06.050724	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 10:12:22.468510	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 10:14:29.909240	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 10:14:50.376143	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 10:18:03.429564	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 10:18:29.751895	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 10:19:19.010826	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 10:19:49.855955	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 10:22:55.030771	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 10:24:16.388746	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 10:26:14.212397	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-02-26 10:30:49.088709	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:25:23.200523	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:25:38.727098	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:26:06.642522	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:27:06.067975	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:28:22.225226	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:28:43.452264	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:28:57.390449	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:33:26.314864	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:33:35.835607	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:34:07.796397	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:34:47.683196	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:34:55.648832	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:35:13.119560	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:35:26.243151	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:35:30.546845	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:36:03.289181	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-03-26 08:36:05.907849	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-04-01 07:11:15.651115	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-04-01 07:13:11.273606	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-04-01 07:13:31.925871	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-04-01 07:13:54.485434	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-04-01 07:14:01.575451	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-04-01 07:14:19.517620	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-04-01 07:14:23.642709	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-04-01 07:14:37.501467	buza	veron	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-04-01 07:17:07.760806	veron	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]

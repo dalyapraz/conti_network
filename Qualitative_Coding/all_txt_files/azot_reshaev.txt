@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-07-20 17:27:37.907366	reshaev	azot	Привет

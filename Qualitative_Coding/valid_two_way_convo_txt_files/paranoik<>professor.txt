@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2020-09-29 00:09:03.023030	professor	paranoik	нихао
+2020-10-01 15:17:05.743281	professor	paranoik	привет, пару билдов сделаем?
+2020-10-05 19:26:57.506878	professor	paranoik	првиет
+2020-10-05 19:27:00.097023	professor	paranoik	можем пару билдов сделать?
+2020-10-06 11:35:09.582501	professor	paranoik	привет
+2020-10-06 11:35:13.842004	professor	paranoik	там не оставили тебе мыл случаем?
+2020-10-12 18:42:24.434127	professor	paranoik	не забудь пожалуйста билдов мне скинуть сегодня)
+2020-10-12 18:43:20.873064	paranoik	professor	не забуду)
+2020-10-21 11:30:04.902619	professor	paranoik	привет
+можешь декриптор сделать для LI0vGREgGrAxviNVtNJ2jk1rO6mK7nZHpPTmNJ1v2d4nRMFfRU70TvdsFkKshfl8 ?
+2021-06-04 13:54:24.872843	professor	paranoik	привет
+2021-06-14 16:57:26.725177	professor	paranoik	декриптни файл пожалуйста людям

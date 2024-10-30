@@ -1,0 +1,6 @@
+Timestamp	From	To	Message
+2020-07-31 13:50:59.246945	mentos	naned	привет
+2020-07-31 13:51:23.467289	mentos	naned	я от Бузы
+2020-07-31 14:31:16.029876	mentos	naned	привет
+2020-10-08 12:55:34.601861	mentos	naned	привет
+2020-10-08 12:55:56.001747	naned	mentos	привет

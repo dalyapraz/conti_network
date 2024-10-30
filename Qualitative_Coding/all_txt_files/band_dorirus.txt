@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2020-07-30 14:24:34.781773	dorirus	band	Привет
+2020-07-31 11:03:42.664491	dorirus	band	Привет
+2020-09-02 14:05:59.498413	dorirus	band	Привет
+2020-09-02 14:06:02.724513	dorirus	band	[15:54:16] <buri> Hi! Poprosili sdelat' sleduyuschee
+
+на сервере с доменом https://serv-xyz.tk/ убрали ограничение на длинну гет и пост запросов
+2020-09-08 14:21:58.201581	dorirus	band	Привет
+2020-09-09 17:44:02.830874	dorirus	band	Привет

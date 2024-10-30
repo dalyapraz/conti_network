@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-10-07 10:48:19.386778	viper	dandis	привет новый чат HR klark 56ufdiIDFol https://my-ppl.com
+2021-10-07 12:56:49.260135	dandis	viper	+
+2021-10-07 12:56:51.226590	dandis	viper	Спс

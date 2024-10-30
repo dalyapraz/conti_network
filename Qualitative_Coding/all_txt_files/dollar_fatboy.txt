@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2021-10-06 19:37:26.354242	fatboy	dollar	hi
+2021-10-06 19:37:33.937475	dollar	fatboy	otr
+2021-10-06 19:37:40.263201	dollar	fatboy	est'?
+2021-10-06 19:38:04.569771	dollar	fatboy	y meanuy mnogo s coovke est' takix
+2021-10-07 12:51:39.986336	fatboy	dollar	privet
+2021-10-07 14:29:18.314919	fatboy	dollar	zakidival????
+2021-10-11 17:26:51.036078	dollar	fatboy	hey
+2021-10-11 17:26:53.727493	dollar	fatboy	soxodit?
+2021-10-11 17:26:58.174271	dollar	fatboy	ti kuda propl
+2022-02-09 12:52:13.725184	dollar	fatboy	hey
+2022-02-09 12:52:14.403573	dollar	fatboy	yo
+2022-02-09 12:52:19.183679	dollar	fatboy	otpishi mne kak bydesh' online bro

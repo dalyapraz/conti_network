@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-06-25 19:55:25.912846	deploy	david	Запустил. Есть?

@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2021-12-07 11:36:03.985522	dollar	tiniles	hey
+2021-12-07 11:36:04.426260	dollar	tiniles	yo
+2021-12-07 11:36:07.188556	dollar	tiniles	ti kto?
+2021-12-12 20:24:26.360702	dollar	tiniles	hey
+2021-12-12 20:24:26.362190	dollar	tiniles	yo
+2021-12-12 20:24:26.363222	dollar	tiniles	ti kto?
+2022-01-05 11:43:37.823435	dollar	tiniles	hey brodi
+2022-01-05 11:43:41.429482	dollar	tiniles	s novim godom teby!
+2022-01-05 11:44:42.622717	dollar	tiniles	hawk@  eto moi support, dobav' v etom jabbere ego plz.. on govorit ti s togo goda ne dobavil eshe ego))
+2022-01-05 16:47:24.034783	dollar	tiniles	hey brodi
+2022-01-05 16:47:24.035601	dollar	tiniles	s novim godom teby!
+2022-01-05 16:47:24.036510	dollar	tiniles	hawk@  eto moi support, dobav' v etom jabbere ego plz.. on govorit ti s togo goda ne dobavil eshe ego))

@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-08-04 10:18:40.064266	grant	mavelek	привет

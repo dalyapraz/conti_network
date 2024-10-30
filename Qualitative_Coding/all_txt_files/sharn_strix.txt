@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2020-07-24 17:21:06.053048	strix	sharn	hi
+2020-07-24 17:21:22.533887	strix	sharn	я сделал тебе впн, щас дам
+2020-07-24 17:28:57.967265	strix	sharn	https://www.sendspace.com/file/qw9081
+2020-07-24 17:29:19.592034	strix	sharn	Линк на удаление: https://www.sendspace.com/delete/qw9081/89ced182073f2a69cfd3dc4d66aef157

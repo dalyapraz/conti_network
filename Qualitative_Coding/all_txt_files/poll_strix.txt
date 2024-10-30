@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-08-21 10:01:38.601142	poll	strix	ky ky
+2020-08-21 10:01:42.587567	poll	strix	che s vpnami
+2020-08-21 10:01:46.704486	poll	strix	opayt nedelya proshla

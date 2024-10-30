@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-06-25 15:00:23.449350	hors	dollar	привет
+2021-06-25 16:15:43.955453	dollar	hors	hey
+2021-06-25 16:15:44.585405	dollar	hors	yo
+2021-06-25 16:15:49.426739	dollar	hors	moya new jaba

@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-03-13 06:17:22.382988	salamandra	twin	vladimir.tyrenko@mail.ru вот почта админа который готов пообщаться
+2021-03-14 18:37:44.137457	salamandra	twin	vladimir.tyrenko@mail.ru вот почта админа который готов пообщаться

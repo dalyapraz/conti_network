@@ -1,0 +1,67 @@
+Timestamp	From	To	Message
+2021-11-25 20:19:49.961886	begemot	dylan	Привет
+2021-11-25 20:19:49.965804	dylan	begemot	Привет
+2021-11-25 20:19:51.296036	begemot	dylan	111
+exe - bec
+http://root@195.149.87.59/var/www/html/bec_http_111_x64-1637769849-T0Z_64-cr.exe
+http://root@195.149.87.59/var/www/html/bec_http_111_x64-1637769859-T0B1Z_64-cr.exe
+http://root@195.149.87.59/var/www/html/bec_http_111_x64-1637769933-T0B123Z_64-cr.exe
+http://root@195.149.87.59/var/www/html/bec_http_111_x86-1637769971-T0B123Z_32-cr.exe
+https://root@195.149.87.59/var/www/html/bec_https_111_x64-1637770042-T0Z_64-cr.exe
+https://root@195.149.87.59/var/www/html/bec_https_111_x64-1637770051-T0B1Z_64-cr.exe
+https://root@195.149.87.59/var/www/html/bec_https_111_x64-1637770087-T0B123Z_64-cr.exe
+https://root@195.149.87.59/var/www/html/bec_https_111_x86-1637770089-T0Z_32-cr.exe
+https://root@195.149.87.59/var/www/html/bec_https_111_x86-1637770099-T0B1Z_32-cr.exe
+https://root@195.149.87.59/var/www/html/bec_https_111_x86-1637770126-T0B123Z_32-cr.exe
+exe-pe
+http://root@195.149.87.59/var/www/html/pe_http_111_x64-1637770240-T0B123Z_64-cr.exe
+http://root@195.149.87.59/var/www/html/pe_http_111_x64-1637770246-T0Z_64-cr.exe
+http://root@195.149.87.59/var/www/html/pe_http_111_x64-1637770256-T0B1Z_64-cr.exe
+https://root@195.149.87.59/var/www/html/pe_https_111_x64-1637770298-T0B123Z_64-cr.exe
+https://root@195.149.87.59/var/www/html/pe_https_111_x64-1637770347-T0Z_64-cr.exe
+https://root@195.149.87.59/var/www/html/pe_https_111_x64-1637770356-T0B1Z_64-cr.exe
+
+dll
+http://root@195.149.87.59/var/www/html/bec_http_111_x64-1637769815-T12Z_64-cr.dll
+http://root@195.149.87.59/var/www/html/bec_http_111_x64-1637769837-T12B1Z_64-cr.dll
+http://root@195.149.87.59/var/www/html/bec_http_111_x64-1637769920-T12B123Z_64-cr.dll
+http://root@195.149.87.59/var/www/html/bec_http_111_x86-1637769886-T12B1Z_32-cr.dll
+http://root@195.149.87.59/var/www/html/bec_http_111_x86-1637769956-T12B123Z_32-cr.dll
+https://root@195.149.87.59/var/www/html/bec_https_111_x64-1637770017-T12Z_64-cr.dll
+https://root@195.149.87.59/var/www/html/bec_https_111_x64-1637770033-T12B1Z_64-cr.dll
+https://root@195.149.87.59/var/www/html/bec_https_111_x64-1637770072-T12B123Z_64-cr.dll
+https://root@195.149.87.59/var/www/html/bec_https_111_x86-1637770066-T12Z_32-cr.dll
+https://root@195.149.87.59/var/www/html/bec_https_111_x86-1637770080-T12B1Z_32-cr.dll
+https://root@195.149.87.59/var/www/html/bec_https_111_x86-1637770112-T12B123Z_32-cr.dll
+2021-11-25 20:19:51.297869	dylan	begemot	111
+exe - bec
+http://root@195.149.87.59/var/www/html/bec_http_111_x64-1637769849-T0Z_64-cr.exe
+http://root@195.149.87.59/var/www/html/bec_http_111_x64-1637769859-T0B1Z_64-cr.exe
+http://root@195.149.87.59/var/www/html/bec_http_111_x64-1637769933-T0B123Z_64-cr.exe
+http://root@195.149.87.59/var/www/html/bec_http_111_x86-1637769971-T0B123Z_32-cr.exe
+https://root@195.149.87.59/var/www/html/bec_https_111_x64-1637770042-T0Z_64-cr.exe
+https://root@195.149.87.59/var/www/html/bec_https_111_x64-1637770051-T0B1Z_64-cr.exe
+https://root@195.149.87.59/var/www/html/bec_https_111_x64-1637770087-T0B123Z_64-cr.exe
+https://root@195.149.87.59/var/www/html/bec_https_111_x86-1637770089-T0Z_32-cr.exe
+https://root@195.149.87.59/var/www/html/bec_https_111_x86-1637770099-T0B1Z_32-cr.exe
+https://root@195.149.87.59/var/www/html/bec_https_111_x86-1637770126-T0B123Z_32-cr.exe
+exe-pe
+http://root@195.149.87.59/var/www/html/pe_http_111_x64-1637770240-T0B123Z_64-cr.exe
+http://root@195.149.87.59/var/www/html/pe_http_111_x64-1637770246-T0Z_64-cr.exe
+http://root@195.149.87.59/var/www/html/pe_http_111_x64-1637770256-T0B1Z_64-cr.exe
+https://root@195.149.87.59/var/www/html/pe_https_111_x64-1637770298-T0B123Z_64-cr.exe
+https://root@195.149.87.59/var/www/html/pe_https_111_x64-1637770347-T0Z_64-cr.exe
+https://root@195.149.87.59/var/www/html/pe_https_111_x64-1637770356-T0B1Z_64-cr.exe
+
+dll
+http://root@195.149.87.59/var/www/html/bec_http_111_x64-1637769815-T12Z_64-cr.dll
+http://root@195.149.87.59/var/www/html/bec_http_111_x64-1637769837-T12B1Z_64-cr.dll
+http://root@195.149.87.59/var/www/html/bec_http_111_x64-1637769920-T12B123Z_64-cr.dll
+http://root@195.149.87.59/var/www/html/bec_http_111_x86-1637769886-T12B1Z_32-cr.dll
+http://root@195.149.87.59/var/www/html/bec_http_111_x86-1637769956-T12B123Z_32-cr.dll
+https://root@195.149.87.59/var/www/html/bec_https_111_x64-1637770017-T12Z_64-cr.dll
+https://root@195.149.87.59/var/www/html/bec_https_111_x64-1637770033-T12B1Z_64-cr.dll
+https://root@195.149.87.59/var/www/html/bec_https_111_x64-1637770072-T12B123Z_64-cr.dll
+https://root@195.149.87.59/var/www/html/bec_https_111_x86-1637770066-T12Z_32-cr.dll
+https://root@195.149.87.59/var/www/html/bec_https_111_x86-1637770080-T12B1Z_32-cr.dll
+https://root@195.149.87.59/var/www/html/bec_https_111_x86-1637770112-T12B123Z_32-cr.dll

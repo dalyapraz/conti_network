@@ -1,0 +1,10 @@
+Timestamp	From	To	Message
+2021-03-05 07:23:48.838151	professor	cosmos	5*20=
+2021-03-05 07:24:09.922139	cosmos	professor	100
+2021-03-05 07:24:10.984126	professor	cosmos	5*20=
+2021-03-05 07:24:17.544842	cosmos	professor	100
+2021-03-05 07:24:18.737039	professor	cosmos	5*20=
+2021-03-05 07:24:22.677737	cosmos	professor	ку
+2021-03-05 18:20:34.791308	cosmos	professor	ага
+2021-03-05 18:24:07.397781	cosmos	professor	ага
+2021-03-05 18:24:08.895457	professor	cosmos	5*20=

@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-04-06 18:09:42.913919	mavemat	professor	Привет, черкани как будешь

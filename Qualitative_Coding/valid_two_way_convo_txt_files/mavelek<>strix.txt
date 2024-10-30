@@ -1,0 +1,32 @@
+Timestamp	From	To	Message
+2020-08-04 16:58:28.479085	mavelek	strix	hi
+2020-08-04 16:58:28.480377	strix	mavelek	hi
+2020-08-04 16:58:52.059027	mavelek	strix	hi
+2020-08-04 17:16:39.441430	strix	mavelek	Привет
+2020-08-04 17:17:19.661014	strix	mavelek	В ростер вбил mavalek@... вместо mavelek@... и как в стену
+2020-08-04 17:17:31.928067	mavelek	strix	ja ushe ponjal ))
+2020-08-04 17:17:51.605362	strix	mavelek	щас дам соксы
+2020-08-04 17:18:19.680742	strix	mavelek	root 185.90.61.87 DxoZgCsXo4smThK1tYgF
+2020-08-04 17:18:23.399661	strix	mavelek	вот этот
+2020-08-04 17:18:37.289590	strix	mavelek	root 185.17.121.162 1vPb1THr82O4
+2020-08-04 17:18:46.215718	strix	mavelek	и вот этот
+2020-08-04 17:19:10.984943	strix	mavelek	порт 7081
+логин mavelek
+пасс Asdqwe123!!
+2020-08-04 17:19:16.667876	strix	mavelek	пробуй
+2020-08-04 17:45:59.077277	mavelek	strix	[FATAL] mavelek:Asdqwe123!!@185.90.61.87:7081
+cURL error 7: Failed to connect to 185.90.61.87 port 7081: Connection refused 
+
+[FATAL] mavelek:Asdqwe123!!@185.17.121.162:7081
+cURL error 7: Failed to connect to 185.17.121.162 port 7081: Connection refused
+2020-08-04 17:47:08.477703	mavelek	strix	mavelek: [FATAL] mavelek:Asdqwe123!!@185.90.61.87:7081
+cURL error 7: Failed to connect to 185.90.61.87 port 7081: Connection refused 
+
+[FATAL] mavelek:Asdqwe123!!@185.17.121.162:7081
+cURL error 7: Failed to connect to 185.17.121.162 port 7081: Connection refused
+2020-08-04 17:58:04.572971	strix	mavelek	во они оказывается 1080 порт слушают
+2020-08-04 17:58:11.069266	strix	mavelek	щас поправлю
+2020-08-04 18:08:14.978064	strix	mavelek	а ща?
+2020-08-04 18:08:25.223865	strix	mavelek	а щас?
+2020-08-04 18:10:46.262697	mavelek	strix	vse ok sps
+2020-08-04 18:18:31.036323	strix	mavelek	гут

@@ -1,0 +1,20 @@
+Timestamp	From	To	Message
+2021-12-07 19:41:53.203991	demon	professor	1
+2021-12-23 14:10:22.740291	demon	professor	1
+2021-12-23 14:10:40.078274	professor	demon	5*20=
+2021-12-23 14:15:08.313226	professor	demon	5*20=
+2021-12-23 14:15:15.756863	demon	professor	100
+2021-12-27 21:30:33.842433	demon	professor	1
+2021-12-27 21:32:01.884709	demon	professor	1
+2021-12-27 21:32:18.488627	professor	demon	5*20=
+2021-12-27 21:32:26.441912	demon	professor	100
+2021-12-27 21:41:46.842593	demon	professor	1
+2021-12-27 21:41:48.535374	professor	demon	5*20=
+2021-12-27 21:41:51.978133	demon	professor	100
+2021-12-27 21:42:16.890153	demon	professor	1
+2021-12-27 21:42:20.280472	demon	professor	1
+2021-12-27 21:42:21.845803	demon	professor	777
+2021-12-27 21:42:23.048307	professor	demon	правильный ответ - 777
+2021-12-27 21:42:36.644161	demon	professor	77
+2021-12-27 21:42:37.749336	demon	professor	777
+2021-12-27 21:42:45.648803	demon	professor	777

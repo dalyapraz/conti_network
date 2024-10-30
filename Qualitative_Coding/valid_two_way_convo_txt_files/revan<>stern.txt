@@ -1,0 +1,41 @@
+Timestamp	From	To	Message
+2020-07-31 17:46:45.260097	stern	revan	ghbdtn
+2020-07-31 17:46:46.061330	stern	revan	Привет
+2020-07-31 17:46:47.469191	stern	revan	сейчас можно
+2020-07-31 17:46:51.704922	stern	revan	тут?
+2020-08-03 18:45:03.956848	revan	stern	18UAaEdnyJjPMR34CRS5S7pjCH7xqkpT5Q koshelek
+2020-08-04 08:33:15.990093	revan	stern	18UAaEdnyJjPMR34CRS5S7pjCH7xqkpT5Q koshelek
+2020-08-04 08:36:24.268413	stern	revan	тебе какую зп обещали?
+2020-08-04 10:14:02.355778	stern	revan	тебе какую зп обещали?
+2020-08-20 16:18:37.011798	stern	revan	Привет
+2020-08-20 16:18:38.425739	stern	revan	по зп ко мне
+2020-08-20 16:19:34.411589	revan	stern	aga, mne bentley skazal chto ti prosil tebe otpisat'
+2020-08-20 19:55:08.950764	revan	stern	aga, mne bentley skazal chto ti prosil tebe otpisat'
+2020-09-01 12:54:19.057135	stern	revan	ты тут?
+2020-09-01 12:54:29.534992	revan	stern	da
+2020-09-01 12:54:30.736175	revan	stern	privet
+2020-09-01 12:54:40.310099	stern	revan	стукни buza@
+2020-09-01 12:54:54.950271	revan	stern	+
+2020-09-01 12:54:57.732638	stern	revan	распиши свой рабочий день
+2020-09-01 12:55:00.533371	stern	revan	и обязанности
+2020-09-01 12:55:09.540689	revan	stern	horosho, sdelayu
+2020-09-02 12:46:44.259969	stern	revan	Привет
+2020-09-02 12:46:49.387478	stern	revan	почему вы узнали что не работают ав
+2020-09-02 12:46:58.222403	stern	revan	только когда таргет написал об этом bentley ?
+2020-09-02 15:49:14.886516	revan	stern	seychas testiruyu dl7_x64_release_nologs.exe
+2020-09-02 19:33:13.283582	revan	stern	seychas testiruyu dl7_x64_release_nologs.exe
+2020-09-08 12:46:30.576733	stern	revan	Привет готов тебе скниуть бонус за управление
+2020-09-08 12:46:34.727843	stern	revan	создай на 140к платеж
+2020-09-08 12:46:37.995531	stern	revan	не туда
+2020-09-08 15:39:37.571677	revan	stern	Privet)
+2020-09-08 15:47:11.951859	stern	revan	привет
+2020-09-08 15:47:12.976355	stern	revan	как дела?
+2020-09-08 15:47:17.555432	stern	revan	расти по тестам
+2020-09-08 15:47:20.044012	stern	revan	у нас там руки свзан
+2020-09-08 15:47:22.051209	stern	revan	связаны
+2020-09-08 15:47:25.479605	stern	revan	нужны инициативы
+2020-09-08 15:47:28.379793	stern	revan	чтобы быстрее тесты проходили
+2020-09-08 15:47:31.119530	stern	revan	и более крутые были
+2020-09-08 15:48:26.561188	revan	stern	Dela v poryadke, vse horosho. 
+Peregovoril s buza, reshil chto budu poran'shevihodit'
+2020-09-15 14:45:31.834159	stern	revan	ты куда пропал????

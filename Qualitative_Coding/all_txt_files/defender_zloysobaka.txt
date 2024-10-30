@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2020-10-14 13:54:39.676230	zloysobaka	defender	привет
+2020-10-14 13:54:53.277471	zloysobaka	defender	<steller@
+Сейчас я проект backdoor-js создам в gitlab
+Пока можешь взять логин и пароль у дефендера

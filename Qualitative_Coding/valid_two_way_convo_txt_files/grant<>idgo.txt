@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2021-03-19 10:50:44.384117	grant	idgo	привет
+2021-03-22 13:09:00.580248	idgo	grant	Download: https://qaz.im/load/e6z76k/bB75bZ
+Delete: https://qaz.im/index.php?a=delete&q=2044017498
+123
+на х86 есть 2 детекта 
+https://dyncheck.com/scan/id/3f4b08af3fdb2856e66387fb31ca07b3

@@ -1,0 +1,586 @@
+Timestamp	From	To	Message
+2020-06-22 09:31:42.396514	defender	carter	привет
+2020-06-22 09:31:44.175453	defender	carter	ты тут?
+2020-06-22 09:31:54.504935	defender	carter	есть акк где нибудь в жабе кроме этой?
+2020-06-22 10:08:52.403534	defender	carter	[13:08:19] <defender> зайди в ту жабу которую ты мне прислал
+[13:08:22] <defender> это для тебя
+[13:08:39] <defender> будь в ней также как в этой на всякий случай
+2020-06-22 11:59:04.813384	defender	carter	выйди в ту жабу, я тебе пишу
+2020-06-22 12:01:26.811763	defender	carter	выйди в ту жабу, я тебе пишу
+2020-06-22 13:46:05.334441	defender	carter	тебе буза поручал оплатить антивирусы?
+2020-06-22 13:49:49.623100	carter	defender	да, закончу сегодня если денег хватит
+2020-06-22 13:50:20.435069	defender	carter	напиши список какие ты покупаешь
+2020-06-22 13:50:31.205817	defender	carter	лицензии нужны уже срочно
+2020-06-22 13:50:43.688418	defender	carter	если не хватит пиши стерну или мне
+2020-06-22 13:52:56.708264	carter	defender	
+этот список мне бэнтли отправил, аваст я уже купил 
+
+ggfhfhhvcfdhgjyg7t88958685@gmail.com:K9PfTX3pd87Z:joseph.jacqueline@mail.ru:3AnrFz80tAy:9372658681:USA
+
+------------------------------------------------
+1. Eset           +++++
+https://eba.eset.com
+ggfhfhhvcfdhgjyg7t88958685@gmail.com
+123Ckj;ysqgfhjkm
+E32R-X3UV-G887-GJ4F-EDUN
+------------------------------------------------
+2. Bit Defender
+https://cloud.gravityzone.bitdefender.com
+https://central.bitdefender.com/download?install_code=73909d66-2a8c-46e0-a542-74
+ggfhfhhvcfdhgjyg7t88958685@gmail.com:K9PfTX3pd87Z
+------------------------------------------------
+3. Sophos
+https://cloud.sophos.com
+ggfhfhhvcfdhgjyg7t88958685@gmail.com:K9PfTX3pd87Z
+https://dzr-api-amzn-us-west-2-fa88.api-upe.p.hmr.sophos.com/api/download/37bdfc
+------------------------------------------------
+4. Webroot         +++++         
+https://identity.webrootanywhere.com/v1/Account/login
+minakerawatsonn@gmail.com
+123Ckj;ysqgfhjkm
+113113
+-------------------------------------------------
+5. Trendmicro       
+https://www.trendmicro.com/product_trials/service/index/us/157
+ https://tm.login.trendmicro.com/
+jose888
+Asdqwe123
+-------------------------------------------------
+6. Crowdstrike   --------   iieo?eou ei?i iuei
+7. MAcafee         
+http://b2b-download.mcafee.com/products/evaluation/Endpoint_Security/Evaluation/10.7.0/McAfee_Endpoint_Security_10_7_0_667_17_bundle.zip
+8. Symantec   
+9 CrowdStrike
+10. Аваст бизнес            
+https://www.avast.com/en-us/download-thank-you.php?product=BMS
+2020-06-22 13:53:18.842473	carter	defender	хорошо
+2020-06-22 13:55:31.813665	defender	carter	антивирусы это приоритет сегодня
+2020-06-22 13:55:36.415340	defender	carter	надо докупить как можно скорее
+2020-06-22 13:55:58.309199	defender	carter	скидывай мне как покупаешь каждый
+2020-06-22 13:56:03.960387	carter	defender	хорошо
+2020-06-22 13:57:57.261755	carter	defender	
+Avast Business Antivirus 
+catuta@tuta.io Asdqwe123!!!
+R5UJ42-G5P9D2-42UAMJ
+2020-06-22 18:00:07.676566	carter	defender	
+McAfee
+catuta@tuta.io Asdqwe123!!!
+
+Sophos
+catuta@tuta.io Asdqwe123!!!
+
+Webroot  
+catuta@tuta.io Asdqwe123!!!
+4516ONLN649BEB4B4930
+2020-06-22 18:06:06.630646	defender	carter	ок, стерн пока на связи если не хватает возьми у него, чтобы точно все купить
+2020-06-23 08:08:57.447547	defender	carter	привет
+2020-06-23 08:09:03.105876	defender	carter	173.232.146.199 лежит срочно
+2020-06-23 08:12:00.567556	defender	carter	ты тут?
+2020-06-23 08:12:05.943872	defender	carter	ждать тебя или самому оплатить
+2020-06-23 08:51:15.902489	defender	carter	я оплатил
+2020-06-23 08:51:33.748662	defender	carter	записывай себе севрера которые я тебе за месяц сказал, и продлевай их автоматом
+2020-06-23 08:51:43.865958	defender	carter	а то работа у людей стоит
+2020-06-23 08:54:31.821077	defender	carter	173.232.146.72 тоже лежит
+2020-06-23 08:55:21.600189	defender	carter	хотя этот вроде нет
+2020-06-23 08:56:30.151320	carter	defender	привет, он в панели активный
+2020-06-23 09:02:54.667383	defender	carter	срочно
+2020-06-23 09:03:04.661812	defender	carter	у тебя есть 700-800долл?
+2020-06-23 09:03:09.870003	defender	carter	главный сервер упал
+2020-06-23 09:03:25.203313	defender	carter	у меня не хватает, он дорогой
+2020-06-23 09:06:33.804035	carter	defender	столько толчно нет, осталось около 200
+2020-06-23 09:07:14.346555	defender	carter	хреново, отпишу в сапорт попрошу включить
+2020-06-23 11:19:22.892177	defender	carter	нужны 2 впс в европе и 2 впс юса, дебиан 9 на всех, конфа минимальная
+2020-06-23 11:20:46.785559	defender	carter	нужны 2 впс в европе и 2 впс юса, дебиан 9 на всех, конфа минимальная
+2020-06-23 11:23:28.742781	carter	defender	[jhjij
+2020-06-23 11:23:31.688045	carter	defender	хорошо
+2020-06-23 12:59:24.870979	carter	defender	
+root 170.130.55.97 cfcf7404c0 vps2day.com dastom@ro.ru eae8565bce US
+root 94.140.115.6 jWrCz1SCYpA6YS4 yourserver.se dastom@ro.ru popo00-- EU
+root 170.130.55.82 f9bddab80e vps2day.com gremat@rambler.ua 5b5c67fa14 US
+root 94.140.114.92 OfNtxQrTdLIN7VL yourserver.se nws1980@protonmail.com popo00-- EU
+2020-06-23 13:08:59.524675	defender	carter	принял
+2020-06-24 12:37:34.193389	defender	carter	ЕЩЕ РАЗ ВСЕМ кто не скинул мне свою резервную жабу, скиньте сейчас! Чтобы с вами был контакт если эта жаба накроется. Она сейчас не стабильная. Если аккаунта нет, регайте на любой сервисе exploit.im, xmpp.jp, jabb.im, jabber.ru и других
+2020-06-24 12:38:10.256076	carter	defender	
+ещё анттивирусы 
+
+Bit Defender
+catuta@tuta.io Asdqwe123!!!
+
+Norton
+catuta@tuta.io Asdqwe123!!!
+
+Eset
+muroru@ro.ru cXcx11!!
+2020-06-24 12:39:22.057849	defender	carter	ок
+2020-07-06 07:48:27.955886	carter	defender	привет, 148.251.99.95 мавемата нужнооплатить, сможешь отправить 48 евро?
+2020-07-13 12:25:45.724040	carter	defender	привет, у тебя есть возможность отправить 22евро для оплаты 88.119.174.209 ?
+2020-07-16 12:48:22.901560	defender	carter	привет
+2020-07-16 12:48:24.403851	defender	carter	ты где?
+2020-07-16 12:48:42.984695	defender	carter	88.119.174.219 и 45.11.183.18 я продлил
+2020-07-16 12:48:43.888787	defender	carter	запиши себе
+2020-07-16 13:58:57.159490	defender	carter	привет
+2020-07-16 13:58:57.160819	defender	carter	ты где?
+2020-07-16 13:58:57.164536	defender	carter	88.119.174.219 и 45.11.183.18 я продлил
+2020-07-16 13:58:57.166487	defender	carter	запиши себе
+2020-07-18 15:49:46.980919	carter	defender	привет, есть возможность отправить 15$ за два сервера стриса?
+2020-07-18 20:56:07.634613	defender	carter	привет, я оплатил все севрера от стрикса
+2020-07-18 21:19:53.817040	defender	carter	привет, я оплатил все севрера от стрикса
+2020-07-22 14:46:55.337066	carter	defender	привет, у тебя есть возможность отправить 50$ для  216.244.83.226 ?
+2020-07-22 14:59:04.490796	defender	carter	привет
+2020-07-22 14:59:07.195988	defender	carter	да давай скорее
+2020-07-22 14:59:15.689815	defender	carter	надо быстрее поднять
+2020-07-22 15:44:45.014890	carter	defender	216.244.83.226 активный
+2020-07-24 15:24:51.659276	carter	defender	привет, можешь, пожалуйста, отправить 6.5 евро для 94.140.114.254 ?
+2020-07-29 12:56:59.855924	carter	defender	
+62.75.216.38 работает
+185.86.148.63 закрыт в ноябре
+185.183.99.149 закрыт в декабре
+51.75.181.36 нет панели
+85.204.116.221 хост замены закрыт в сентябре
+107.174.61.157 закрыт в ноябре
+192.169.6.82 нет панели
+
+BIILLPI 185.202.174.71 закрыт в апреле
+BIILLPI 23.94.233.253 хост закрыт, ты отправлял панель
+2020-08-07 07:56:13.025069	carter	defender	
+привет, это новый сервер стрикса, он просил тебе переотправить конф и доступы
+
+root 217.12.204.61 0sYWLENVJWpD my.itldc.com ixoxo@tuta.io cXcx11!!
+4c/8t Core / 16Gb RAM / 2x500Gb HDD
+2020-08-07 11:54:14.122715	carter	defender	привет, сможешь 45 евро отправить? мне не хватает его закрыть
+2020-08-10 15:51:03.841347	defender	carter	192.99.211.47 лежит
+2020-08-10 16:03:04.210410	defender	carter	192.99.211.47 лежит
+2020-08-10 16:07:40.424170	carter	defender	по оплате ок, пробую ребут пишет Unable to communicate with the remote host, since it is disconnected.
+напишу в поддержку
+2020-08-10 16:10:44.766705	carter	defender	у стртикса ещё три сервера нужно оплатить два по 10 евро и 20, у тебя есть возможность оплатить?
+2020-08-10 16:12:34.704082	defender	carter	да
+2020-08-10 16:18:52.000232	carter	defender	
+32BuvXNXrvBNexrXHv7Wi7UWBadzhPTK1t
+0.00168000
+
+3AFSA4evewcyvLRjwQ5Fr8xmWvxpgLsRi7
+0.00098413
+2020-08-10 16:20:03.486777	carter	defender	376gVX4dj2udu719kzPwstUeF9AW3W4Hok
+0.0009831
+2020-08-10 16:29:22.258048	defender	carter	отправил
+2020-08-11 15:02:27.599169	defender	carter	194.76.226.98 лежит до сиз пор!
+2020-08-11 15:10:23.190110	defender	carter	194.76.226.98 лежит до сиз пор!
+2020-08-11 15:13:34.987359	carter	defender	194.76.226.98 активный сейчас
+насчет 192.99.211.47 тикет в статусе In Progress до сих пор и ответа не было ещё никакого, подождать ещё или новый делать?
+2020-08-11 15:16:06.460043	defender	carter	подожди
+2020-08-11 17:09:54.395076	defender	carter	есть ответ?
+2020-08-11 17:12:34.940174	carter	defender	нет, написал им
+2020-08-11 18:17:59.555722	defender	carter	есть?
+2020-08-11 18:24:31.218175	carter	defender	не оттвеччают
+2020-08-11 19:54:53.937760	defender	carter	до утра если не ответят то регай замену
+2020-08-11 19:55:15.855554	carter	defender	хорошо
+2020-08-11 20:52:26.857265	defender	carter	MODULES_SERVERS FAIL 185.25.51.139:447 ping down
+2020-08-11 20:52:28.011241	defender	carter	проверь
+2020-08-12 12:35:06.221435	defender	carter	173.232.146.72 лежит
+2020-08-12 13:52:06.899916	defender	carter	173.232.146.72 лежит
+2020-08-13 18:09:36.204617	carter	defender	жду выдачи
+2020-08-25 21:19:47.241530	defender	carter	выясни почему я сюда не могу ссх зайти 88.119.175.123
+2020-08-26 06:56:44.833292	defender	carter	выясни почему я сюда не могу ссх зайти 88.119.175.123
+2020-09-01 19:19:08.759269	defender	carter	и что с сервером?
+2020-09-01 19:19:13.748984	defender	carter	51.89.125.117
+2020-09-01 19:19:27.636717	defender	carter	почему до сих пор нет никакой инфы???
+2020-09-02 08:01:25.564102	defender	carter	и что с сервером?
+2020-09-02 08:01:25.565872	defender	carter	51.89.125.117
+2020-09-02 08:01:25.567150	defender	carter	почему до сих пор нет никакой инфы???
+2020-09-09 08:12:15.285572	defender	carter	привет, как выйдешь стукни
+2020-09-09 08:33:18.239491	defender	carter	срочно нужен
+2020-09-09 08:33:21.866281	defender	carter	ты где?
+2020-09-09 09:37:14.458224	defender	carter	привет, как выйдешь стукни
+2020-09-09 09:37:14.459375	defender	carter	срочно нужен
+2020-09-09 09:37:14.460878	defender	carter	ты где?
+2020-09-11 14:40:25.334298	defender	carter	тут?
+2020-09-11 14:40:36.125399	defender	carter	что у тебя с эжабой?
+2020-09-11 14:40:43.857578	defender	carter	пишу сообщения не уходят
+2020-09-11 14:40:47.178792	defender	carter	отр не включается
+2020-09-11 14:41:10.504357	defender	carter	198.46.198.111 нет пинга
+
+и замена для этого 192.99.211.47 готова?
+2020-09-11 14:41:14.840650	defender	carter	почини отр
+2020-09-11 14:41:38.753403	carter	defender	тут, с отр проблема какая-то, в настройках psi как раз смотрю, не включачется
+2020-09-11 19:06:22.338554	defender	carter	ты получил про сервера который надо регать мои сообщения?
+2020-09-12 14:06:39.201748	defender	carter	ты там дедики что ли заказал? почему так долго?
+2020-09-12 14:06:49.764802	defender	carter	я же говорил впски надо
+2020-09-12 14:09:30.362028	defender	carter	ты там дедики что ли заказал? почему так долго?
+2020-09-12 14:09:30.365827	defender	carter	я же говорил впски надо
+2020-09-12 14:40:54.187741	carter	defender	я да только дедики купил, впс с такими требованиями не делают почти и у меня нет сообщений о том, что впски нужны были, там дедики написаны
+2020-09-12 15:17:43.215732	defender	carter	[22:04:53] <defender> можно впс
+[22:05:00] <defender> только у проверенных хостеров
+[22:05:06] <defender> и везде безлимит траф
+2020-09-12 15:17:50.180927	defender	carter	я тебе писал что впс
+2020-09-12 15:18:05.294405	defender	carter	тк знал что дедики выдают долго
+2020-09-12 15:18:15.233959	defender	carter	сколько еще ждать?
+2020-09-12 15:18:20.937209	carter	defender	я не знаю
+2020-09-12 15:18:45.869178	carter	defender	там под впс по требованиям только второй подойдет
+2020-09-12 15:18:46.982841	defender	carter	узнай
+2020-09-12 15:18:59.814318	defender	carter	люди вышли получается напрасно сегодня
+2020-09-12 15:19:15.144262	defender	carter	
+» там под впс по требованиям только второй подойдет
+а я откуда знал, написал бы
+2020-09-12 15:34:22.012843	defender	carter	напиши в апорт поторопи их
+2020-09-13 13:13:42.444049	defender	carter	5. Модули - 4 ядер, 4гб памяти, диск 512гб ссд
+2020-09-13 13:13:44.759254	defender	carter	а этот?
+2020-09-13 13:13:47.381097	defender	carter	привет
+2020-09-13 14:03:47.665554	defender	carter	5. Модули - 4 ядер, 4гб памяти, диск 512гб ссд
+2020-09-13 14:03:47.667357	defender	carter	а этот?
+2020-09-13 14:03:47.668500	defender	carter	привет
+2020-09-18 21:32:17.270897	defender	carter	vserv455 FAIL 62.75.216.38 on port 53 failed
+vserv455 FAIL 185.86.148.63 on port 53 failed
+2020-09-18 21:32:22.614279	defender	carter	что с ними?
+2020-09-19 07:51:47.717794	defender	carter	vserv455 FAIL 62.75.216.38 on port 53 failed
+vserv455 FAIL 185.86.148.63 on port 53 failed
+2020-09-19 07:51:47.719096	defender	carter	что с ними?
+2020-09-19 08:42:00.911249	defender	carter	[00:32:16] <defender> vserv455 FAIL 62.75.216.38 on port 53 failed
+vserv455 FAIL 185.86.148.63 on port 53 failed
+
+[00:32:22] <defender> что с ними?
+2020-09-19 08:42:03.733096	defender	carter	привет
+2020-09-22 23:11:47.984474	defender	carter	216.244.83.226 лежит
+2020-09-23 04:32:06.280835	defender	carter	216.244.83.226 лежит
+2020-09-24 10:16:27.832808	defender	carter	пока нет стрикса
+зайди в панели последнего списка и переустанови дебиан на 9 версию
+2020-09-24 11:00:11.041806	defender	carter	в админке серверов твоей все актуально?
+2020-09-24 11:01:50.560021	defender	carter	мне нужен список актуальных серверов с припиской для кого и что на нем
+2020-09-24 11:02:03.585671	defender	carter	надо сегодня как можно скорее
+2020-09-24 11:02:06.229047	carter	defender	проверить нужно и новые добавить
+2020-09-24 19:20:44.099023	defender	carter	[22:13:29] <strix> 32 рабочие, 4 нерабочие
+[22:13:55] <strix> итого, 8 штук не хватает до 40-ка
+2020-09-24 19:20:49.723137	defender	carter	8 впс надо еще
+2020-09-24 19:20:55.962783	defender	carter	деб 9 сразу заказывай
+2020-09-25 02:40:02.954379	defender	carter	[22:13:29] <strix> 32 рабочие, 4 нерабочие
+[22:13:55] <strix> итого, 8 штук не хватает до 40-ка
+2020-09-25 02:40:02.955910	defender	carter	8 впс надо еще
+2020-09-25 02:40:02.957160	defender	carter	деб 9 сразу заказывай
+2020-09-26 11:23:47.457770	defender	carter	срочно выходи
+2020-09-26 11:23:48.599728	defender	carter	привет
+2020-09-26 11:23:53.968914	defender	carter	надо оплатить сервера стрикса
+2020-09-26 20:48:52.652018	defender	carter	срочно выходи
+2020-09-26 20:48:52.653310	defender	carter	привет
+2020-09-26 20:48:52.654805	defender	carter	надо оплатить сервера стрикса
+2020-09-28 17:38:29.710452	defender	carter	в чем пробелма, почему не сменил пароль на хостинг сервера 185.25.50.213?
+2020-09-28 18:56:26.703559	defender	carter	173.232.146.170 лежит до сих пор
+2020-09-28 18:56:29.513880	defender	carter	что за херня
+2020-09-28 19:09:05.477396	defender	carter	попросил же проверить все домены
+2020-09-28 19:09:08.931226	defender	carter	onixcellent.com не работает
+2020-09-28 19:11:01.437776	defender	carter	я хз как с тобой еще разговаривать, видимо штрафы пора вводить
+2020-09-28 19:20:26.760272	defender	carter	пасс не подходит к панели этого домена
+2020-09-29 00:01:37.529814	defender	carter	в чем пробелма, почему не сменил пароль на хостинг сервера 185.25.50.213?
+2020-09-29 00:01:37.531798	defender	carter	173.232.146.170 лежит до сих пор
+2020-09-29 00:01:37.533627	defender	carter	что за херня
+2020-09-29 00:01:37.537108	defender	carter	попросил же проверить все домены
+2020-09-29 00:01:37.538524	defender	carter	onixcellent.com не работает
+2020-09-29 00:01:37.539692	defender	carter	я хз как с тобой еще разговаривать, видимо штрафы пора вводить
+2020-09-29 00:01:37.541364	defender	carter	пасс не подходит к панели этого домена
+2020-09-29 05:43:42.525925	carter	defender	
+ты спрашивал у меня пароль от почты с этим доменом 22 сентября, и ещё просил отписать поддержке насчет
+блокировки 
+домена 
+onixcellent.com
+они не ответили и 26го числа от хостинга домена письмо 
+Пароль к Вашему DomenBurg.com аккаунту: okx@keemail.me (ID: 20619784) был изменен успешно.
+
+через 3 часа следующее
+Нами был получен запрос на смену имени пользователя (Email-адрес) Вашего аккаунта. Вы можете просмотреть изменения ниже.
+Новый Email-адрес: dediserv@tutanota.com
+
+чья это почта я не знаю. 
+
+173.232.146.170 активный и днем пинговался
+
+185.25.50.213 нужно заменить, мой пароль на почту не проходит и в панель теперь тоже
+2020-09-29 18:00:47.490657	carter	defender	все сервера акттивные, пароли всё ещё меняю
+2020-10-05 19:57:02.709445	defender	carter	напиши как появишься
+2020-10-05 19:57:05.464739	defender	carter	срочно поднять сервер
+2020-10-05 20:19:26.881058	defender	carter	в общем проверь эти сервера https://privnote.com/f3mZVq7X#Hzmug299K
+2020-10-05 20:19:58.801885	defender	carter	и новые пароли внеси в админку
+2020-10-05 20:20:06.308143	defender	carter	не могу зайти не в одну панель когда тебя нет
+2020-10-06 07:10:39.898724	defender	carter	напиши как появишься
+2020-10-06 07:10:39.899904	defender	carter	срочно поднять сервер
+2020-10-06 07:10:39.901270	defender	carter	в общем проверь эти сервера https://privnote.com/f3mZVq7X#Hzmug299K
+2020-10-06 07:10:39.902304	defender	carter	и новые пароли внеси в админку
+2020-10-06 07:10:39.903464	defender	carter	не могу зайти не в одну панель когда тебя нет
+2020-10-15 11:26:44.154044	defender	carter	ты где?
+2020-10-15 12:14:32.355926	defender	carter	ты где?
+2020-10-15 19:22:38.025469	defender	carter	куда ты пропал?
+2020-10-15 19:22:46.275169	defender	carter	тебе реально похер на все что ли
+2020-10-15 19:22:57.291308	defender	carter	люди сидят ждут весь день
+2020-10-16 07:39:03.563805	defender	carter	куда ты пропал?
+2020-10-16 07:39:03.565827	defender	carter	тебе реально похер на все что ли
+2020-10-16 07:39:03.566921	defender	carter	люди сидят ждут весь день
+2020-10-16 10:41:29.356281	carter	defender	<carter> за вторую сможешь отправить 5$ сейчас выдадут
+2020-10-17 07:06:11.505673	carter	defender	да, не проходит
+2020-10-17 07:06:15.938917	carter	defender	привет
+2020-10-17 09:42:59.039981	defender	carter	привет
+2020-10-17 09:43:03.788395	defender	carter	и что делать?
+2020-10-17 09:43:06.809498	defender	carter	почта твоя?
+2020-10-17 10:19:21.232767	defender	carter	привет
+2020-10-17 10:19:21.233508	defender	carter	и что делать?
+2020-10-17 10:19:21.234305	defender	carter	почта твоя?
+2020-10-17 10:21:12.481926	carter	defender	доступ ид пользователя и пароль, почту ты мне не отправлял
+2020-10-17 10:22:22.766623	carter	defender	там можно на почту сбросить пароль,
+2020-10-17 11:20:25.142591	carter	defender	доступ ид пользователя и пароль, почту ты мне не отправлял
+2020-10-17 11:20:25.145989	carter	defender	там можно на почту сбросить пароль,
+2020-10-18 19:06:42.742901	defender	carter	привет
+2020-10-18 19:06:53.855997	defender	carter	зарегай к утру замену 74.222.20.105 этому
+2020-10-18 20:19:51.684291	defender	carter	привет
+2020-10-18 20:19:51.835449	defender	carter	зарегай к утру замену 74.222.20.105 этому
+2020-10-21 08:48:20.518529	defender	carter	привет
+2020-10-21 08:48:21.541235	defender	carter	тут?
+2020-10-21 11:15:15.970316	defender	carter	какой из них самый стабильный
+2020-10-21 11:15:34.134527	defender	carter	посмотри по старым серверам у кого заказан самый старый и работает
+2020-10-21 11:27:49.398933	defender	carter	какой из них самый стабильный
+2020-10-21 11:27:49.591908	defender	carter	посмотри по старым серверам у кого заказан самый старый и работает
+2020-10-22 00:14:39.350779	defender	carter	74.222.14.27 лежит
+2020-10-22 08:24:06.664306	defender	carter	74.222.14.27 лежит
+2020-10-24 09:39:55.588174	defender	carter	привет, что с доменом?
+2020-10-24 11:08:49.289018	defender	carter	привет, что с доменом?
+2020-11-06 17:23:25.390983	defender	carter	привет выйди в чат
+2021-02-05 14:02:45.026357	defender	carter	привет выйди в чат
+2021-02-09 11:03:01.576739	defender	carter	привет выйди в чат
+2021-05-13 13:31:50.483354	carter	defender	пси слетал недавно, отр не вклюается, может поэтотму был недоступен или я офф был вообще?:
+2021-05-13 13:32:13.308567	carter	defender	ключи сгенерировать проситт
+2021-05-13 13:50:43.040483	defender	carter	у тебя есть жаба fo....
+выйди туда
+2021-05-13 13:57:40.326386	carter	defender	я не припомню, чтобы еще какая-то была, может и заводил и передавал тебе при каких-то обстояятельствах , но резервной не мог назвать такую точно,
+2021-05-13 13:58:25.619914	carter	defender	я подумаю еще конечно, но вроде не было, фо... хз даже
+2021-05-13 13:58:36.313008	defender	carter	ты мне скидывал
+2021-05-13 13:58:48.725497	defender	carter	а какие у тебя еще резервные?Г
+2021-05-13 13:58:55.034295	defender	carter	ты регаешь сервер
+2021-05-13 13:59:02.301893	defender	carter	который я попросил в рокете
+2021-05-13 13:59:04.778166	defender	carter	?
+2021-05-13 13:59:33.035966	carter	defender	да, анкету делаю
+2021-05-13 13:59:45.622361	defender	carter	да кейкей тоже есть у меня
+2021-05-13 13:59:47.648434	defender	carter	выйди туда
+2021-05-28 08:37:32.670709	defender	carter	отпиши как будешь в рок
+2021-06-01 18:20:44.309891	defender	carter	отпиши как будешь в рок
+2021-06-15 17:58:32.052593	defender	carter	привет
+2021-06-15 17:58:34.980579	defender	carter	срочно нужен
+2021-06-15 17:58:39.591126	defender	carter	сервер важный лдежит
+2021-06-15 18:30:51.787936	defender	carter	привет
+2021-06-15 18:30:51.788287	defender	carter	срочно нужен
+2021-06-15 18:30:51.789223	defender	carter	сервер важный лдежит
+2021-07-19 09:11:23.274745	defender	carter	tut?
+2021-07-19 09:14:09.028358	carter	defender	да, привет
+2021-08-19 01:44:37.167636	defender	carter	 еще один сервер ты проебал
+заебало меня это
+-100долл штраф
+2021-08-19 04:51:09.052556	defender	carter	 еще один сервер ты проебал
+заебало меня это
+-100долл штраф
+2021-09-07 15:20:09.779053	carter	defender	ключи долго генирируются? я плагин активировал, заполнил форму и у меня машина умирает, не кликабельн, но "ждите!" вроде живое на фокус. хз. 15мин ждал не дождался.
+2021-09-07 16:07:15.847977	carter	defender	-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+8elijso=
+=RpC8
+-----END PGP PUBLIC KEY BLOCK-----
+2021-09-07 16:12:27.032236	carter	defender	https://privnote.com/4JP6VKue#ceAOxFfkv
+2021-09-07 16:18:50.587530	carter	defender	-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+=XblF
+-----END PGP PUBLIC KEY BLOCK-----
+2021-09-07 16:29:38.146077	defender	carter	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-09-07 16:31:42.869970	defender	carter	000
+2021-09-07 16:31:47.393171	defender	carter	без шифрования
+2021-09-07 16:31:53.149144	defender	carter	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-09-07 16:35:40.386496	defender	carter	тут?
+2021-09-07 16:59:28.808564	carter	defender	добавил, его включать не нужно?
+2021-09-07 16:59:38.888546	carter	defender	или надо)
+2021-09-07 17:00:18.985440	carter	defender	-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBGE3kIQBCADTRblW2e4PK9EQji3JwTUOp8TMz1BW+U5hbav341CprrlL7fzA
+kCVSUBlB1A3PGxz9xfoFphZNnLoC1SaV+hKgGQX1xc4RPBT8vYCxqAZf9JOjhe7l
+qUGwZE3FhLBsyMlODsy+bmjrqjA5113KLhiZOkrfQqpu1xlfHsRGnovXwetYfAJe
+IYUa4PiRexWdotqqUjOOcZd2X1H2apuO5CFhD2LO7lc7qcdf0kLD5Ny80T4mLCp4
+ZivMiCycqY+N/FDA4hgZqmxNN7k6w0w1o9du2HFrszIOqpmOfHAwWU6mfY2EHKHd
+MICoKTXdAxw4kaA7hCEEKnAhrgjmt9TLDaj5ABEBAAG0JmtvcmJlbiBkYWxsYXMg
+PHVtYWJlbmVuZWluQHJhbWJsZXIucnU+iQE+BBMBAgAoBQJhN5CEAhsvBQkB4DJc
+BgsJCAcDAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRBggBnKIu6uFH52B/9rMv3eE4p7
+OHz7w8sV6LMMujNYxwEty3wr3BeQq0yH1wUXtXXPnGj1WmG2UiJuitpGtS/gvhvq
+u8P7GGUputfYKmhK7Kgz/bzIHGNX3Pi1znZPvZVhJ+my22LHQy0sRE+030GVUC+H
+aevZvxaMcswXvD4rnWgdIbbAx4cdazNFhD7s1ks1srFftQ5vhrtQubPNxh4NJi+V
+ioKDr5Z6EH0nYqerou14SgkNWEm/TPmblb/75ruIb0Ydttoms2YP2yi8D4jRpjQM
+4vCewIDKPIYytYU6UweWIoqOTGbrv36x3rUJXSnwNg3UhYAHx9gVPstfAslzP8Zy
+dLgAfLpVkTgLuQENBGE3kIQBCAC1/kMjCVZ9HePUZ8XVrckIOWyL8JWni1iRETJ3
+h3FjaQxWf54vBb6fjBwnk6ADqs27DRHUu+EaySOU6QTrWjdVoe1tsMDH0KVZ6I1S
+yL7stjzYsEoU8EOyEUK+LoZO1XcR6NOCJ4FokFZJ0KpQD69DauDiPHYM9QlG0OGi
+Wa994Op3R54kE/uDpM35iBwYN3DvyCoXTP/K76KJ3drKDpYFsxCMnXZXw3kcWK//
+L9eK19z11AAmMVSwXg0c83HBrZZAk1eEq3RpX6m4ZA4xkamsMqWSlH5LuIi1aGUm
+zCaM63dufuzn5BCDh6sCEYnCz9MM+fasI0EqJsA6hHYKrqyvABEBAAGJAkQEGAEC
+AA8FAmE3kIQCGy4FCQHgMlwBKQkQYIAZyiLurhTAXSAEGQECAAYFAmE3kIQACgkQ
+84AY3EVXTFESBgf+LxnUy1vIxRH+vLeMH/pRHWlqlh5Xc8ChTsxsjlRW81WanRw0
+Dd0KRwSLWN2b2WeniKilRQ7GyhEkF3D133HgIQsELzSEpnLt+pLqkaKV1/kwx4MF
+4igMcA/4W5tfGwaiC/EGN4XrMlQacKe1vgf1Wab7VP7ci4/Ccl+RziZLmnOtisY/
+4rjFqqREq17J6Dz53iX4i489IgLTSPW8AQBCg/gWWk5NTBxods+JqSpgrnO8HxyH
+sN7NKYOWEKbL7xhTr+C2bFmFOlbGPLyn8WXArB9BGNeiLbU/Wrh6Ngx6XyxDzx7S
+zGDWmLhMkJ4HriFZWj+NY6KufFZKk59ThHpqtLGYCADO+Hxyb9g5SZjkJvW7Djdf
+vUGEy7Z9iQy0nZVOISZd2WK7DBbsGjJDBX68cL/ONWGRmTBMXo1Hm7G/HVDz3Lwe
+5orpKEnJKwB1YwD4IAWdtpb30FffWiv0OatrGRRwawoL9ldhKO+fawF469yFGgeO
+FPWKkXn8ar4XcL0apbymfD1zMLOxECL4auJyYxOebjqJ7MzQX2q1h1BwrbfDwSRn
+cGxaK/yFf/KeEy0sL4UT75GHFoC0VGQxXCsnDdpGgZ8v6JgvJKxOdacWNChiLw0g
+iRDBbQb2UwWDX8CtFRNlNZUswBmTucJXggjMIRZ0bO3u/ApBadlP+4rZC7OYkLmB
+=XblF
+-----END PGP PUBLIC KEY BLOCK-----
+2021-09-07 17:00:23.692409	carter	defender	-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+8elijso=
+=RpC8
+-----END PGP PUBLIC KEY BLOCK-----
+2021-09-07 17:01:51.179737	defender	carter	тут справа замок появился у тебя?
+2021-09-07 17:02:05.152550	defender	carter	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-09-10 09:25:28.655201	defender	carter	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-09-10 09:45:05.396309	defender	carter	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-09-20 01:49:34.468462	defender	carter	привет
+2021-09-20 01:49:40.474767	defender	carter	опять сервер не продлил один
+2021-09-20 01:49:45.878635	defender	carter	195.123.222.97
+2021-09-20 01:49:49.452289	defender	carter	в чем проблема?
+2021-09-20 03:50:57.511417	defender	carter	привет
+2021-09-20 03:50:57.511925	defender	carter	опять сервер не продлил один
+2021-09-20 03:50:57.512347	defender	carter	195.123.222.97
+2021-09-20 03:50:57.513114	defender	carter	в чем проблема?
+2021-10-06 10:41:18.293628	carter	defender	привет, можешь,пожалуйста, два пллатежа по 4евро отправить битками, под впски грома
+2021-10-15 15:32:57.959383	defender	carter	привет
+2021-10-15 15:32:59.377447	defender	carter	тут?
+2021-10-15 15:33:02.686405	defender	carter	срочно
+2021-10-15 15:35:53.225646	carter	defender	да, приветт
+2021-10-15 15:37:04.728800	defender	carter	пока ложная вроде тревога
+2021-10-15 15:37:07.590929	defender	carter	но будь на связи
+2021-10-15 15:37:13.043174	defender	carter	сервера все норм?
+2021-10-15 15:37:17.103162	defender	carter	продлены?
+2021-10-15 15:37:52.498639	carter	defender	да, сегодня не было продлений, но все проверил все ок
+2021-10-22 14:15:37.411810	defender	carter	ЭТО НАДО СДЕЛАТЬ ВСЕМ, иначе жаба перестанет у вас работать
+
+новый домен жабы версии 3
+odw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion
+
+его прописываем в настройках аккаунта - соединение - сервер
+перед этим на это вкладке ставим галку Вручную указать адрес сервера и порт
+
+порт стандартный 5222 
+
+ВАЖНО, все остальное остается, аккаунт отстается со старым доменом... прописывается только домен для соединения 
+
+!!! Как сделаете, отпишите мне что все ОК
+2021-12-03 19:03:46.657807	carter	defender	привет, тут, работаю, от компа отходил
+2021-12-09 18:22:57.800372	carter	defender	
+я оплачивал вирт картой Юмани , для покупок им нужен код из уведомления в приложении, но с итлдс эта верификация не сработала, видимо-  оплата прошла без кода, в итоге она не зачлась и через сутки пришел возврат, а инвойс снова открыт. оплатил с другой карты сейчас, чтобы сервер включился быстрее, оплату битками с этим сервером тотлько один раз делал, в остальные разы поднимал в срочном порядке картой
+2021-12-09 18:24:49.715096	carter	defender	просто пока уу меня не выходит оплаивать только битками - не всегда естьт, я стерна сейастри дня пробую застать, но оплаты висят. я понимаю, то обратиться можно к тебе, но если сам могу, то пробую карту
+2021-12-09 18:25:25.246050	carter	defender	"Ч" западает
+2021-12-28 17:56:09.533018	defender	carter	привет
+2021-12-28 17:56:11.413040	defender	carter	тут?
+2021-12-28 18:18:06.950669	carter	defender	да,
+2021-12-28 18:18:09.222710	carter	defender	тутт
+2022-01-05 07:26:56.043725	carter	defender	привет, напиши, пожалуйста, когда будешь тут, нужно неск олпат сделать и еще банд впн просил
+2022-01-05 16:45:35.275869	carter	defender	[05.01.2022 08:26:55] <carter> привет, напиши, пожалуйста, когда будешь тут, нужно неск олпат сделать и еще банд впн просил
+2022-01-06 12:09:04.683508	carter	defender	хорошо, спасибо,  это платежи за  185.177.124.86 / 185.189.151.142 / 170.130.55.90 и впн алексиса ещё
+2022-02-02 11:44:01.636543	carter	defender	жабу переделывал опять, теперь отр включить не выходит, пси закрывается тупо, может у тебя полуится?
+2022-02-02 11:50:08.352283	defender	carter	надо сгенерить новый ключ
+2022-02-02 11:50:15.445936	defender	carter	что у тебя с жабой вообще происходит?
+2022-02-02 11:56:20.670457	carter	defender	ну вот он генерится я "да" нажимаю при старте отр и ничего, жду еще. жаба виснет из-за слабого ноута, виртуалбокс на минималках даже поччему-то всю память сжирает, все переделывал уже, линукс легкий 2.6 стоит, хз. я вчера минт ставил убунту, но там жаба не коннектится совсем, пси на соединении.... висит и всё, сегодня другую попробую легче может
+2022-02-04 08:49:42.698328	carter	defender	привет, сможешь два платежа отправить ZZ
+2022-02-21 07:20:33.412335	defender	carter	привет
+2022-02-21 07:20:36.868956	defender	carter	давай продлевать
+2022-02-21 07:20:40.426146	defender	carter	там важный серв
+2022-02-21 11:27:26.627715	defender	carter	привет
+2022-02-21 11:27:26.630545	defender	carter	давай продлевать
+2022-02-21 11:27:26.630881	defender	carter	там важный серв

@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2021-10-20 17:30:31.523465	bentley	derekson	Привет, бро
+2021-10-20 17:32:48.543335	derekson	bentley	Привет
+2021-10-20 19:12:51.334379	derekson	bentley	тут?
+2021-10-20 19:12:55.830648	derekson	bentley	только виндовс сервера готовы
+2021-10-20 19:13:03.513743	derekson	bentley	другой акк на линукс так же вериф дает
+2021-10-23 11:02:06.714200	derekson	bentley	Привет

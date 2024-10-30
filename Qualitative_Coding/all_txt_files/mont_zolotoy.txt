@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-07-28 07:27:20.037441	mont	zolotoy	ку
+2021-07-28 07:27:24.810248	mont	zolotoy	вчера ушел в отрыв

@@ -1,0 +1,35 @@
+Timestamp	From	To	Message
+2020-06-29 11:43:09.705480	viper	admintest	привет
+2020-06-29 11:44:59.434518	admintest	viper	привет
+2020-07-02 11:38:04.337935	admintest	viper	Добрый день, я по поводу работы системного администратора
+2020-07-16 09:27:06.903413	admintest	viper	привет
+2020-07-16 09:27:13.699369	admintest	viper	я тут
+2020-07-20 07:25:39.732563	viper	admintest	привет
+2020-07-20 07:25:53.355222	viper	admintest	вот твои новые данные для чата
+2020-07-20 07:26:18.404072	admintest	viper	привет
+2020-07-20 07:26:25.884412	viper	admintest	bekeeper@q3mcco35auwcstmt.onion	sMphPGrTBcRYckER5ZKJ
+2020-07-20 07:26:39.117098	viper	admintest	все также настраивать как и админтест
+2020-07-20 07:26:47.370960	viper	admintest	только логин и пароль другие
+2020-07-20 07:26:55.959909	viper	admintest	как настроишь добавь меня
+2020-07-20 07:27:00.999256	viper	admintest	viper@
+2020-07-20 07:27:01.000399	viper	admintest	viper@
+2020-07-20 07:27:09.687595	admintest	viper	ок
+2020-07-20 07:27:24.939931	viper	admintest	f 'njn frrfeyn flvby ntcn elfkb
+2020-07-20 07:27:34.772176	viper	admintest	а этот аккаунт админ тест удали
+2020-09-24 12:55:11.810428	admintest	viper	ПРИВЕТ
+2020-09-24 16:06:15.643652	viper	admintest	вот твои новые логин и пароль, а этот аккаунт удалить надо который админтест
+2020-09-24 16:06:22.541230	viper	admintest	spoon@q3mcco35auwcstmt.onion	GG9DVMRN5dYFug4H5ygr
+2020-09-24 16:07:32.904892	viper	admintest	нужно также настроить чат только сновыми логином и паролем
+2021-04-13 14:17:11.693699	viper	admintest	привет тут?
+2021-04-13 15:33:13.091168	admintest	viper	привет
+2021-04-13 15:39:33.043632	viper	admintest	сейчас скину тебе данные в рабочий чат
+2021-04-13 15:40:06.091762	admintest	viper	ага ок
+2021-04-13 15:41:06.064405	viper	admintest	https://qaz.im/zaq/eFKnRBt5#fQ4yniD3
+2021-04-13 15:41:19.540879	viper	admintest	настройки как и в этом чате
+2021-04-13 15:42:34.353917	admintest	viper	ник lom ?
+2021-04-13 15:42:48.448621	viper	admintest	да
+2021-04-13 15:44:00.809603	admintest	viper	а подскажи еще вопрос реверс сказал ты вроде скажешь , по ЗП вообще потом к кому обращаться и тд...
+2021-04-13 15:44:43.465651	viper	admintest	сейчас уточню
+2021-04-13 15:45:08.042410	viper	admintest	отпиши как чат настроишь
+2021-04-13 15:45:18.785814	admintest	viper	тебе?
+2021-04-13 15:46:03.525439	admintest	viper	ок

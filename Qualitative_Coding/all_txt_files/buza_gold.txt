@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-07-07 10:11:53.298776	gold	buza	Ghbdtn
+2021-07-07 10:11:59.558538	gold	buza	Привет

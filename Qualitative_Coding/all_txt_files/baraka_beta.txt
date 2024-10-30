@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-11-30 11:49:06.267784	baraka	beta	дарова

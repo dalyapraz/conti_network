@@ -1,0 +1,29 @@
+Timestamp	From	To	Message
+2021-11-08 19:17:24.565384	begemot	dollar	Привет
+2021-12-10 09:14:19.706818	begemot	dollar	Привет
+2021-12-10 09:29:28.474459	dollar	begemot	рун
+2021-12-10 09:29:28.885387	dollar	begemot	нщ
+2021-12-10 09:29:29.429787	dollar	begemot	ьтф
+2021-12-10 09:29:38.324667	dollar	begemot	hey
+2021-12-10 09:29:38.655197	dollar	begemot	yo
+2021-12-10 09:29:39.193819	dollar	begemot	man
+2021-12-10 09:30:38.895937	begemot	dollar	Я от green по вопросам кобы настройки, я буду для тебя делать.  ТАкже ессли нужна другая инфраструктура пиши все сделаем
+2021-12-10 09:31:14.795446	begemot	dollar	Он сказал что я теперь на  постоянку с тобой
+2021-12-10 09:31:35.440983	begemot	dollar	я тебе скоро  отдам 4 кобы
+2021-12-10 09:31:52.449606	dollar	begemot	sek
+2021-12-10 09:31:53.623228	dollar	begemot	bro
+2021-12-10 09:32:16.277630	dollar	begemot	grand@q3mcco35auwcstmt.onion
+2021-12-10 09:32:23.246439	dollar	begemot	on tebe dast tocnuy infi
+2021-12-10 09:32:48.688771	begemot	dollar	он в оффе
+2021-12-10 09:32:57.714367	dollar	begemot	da
+2021-12-10 09:32:59.996959	dollar	begemot	has kak bydet
+2021-12-10 09:33:34.979702	begemot	dollar	green ссказал что вы вместе. поэтому я тебе и написал. агранду я делал несколько коб
+2021-12-10 09:33:49.225349	begemot	dollar	хорошо тогда к нему
+2021-12-10 09:34:28.094142	dollar	begemot	kk
+2021-12-10 09:34:31.425291	dollar	begemot	on po cobb bro
+2021-12-10 09:34:34.805745	dollar	begemot	eto moi support
+2021-12-10 09:35:20.671064	begemot	dollar	хорошо. если нужно поднять кобы еще что-то пиши сделаем
+2021-12-10 09:36:13.443598	dollar	begemot	kk
+2021-12-10 09:36:18.764347	dollar	begemot	15-20 shtyk nado bro
+2021-12-10 09:36:47.288261	begemot	dollar	коб?
+2021-12-10 09:37:49.258446	begemot	dollar	сделаю

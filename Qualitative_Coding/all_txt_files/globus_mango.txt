@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2022-01-20 11:19:42.844289	globus	mango	привет, это homer

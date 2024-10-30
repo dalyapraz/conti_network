@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-11-09 10:25:05.585700	salamandra	mavemat	привет
+2021-11-10 07:14:43.778659	salamandra	mavemat	привет

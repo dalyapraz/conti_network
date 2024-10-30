@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-09-15 09:09:10.959913	elon	kingston	Приветствую

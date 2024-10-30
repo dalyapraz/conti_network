@@ -1,0 +1,16 @@
+Timestamp	From	To	Message
+2020-10-13 14:22:49.437774	professor	marsel	привет
+вчерашний файл сможем почистить?
+2020-10-13 14:23:51.807993	marsel	professor	Привет
+2020-10-13 14:23:56.076079	marsel	professor	Скинь
+2020-10-13 14:24:03.281060	marsel	professor	Посмотрю
+2020-10-13 14:24:21.819505	professor	marsel	kdelucia 9nnDVx4rDm
+2020-10-13 14:24:24.400672	professor	marsel	ой
+не то
+2020-10-13 14:24:33.309009	professor	marsel	[12.10.2020 16:43:11] <alter> https://qaz.im/load/ZRQetZ/RbfhZa
+[12.10.2020 16:43:18] <alter> 1q2w3e4r5t
+2020-10-13 18:34:54.634774	professor	marsel	ау?
+2020-10-13 18:36:23.662772	marsel	professor	Download: https://qaz.im/load/AD3dr7/ifeKS2
+Delete: https://qaz.im/index.php?a=delete&q=155668064
+2020-10-13 18:36:27.990122	marsel	professor	Пас 123
+2020-10-13 18:36:39.829728	professor	marsel	спасибо

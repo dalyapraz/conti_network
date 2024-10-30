@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2020-07-27 15:57:25.231671	tilar	grant	hi
+2020-07-27 15:57:25.234101	tilar	grant	man
+2020-07-27 15:57:37.482905	tilar	grant	tyt?
+2020-07-27 15:57:39.396424	tilar	grant	otr raboet?
+2020-07-27 15:58:22.404895	grant	tilar	hi
+2020-07-27 15:58:22.406043	grant	tilar	man
+2020-07-27 15:58:22.446081	grant	tilar	tyt?
+2020-07-27 15:58:22.448170	grant	tilar	otr raboet?
+2020-07-27 16:03:47.643329	grant	tilar	?
+2020-07-27 16:05:00.085000	tilar	grant	 есть кто письма хтил делает ?
+ быстро
+2020-07-27 16:05:00.086063	tilar	grant	?

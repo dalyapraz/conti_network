@@ -1,0 +1,29 @@
+Timestamp	From	To	Message
+2020-09-04 14:08:31.830910	alarm	boby	Spam is good or bad?
+2020-09-08 23:12:46.053980	alarm	boby	Spam is good or bad?
+2020-09-08 23:14:58.201038	boby	alarm	bad
+2020-09-08 23:14:59.826433	alarm	boby	Congratulations! Now you can chat!
+2020-09-24 12:19:31.052763	boby	alarm	pereskin please suda
+2020-09-25 00:45:40.532841	boby	alarm	done
+2020-10-06 17:48:07.930910	alarm	boby	инет, блин
+2021-03-04 18:50:44.155084	alarm	boby	привет)
+из закрепа бота посмотри, плз, он жив?
+guid: D24C7310A588E94F891C325C9C55DA92, shift 0x00053C00(343040)
+domain: shift 0x00053A04(342532)
+
+еще дай, пожалуйста, доступ к этой панели
+2021-03-04 18:54:17.904704	boby	alarm	привет)
+из закрепа бота посмотри, плз, он жив?
+guid: D24C7310A588E94F891C325C9C55DA92, shift 0x00053C00(343040)
+domain: shift 0x00053A04(342532)
+
+еще дай, пожалуйста, доступ к этой панели
+2021-03-30 16:43:32.412082	alarm	boby	привет
+2021-04-06 22:17:40.170317	alarm	boby	[30.03.2021 19:00:30] <alarm> по сетке
+3C5szwCXjPXutxe8NRQ2PJ5oQrKRZdrFuDgMmGz93ihgrLD6pcR0eMUMJzJihjSB
+есть журналист, который за 5% от выплаты поможет их запугать. можно поугрожать этим
+[30.03.2021 19:28:58] <boby> ny pyst poprobuet
+2021-04-06 22:30:54.489510	boby	alarm	[30.03.2021 19:00:30] <alarm> по сетке
+3C5szwCXjPXutxe8NRQ2PJ5oQrKRZdrFuDgMmGz93ihgrLD6pcR0eMUMJzJihjSB
+есть журналист, который за 5% от выплаты поможет их запугать. можно поугрожать этим
+[30.03.2021 19:28:58] <boby> ny pyst poprobuet

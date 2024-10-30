@@ -1,0 +1,112 @@
+Timestamp	From	To	Message
+2021-06-07 12:49:47.367142	stern	dollar	Привет. Как дела? 
+какие результаты у тебя? 
+Какие задачи стоят?
+Какие идеи есть что можно добавить и улучшить?
+2021-06-08 09:30:24.314922	stern	dollar	Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи
+2021-06-22 19:14:32.913864	stern	dollar	Привет. Как дела? 
+какие результаты у тебя? 
+Какие задачи стоят?
+Какие идеи есть что можно добавить и улучшить?
+2021-06-22 19:14:32.914306	stern	dollar	Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи
+2021-06-28 08:05:57.540065	stern	dollar	1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+2021-06-28 18:42:19.114931	stern	dollar	1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+2021-07-14 18:40:31.067609	dollar	stern	hey
+2021-07-14 18:40:31.653510	dollar	stern	y
+2021-07-14 18:40:32.581917	dollar	stern	o
+2021-07-14 18:40:36.241259	dollar	stern	avtorizui bro
+2021-07-15 19:25:00.335703	dollar	stern	ti bivaesh' tyt v sety?
+2021-07-15 19:25:06.191295	dollar	stern	otpsihi ak zaidesh'
+2021-07-16 16:05:51.601325	dollar	stern	hey
+2021-07-16 16:05:51.603206	dollar	stern	y
+2021-07-16 16:05:51.605020	dollar	stern	o
+2021-07-16 16:05:51.607026	dollar	stern	avtorizui bro
+2021-07-16 16:05:51.608188	dollar	stern	ti bivaesh' tyt v sety?
+2021-07-16 16:05:51.608585	dollar	stern	otpsihi ak zaidesh'
+2021-07-22 21:59:42.096177	stern	dollar	ау
+2021-07-22 21:59:47.681238	stern	dollar	напомни контакт своего чела
+2021-07-22 21:59:49.895153	stern	dollar	спишусь с ним
+2021-07-23 09:49:49.425578	stern	dollar	ау
+2021-07-23 09:49:49.431081	stern	dollar	напомни контакт своего чела
+2021-07-23 09:49:49.432222	stern	dollar	спишусь с ним
+2021-07-23 09:50:33.074176	dollar	stern	grand@q3mcco35auwcstmt.onion
+2021-07-23 09:52:11.117768	dollar	stern	kto has raboet?
+2021-07-23 09:52:15.448941	dollar	stern	eto on
+2021-07-23 15:26:01.982355	dollar	stern	grand@q3mcco35auwcstmt.onion
+2021-07-23 15:26:01.983347	dollar	stern	kto has raboet?
+2021-07-23 15:26:01.984493	dollar	stern	eto on
+2021-07-23 16:21:00.930732	stern	dollar	
+[16:58:46] <grand> да, с суток только, в команде у хорса, у меня моих 10 человек \ дела сейчас налаживаются, в разборе много работы
+[16:59:18] <grand> ну всмысле за мной он 10 закрепил
+[16:59:39] <grand> учу\работаю с ними паралельно
+2021-07-23 16:21:09.395311	stern	dollar	он говорит что с хорсом работает
+2021-07-23 16:34:08.915313	stern	dollar	
+[16:58:46] <grand> да, с суток только, в команде у хорса, у меня моих 10 человек \ дела сейчас налаживаются, в разборе много работы
+[16:59:18] <grand> ну всмысле за мной он 10 закрепил
+[16:59:39] <grand> учу\работаю с ними паралельно
+2021-07-23 16:34:08.915718	stern	dollar	он говорит что с хорсом работает
+2021-07-28 16:00:06.914899	dollar	stern	ne zabyd' plz pro menya
+2021-07-28 17:18:01.007602	dollar	stern	netwalker prosit 5k chtobi nacat' raboty, tipo kupit' cobb i servera dlya raboti
+2021-07-28 17:18:10.715558	dollar	stern	ya dumauy emy skinyt'
+2021-07-28 17:19:11.337464	dollar	stern	bydet materila chto davat' emy? on govorit horsy daval v raoty ran'he setki, tipo has ni  kogo net
+2021-07-29 15:17:54.628212	dollar	stern	ne zabyd' plz pro menya
+2021-07-29 15:17:54.650267	dollar	stern	ya dumauy emy skinyt'
+2021-07-29 15:17:54.650500	dollar	stern	netwalker prosit 5k chtobi nacat' raboty, tipo kupit' cobb i servera dlya raboti
+2021-07-29 15:17:54.651523	dollar	stern	bydet materila chto davat' emy? on govorit horsy daval v raoty ran'he setki, tipo has ni  kogo net
+2021-07-29 15:18:44.364904	stern	dollar	 нетволкеру я уже давал много
+2021-07-29 15:18:45.947880	stern	dollar	результата нету
+2021-09-13 07:59:59.784952	stern	dollar	Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?
+2021-09-13 10:46:58.230794	stern	dollar	Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?
+2021-10-08 16:26:36.378320	dollar	stern	kin' koshek
+2021-10-08 16:26:38.925760	dollar	stern	privet
+2021-10-11 14:00:59.016698	dollar	stern	kin' koshek
+2021-10-11 14:00:59.017425	dollar	stern	privet
+2021-10-20 17:24:53.000603	dollar	stern	hey
+2021-10-20 17:24:59.319094	dollar	stern	skin' koshel'
+2021-10-26 05:10:26.026053	dollar	stern	hey
+2021-10-26 05:10:26.029308	dollar	stern	skin' koshel'
+2021-10-26 09:02:57.105728	stern	dollar	https://privnote.com/htvu1f8t#UmshP6tL8
+2021-10-26 09:11:59.825463	stern	dollar	https://privnote.com/htvu1f8t#UmshP6tL8
+2021-10-26 09:14:43.215787	dollar	stern	2.4043
++
+3.475
+20%=1.17586
+2021-10-26 09:16:15.944538	dollar	stern	send
+2021-10-29 05:46:17.237651	dollar	stern	send
+2021-10-29 05:46:17.237935	dollar	stern	2.4043
++
+3.475
+20%=1.17586
+2021-11-11 15:29:40.508747	dollar	stern	hey
+2021-11-11 15:29:41.615030	dollar	stern	bro
+2021-11-11 15:29:47.466843	dollar	stern	skin' koshek plz
+2021-11-11 15:29:55.086560	dollar	stern	540k skinyli
+2021-11-12 14:51:30.082563	dollar	stern	hey
+2021-11-12 14:51:30.082819	dollar	stern	bro
+2021-11-12 14:51:30.083777	dollar	stern	skin' koshek plz
+2021-11-12 14:51:30.084092	dollar	stern	540k skinyli
+2021-11-12 17:09:46.225661	dollar	stern	send bro
+2021-11-12 17:10:08.526881	dollar	stern	8,4 prishlo-20%=1.68
+2021-11-14 12:25:16.847203	dollar	stern	send bro
+2021-11-14 12:25:16.847659	dollar	stern	8,4 prishlo-20%=1.68
+2021-12-17 18:45:35.917893	dollar	stern	bro kto takoi cherry@ ???
+nashel ego na forume, on okazalcay y nas v jabbere. dogovorilis' chto on bydet davat' v raboty setki. jdali ego nedely kadjie den'- po itogy skinyli emy nagruzky kuda zalit' botov. on prosto nacal psixovat' chto eto to chto on prosil i kak telka ydalil supporta moego
+2021-12-17 18:46:25.716453	dollar	stern	vot perepsika s nim))
+2021-12-17 18:46:31.756965	dollar	stern	kak telak blya vedet sebya
+2021-12-17 18:47:11.646608	dollar	stern	esli on norm tipok, peregovori s nim plz.. mi seicas berem v raboty 10 spemerov i yxodim v privat conti team))
+2021-12-17 18:47:16.713581	dollar	stern	nam nyjen takoi tipok
+2021-12-17 18:47:27.822583	dollar	stern	esli on proverennie nash' celovek
+2022-01-31 16:14:12.338869	dollar	stern	bro reshi problems
+2022-01-31 16:14:12.343035	stern	dollar	bro reshi problems
+2022-01-31 16:14:20.897955	dollar	stern	nyjna posmoh' tvoya
+2022-01-31 16:14:20.911272	stern	dollar	nyjna posmoh' tvoya

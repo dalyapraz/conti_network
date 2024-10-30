@@ -1,0 +1,14 @@
+Timestamp	From	To	Message
+2020-09-24 13:53:28.879369	professor	elon	привет
+2020-09-24 13:53:35.849984	professor	elon	потестил, работает
+2020-09-24 13:53:52.969984	elon	professor	Приветствую
+2020-09-24 13:53:57.020622	professor	elon	у меня есть "пожелания" по обновлению функционала
+мы сейчас тянем с аутлука
+а можем тянуть с эксченджа?
+2020-09-24 13:54:02.512768	professor	elon	например через тот же самый powershell?
+2020-09-24 13:54:17.295945	professor	elon	https://docs.microsoft.com/en-us/powershell/exchange/exchange-cmdlet-syntax?view=exchange-ps
+2020-09-24 13:54:19.000319	professor	elon	типа того
+2020-09-24 13:54:41.845386	professor	elon	https://docs.microsoft.com/en-us/powershell/exchange/exchange-management-shell?view=exchange-ps
+2020-09-24 13:54:44.014861	professor	elon	итд
+2020-09-24 13:55:00.890395	professor	elon	ну конечно при условии прав эксчендж администратора или доменного администратора (смотря кто там нужен для этого)
+2020-09-24 13:55:27.291090	elon	professor	Я сходу не смогу ответить, нужно изучить вопрос

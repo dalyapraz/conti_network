@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-10-20 11:20:37.140932	cosmos	many	У меня глюковал джаббер

@@ -1,0 +1,94 @@
+Timestamp	From	To	Message
+2020-10-08 14:38:34.604949	steller	ali	Привет.
+Сайт подняли. https://217.12.203.220. Нужно брать пароль у талара, если нет.
+Сделал сборку для тестов.
+
+masrv
+Dowload URL:
+https://file.io/g7cCNXUHTWJw
+Pass:
+3j@d$j6+6=oEq&Lxmthv
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/g7cCN
+XUHTWJw', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"3j@d$j6+6=oEq&Lx
+mthv" 1.rar
+2020-10-08 16:54:39.420568	ali	steller	
+[19:30:54] <Ali> Привет 
+[19:31:09] <Ali> [17:38:36] <steller> Привет.
+Сайт подняли. https://217.12.203.220. Нужно брать пароль у талара, если нет.
+Сделал сборку для тестов. 
+[19:31:23] <Ali> Дай доступ плз 
+[19:43:53] *** talar теперь Доступен [50]
+[19:48:09] <talar> привет 
+[19:48:18] <talar> мы о каком проекте говорим? 
+[19:48:32] <Ali> Скан массканом 
+[19:48:38] <talar> у меня в ведении такого айпи нет 
+[19:51:50] <Ali> steller уже не в онлайне 
+[19:51:56] <Ali> Завтра тогда напишит тебе 
+[19:52:01] <Ali> Объяснит 
+[19:52:11] <Ali> Может вы как то по своему его называете) 
+[19:52:25] <talar> скан чего? 
+[19:52:48] <Ali> Скан ипов на открытые порты 
+[19:53:37] <talar> это даже не мой проект. я как-т описал скан онлайн принтеров парся шодан. но это - нет 
+[19:53:52] <Ali> Ну понял
+2020-10-09 06:32:02.629920	ali	steller	
+[19:30:54] <Ali> Привет 
+[19:31:09] <Ali> [17:38:36] <steller> Привет.
+Сайт подняли. https://217.12.203.220. Нужно брать пароль у талара, если нет.
+Сделал сборку для тестов. 
+[19:31:23] <Ali> Дай доступ плз 
+[19:43:53] *** talar теперь Доступен [50]
+[19:48:09] <talar> привет 
+[19:48:18] <talar> мы о каком проекте говорим? 
+[19:48:32] <Ali> Скан массканом 
+[19:48:38] <talar> у меня в ведении такого айпи нет 
+[19:51:50] <Ali> steller уже не в онлайне 
+[19:51:56] <Ali> Завтра тогда напишит тебе 
+[19:52:01] <Ali> Объяснит 
+[19:52:11] <Ali> Может вы как то по своему его называете) 
+[19:52:25] <talar> скан чего? 
+[19:52:48] <Ali> Скан ипов на открытые порты 
+[19:53:37] <talar> это даже не мой проект. я как-т описал скан онлайн принтеров парся шодан. но это - нет 
+[19:53:52] <Ali> Ну понял
+2020-10-09 06:36:21.822650	steller	ali	Привет.
+Извини ) Перепутал )
+Это mavemat <mavemat@q3mcco35auwcstmt.onion>
+2020-10-09 10:04:29.778588	steller	ali	Привет.
+Извини ) Перепутал )
+Это mavemat <mavemat@q3mcco35auwcstmt.onion>
+2020-10-13 12:56:43.435629	steller	ali	Привет.
+Получилось запустить сканирование?
+2020-10-14 13:35:44.882285	steller	ali	defender@q3mcco35auwcstmt.onion
+2020-10-14 13:36:28.723301	steller	ali	Промазал)
+2020-10-20 21:12:49.702796	ali	steller	Привет
+2020-10-20 21:12:59.599984	ali	steller	https://file.io/g7cCNXUHTWJw не работает ссылка
+2020-10-20 21:13:12.723944	ali	steller	Перезалей плз
+2020-10-21 07:31:23.586080	ali	steller	Привет
+2020-10-21 07:31:23.780012	ali	steller	https://file.io/g7cCNXUHTWJw не работает ссылка
+2020-10-21 07:31:23.780982	ali	steller	Перезалей плз
+2020-10-21 07:39:22.751130	steller	ali	Привет.
+masrv для тестов:
+Ссылка одноразовая.
+masrv\build-masrv\release
+Dowload URL:
+https://file.io/bGAOD1NtDqck
+Pass:
+u4-LnM^rUjYlbF}LQYY)
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/bGAOD
+1NtDqck', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"u4-LnM^rUjYlbF}L
+QYY)" 1.rar
+2020-10-21 13:06:18.659141	steller	ali	Привет.
+masrv для тестов:
+Ссылка одноразовая.
+masrv\build-masrv\release
+Dowload URL:
+https://file.io/bGAOD1NtDqck
+Pass:
+u4-LnM^rUjYlbF}LQYY)
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/bGAOD
+1NtDqck', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"u4-LnM^rUjYlbF}L
+QYY)" 1.rar
+2020-10-21 13:08:33.275092	ali	steller	Привет
+2020-10-21 13:08:35.459737	ali	steller	Спс

@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-10-06 11:13:06.562510	viper	hors	привет новый чат HR hors i7RDFKUYhjgk https://my-ppl.com
+2021-10-06 17:31:11.516392	hors	viper	Привет
+2021-10-06 17:31:13.796511	hors	viper	Принял

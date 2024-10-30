@@ -1,0 +1,24 @@
+Timestamp	From	To	Message
+2021-12-10 12:49:26.607446	cybergangster	derek	Ща мой саппорт тебя добавит
+2021-12-10 12:49:30.940740	cybergangster	derek	Решите с ним
+2021-12-10 12:49:35.648007	cybergangster	derek	Мне отъехать нужно
+2021-12-10 13:08:00.895890	cybergangster	derek	Ща мой саппорт тебя добавит
+2021-12-10 13:08:00.899353	cybergangster	derek	Решите с ним
+2021-12-10 13:08:00.902954	cybergangster	derek	Мне отъехать нужно
+2021-12-11 14:48:30.583353	cybergangster	derek	Нету таких таргетов ни в старой ни в новой панели
+2021-12-11 14:48:39.390437	cybergangster	derek	Дай мне контакт энди
+2021-12-11 14:48:49.774442	cybergangster	derek	Разберемся
+2021-12-11 14:48:54.263763	cybergangster	derek	Так нихера не понятно
+2021-12-11 15:01:18.539585	derek	cybergangster	Нету таких таргетов ни в старой ни в новой панели
+2021-12-11 15:01:18.540958	derek	cybergangster	Дай мне контакт энди
+2021-12-11 15:01:18.543486	derek	cybergangster	Разберемся
+2021-12-11 15:01:18.545812	derek	cybergangster	Так нихера не понятно
+2022-01-21 16:59:36.250716	derek	cybergangster	привет бро
+2022-01-21 19:55:33.445731	cybergangster	derek	Привет
+2022-01-21 19:55:37.330183	cybergangster	derek	А где сам доллар Ё
+2022-01-21 19:55:38.717469	cybergangster	derek	?
+2022-01-21 20:07:46.723681	cybergangster	derek	Разговор у меня к нему есть
+2022-01-22 00:44:10.701872	cybergangster	derek	Привет
+2022-01-22 00:44:10.705327	cybergangster	derek	А где сам доллар Ё
+2022-01-22 00:44:10.708295	cybergangster	derek	?
+2022-01-22 00:44:10.716490	cybergangster	derek	Разговор у меня к нему есть

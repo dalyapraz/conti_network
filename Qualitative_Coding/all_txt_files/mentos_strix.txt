@@ -1,0 +1,6 @@
+Timestamp	From	To	Message
+2020-10-21 11:32:19.936062	mentos	strix	привет
+2020-10-21 11:32:37.535710	mentos	strix	я от деф-а
+2020-10-21 11:48:17.121722	mentos	strix	ping
+2020-10-21 11:51:56.556428	strix	mentos	hi
+2020-10-22 11:04:28.350442	mentos	strix	hi

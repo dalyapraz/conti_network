@@ -1,0 +1,14 @@
+Timestamp	From	To	Message
+2021-09-27 14:01:02.497963	dollar	paranoik	otpishi kak bydesh' tyt
+2021-09-27 14:57:56.149326	dollar	paranoik	otpishi kak bydesh' tyt
+2021-10-18 11:27:48.681828	dollar	paranoik	sps
+2021-10-23 23:29:43.865376	dollar	paranoik	bro otkroi dostyp k perepsikam na moeom akke dollar
+2021-10-23 23:29:49.314595	dollar	paranoik	srocno!!!!!!!!!
+2021-10-24 08:03:58.476849	dollar	paranoik	bro otkroi dostyp k perepsikam na moeom akke dollar
+2021-10-24 08:03:58.477963	dollar	paranoik	srocno!!!!!!!!!
+2021-10-24 08:20:43.651889	paranoik	dollar	скинь кому открывать
+2021-10-24 10:15:28.602394	paranoik	dollar	скинь кому открывать
+2021-11-16 15:21:28.717666	dollar	paranoik	otpihi mne
+2021-11-16 15:21:28.811320	dollar	paranoik	kk bydehs' tyt
+2021-11-16 16:41:29.314514	dollar	paranoik	otpihi mne
+2021-11-16 16:41:29.315333	dollar	paranoik	kk bydehs' tyt

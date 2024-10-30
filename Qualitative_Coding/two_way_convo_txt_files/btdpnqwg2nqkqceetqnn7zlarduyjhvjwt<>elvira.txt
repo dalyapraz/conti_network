@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-12-22 07:40:26.829615	elvira	btdpnqwg2nqkqceetqnn7zlarduyjhvjwt	привет
+2021-12-22 07:40:26.852249	btdpnqwg2nqkqceetqnn7zlarduyjhvjwt	elvira	привет

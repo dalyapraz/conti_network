@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-09-08 16:16:22.200161	bentley	price	Прогони потом верхний Preview.exe во вкладке ЕХР
+2020-09-08 16:16:24.203467	bentley	price	Упс не тебе
+2020-09-08 17:31:37.774238	price	bentley	ok

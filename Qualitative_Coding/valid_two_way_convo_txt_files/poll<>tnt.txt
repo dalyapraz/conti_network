@@ -1,0 +1,8 @@
+Timestamp	From	To	Message
+2020-07-12 08:38:15.917129	poll	tnt	davai vihodi sekoee
+2020-07-14 10:11:27.861746	poll	tnt	davai vihodi sekoee
+2020-07-22 14:31:08.180515	tnt	poll	блин чет с отр
+2020-07-24 11:21:58.530976	tnt	poll	бро ты сегодня будешь ?
+2020-07-24 11:31:55.019859	tnt	poll	бро ты сегодня будешь ?
+2020-08-07 16:43:38.553864	poll	tnt	bro ny eto ne serezno... ti ehe govorish tebe kidat)
+2020-10-03 15:09:08.434959	poll	tnt	bro ny eto ne serezno... ti ehe govorish tebe kidat)

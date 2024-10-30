@@ -1,0 +1,37 @@
+Timestamp	From	To	Message
+2020-07-07 15:29:16.955012	dandis	carter	
+» [12:44:23] <doomsday> Привет 
+» [12:44:25] <doomsday> Тут? 
+» [12:47:50] <doomsday> Куку
+2020-07-07 15:29:27.205434	carter	dandis	да, привет
+2020-07-10 08:51:11.000003	carter	dandis	привет, втотрая впс
+root 51.81.112.144 FF984J598NWEE vpsroom.com tadamom@protonmail.com popo00--
+2020-07-10 08:51:58.006003	dandis	carter	Привет
+2020-07-10 08:52:04.906199	dandis	carter	Серьезно? 3 дня делалась?
+2020-07-10 08:52:29.601314	carter	dandis	нет, я оплачивал их вчера
+2020-07-10 08:52:45.372220	dandis	carter	
+» *** 2020-07-07
+» [11:46:27] <keykey> постараюсь до конца дня выдать
+2020-07-10 08:52:49.026662	dandis	carter	
+» *** 2020-07-10
+» [04:51:01] <keykey> привет, втотрая впс
+2020-07-10 08:53:29.553372	carter	dandis	
+(09.07.2020 22:09:22] <carter> да, привет, одна впс готова, втотрая пока пендинг, оплатить только сегодня смог 
+root 51.81.112.137 895489HHH34 vpsroom.com 88teo@tutanota.com popo00--
+2020-07-10 08:53:42.022630	carter	dandis	вечером 7го уже закончились деньги
+2020-07-10 08:54:02.361195	dandis	carter	Какие у какой хар-ки?
+2020-07-10 08:55:57.230792	carter	dandis	
+4 CORES
+2.6 GHz Core
+4GB/4GB	240GB
+
+у обеих, стоят по 30$
+2020-07-10 09:01:24.008497	dandis	carter	Окей
+2020-07-10 09:01:25.258394	dandis	carter	Спасибо
+2020-07-16 14:00:03.279828	carter	dandis	
+привет, 
+root 104.243.41.33  nv4y7pxCkZSL2XQ399 portal.worldbus.ge onemail@keemail.me popo00--
+2020-07-16 14:03:02.293212	dandis	carter	
+привет, 
+root 104.243.41.33  nv4y7pxCkZSL2XQ399 portal.worldbus.ge onemail@keemail.me popo00--
+2020-07-17 08:24:28.796394	dandis	carter	Привет тут?

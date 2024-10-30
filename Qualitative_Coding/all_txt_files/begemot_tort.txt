@@ -1,0 +1,149 @@
+Timestamp	From	To	Message
+2021-10-04 07:24:10.709519	tort	begemot	-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=PRYA
+-----END PGP PUBLIC KEY BLOCK-----
+2021-10-04 08:59:18.029661	tort	begemot	-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQGNBGFW/uQBDADFWIKW8wRKFqNy0K+pspLGwpgp2us/hpgEYCeM8V+W33omFzf+
+XBj4AJhbgMNXnmVz7OkzSP/CWpGzHyVjTeF8lEsdJHEROUr7cL1qqVGdzTQwEUoG
+/TIkR2CW7lcdv534c47jmjAMhKV5AVTEw/mtmR7v6C5sj+lHm2DIHwX0UhTE3AbE
++kQgHYKpurBGtIsDqXK5hg9Z6OSTPtunNN1fz4JHolU7STyITF6J0SV6ujF/+LM1
+dqOkd0U/gJfeh0LFeYcelqBjotBtfApLoXmGNL/uhbaOjWfyBrGY6bz6jWIvN7FP
+7aNlAUnu5qe8Z2SNWwHSo5XSniY4CaiXOBBySa4F7LpQGvkfr4Vt/XFPTOokw+i3
+nfdPX4ANbNejQUCVEmH7I04f3Y7vdccbycPfL8Y+yK78iC3pQdkOZ8Hhz7QWsLEC
+7i66WO7tnaqlKfBbJyvs2ZAP2Cd9V089CXNn6Y+i8m1uQdAvC9rEc1AY70y+eX6L
+7r5mhi2iNNog8ukAEQEAAbQEVXNlcokB1AQTAQgAPhYhBHKxRCp5NfB+lmBqc0QE
+a42oKSEUBQJhVv7kAhsDBQkDwjYsBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJ
+EEQEa42oKSEUw1oL/0n5B2xQBHjh8VTYpnTfJ/O08YLbTp9Z1b7lRP/84avHBraa
+YmuyYf5WxC5Xyx9yW1z36aHNOVnVSGrUaXYtAh4W98wY3IFLvJrHY07l1sEHhFg6
+R5eokvpHg7vknzNhnrg+6JReAqe7nhlwOCE6PpMOaxHMabApJ6tf/5+FkvNUIH69
+4Mjln689O5YWCRQ0sLwEG4wfM2DyOCXKRd+LZQU4Iz01dePNnNhBV1NKrVRY3UK0
+Vnl5LLwDfd7n1Dot03Jxw+Xr54qjGxuL8RjUbwaIE8GtfA3pp0kCpUTJ9QVlUICc
+dy7NjOPFDrJw1V4KsULHgUUneKSP4wuHhmG8afbu7eUDAA0QMXrQQ7eGDLkftYcX
+xHYPEhYXEt5JDFrola2gpbAhyZQnQ260IAv/toNhSp+a05NA9fy7Cr5F+g7Dq/Sr
+NckZwA0i5rN7gBoFOSUHs/0VSgLfW5sjkfz+OOIsjgqL9TrMD0gkqUx7DNDBdJhM
+bGwq4Q+MDScy5sI4LrkBjQRhVv7kAQwAuXlYHfsm58lQ15WkK86Dzi0qPfIMwRVI
+uVI+/B+avhSqqwyWx7jWIQeWOHg1kKtXB4kBMNbiyll+A3CkHGIXen8YrKFpGIHb
+qsuwfts53SnBhDRRSKCRXHnv89FAtfDyayXQyawZnXQWfoPUx0S3ECK9IB/2N6Vx
+ofQbKX9QJ0Grp5znq2Ep/PeBd2Fltfhrbt8M5J1VzlKeQ6zqwK32CdYh/lm1yAa0
+nxQpEMUpqm3xRUoBerei80nuet3MFufDvOGYyqt9vYT/q2Z7txHfV4azn08AaF4w
+h3BGyLu6U02xxmd0/iyTw3DsdGCqewJvnX8rMHJnlNp9HgfXSkvNkOqrXYkzt8dp
+EcXsRzLpDmQO6E3Ey3iQcyyEXlYOUS3ZEkVVpv0aCSQfEWndGEukuVDk84Ck+xdS
+QlcYz+q1LxGVqdx0hhI7ByBnNm0TGNEpvkDYUzPB7i35NTEB1F1x7YlcQ1hry3VC
+L0891mNRCewWvJWdoojLdGSVFNNzYUMjABEBAAGJAbwEGAEIACYWIQRysUQqeTXw
+fpZganNEBGuNqCkhFAUCYVb+5AIbDAUJA8I2LAAKCRBEBGuNqCkhFMSXC/9XqPH1
+JczeXAGPl5J9X3c6b7w3QZlaEob64T+yYaAJkDUGCedU6O1pGxxQHgylZyadZD8u
+anKagHSeUxMWknEql8C0l/+Q0MQtRzPh5+qGkFGxvqvCetUn5/YlijY9VIhWNLjm
+v+xmffZmeJSgApwmvzdpfppxjDxNDNZDDKcPzC9ZBsxqi3vJSbMCfUPMpI+gmkCm
+j+j98vnSKsbj2V7B/5NksEOTr3Q9AYSnFX9NA39rAxn3MH1YadSU7a3eJ7r0jkg4
+XleCCKYrWtXJjnh8PGgAXQF77H2yYqab2tHFvEjqusZDzlbfgO3euHBkRxG+3xTP
+Dm08dSzDLrjYKZ1IZZqIf1t1QTzTrJredJ23Abf51uRSEJBCLAui7QIkQn7Cj3zu
+NmVyVs6bsopDYict+l++CWLgtZpq2j15KnVAt/QSnCoq6QRYGl4VmcNGEyPyTnqp
+xARXTj6nVlBqsljpB+zrJ2zWksojfTYqOx8crJXyQGC52uFR6lVCXLxBRps=
+=PRYA
+-----END PGP PUBLIC KEY BLOCK-----
+2021-10-05 06:07:09.878341	begemot	tort	Ping
+2021-10-05 07:21:12.361183	begemot	tort	Ping
+2021-10-05 07:21:59.314924	tort	begemot	Привет, чет траблы с инетом с утра
+2021-10-05 07:22:14.588283	tort	begemot	У меня креды есть на сервак
+2021-10-06 07:10:26.352878	begemot	tort	Привет
+2021-10-06 07:10:54.595948	begemot	tort	Ты нужен
+2021-10-06 07:27:57.520037	begemot	tort	Привет
+2021-10-06 07:27:57.521224	begemot	tort	Ты нужен
+2021-10-09 10:43:23.087139	begemot	tort	Привет
+2021-10-09 10:43:45.283610	tort	begemot	Привет, я там ни чего не увидел
+2021-10-09 10:43:59.207113	begemot	tort	ДАй креды от акка
+2021-10-12 16:54:18.094369	begemot	tort	завтра с утра пиши сразу рубену в помощь по проксмоксу.
+2021-10-12 16:54:27.870193	begemot	tort	ему нужна помощь
+2021-10-12 16:55:22.290588	begemot	tort	спроси о проблемных вопросах и помоги ему у тебя есть много опыта в вируализации и сетках
+2021-10-20 12:48:57.288879	begemot	tort	ping
+2021-10-21 08:12:48.570596	begemot	tort	ping
+2021-10-21 08:13:04.779861	tort	begemot	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-10-21 13:45:25.700895	tort	begemot	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-10-21 13:46:17.023669	begemot	tort	Привет
+2021-10-27 06:55:36.526096	begemot	tort	Привет
+2021-10-29 07:10:21.870513	begemot	tort	Привет
+2021-10-29 08:46:21.450978	tort	begemot	Ферма МакОС не нужна ни кому сейчас? Надо профилактику, обновить ВМварю
+2021-11-01 08:13:32.120891	begemot	tort	привет стукни
+2021-11-01 08:14:58.348767	begemot	tort	привет стукни
+2021-11-01 08:15:39.450197	tort	begemot	Продублирую из рокета
+
+ бро где ты покупал
+чистые впски
+08:15
+это какие? то что деметру давал?
+2021-11-01 08:15:58.618623	tort	begemot	Рокет с утра нестабильно работает, давай тут
+2021-11-01 08:16:12.099270	begemot	tort	да новые какие-то
+2021-11-01 08:16:21.642250	begemot	tort	он говорил что ты нашел
+2021-11-01 08:16:24.095217	tort	begemot	5 сек найду
+2021-11-01 08:16:30.841195	tort	begemot	Тхт тот
+2021-11-01 08:16:41.727028	begemot	tort	та мне хостер нужен
+2021-11-01 08:16:58.025437	begemot	tort	зарегай там еще 8 это нужно сейчас
+2021-11-01 08:17:50.178382	tort	begemot	Так я их не помню), ок сейчас зарегаю чистых 8 штук, пингану как оплату сформирую,
+локация будет европа?
+2021-11-01 08:18:19.704569	begemot	tort	да отлично
+2021-11-01 08:18:28.200958	begemot	tort	очень жду
+2021-11-01 08:18:29.921196	tort	begemot	Работаю
+2021-11-01 08:20:16.295282	tort	begemot	Сделай пока 22 порт на 185.(проксмокс)
+2021-11-01 08:22:27.930844	begemot	tort	хорошо
+2021-11-01 13:34:19.939019	begemot	tort	зайди на прокладку хостер
+2021-11-01 13:34:42.633888	begemot	tort	и узнай почему прокладка стала опо скорости проседать
+2021-11-01 13:34:53.601460	begemot	tort	мне тут все пишут нужно понимать в чем проблема
+2021-11-01 13:35:37.106497	begemot	tort	возможно поэтому и скорость упала
+2021-11-01 13:35:48.637332	begemot	tort	оно ж раньше быстрее было
+2021-11-01 13:36:01.069045	begemot	tort	тут?
+2021-11-01 13:38:28.959264	begemot	tort	тут
+2021-11-02 08:37:23.853333	tort	begemot	*
+2021-11-02 08:37:29.848252	begemot	tort	*
+2021-11-04 18:50:15.210659	begemot	tort	Привет
+2021-11-05 15:14:29.918224	begemot	tort	что там в чате у меня отвалился интернет
+2021-11-05 16:08:50.458156	tort	begemot	Я тут щас сделаю 5 минут
+2021-11-08 13:29:24.009099	begemot	tort	 там в профайлах создаешь группы
+и уже там
+не помню нужно смотреть
+2021-11-08 13:30:17.213982	begemot	tort	давай я создам юзера и ты с ним протесть чтобы по правам он все что хотел делал со своими тачками и других не выел
+2021-11-08 13:30:36.439492	begemot	tort	ты и сам можешь создать юзера
+2021-11-08 13:30:49.252616	tort	begemot	Да
+2021-11-08 13:34:22.067340	tort	begemot	Юзера я создам, и группу, дай мне время почитать, если найдешь сейчас инструкцию, то щас сделаю, и потестирую сам
+2021-11-15 13:42:03.054852	tort	begemot	Не регается у меня на mail.com и все что с ним связано пялят там меня 
+на сколько я помню там нужно 100% whoer.net
+Your disguise: 90% время системы не соответствует
+2022-01-20 12:05:04.848236	begemot	tort	бро я тор обновил и у меня трабл я пока здесь
+2022-01-20 12:05:16.604097	tort	begemot	Ок

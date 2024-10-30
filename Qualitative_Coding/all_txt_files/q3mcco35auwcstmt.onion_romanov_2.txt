@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-04-17 16:45:11.674162	q3mcco35auwcstmt.onion	romanov_2	Hi.
+Welcome to this XMPP server.

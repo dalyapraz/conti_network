@@ -1,0 +1,17 @@
+Timestamp	From	To	Message
+2021-11-22 11:18:28.403407	cybergangster	dylon	hello
+2021-11-22 11:18:35.646539	cybergangster	dylon	tut?
+2021-11-22 17:35:11.712238	cybergangster	dylon	Zdarova
+2021-12-01 10:36:39.054135	cybergangster	dylon	Бери билды у параноика
+2021-12-01 12:19:00.942356	cybergangster	dylon	Бери билды у параноика
+2021-12-03 03:06:04.784613	cybergangster	dylon	pE7PVdB6kMr4pe6Jmp8cBthUF7Xd4vTMdIixjgPX5P4ewj2kBD7mNgeh6GkqBQsH эти заплатили?
+они там спамят а я кош не вижу в диалоге
+2021-12-03 12:25:53.236107	cybergangster	dylon	pE7PVdB6kMr4pe6Jmp8cBthUF7Xd4vTMdIixjgPX5P4ewj2kBD7mNgeh6GkqBQsH эти заплатили?
+они там спамят а я кош не вижу в диалоге
+2022-02-02 03:34:44.854890	cybergangster	dylon	там прямая ссылка на чат
+2022-02-02 03:35:39.091385	cybergangster	dylon	и в ней id
+2022-02-02 03:54:02.981226	cybergangster	dylon	ты же про записку?
+2022-02-02 07:25:47.975910	cybergangster	dylon	там прямая ссылка на чат
+2022-02-02 07:25:47.981086	cybergangster	dylon	и в ней id
+2022-02-02 07:25:47.984414	cybergangster	dylon	ты же про записку?
+2022-02-10 20:57:40.351526	cybergangster	dylon	Здарова

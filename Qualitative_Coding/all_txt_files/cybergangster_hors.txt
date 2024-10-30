@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2022-01-14 10:00:01.354168	cybergangster	hors	маякни
+2022-01-14 10:00:04.924837	cybergangster	hors	как будешь
+2022-01-14 11:27:20.465385	cybergangster	hors	маякни
+2022-01-14 11:27:20.493311	cybergangster	hors	как будешь

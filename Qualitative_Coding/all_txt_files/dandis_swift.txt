@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-10-08 10:20:50.954569	swift	dandis	пинг
+2021-10-08 11:53:19.308759	swift	dandis	пинг
+2021-10-08 11:53:36.670399	dandis	swift	+

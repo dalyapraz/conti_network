@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-12-03 13:20:42.275808	dandis	cybergangster	Привет, надо 1 билд и доступы
+2021-12-04 15:16:20.592668	dandis	cybergangster	Привет, надо 1 билд и доступы
+2021-12-04 15:22:35.013662	cybergangster	dandis	Привет

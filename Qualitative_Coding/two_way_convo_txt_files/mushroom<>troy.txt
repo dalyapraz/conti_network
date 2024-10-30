@@ -1,0 +1,14 @@
+Timestamp	From	To	Message
+2020-10-12 12:04:02.762118	troy	mushroom	hi
+2020-10-12 13:13:24.327440	troy	mushroom	hi
+2020-10-27 09:57:39.599532	mushroom	troy	Привет. Сценарии:
+Download: https://qaz.im/load/37BD7A/zy4BdE   
+Delete: https://qaz.im/index.php?a=delete&q=1862967305
+Пароль: CZ8t*rNW*r?Xf%=J]
+2020-10-27 09:57:52.153149	troy	mushroom	hi
+2020-10-27 09:57:53.312732	troy	mushroom	sps
+2020-10-27 09:58:43.284892	mushroom	troy	Вверху каждого сценария нужно указывать аргументы.
+2020-10-27 09:58:59.020866	mushroom	troy	По названиям параметров понятно будет.
+2020-10-27 10:00:14.704575	troy	mushroom	ponyal
+2020-10-27 10:00:20.684984	troy	mushroom	rozberus dumau
+2020-10-27 10:00:21.384334	troy	mushroom	sps

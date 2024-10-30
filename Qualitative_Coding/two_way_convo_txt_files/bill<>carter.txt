@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-08-18 14:40:21.340364	carter	bill	да, привет
+2020-09-14 09:01:23.846692	bill	carter	привет
+2020-10-09 07:12:05.029414	bill	carter	привет

@@ -1,0 +1,336 @@
+Timestamp	From	To	Message
+2020-06-22 13:34:12.737974	deploy	hof	Привет
+2020-06-22 13:34:27.813812	deploy	hof	Можешь chil40 выложить?
+2020-06-22 13:34:38.666382	hof	deploy	привет
+2020-06-22 13:35:33.628721	hof	deploy	залил
+2020-06-22 13:36:20.132631	deploy	hof	Спс
+2020-06-22 13:40:16.931991	deploy	hof	bnpbImjsl564ff8QkVjCrZkoqboGDh9f9YLRVjhs3pOLQ5kop5L2Fxm
+2020-06-22 13:40:33.715758	deploy	hof	Строка на chil40.exe, chil41.dll
+2020-06-22 13:41:15.239751	hof	deploy	ок, спс
+2020-06-22 13:42:46.387521	hof	deploy	dllка пока не залита?
+2020-06-22 13:43:11.225758	deploy	hof	5 мин.
+2020-06-22 13:43:24.843120	hof	deploy	ок, напиши плиз как зальешь
+2020-06-22 13:45:32.869293	deploy	hof	Залил
+2020-06-22 13:45:40.580529	hof	deploy	ок, спс
+2020-06-22 13:47:06.217899	hof	deploy	в длл такая же строка?
+2020-06-22 13:47:12.696488	hof	deploy	не нахожу
+2020-06-22 13:48:52.762125	deploy	hof	Сейчас перезалью
+2020-06-22 13:50:23.409750	deploy	hof	Перезалил
+2020-06-22 13:50:32.364908	hof	deploy	ок, спс
+2020-06-23 09:26:56.774874	deploy	hof	Привет
+2020-06-23 09:27:37.130613	deploy	hof	chil43.dll крашится при запуске на Server 2019 x64
+2020-06-23 10:18:14.032704	hof	deploy	привет, залью другую
+2020-06-23 10:18:17.732946	hof	deploy	5 мин
+2020-06-23 10:20:29.418494	hof	deploy	залил
+2020-06-23 10:20:49.024928	deploy	hof	Ок
+2020-06-23 12:04:53.899920	deploy	hof	sktop\Windows-classic-samples-master\Windows-classic-samples-master\Samples\Win7
+2020-06-23 12:05:22.092631	deploy	hof	chil42.exe, chil43.dll
+2020-06-23 12:05:31.051412	deploy	hof	Строка
+2020-06-23 12:06:21.974505	hof	deploy	понял, ок, спс
+2020-06-23 16:09:28.307646	hof	deploy	подскажи, детект на svchost?
+2020-06-23 16:10:11.516739	deploy	hof	Не знаю, дал детект у Бентли
+2020-06-23 16:10:13.100765	hof	deploy	а, сорри, это бентли проверяет, узнаю у него
+2020-06-24 13:33:13.716245	deploy	hof	Привет
+2020-06-24 13:33:25.170957	deploy	hof	Строка на chil45
+2020-06-24 13:33:33.315640	deploy	hof	6CzPryX5QS12CkZk2kVjDQR0gVtNL0J7mSZkckMeZoJelsO3E2
+2020-06-24 13:33:38.079137	hof	deploy	привет, ок, спс
+2020-06-24 16:08:16.875856	deploy	hof	qECAnRvie4ThzFPQVRjHOFx9IjKusQ5bJShrAVP7
+2020-06-24 16:08:25.724595	deploy	hof	Строка на chil45
+2020-06-24 16:08:52.275537	hof	deploy	ок, спс
+2020-06-25 08:41:42.251166	deploy	hof	Привет
+2020-06-25 08:41:47.704410	deploy	hof	AigHttxBQ8qBc3w51YaAc6h6A9Pb66PWbXImeugzvyDOKzy6wlrWOZb9
+2020-06-25 08:41:47.705570	deploy	hof	AigHttxBQ8qBc3w51YaAc6h6A9Pb66PWbXImeugzvyDOKzy6wlrWOZb9
+2020-06-25 08:41:55.749252	hof	deploy	привет
+2020-06-25 08:42:01.516749	deploy	hof	Строка на chil46
+2020-06-25 08:42:09.892891	hof	deploy	ок
+2020-06-25 11:09:00.981242	deploy	hof	V4F0ZRL7ueHRBmsIECRkOWh4bwfrifmdWVTtW6rcZ1KiyWErUCqa7TWXwHIp7EwR
+2020-06-25 11:09:08.711526	deploy	hof	Строка на chil47
+2020-06-25 13:01:59.773654	hof	deploy	ок, спс
+2020-06-25 17:29:48.037109	deploy	hof	2nsIa0vl87kEIXHpHStbxOOK4UO2Cx84zoTQxToqVZBdekyn95
+2020-06-25 17:30:03.610833	deploy	hof	Строка на chil46.dll, chil47.dll
+2020-06-25 18:41:25.584089	hof	deploy	ок, спс
+2020-06-26 13:30:06.454941	hof	deploy	привет
+2020-06-26 13:30:13.171531	hof	deploy	скинь плиз строку по chil48
+2020-06-26 13:30:51.318765	deploy	hof	Привет
+2020-06-26 13:30:58.623659	deploy	hof	3QJZxBJ0DsVhJrmqdLAliy6UgIX2Rusqag2WweJJOR9J6ibQStLdtY3PsmSGnzcs
+2020-06-26 13:31:04.516908	hof	deploy	спс
+2020-06-29 08:44:26.091545	deploy	hof	Привет
+2020-06-29 08:44:36.996616	hof	deploy	привет
+2020-06-29 08:44:38.948952	deploy	hof	Можешь залить chil50.dll
+2020-06-29 08:45:00.909971	hof	deploy	ок
+2020-06-29 08:46:44.015748	hof	deploy	закинул
+2020-06-29 08:47:18.457969	deploy	hof	Спс
+2020-06-29 08:59:28.342875	deploy	hof	Можешь еще  chil49 выложить
+2020-06-29 09:08:15.335038	hof	deploy	не длл?
+2020-06-29 09:08:19.035207	hof	deploy	exe?
+2020-06-29 09:08:43.415924	deploy	hof	.exe
+2020-06-29 09:09:16.086245	hof	deploy	закинул
+2020-06-29 09:18:20.099552	deploy	hof	s16JCpTkGR2MgkJXmrRG7SuvPfR2c1zhdJ8HcFlrtMte7r7KeQ7KYJKTr3smEi3G
+2020-06-29 09:18:36.996463	hof	deploy	ок, спс
+2020-06-29 09:18:38.456474	deploy	hof	Строка на chil49.exe, chil50.dll
+2020-06-29 18:19:58.931814	deploy	hof	ezAEGS14y1Px7sspr6ajxC0wQcJwb1RVxCg73UEEz2YIcE5tsH0LW6s
+2020-06-29 18:20:10.747374	deploy	hof	Строка на chil49.exe, chil50.dll
+2020-06-29 18:38:17.094266	hof	deploy	ок, спс
+2020-06-30 08:58:39.390565	deploy	hof	Привет
+2020-06-30 08:58:45.030261	deploy	hof	Gyd3IHh7aXtrcjNKv8j4vebuGYkR8oDOVNcdAOvQr8VoRH2BD8vHcle9V09a1HlE
+2020-06-30 08:58:55.019405	deploy	hof	Строка на чилы
+2020-06-30 09:11:57.140769	hof	deploy	привет, ок, спс
+2020-07-01 10:00:10.372124	deploy	hof	Привет
+2020-07-01 10:00:15.979081	deploy	hof	KReM6s0iDPPcvBNNORXyhp95pUSYbWUHVvVCuPjIHoYKI9ccwU0JObu7kPVuhmmJ
+2020-07-01 10:00:24.603705	deploy	hof	Строка на чилы
+2020-07-01 10:01:40.053487	hof	deploy	привет, спс
+2020-07-01 11:19:22.219646	deploy	hof	GWdJE7u8WMoVAUd55lPjASZGgf2XZMn6mStfsOnhZJv1feduuuZA0X9e7E1PHzeM
+2020-07-01 11:19:34.591911	deploy	hof	Строка на end1 и cal7
+2020-07-01 11:19:46.693264	hof	deploy	ок, спс
+2020-07-02 09:18:43.716215	deploy	hof	Привет
+2020-07-02 09:18:51.140753	deploy	hof	gVbtXxU60IaSG7XQR2C29Eoo6yq48Ds7yxQlpB1EsWLQwsy0R2YsKfYcs9ngeYZY
+2020-07-02 09:19:03.982880	deploy	hof	Строка на файлы для Пола
+2020-07-02 09:19:21.722074	hof	deploy	привет, ок, спс
+2020-07-03 08:56:14.466224	deploy	hof	Привет
+2020-07-03 08:56:20.082697	deploy	hof	aJg8T1uINqBae3Od5SSS1NTdS7MLRhzcIiJaHV8uS556zRcGb4arsCPuxXTTFVoa
+2020-07-03 08:56:25.755995	deploy	hof	Строка на файлы для Пола
+2020-07-03 08:58:21.501146	hof	deploy	привет, спс
+2020-07-06 08:59:09.395408	deploy	hof	Привет
+2020-07-06 08:59:17.810815	deploy	hof	aJg8T1uINqBae3Od5SSS1NTdS7MLRhzcIiJaHV8uS556zRcGb4arsCPuxXTTFVoa
+2020-07-06 08:59:25.096089	deploy	hof	Строка на файлы для Пола
+2020-07-06 09:00:08.144668	hof	deploy	привет, принял, спс
+2020-07-06 14:59:00.288148	hof	deploy	https://xss.is/threads/39006/
+2020-07-06 15:01:30.311359	deploy	hof	Спасибо, ознакомлюсь
+2020-07-06 15:01:51.592170	hof	deploy	неприменно, нужная инфа
+2020-07-06 17:58:37.616632	deploy	hof	cQRYq6hHjl3SkCunt3yqpTsXmWjMfeTlTmJbuJzhFVwtx1i8aAOhJ6gcjOlF3HEW
+2020-07-06 17:58:49.704906	deploy	hof	Строка для Пола
+2020-07-06 18:02:41.742810	hof	deploy	ок, спс
+2020-07-07 09:07:05.900166	deploy	hof	Привет
+2020-07-07 09:07:11.612137	deploy	hof	HbaKlPCJJkmuopEsgXqltq7x8vDEwykUDOVRfj4ixd5SiQHrAC
+2020-07-07 09:07:27.586074	deploy	hof	Строка на chil61.dll
+2020-07-07 09:07:31.839220	hof	deploy	привет, ок, спс
+2020-07-07 18:44:40.559636	deploy	hof	AmBslbDZNUX2QrsK39fu5Nq6immiNuOBdBmD1MB8oSwI0XquF8vKxdmQAHD1JFIa
+2020-07-07 18:44:46.380804	deploy	hof	Строка на chil61.dll
+2020-07-07 18:53:18.959033	hof	deploy	ок, спс
+2020-07-08 09:25:11.438392	deploy	hof	Привет
+2020-07-08 09:25:15.334206	deploy	hof	wGNWRYAM9uMjO3HySCqzIukwHLUIC4e7eKbziMhxQplCc9Tjs61AnUGy18nV54vP
+2020-07-08 09:25:26.629562	deploy	hof	Строка на chil63.dll
+2020-07-08 09:25:38.279567	deploy	hof	*chil62.dll
+2020-07-08 09:25:48.839919	hof	deploy	привет, ок, спс
+2020-07-08 12:18:06.123011	deploy	hof	whkBHaDRNQIerjR1UYbSNSERCplfGqC9t2tB61mFpZ0E3LjM5hybnoAg1vChmRpX
+2020-07-08 12:18:13.293582	deploy	hof	Строка на тройку джима
+2020-07-08 12:42:55.707213	hof	deploy	ок, принял
+2020-07-08 14:53:52.706036	deploy	hof	w0DZiMyq6TyQFe95s3nj54DH6wjptNSDx8ISHzoXtLxNZerMTugzvJt1yQpL4nED
+2020-07-08 14:54:01.729428	deploy	hof	Строка на cal10
+2020-07-08 14:54:19.637371	hof	deploy	ок, спс
+2020-07-08 15:32:55.321485	deploy	hof	w0DZiMyq6TyQFe95s3nj54DH6wjptNSDx8ISHzoXtLxNZerMTugzvJt1yQpL4nED
+2020-07-08 15:33:09.940513	deploy	hof	На chil26.dll
+2020-07-08 16:42:43.355346	hof	deploy	ок, принял, спс
+2020-07-09 09:27:17.674229	deploy	hof	Привет
+2020-07-09 09:27:23.327876	deploy	hof	HMfvwukDzZatTmLg9YzIeAjFnP8oFjTTQw7F53OtcQ2SXVsJJXYHLqCBAgGsjrLm
+2020-07-09 09:27:31.577408	deploy	hof	На chil63.dll
+2020-07-09 09:27:39.378539	hof	deploy	привет, ок, спс
+2020-07-09 12:59:44.802173	deploy	hof	На тройку джима строка та-же
+2020-07-09 13:06:59.571367	hof	deploy	ок
+2020-07-10 11:02:47.968155	hof	deploy	привет, закинь плиз строку на чил
+2020-07-10 11:03:22.745973	deploy	hof	Привет
+2020-07-10 11:03:28.587284	deploy	hof	Сек.
+2020-07-10 11:04:26.727772	deploy	hof	U0R7dDqpLzjDSi0suVZ7yfGrpQw0l3wez5AjOfKrn34CWZESEG
+2020-07-10 11:04:34.569354	hof	deploy	ок, спс
+2020-07-13 10:19:45.658782	deploy	hof	Привет
+2020-07-13 10:19:51.413661	deploy	hof	TjHyjjoilUijLvNdfXWoWfMR1nK5hJJ1LBaaH9HafDRGfe8jS4Owzrk3KSrDmzmI
+2020-07-13 10:20:02.188726	deploy	hof	Строка на chil66.dll
+2020-07-13 10:20:02.335069	hof	deploy	привет, принял, спс
+2020-07-13 12:05:49.400860	hof	deploy	скинь плиз строку на CHIL65KLADS.dll CHIL65UNQSE.dll
+2020-07-13 12:10:21.030783	deploy	hof	Привет
+2020-07-13 12:10:36.758319	deploy	hof	Это еще за пятницу
+2020-07-13 12:10:52.089356	deploy	hof	Я уже не помню какая там была строка
+2020-07-13 12:11:03.434765	deploy	hof	Сегодня делал новый
+2020-07-13 12:11:39.703303	hof	deploy	ок, нашел
+2020-07-13 12:11:40.748921	hof	deploy	U0R7dDqpLzjDSi0suVZ7yfGrpQw0l3wez5AjOfKrn34CWZESEG
+2020-07-13 12:12:01.226475	deploy	hof	Ок
+2020-07-13 12:12:04.263018	hof	deploy	так это пятничные файлы? или свежие?
+2020-07-13 12:12:14.377294	hof	deploy	вроде как просили их залить
+2020-07-13 12:12:29.010440	deploy	hof	Да. Сегодня я делал chil66.dll
+2020-07-13 12:13:00.609892	hof	deploy	ок
+2020-07-14 09:18:22.714426	deploy	hof	Привет
+2020-07-14 09:18:33.963959	deploy	hof	MDTV2c6oQ75A9AE6kxWJc1KVAiGbOiQi59GepoIoXXbwJ57jVoZATzKA8resOUXv
+2020-07-14 09:18:46.489327	deploy	hof	Строка chil67.dll
+2020-07-14 09:18:52.063624	hof	deploy	привет, принял, спс
+2020-07-15 09:30:20.073485	deploy	hof	Привет
+2020-07-15 09:30:25.925783	deploy	hof	O1RH7anEdCV0mMIckt2JhvYVhECVG8B7cVSuDedKS3j8dqK3HH4MQqozrOrQzJRd
+2020-07-15 09:30:38.141231	deploy	hof	Строка на chil68.dll
+2020-07-15 09:31:15.203977	hof	deploy	привет
+2020-07-15 09:31:18.022161	hof	deploy	ок, спс
+2020-07-15 17:46:23.936129	deploy	hof	78a9ayi0d0ESJPughZDMvAi3Due6KElKA3EZwJcH4okvTS83CTSIZjysats1cQaC
+2020-07-15 17:46:28.040501	deploy	hof	Строка на chil68.dll
+2020-07-15 17:57:59.280686	hof	deploy	ок, принял, спс
+2020-07-16 09:09:46.732986	deploy	hof	Привет
+2020-07-16 09:09:46.734325	deploy	hof	Привет
+2020-07-16 09:09:52.477123	deploy	hof	upvtiuWqxt9yAk3dveIuPLNrhWwHObTN9Fc5OHII0ryg6wKwpJwl1DF1erhf8ndf
+2020-07-16 09:10:06.489715	deploy	hof	Строка на chil69.dll
+2020-07-16 09:22:52.366938	hof	deploy	привет, принял, спс
+2020-07-16 13:01:35.618056	deploy	hof	GV1vkSR2hOkct8FgNgd2BwEwIuUGJwGRF9vbRJTPSOfV7BnWGcxOPHP9H4Nqmfkw
+2020-07-16 13:01:44.895625	deploy	hof	Строка на тройку Джима
+2020-07-16 13:02:15.220470	hof	deploy	ок, спс
+2020-07-17 11:31:28.360129	deploy	hof	Привет
+2020-07-17 11:31:34.595289	deploy	hof	lnLM07AmdQxCKL5DGNR2y9vPoULJ0uUht9zqIBM0cnNsgHlOEGP17af9tuBMDQEH
+2020-07-17 11:31:43.634700	deploy	hof	Строка на chil70.dll
+2020-07-17 12:16:17.389269	hof	deploy	привет, принял, спс
+2020-07-17 16:56:17.947111	deploy	hof	R2o9K1fYrtcfAlb9IHQT1ZryAK15CfxH5IlE6Li4henngqF5tlOy1cVhw05D3dIo
+2020-07-17 16:56:28.417523	deploy	hof	Строка на chil71.dll
+2020-07-17 19:12:38.557684	deploy	hof	R2o9K1fYrtcfAlb9IHQT1ZryAK15CfxH5IlE6Li4henngqF5tlOy1cVhw05D3dIo
+2020-07-17 19:12:38.561676	deploy	hof	Строка на chil71.dll
+2020-07-17 19:13:01.312847	hof	deploy	принял, спс
+2020-07-20 09:55:06.715525	deploy	hof	Привет
+2020-07-20 09:55:16.583135	deploy	hof	s3qxoNyupbKGfpBTONJJQDuivYvbIumiESL01E37ZtnLOq4Ah94Ko2PFr2GvymTb
+2020-07-20 09:55:53.404282	deploy	hof	Строка на chil72.dll
+2020-07-20 09:56:48.171636	hof	deploy	привет, принял, спс
+2020-07-21 09:14:49.525614	deploy	hof	Привет
+2020-07-21 09:14:58.364202	deploy	hof	Строка на chil73.dll
+2020-07-21 09:17:20.681391	hof	deploy	привет
+2020-07-21 10:02:50.295336	hof	deploy	строку не скинул
+2020-07-21 10:03:14.453669	deploy	hof	Жаба тупит
+2020-07-21 10:03:25.635708	deploy	hof	nTjytQ0KC7fECB0um25jh60HbL7yQ79CsC7ton77E1Cadt2VZoQiBHrjypxYHTcl
+2020-07-21 10:04:02.574599	hof	deploy	ок, спс
+2020-07-24 12:00:55.003759	deploy	hof	TrojanWin32\Wacatac.G!ml
+2020-07-24 12:01:11.943050	deploy	hof	На тот сразу после инжекта в wermgr
+2020-07-24 12:06:26.099491	deploy	hof	Но детект не всегда, от имени зависит
+2020-07-24 12:06:59.041689	deploy	hof	С коротким именем чисто, когда больше символов-10-12 может спалить
+2020-07-24 12:07:04.939765	deploy	hof	xDpEm1xZfEIjIiGF1PctOJVFVNE4BjKbphbsZLdPs18ZtKdcUrO0cEkO0mi4CofR
+2020-07-24 12:07:11.529347	deploy	hof	Строка на тот
+2020-07-24 12:15:25.448904	deploy	hof	TrojanWin32\Wacatac.G!ml
+2020-07-24 12:15:25.450650	deploy	hof	На тот сразу после инжекта в wermgr
+2020-07-24 12:15:25.459325	deploy	hof	Но детект не всегда, от имени зависит
+2020-07-24 12:15:25.460640	deploy	hof	С коротким именем чисто, когда больше символов-10-12 может спалить
+2020-07-24 12:15:25.465779	deploy	hof	xDpEm1xZfEIjIiGF1PctOJVFVNE4BjKbphbsZLdPs18ZtKdcUrO0cEkO0mi4CofR
+2020-07-24 12:15:25.466530	deploy	hof	Строка на тот
+2020-08-03 08:20:41.465210	deploy	hof	Привет
+2020-08-03 08:20:47.452480	deploy	hof	f0JIWbGDm89Otd3DRswRO3qFW6TuiQtmnvMuezV4YTR2GXX6BsMGn04y6VPVFGVo
+2020-08-03 08:21:00.455501	deploy	hof	chil84.dll
+2020-08-03 08:21:04.893505	hof	deploy	привет
+2020-08-03 08:21:10.324864	hof	deploy	принял, спс
+2020-08-03 14:30:17.033153	hof	deploy	закинь плиз строку на chil85
+2020-08-03 14:30:46.810425	deploy	hof	x0PZviyG7cP2xWovP6rJL3a6TcqydSALs1bbWNQpeWRrPoK5o9
+2020-08-03 14:30:56.578840	hof	deploy	спс
+2020-08-04 10:04:36.195044	deploy	hof	Привет
+2020-08-04 10:04:59.762771	deploy	hof	mh7bZT6nfsNPAt6jGbRAmPAiQK4kuhP5ZNooYSQSEDk8u3S9Whgk5nKz5HUFFvoP
+2020-08-04 10:05:25.907818	deploy	hof	Строка на chil86.dll, chil87.exe
+2020-08-04 10:09:33.582758	hof	deploy	привет, принял, спс
+2020-08-04 10:27:04.258475	hof	deploy	файлы еще не готовы?
+2020-08-04 10:27:45.532596	deploy	hof	Пока только chil86.dll отдал бентли
+2020-08-04 10:27:55.548482	hof	deploy	ок
+2020-08-05 14:43:31.239946	deploy	hof	Привет
+2020-08-05 14:43:43.601298	deploy	hof	Строка на chil89.dll
+2020-08-05 14:43:49.716050	deploy	hof	N5Aa7YEsZSh5Zm0pwLhXEEh9GAhk9Aqal5oCqF5pePdJi8iX1q1RK1Sig4ctvmWm
+2020-08-05 14:49:01.792841	hof	deploy	привет, принял, спс
+2020-08-05 17:29:11.537527	deploy	hof	Новый po1 палит Trojan:Win32/Wacatac.G!ml
+2020-08-05 17:30:38.430480	deploy	hof	На server 2019, крашится, но не всегда, если несколько раз позапускать можно словить ошибку, смотрел не криптованный
+2020-08-05 17:36:46.486390	hof	deploy	ок, понял
+2020-08-05 17:38:38.850118	deploy	hof	Такая проблема возникает в момент инжекта wermgr
+2020-08-05 17:39:33.287876	hof	deploy	Name: Trojan:Win32/Wacatac.G!ml
+      ID: 2147749376
+      Severity: Severe
+      Category: Trojan
+      Path: file:_C:\Users\Administrator\Downloads\po1ssd\PO1SSD.exe
+      Detection Origin: Local machine
+      Detection Type: Concrete
+      Detection Source: Real-Time Protection
+      User: SRV2019\Administrator
+      Process Name: C:\Windows\System32\svchost.exe
+      Signature Version: AV: 1.321.679.0, AS: 1.321.679.0, NIS: 1.321.679.0
+      Engine Version: AM: 1.1.17300.4, NIS: 1.1.17300.4
+2020-08-05 17:39:52.028317	hof	deploy	бентли скидывал, чтранно, что svchost.exe
+2020-08-05 17:48:08.392902	deploy	hof	У меня нет инжекта в svchost
+2020-08-05 17:49:15.877882	hof	deploy	знаю, бот делает инжект в wermgr, а вот модули уже запускает в svchost
+2020-08-05 17:49:44.196425	hof	deploy	вот скорее всего детект на инжект модуля
+2020-08-05 17:49:57.829799	hof	deploy	но странно, что проявляктся не всегда
+2020-08-05 17:50:04.828769	hof	deploy	буду искать
+2020-08-05 17:50:37.944031	deploy	hof	Если имена менять, то не всегда он есть
+2020-08-05 17:51:15.081896	hof	deploy	так вроде бы с разными именами тестируют
+2020-08-06 09:56:18.175422	hof	deploy	привет, криптани плиз tst22
+2020-08-06 09:56:54.785015	deploy	hof	Привет
+2020-08-06 09:57:05.796464	deploy	hof	Да
+2020-08-06 10:07:14.735577	deploy	hof	Залил
+2020-08-06 10:08:00.436530	deploy	hof	vUp1LOdVMap5Y84h13HKxBpzN4g8dR2sOFTpCJQjlFTkXmz0I612QEnKCuPOu8S8
+2020-08-06 10:08:19.219435	deploy	hof	Строка на chil91.exe, chil90.dll
+2020-08-06 10:09:00.206156	deploy	hof	Запустил tst22, пока дефендер молчит, как партизан!)
+2020-08-06 10:39:20.484722	hof	deploy	ок, спс
+2020-08-06 10:43:23.384753	hof	deploy	такие файлики завтра пойдут, или даже с пн, протетсировать хорошо нужно
+2020-08-06 12:07:55.422298	hof	deploy	залил новый po1.bin
+2020-08-06 12:08:06.303818	hof	deploy	без проверки
+2020-08-06 12:08:15.685738	deploy	hof	Ок
+2020-08-12 11:04:20.600729	deploy	hof	Привет
+2020-08-12 11:04:26.910219	deploy	hof	j4ItDBXyPePBdrSChzD0mxxYvoIgBwmXWKfRFj1IMS09N
+2020-08-18 09:13:38.555641	deploy	hof	Привет
+2020-08-18 09:13:42.791516	deploy	hof	ada0azeVBMUqXSZZKPGnUs6SRZGT0CUfQ5bz7VOYfGsG0tY
+2020-08-18 09:13:55.391314	deploy	hof	Строка на чилы
+2020-08-18 09:14:25.595405	hof	deploy	привет, принял, спс
+2020-08-20 09:52:17.630369	deploy	hof	Привет
+2020-08-20 09:52:24.021355	deploy	hof	8F1qhVdjX0TzJFPGawmWb8SJBWL3ZkZciDh3HGPlVI07jrQOGDhApSiAj5WXUpir
+2020-08-20 09:52:36.366897	deploy	hof	Строка на чилы
+2020-08-20 09:52:46.112997	hof	deploy	привет, принял, спс
+2020-08-21 11:40:43.808810	hof	deploy	привет, закинь плиз строку на чилы
+2020-08-21 11:42:17.757649	deploy	hof	Привет
+2020-08-21 11:42:17.760153	deploy	hof	8jk1QIIMWSlHua1aA6GTMCoJ3GP0TXjDGt78upxaRzaffH9qIwPPOz2hEWdZROyq
+2020-08-21 11:42:39.368119	hof	deploy	спс
+2020-08-25 15:47:03.182189	deploy	hof	Привет
+2020-08-25 15:47:09.548965	deploy	hof	d8ZNYmyS3yBpmvL1iDKyL9oNWrdEpSfV2fdaypvWVjfNXY7kZjTAt3kOOKAjG5Ib
+2020-08-25 15:47:21.991213	deploy	hof	строка на тройку джима
+2020-08-25 16:20:30.872891	hof	deploy	привет, принял, спс
+2020-08-26 08:15:46.145176	deploy	hof	Привет
+2020-08-26 08:15:52.840702	deploy	hof	9fNhfLCgYBsWVKA8rUQ6reUGR7sAh6qLn2kG0wzgmc2E7mwea1
+2020-08-26 08:16:05.176428	deploy	hof	Строка на чилы
+2020-08-26 08:24:30.774718	hof	deploy	привет, принял, спс
+2020-08-26 11:26:17.457351	deploy	hof	На тройке Джима, та-же строка
+2020-08-26 12:27:42.276030	hof	deploy	понял
+2020-08-31 09:02:35.158104	deploy	hof	Привет
+2020-08-31 09:02:41.710691	deploy	hof	jl7CvWj8waEAh3eOe3r50kA0ojzhtmSNa3Q2FPzkb8ATgmdJr8
+2020-08-31 09:02:53.270859	deploy	hof	Строка на чилы
+2020-08-31 09:03:46.607483	hof	deploy	привет, принял, спс
+2020-08-31 12:03:08.566791	deploy	hof	На тройку Джима строка та-же
+2020-08-31 12:04:04.328036	hof	deploy	jr
+2020-08-31 12:04:05.098880	hof	deploy	ok
+2020-09-01 13:06:26.683751	deploy	hof	Привет
+2020-09-01 13:06:33.142464	deploy	hof	Rjl7ZCtteLaEYBHIXLKC6kbxk8djZZHXZJkO9qp63INhMpGifGsRXNDd0oorzoWi
+2020-09-01 13:06:37.896194	hof	deploy	привет
+2020-09-01 13:06:43.275680	deploy	hof	строка на тройку джима
+2020-09-01 13:07:05.417320	hof	deploy	ок, спс
+2020-09-07 10:24:36.675391	deploy	hof	Привет
+2020-09-07 10:24:42.957190	deploy	hof	sHWqss3OVyNMVDPAFJNtxXMzhqE42cwbMjBsYxmYJled42C8an
+2020-09-07 10:24:55.068075	deploy	hof	строка нам чил
+2020-09-07 10:26:40.089888	hof	deploy	привет, ок, спс
+2020-09-08 08:38:35.616586	hof	deploy	привет
+2020-09-08 08:38:49.852638	hof	deploy	детект все равно на боте?
+2020-09-08 08:40:25.365046	deploy	hof	Привет
+2020-09-08 08:43:14.837327	deploy	hof	После инжекта в процесс вылетает детект Trojan/script wacatac, но там детект зависит от имени. Я веду к тому, что если заказчики будут менять имена у них могут быть детекты
+2020-09-08 09:16:56.646507	hof	deploy	пропадал интернет
+2020-09-08 09:17:13.054689	deploy	hof	После инжекта в процесс вылетает детект Trojan/script wacatac, но там детект зависит от имени. Я веду к тому, что если заказчики будут менять имена у них могут быть детекты
+2020-09-08 09:17:17.721543	hof	deploy	все равно детект Wacatac.B всплывает на боте?
+2020-09-08 09:18:18.153559	hof	deploy	ок, понял
+2020-09-08 19:01:46.132132	deploy	hof	b0PT8Rrhp0RS3OrdjRnRD2By1vsFU53GikAFJm88f
+2020-09-08 19:01:54.056088	deploy	hof	На chil106
+2020-09-08 19:02:02.482578	hof	deploy	ок, спс
+2020-09-10 10:22:18.629919	deploy	hof	Привет, скинь пожалуйста, da6
+2020-09-10 10:22:40.164443	hof	deploy	привет
+2020-09-10 10:22:41.454705	hof	deploy	сейчас
+2020-09-11 08:50:57.623358	deploy	hof	Привет
+2020-09-11 08:51:04.371484	deploy	hof	UoUZ73lUchHl8VGZxIwv86A58w69MDFsB1T68ukCO5KF2a
+2020-09-11 08:51:07.590040	hof	deploy	привет
+2020-09-11 08:51:18.311773	deploy	hof	Строка на чилы
+2020-09-11 08:52:11.684541	hof	deploy	принял, спс
+2020-09-17 14:26:39.774370	deploy	hof	Привет
+2020-09-17 14:28:12.950974	hof	deploy	привет
+2020-09-17 14:28:41.857172	deploy	hof	Запускал не криптованный chil112 на server 2019, через пару секунд после запуска появляется месседж dllregisterserver in chil112.dll succeeded
+2020-09-17 14:28:50.722574	deploy	hof	Так должно быть?
+2020-09-17 14:29:20.724451	hof	deploy	нет
+2020-09-17 14:29:27.392776	hof	deploy	окно?
+2020-09-17 14:29:38.277350	hof	deploy	messagebox ?
+2020-09-17 14:31:03.318346	deploy	hof	Да, которое обычно появляется когда выполняется функция DllRegisterServer
+2020-09-17 14:31:49.701065	hof	deploy	там просили сделать запуск в DllMain
+2020-09-17 14:32:01.260289	hof	deploy	ты через что тестируешь?
+2020-09-17 14:32:05.140830	hof	deploy	как запускаешь?
+2020-09-17 14:39:26.098439	deploy	hof	Я делал через regsvr32, не предупредили меня
+2020-09-17 14:40:38.574985	hof	deploy	понял
+2020-09-17 15:19:42.830117	deploy	hof	Как запускать dll?
+2020-09-17 15:21:56.105901	hof	deploy	просили запуск в DllMain
+2020-09-17 15:22:10.762906	hof	deploy	насколько я понимаю запуск через LoadLibrary
+2020-09-17 15:22:40.100899	hof	deploy	или rundll32 path\file.dll, DllRegisterServer
+2020-09-17 17:40:40.327745	deploy	hof	Новый Чил через regsvr32 запускать?
+2020-09-17 18:03:19.442576	hof	deploy	да, или через rundll32
+2020-11-11 15:34:23.904176	deploy	hof	Привет

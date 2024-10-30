@@ -1,0 +1,150 @@
+Timestamp	From	To	Message
+2021-12-21 13:22:20.774458	pumba	cybergangster	2+3=?
+2021-12-21 13:22:24.449606	cybergangster	pumba	5
+2021-12-21 13:22:25.972610	pumba	cybergangster	2+3=?
+2021-12-21 13:22:29.008857	pumba	cybergangster	Congratulations! Now you can chat!
+2021-12-22 17:20:47.081736	pumba	cybergangster	привет
+2021-12-23 21:25:48.318883	pumba	cybergangster	Satterfield & Pontikes Construction. We received the attached note, and have reached out in the chat site it takes us to, but haven't received any reply.
+2021-12-23 21:25:58.694744	pumba	cybergangster	4v3rP5N1OdX1bQo3SXbMnbrw9IZcSGocVfB4QgS8zUobMRy31yCi3D0FO760cqsB
+2021-12-23 21:26:15.727812	pumba	cybergangster	это ответ от того ящика на который ты просил меня написать
+2021-12-23 21:28:13.230683	pumba	cybergangster	они написали, перевод для тебя: что компания их называется Satterfield & Pontikes Construction. Они написали в чат по заметке (я так понимаю из файла readme) но не получили ни какого ответа.
+2021-12-23 21:29:10.092843	pumba	cybergangster	и не благодари)) лучшая благодарность - это бонус от тебя к праздникам))
+2021-12-23 23:17:27.252278	pumba	cybergangster	Satterfield & Pontikes Construction. We received the attached note, and have reached out in the chat site it takes us to, but haven't received any reply.
+2021-12-23 23:17:27.256358	pumba	cybergangster	4v3rP5N1OdX1bQo3SXbMnbrw9IZcSGocVfB4QgS8zUobMRy31yCi3D0FO760cqsB
+2021-12-23 23:17:27.258429	pumba	cybergangster	это ответ от того ящика на который ты просил меня написать
+2021-12-23 23:17:27.260114	pumba	cybergangster	они написали, перевод для тебя: что компания их называется Satterfield & Pontikes Construction. Они написали в чат по заметке (я так понимаю из файла readme) но не получили ни какого ответа.
+2021-12-23 23:17:27.262074	pumba	cybergangster	и не благодари)) лучшая благодарность - это бонус от тебя к праздникам))
+2021-12-24 08:31:24.078291	pumba	cybergangster	привет. извини что беспокою, соощения видел по твоему вопросу?
+2021-12-24 08:32:34.135629	cybergangster	pumba	привет. извини что беспокою, соощения видел по твоему вопросу?
+2021-12-31 15:46:49.941442	cybergangster	pumba	в оффлайн пиши если какие вопросы будут на праздниках
+2021-12-31 15:47:00.030906	cybergangster	pumba	мне или саппорту
+2022-01-04 08:39:30.535484	pumba	cybergangster	привет
+2022-01-04 08:40:30.953941	cybergangster	pumba	да
+2022-01-04 08:40:31.737771	pumba	cybergangster	бля не вижу тебя
+2022-01-10 06:50:09.512465	pumba	cybergangster	привет
+2022-01-11 20:55:27.517330	cybergangster	pumba	http://contirec7nchr45rx6ympez5rjldibnqzh7lsa56lvjvaeywhvoj3wad.onion/vOjdyhnt7ADeB867Pg5e1ANOWX40k3KndyNiyaRB1mwP0KMtHLnPeuVSj99huNzu
+This is SVL.  We paid a ransom. The link above was our original chat room that is now, no longer there. We are having issues with decryption of some of our files.  Can you reopen our chat room so we can send you a file to see if you can decrypt it?
+2022-01-11 20:55:36.511007	cybergangster	pumba	anemois@protonmail.com
+2022-01-11 20:55:48.616248	cybergangster	pumba	отпиши им скажи восстановили доступ
+2022-01-11 20:56:02.033375	cybergangster	pumba	Hello - this is our second attempt to contact you.  Our files have been encrypted by CONTI - we need your help to recover the data urgently.  Please respond
+--BEGIN ID---
+qDM93AzFmxa9vg92ujeFzvxgUEXA3K26gDtSH1zvjEliV30pWTxKaXJmFSTS7msp
+--END ID---
+2022-01-11 20:56:09.011623	cybergangster	pumba	lighting-recover-99@protonmail.com
+2022-01-11 20:56:25.438667	cybergangster	pumba	Вот с этими спишись скажи что бы по ссылке из readme.txt заходили
+2022-01-11 20:56:31.824845	cybergangster	pumba	Все работает
+2022-01-12 05:29:04.456307	cybergangster	pumba	http://contirec7nchr45rx6ympez5rjldibnqzh7lsa56lvjvaeywhvoj3wad.onion/vOjdyhnt7ADeB867Pg5e1ANOWX40k3KndyNiyaRB1mwP0KMtHLnPeuVSj99huNzu
+This is SVL.  We paid a ransom. The link above was our original chat room that is now, no longer there. We are having issues with decryption of some of our files.  Can you reopen our chat room so we can send you a file to see if you can decrypt it?
+2022-01-12 05:29:04.460163	cybergangster	pumba	отпиши им скажи восстановили доступ
+2022-01-12 05:29:04.461070	cybergangster	pumba	anemois@protonmail.com
+2022-01-12 05:29:04.461664	cybergangster	pumba	Hello - this is our second attempt to contact you.  Our files have been encrypted by CONTI - we need your help to recover the data urgently.  Please respond
+--BEGIN ID---
+qDM93AzFmxa9vg92ujeFzvxgUEXA3K26gDtSH1zvjEliV30pWTxKaXJmFSTS7msp
+--END ID---
+2022-01-12 05:29:04.462846	cybergangster	pumba	lighting-recover-99@protonmail.com
+2022-01-12 05:29:04.466504	cybergangster	pumba	Вот с этими спишись скажи что бы по ссылке из readme.txt заходили
+2022-01-12 05:29:04.469946	cybergangster	pumba	Все работает
+2022-01-12 05:29:47.373043	pumba	cybergangster	ок
+2022-01-12 05:29:53.642010	pumba	cybergangster	все сделаю
+2022-01-12 06:09:17.367025	pumba	cybergangster	письма разослал
+2022-01-12 06:09:23.199745	pumba	cybergangster	ждемс их
+2022-01-12 07:29:01.735671	pumba	cybergangster	привет
+2022-01-12 07:29:06.044436	pumba	cybergangster	у нас что, панель упала?
+2022-01-12 07:29:07.643701	pumba	cybergangster	http://l66orrehfw4hovqme625bavlpz7m2achabov3iyqy76cai44oao6neqd.onion/zeh7dkwfdxw99tdk
+2022-01-12 07:29:13.942046	pumba	cybergangster	не доступна более
+2022-01-12 07:52:31.391864	pumba	cybergangster	 уже доступна))
+2022-01-13 05:30:15.845123	pumba	cybergangster	привет
+2022-01-13 05:30:23.467198	pumba	cybergangster	SVL отписали в панель
+2022-01-13 05:30:26.569303	pumba	cybergangster	скинули файл
+2022-01-13 05:30:28.778204	pumba	cybergangster	смотрите там
+2022-01-13 05:44:45.300259	pumba	cybergangster	только если я не ошибаюсь, они скинули дешифрованный файл и он поврежден. а был он вроде как с расширением .conti
+2022-01-13 05:45:00.336329	pumba	cybergangster	вообщем смотри, скажешь потом что им ответить или что еще нужно будет
+2022-01-13 07:40:24.392490	pumba	cybergangster	посмотри плиз, что-то опять с панелью
+2022-01-13 07:40:24.393403	pumba	cybergangster	https://l66orrehfw4hovqme625bavlpz7m2achabov3iyqy76cai44oao6neqd.onion/zeh7dkwfdxw99tdk/
+2022-01-13 07:40:38.328324	pumba	cybergangster	не могу вообще на нее выйти
+2022-01-13 07:40:40.029725	pumba	cybergangster	что за х..я блин опять
+2022-01-13 10:12:30.765825	pumba	cybergangster	посмотри плиз, что-то опять с панелью
+2022-01-13 10:12:30.766683	pumba	cybergangster	https://l66orrehfw4hovqme625bavlpz7m2achabov3iyqy76cai44oao6neqd.onion/zeh7dkwfdxw99tdk/
+2022-01-13 10:12:30.770460	pumba	cybergangster	не могу вообще на нее выйти
+2022-01-13 10:12:30.771027	pumba	cybergangster	что за х..я блин опять
+2022-01-13 10:12:59.630979	cybergangster	pumba	там обнова заливалась
+2022-01-13 10:13:05.532260	cybergangster	pumba	щас работает?
+2022-01-13 10:14:46.843968	pumba	cybergangster	проверю скоро
+2022-01-13 10:14:49.091259	pumba	cybergangster	запускаюсь
+2022-01-13 10:14:54.211317	pumba	cybergangster	да кодер твой предупредил
+2022-01-13 10:15:06.703495	pumba	cybergangster	но только после того как я его теребить стал
+2022-01-13 10:15:12.563547	pumba	cybergangster	SVL ты смотрел?
+2022-01-13 10:15:19.036531	pumba	cybergangster	они отписали в панели
+2022-01-13 10:25:42.143565	cybergangster	pumba	да
+2022-01-13 10:25:46.217000	cybergangster	pumba	скажи что бы ждали
+2022-01-13 10:25:51.653856	cybergangster	pumba	мне отъехать надо по делам
+2022-01-13 10:28:52.384728	pumba	cybergangster	принял
+2022-01-13 10:28:55.077667	pumba	cybergangster	пусть ждут
+2022-01-13 10:29:10.040075	pumba	cybergangster	как будешь просто готов что-то сказать, скинешь я отпишу им
+2022-01-13 10:29:14.535358	cybergangster	pumba	ок
+2022-01-14 11:36:53.854330	pumba	cybergangster	привет. ты там про SVL не забыл? ждут уже вторые сутки ребята)))
+2022-01-14 12:03:18.147608	pumba	cybergangster	привет. ты там про SVL не забыл? ждут уже вторые сутки ребята)))
+2022-01-14 12:03:35.827324	cybergangster	pumba	привет
+2022-01-14 12:03:37.458513	cybergangster	pumba	помню
+2022-01-14 12:03:42.723494	cybergangster	pumba	еще кое что пробуем
+2022-01-14 12:04:51.416416	pumba	cybergangster	ясно
+2022-01-14 12:04:57.245045	pumba	cybergangster	отлично тогда
+2022-01-27 05:50:03.253542	pumba	cybergangster	привет. нужно файлик дешифрануть fGk4CWXhBcWsXqvYJDxEbbiZaPS5nAaRxkbomdwsi6Up5VuksLYNnhM9IC3ILrNh
+2022-01-27 08:25:43.864361	pumba	cybergangster	привет. нужно файлик дешифрануть fGk4CWXhBcWsXqvYJDxEbbiZaPS5nAaRxkbomdwsi6Up5VuksLYNnhM9IC3ILrNh
+2022-01-27 08:25:59.807998	cybergangster	pumba	ok
+2022-01-27 08:26:14.972228	pumba	cybergangster	спасибо
+2022-01-27 08:26:30.785543	pumba	cybergangster	давно твоего помощника не видел
+2022-01-27 08:26:34.198076	pumba	cybergangster	он в отпуске?
+2022-01-29 17:58:33.218871	pumba	cybergangster	ну что, отписали там в панель?
+2022-01-29 17:59:12.335896	pumba	cybergangster	можешь еще одну хуйню пояснить по панели?
+2022-01-29 17:59:14.558523	pumba	cybergangster	h3dkNKoW6vGQhzhSDxru5WwXiq22VZ1eI2DSfii4UcAtpt4lps0KnO4OCwYJhVai
+2022-01-29 17:59:37.792739	pumba	cybergangster	они сейчас онлайн, но онлайн не подсвечивает как у других в колонке ID
+2022-01-29 17:59:45.346222	pumba	cybergangster	почему?
+2022-01-31 14:44:31.834450	pumba	cybergangster	привет
+2022-01-31 14:44:52.708246	pumba	cybergangster	а куда твой помощник делся?
+2022-01-31 14:45:21.154986	pumba	cybergangster	смотрю и удалился из моих контактов
+2022-01-31 16:40:34.747832	pumba	cybergangster	кибер, это реально одна из наших команд что пишут в нете?
+2022-01-31 16:40:36.297392	pumba	cybergangster	Тайваньская компания по производству электроники Delta Electronics, являющаяся подрядчиком Apple, Tesla, HP и Dell, стала жертвой кибератаки с использованием вымогательского ПО.
+Delta Electronics является крупнейшим в мире поставщиком импульсных источников питания, и объем ее продаж в прошлом году составил более $9 млрд. 
+Хотя в уведомлении Delta Electronics не говорится, кто стоит за атакой, неназванная ИБ-компания обнаружила образец программы-вымогателя Conti в сети подрядчика. Как сообщило издание The Record, операторы Conti зашифровали 1,5 тыс. серверов и 12 тыс. компьютеров из примерно 65 тыс. устройств в сети Delta Electronics.
+Вымогательская группировка потребовала выкуп в размере $15 млн за дешифратор и предотвращение утечки украденных данных. Киберпреступники пообещали скидку, если компания «рассчитается» быстро.
+2022-01-31 16:41:01.963097	pumba	cybergangster	или просто на нас бочки катят
+2022-02-02 21:07:41.523546	pumba	cybergangster	привет
+2022-02-02 21:07:51.024151	pumba	cybergangster	B0d8fdFjBf5boJd5a20fWU9oCexnya3Z5dtTP6XRjQ6GWNR7MdyrW5JgfqARxPRd
+2022-02-02 21:07:59.815985	pumba	cybergangster	декриптуй плиз
+2022-02-02 21:08:07.563600	cybergangster	pumba	привет
+2022-02-02 21:08:08.016254	cybergangster	pumba	+
+2022-02-03 18:44:49.644233	pumba	cybergangster	привет
+2022-02-03 18:44:51.535784	pumba	cybergangster	выручай
+2022-02-03 18:44:52.225057	pumba	cybergangster	B0d8fdFjBf5boJd5a20fWU9oCexnya3Z5dtTP6XRjQ6GWNR7MdyrW5JgfqARxPRd
+2022-02-03 18:44:54.210806	cybergangster	pumba	+
+2022-02-03 18:44:56.773502	pumba	cybergangster	нужен декрипт
+2022-02-05 03:03:49.999466	pumba	cybergangster	привет
+2022-02-05 03:04:02.852864	pumba	cybergangster	как появишься, готовь плиз декриптор для sByD5e89fYgag2lLK2ovb1TuK8QBN6JQimPbjuHZlOIimtwpsxhXEjWkaP7Nn1YA
+2022-02-05 03:04:06.027245	pumba	cybergangster	они оплатили
+2022-02-05 03:04:55.005909	pumba	cybergangster	наверно будет правильнее вот этот ID: zHjpoY1ncX3BdwRrRBQRMsYq9G2MSEuMmd5TPfu5wZs0s5Ci3sQq064BWVA3RzkO
+2022-02-05 03:11:12.548406	pumba	cybergangster	Эти черти оплатили тоже h3dkNKoW6vGQhzhSDxru5WwXiq22VZ1eI2DSfii4UcAtpt4lps0KnO4OCwYJhVai
+2022-02-05 03:11:26.854217	pumba	cybergangster	выход за тобой бро!
+2022-02-05 08:10:23.103649	cybergangster	pumba	ок
+2022-02-06 13:43:06.580182	pumba	cybergangster	привет
+2022-02-06 13:43:08.278383	pumba	cybergangster	тут?
+2022-02-06 13:44:32.866125	pumba	cybergangster	сделай мне новый чат для вот этих ребят, ждут линк они NYuHe0k577Js4lpzCTjm74XIqjgkojAf8NKKxOL0jab4nyBk7sas6y6PGdFLGHGz
+2022-02-06 13:44:42.890191	pumba	cybergangster	а то трамп что-то не сделал
+2022-02-06 13:47:59.598098	pumba	cybergangster	нужен новый чат очень очень, появись плиз
+2022-02-06 14:06:33.995859	cybergangster	pumba	АГа
+2022-02-06 14:06:36.025023	cybergangster	pumba	Ша сделаю
+2022-02-06 14:09:27.085089	cybergangster	pumba	+
+2022-02-06 14:24:22.270750	pumba	cybergangster	спасибо
+2022-02-06 14:24:43.482592	pumba	cybergangster	что мне им скинуть нужно?
+2022-02-06 14:24:48.029570	pumba	cybergangster	какой линк?
+2022-02-06 14:24:50.211148	cybergangster	pumba	я уже им скинул
+2022-02-06 14:25:34.534748	pumba	cybergangster	аааа, ты вообще молодец, спасибо
+2022-02-10 14:12:26.342292	pumba	cybergangster	cBObFXdIkyR4TZ85QxJWUySGHMEo5ZXUJMhktsKAeGK6FzspOSNN8vf3Aie7HnEq
+2022-02-10 14:12:33.760644	pumba	cybergangster	посмотри там  плиз
+2022-02-10 14:12:37.643517	pumba	cybergangster	ждут твоей помощи
+2022-02-10 16:38:22.350849	pumba	cybergangster	кибер, затягивается все, нужен ты очень
+2022-02-10 20:32:47.856127	pumba	cybergangster	cBObFXdIkyR4TZ85QxJWUySGHMEo5ZXUJMhktsKAeGK6FzspOSNN8vf3Aie7HnEq
+2022-02-10 20:32:47.856738	pumba	cybergangster	посмотри там  плиз
+2022-02-10 20:32:47.857238	pumba	cybergangster	ждут твоей помощи
+2022-02-10 20:32:47.874842	pumba	cybergangster	кибер, затягивается все, нужен ты очень
+2022-02-21 14:42:43.675683	pumba	cybergangster	привет

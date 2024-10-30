@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-10-29 09:49:16.146685	begemot	bentley	это gator)
+2021-10-29 09:49:25.046466	bentley	begemot	Понятно ))
+2021-10-29 09:49:31.934489	begemot	bentley	жду ответа

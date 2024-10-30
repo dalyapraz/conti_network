@@ -1,0 +1,30 @@
+Timestamp	From	To	Message
+2021-11-22 16:18:35.059743	pin	cybergangster	а панель пазора не подняли?
+2021-11-22 16:25:56.397737	cybergangster	pin	а панель пазора не подняли?
+2021-11-22 16:28:40.244362	pin	cybergangster	скажи а новостник не подняли?
+2021-11-24 17:01:54.556860	cybergangster	pin	пофиксили сцп вроде
+2021-11-24 17:01:56.935459	cybergangster	pin	попробуй
+2021-11-24 18:52:58.825913	cybergangster	pin	пофиксили сцп вроде
+2021-11-24 18:52:58.828545	cybergangster	pin	попробуй
+2021-11-25 13:12:31.689983	pin	cybergangster	привет
+2021-11-26 11:16:50.988812	pin	cybergangster	привет
+2021-11-26 13:13:36.656231	pin	cybergangster	не получается?
+2021-11-27 18:36:48.372742	pin	cybergangster	http://czb6edlp7gsar4u5crxccldjkjn36p35fro7c7gck7wjumcrzq4efgid.onion/zeh7dkwfdxw99tdk/#/chat/55fd783cc108f24e3ff421307f7ccd1e
+2021-11-27 18:36:55.015740	pin	cybergangster	pE7PVdB6kMr4pe6Jmp8cBthUF7Xd4vTMdIixjgPX5P4ewj2kBD7mNgeh6GkqBQsH
+2021-11-27 18:37:06.117533	pin	cybergangster	нада дать тест декрипт
+2021-11-30 14:57:15.592760	pin	cybergangster	http://czb6edlp7gsar4u5crxccldjkjn36p35fro7c7gck7wjumcrzq4efgid.onion/zeh7dkwfdxw99tdk/#/chat/55fd783cc108f24e3ff421307f7ccd1e
+2021-11-30 14:57:15.594133	pin	cybergangster	pE7PVdB6kMr4pe6Jmp8cBthUF7Xd4vTMdIixjgPX5P4ewj2kBD7mNgeh6GkqBQsH
+2021-11-30 14:57:15.594700	pin	cybergangster	нада дать тест декрипт
+2021-12-02 22:45:39.215479	cybergangster	pin	зайдешь - маякни пасс новый скину
+2021-12-05 05:19:58.726361	cybergangster	pin	зайдешь - маякни пасс новый скину
+2021-12-12 19:16:11.404900	pin	cybergangster	тут
+2021-12-14 03:57:20.800470	cybergangster	pin	А зачем ты мне это говоришь?
+2021-12-14 11:02:42.955939	cybergangster	pin	А зачем ты мне это говоришь?
+2021-12-16 16:51:28.304354	pin	cybergangster	ghbdtn
+2022-02-15 10:28:52.969744	pin	cybergangster	привет
+2022-02-15 14:20:38.275324	cybergangster	pin	Привет
+2022-02-15 14:20:45.061220	cybergangster	pin	Я отходил
+2022-02-15 14:20:47.754633	cybergangster	pin	Маякни как будешь
+2022-02-15 15:34:05.055836	cybergangster	pin	Привет
+2022-02-15 15:34:05.057681	cybergangster	pin	Я отходил
+2022-02-15 15:34:05.059169	cybergangster	pin	Маякни как будешь

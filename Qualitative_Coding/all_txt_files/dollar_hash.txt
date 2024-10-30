@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-07-26 15:12:04.263144	hash	dollar	:)
+2021-07-26 15:12:13.111416	dollar	hash	hey
+2021-07-26 15:12:14.059264	hash	dollar	:)

@@ -1,0 +1,6 @@
+Timestamp	From	To	Message
+2020-10-20 13:01:43.591067	sunday	mango	dva+dva*10/2=?
+2020-10-20 13:23:19.707876	mango	sunday	20
+2020-10-20 13:23:21.164697	sunday	mango	dva+dva*10/2=?
+2020-10-20 13:23:33.375630	mango	sunday	12
+2020-10-20 13:23:34.622952	sunday	mango	Congratulations! Now you can chat!

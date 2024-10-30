@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2020-09-23 13:40:26.254351	professor	kaktus	ку-ку0
+2020-09-23 13:40:42.197414	professor	kaktus	)
+2020-09-23 13:41:02.217830	kaktus	professor	Привет!
+2020-09-23 13:41:16.776873	kaktus	professor	я от Бузы, скрипты закрепления сделал для тебя
+2020-09-23 13:41:29.500033	professor	kaktus	ага он говорил)
+пуляй!)
+2020-09-23 13:42:39.259864	kaktus	professor	bN7js$hXk9LdgBsa
+2020-09-23 13:42:41.694113	kaktus	professor	Download: https://qaz.im/load/k6b3kN/7hKs6D
+Delete: https://qaz.im/index.php?a=delete&q=1064233661
+2020-09-23 13:43:15.290719	professor	kaktus	ага поймал
+2020-09-23 13:43:17.108206	professor	kaktus	потестирую и маякну
+2020-09-23 13:43:26.702967	kaktus	professor	ок

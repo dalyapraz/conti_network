@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-09-01 14:19:29.666224	ford	nick	привет
+2021-09-01 14:19:29.668378	nick	ford	привет

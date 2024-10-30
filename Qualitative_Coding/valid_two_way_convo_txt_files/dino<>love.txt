@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-12-06 15:49:03.112301	love	dino	hi
+2021-12-06 16:05:34.070468	dino	love	привет
+2021-12-06 16:05:38.529352	love	dino	нужен док

@@ -1,0 +1,102 @@
+Timestamp	From	To	Message
+2020-09-29 11:58:53.335918	professor	mushroom	ку?
+2020-09-29 12:13:32.584447	mushroom	professor	Здесь.
+2020-09-29 12:19:05.591822	mushroom	professor	Ну что ты здесь? Сценарий, который скачивает и распаковывает curl тебе же давать для проверки?
+2020-09-29 12:20:23.289582	professor	mushroom	ага
+да
+закинь пожалуйста
+2020-09-29 12:20:58.289789	mushroom	professor	Сейчас.
+2020-09-29 12:23:18.406142	mushroom	professor	Download: https://qaz.im/load/5YtTfB/aDtBGN   
+Delete: https://qaz.im/index.php?a=delete&q=1605680160
+Пароль: f88o_rl^fxqJv%$Eo
+2020-09-29 12:23:46.927576	mushroom	professor	Попозже ещё будет сценарий, который с помощью curl скачивает и запускает exe.
+2020-09-29 12:23:59.003393	professor	mushroom	спасибо
+2020-09-29 12:24:23.567568	mushroom	professor	Понять что отработал просто, в конце будет написан полный путь к файлу curl.exe
+2020-09-29 12:56:23.720930	mushroom	professor	Как сделать сценарий, который скачивает с помощью curl файл, а потом запускает его? Передавать в сценарий путь к программе curl и адрес для скачки как аргументы командной строки или в сценарии вверху написать их?
+2020-09-29 12:56:56.710285	professor	mushroom	можно наверху в сценарии
+2020-09-29 13:13:37.331192	mushroom	professor	Download: https://qaz.im/load/4DnRe7/9h9aR5   
+Delete: https://qaz.im/index.php?a=delete&q=1823430052
+Пароль: +GZKuK,3cZ&")Ap$n
+2020-09-29 13:14:12.506150	mushroom	professor	Вверху сценария curl и url, так же в кавычках пиши туда.
+2020-09-29 13:54:48.111991	mushroom	professor	Ещё один, скачивает с помощью curl и запускает файл в кодировке base64:
+Download: https://qaz.im/load/nf3NBk/kr7y9Y   
+Delete: https://qaz.im/index.php?a=delete&q=1837668439
+Пароль: A3$k7Z|Cp/d%Qvz8z
+2020-09-29 13:55:43.061263	professor	mushroom	есть
+сейчас качну
+2020-09-30 12:01:29.677615	mushroom	professor	Привет для сценариев закрепления так же делать все нужные аргументы вверху сценария?
+2020-09-30 12:03:02.874371	professor	mushroom	да
+2020-09-30 12:03:04.057080	professor	mushroom	привет
+2020-09-30 12:03:56.079055	professor	mushroom	Привет для сценариев закрепления так же делать все нужные аргументы вверху сценария?
+2020-09-30 13:58:51.784049	mushroom	professor	Добавление ярлыка автозапуска:
+Download: https://qaz.im/load/G9fZ38/eEeNRE   
+Delete: https://qaz.im/index.php?a=delete&q=436087835
+Пароль: 15T<vP3D9Vfmv,<Aj
+2020-09-30 13:59:32.235214	professor	mushroom	поймал
+2020-09-30 13:59:34.154616	mushroom	professor	name имя ярлыка, target полный путь к программе.
+2020-09-30 14:00:12.349339	mushroom	professor	Остальные переменные опциональные типа аргументы, опимание и т.д.
+2020-09-30 14:02:21.726324	mushroom	professor	Да, понят что прошло всё штатно, в конце будет написан полный путь к ярлыку.
+2020-09-30 14:15:09.498956	mushroom	professor	Автозапуск в реестре:
+Download: https://qaz.im/load/eBN2Dh/R7Bz28   
+Delete: https://qaz.im/index.php?a=delete&q=197022126
+Пароль: ~XV<:Q:E(e/[Cm'O!
+2020-09-30 14:43:36.625575	mushroom	professor	Планировщик заданий:
+Download: https://qaz.im/load/79AR96/6GbN2s   
+Delete: https://qaz.im/index.php?a=delete&q=119210330
+Пароль: l)gTd2^%qa'Bx92&y
+2020-09-30 23:29:00.429822	mushroom	professor	Автозапуск в реестре:
+Download: https://qaz.im/load/eBN2Dh/R7Bz28   
+Delete: https://qaz.im/index.php?a=delete&q=197022126
+Пароль: ~XV<:Q:E(e/[Cm'O!
+2020-09-30 23:29:00.435248	mushroom	professor	Планировщик заданий:
+Download: https://qaz.im/load/79AR96/6GbN2s   
+Delete: https://qaz.im/index.php?a=delete&q=119210330
+Пароль: l)gTd2^%qa'Bx92&y
+2020-09-30 23:30:07.015416	professor	mushroom	поймал
+спасибо
+2020-10-01 07:08:38.700613	professor	mushroom	поймал
+спасибо
+2020-10-01 09:06:29.449088	mushroom	professor	Привет обновлённые версии сцеариев закрепления. Теперь при запуске из закрепления нужной программы её окно скрыто.
+2020-10-01 09:06:56.845835	mushroom	professor	Download: https://qaz.im/load/7eS48d/aa2B8a   
+Delete: https://qaz.im/index.php?a=delete&q=1385913961
+Пароль: #$KQ4ONFoX5E3+eTQ
+2020-10-01 12:56:03.501877	mushroom	professor	Привет обновлённые версии сцеариев закрепления. Теперь при запуске из закрепления нужной программы её окно скрыто.
+2020-10-01 12:56:03.505463	mushroom	professor	Download: https://qaz.im/load/7eS48d/aa2B8a   
+Delete: https://qaz.im/index.php?a=delete&q=1385913961
+Пароль: #$KQ4ONFoX5E3+eTQ
+2020-10-01 14:30:57.045200	mushroom	professor	Уточнение по сценарию autorun.cmd
+2020-10-01 14:31:41.180676	professor	mushroom	подскажи такой вопрос пожалуйста
+у нас подразумевается запуск исключить ехе? или есть возможность нагрузку в виде dll как-то задать?
+2020-10-01 14:31:45.208435	mushroom	professor	Прежде чем его запускать лучше проверить сначала что в папке автозагрузки нету ярлыка с таким же именем.
+2020-10-01 14:32:10.300677	mushroom	professor	Запуск где?
+2020-10-01 14:32:20.560249	professor	mushroom	нагрузки на забекдоренной машине
+2020-10-01 14:32:35.159411	mushroom	professor	Можно запускать и exe и dll.
+2020-10-01 14:32:44.908589	mushroom	professor	Там есть команда run dll в админке.
+2020-10-01 14:32:57.776852	professor	mushroom	в какой админке?
+2020-10-01 14:33:00.091250	professor	mushroom	у меня нету админки)
+2020-10-01 14:33:20.554197	professor	mushroom	можно я к тебе того кто тестирует эти сценарии направлю просто?
+а то у меня уже каша в голове
+2020-10-01 14:33:27.118668	professor	mushroom	не хочу копипастой заниматься только запутаемся
+2020-10-01 14:33:59.943347	mushroom	professor	Через сценарий тоже могу сделать запуск dll
+2020-10-01 14:34:12.222554	professor	mushroom	ага, сейчас dandis@ черканет
+минутку
+2020-10-01 14:34:38.503403	mushroom	professor	Через сценарий, который с помощью curl скачивает и запускает exe, можно чтобы он скачивал и запускал dll.
+2020-10-01 14:35:23.436583	professor	mushroom	ага 
+надо dll
+ехе очень грязный(
+2020-10-01 14:35:42.273024	professor	mushroom	на тестировании @dandis 
+он сейчас напишет - сделай пожалуйста ему длл вариант
+2020-10-01 14:38:49.306917	mushroom	professor	Для этого нужно имя функции в dll, которую запускать.
+2020-10-01 14:39:08.793510	professor	mushroom	да, конечно @dandis скажет
+2020-10-01 14:40:47.648495	mushroom	professor	Если что через админку можно dll запускать тоже.
+2020-10-01 14:41:01.518815	mushroom	professor	Буза сказал у твоих подручных к ней доступ есть.
+2020-10-01 14:41:31.997007	professor	mushroom	я не очень понимаю о какой админке речь)
+2020-10-01 14:41:39.523867	mushroom	professor	И через админку можно запускать exe не сохраняя файл на диск, как раз для случаев когда он грязный.
+2020-10-01 14:41:39.597175	professor	mushroom	мы крепиться будем своей нагрузкой кастомной
+2020-10-01 14:41:45.554866	professor	mushroom	а не лоадером
+2020-10-01 14:42:04.482101	mushroom	professor	https://scrytnuuszglaugg.onion
+2020-10-01 14:42:17.843965	mushroom	professor	Для управления ботом.
+2020-10-01 14:42:37.716617	professor	mushroom	не не 
+это сценарии не для закрепления ботом, мы своими нагрузками будем...
+2020-10-01 14:42:45.796192	professor	mushroom	это точечные варианты как раз там где бот не выживает
+2020-10-01 14:43:16.250269	mushroom	professor	Ладно, тогда жду когда напишет dandis.

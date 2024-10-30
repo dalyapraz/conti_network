@@ -1,0 +1,109 @@
+Timestamp	From	To	Message
+2020-06-24 15:30:09.435119	reshaev	poll	Привет
+2020-06-29 15:50:28.708600	reshaev	poll	pass: pFQ6s2HOEM#L63mq47O1PK*$d{94|i4T
+2020-06-29 15:52:56.232990	reshaev	poll	https://www.sendspace.com/file/7z5ha6
+2020-06-29 15:52:58.595465	reshaev	poll	https://www.sendspace.com/delete/7z5ha6/be6917707ef4dcafa6e9dccb9d3b8288
+2020-06-29 16:14:30.686880	reshaev	poll	pass: pFQ6s2HOEM#L63mq47O1PK*$d{94|i4T
+2020-06-29 16:14:30.691515	reshaev	poll	https://www.sendspace.com/file/7z5ha6
+2020-06-29 16:14:30.697914	reshaev	poll	https://www.sendspace.com/delete/7z5ha6/be6917707ef4dcafa6e9dccb9d3b8288
+2020-07-03 09:39:28.454887	reshaev	poll	Привет, билды нужны будут сегодня?
+2020-07-03 09:39:41.742730	reshaev	poll	Я скоро офф до завтра
+2020-07-03 13:27:41.995104	reshaev	poll	Здарова
+2020-07-07 23:34:08.393804	reshaev	poll	pass: oaPUJSFLAISDIJULwndkjasHYFSAI
+2020-07-07 23:35:01.066148	reshaev	poll	pass: oaPUJSFLAISDIJULwndkjasHYFSAI
+2020-07-08 16:50:01.987928	reshaev	poll	Ну че ты скинешь?
+2020-07-18 12:13:17.462161	reshaev	poll	Здарова, отпиши как по скорости локер отработал и по ав лучше стало?
+2020-07-18 12:13:29.895527	poll	reshaev	hi
+2020-07-18 12:13:59.793675	poll	reshaev	poak toka razdal man
+2020-07-18 12:14:00.002895	reshaev	poll	погоди че то с отр
+2020-07-18 12:14:12.712592	reshaev	poll	агга ок
+2020-07-18 12:16:02.348031	reshaev	poll	че там по этому билду YcrqnSxYHUfTYDTmPdeXeFiQYYqhXOmi?
+2020-07-18 12:16:10.159708	poll	reshaev	oplatili 2 builda
+2020-07-18 12:16:10.191734	reshaev	poll	надумали они?
+2020-07-18 12:16:18.258027	poll	reshaev	sterny vse otdal
+2020-07-18 12:16:28.981780	reshaev	poll	этот тоже?
+2020-07-18 12:16:33.612466	poll	reshaev	2 htyki
+2020-07-18 12:16:42.053779	reshaev	poll	красиво
+2020-07-18 12:16:55.005872	poll	reshaev	ladni davai otr chini
+2020-07-18 12:16:59.823213	poll	reshaev	ne lublu bez nego
+2020-07-18 12:17:09.148536	reshaev	poll	ок)
+2020-07-18 12:18:07.114646	reshaev	poll	бро дай обратную связь по ав и  по скрости в понедельник)
+2020-07-18 12:18:12.926006	poll	reshaev	ok
+2020-07-22 06:27:47.721537	reshaev	poll	Привет, я сообщения прочитал с этих мейлов
+ berstiminec1979@protonmail.com:9l46oViW4J:18145072552
+slanalinob1977@protonmail.com:jNi9tR7RXz:18283528076
+2020-07-22 06:33:02.401269	reshaev	poll	билд WJRyXkXEaBXbYcLFAzBnNrMxsRrOiCHd
+2020-07-22 09:01:45.774859	reshaev	poll	Привет, я сообщения прочитал с этих мейлов
+ berstiminec1979@protonmail.com:9l46oViW4J:18145072552
+slanalinob1977@protonmail.com:jNi9tR7RXz:18283528076
+2020-07-22 09:01:45.783538	reshaev	poll	билд WJRyXkXEaBXbYcLFAzBnNrMxsRrOiCHd
+2020-07-23 19:24:54.330248	poll	reshaev	chel zapisky tochno vidno?
+2020-07-23 19:24:57.899863	poll	reshaev	otpisok voobhe net
+2020-07-23 19:33:40.512384	poll	reshaev	chel zapisky tochno vidno?
+2020-07-23 19:33:40.513501	poll	reshaev	otpisok voobhe net
+2020-07-23 19:39:02.702716	reshaev	poll	Точно видно
+2020-07-24 14:41:23.909006	poll	reshaev	s lockerom hren kakay to
+2020-07-24 15:40:13.169735	poll	reshaev	chini ili delai testi tam
+2020-07-24 15:40:16.748642	poll	reshaev	no pzidec kak nujno
+2020-07-24 22:29:06.703473	poll	reshaev	s lockerom hren kakay to
+2020-07-24 22:29:06.704326	poll	reshaev	chini ili delai testi tam
+2020-07-24 22:29:06.705502	poll	reshaev	no pzidec kak nujno
+2020-07-27 20:02:49.874182	poll	reshaev	chel nu ebana.. ny v chem delo razie imena davat failam?
+2020-07-27 20:02:53.228621	poll	reshaev	eto pizdec
+2020-07-27 20:03:06.018114	poll	reshaev	nu 2 raza pisal... ti poimi narod shapritsya
+2020-07-27 20:43:58.211037	poll	reshaev	chel mne ehe tovetili
+2020-07-27 20:44:02.750678	poll	reshaev	nujen decrypt failov
+2020-07-27 20:44:05.870932	poll	reshaev	ti gde est?
+2020-07-27 20:44:17.656445	poll	reshaev	eto ne serezno tak propadat
+2020-07-28 09:19:55.226706	poll	reshaev	chel nu ebana.. ny v chem delo razie imena davat failam?
+2020-07-28 09:19:55.229454	poll	reshaev	eto pizdec
+2020-07-28 09:19:55.233214	poll	reshaev	nu 2 raza pisal... ti poimi narod shapritsya
+2020-07-28 09:19:55.234377	poll	reshaev	chel mne ehe tovetili
+2020-07-28 09:19:55.237669	poll	reshaev	nujen decrypt failov
+2020-07-28 09:19:55.240772	poll	reshaev	ti gde est?
+2020-07-28 09:19:55.241594	poll	reshaev	eto ne serezno tak propadat
+2020-07-29 17:24:09.552252	poll	reshaev	da man
+2020-08-06 13:59:20.925588	reshaev	poll	contisupport@q3mcco35auwcstmt.onion вот мой саппорт добавь
+2020-08-06 13:59:26.739858	reshaev	poll	билды теперь у него
+2020-08-06 14:20:14.415696	reshaev	poll	contisupport@q3mcco35auwcstmt.onion вот мой саппорт добавь
+2020-08-06 14:20:14.424791	reshaev	poll	билды теперь у него
+2020-08-19 13:40:44.044820	reshaev	poll	Новую еще тестят, час назад начали только
+2020-08-19 13:42:51.674555	reshaev	poll	Новую еще тестят, час назад начали только
+2020-09-05 08:27:49.743994	poll	reshaev	 
+ loaloverre1984@protonmail.com / skanwatemit1972@protonmail.com
+2020-09-05 08:27:56.424748	poll	reshaev	nujen srochno decryptor na eto milo
+2020-09-05 08:27:59.426491	poll	reshaev	!
+2020-09-05 11:13:02.116931	poll	reshaev	 
+ loaloverre1984@protonmail.com / skanwatemit1972@protonmail.com
+2020-09-05 11:13:02.120443	poll	reshaev	nujen srochno decryptor na eto milo
+2020-09-05 11:13:02.121428	poll	reshaev	!
+2020-09-05 11:54:18.950041	reshaev	poll	ты че то перепутал наверно
+2020-09-05 11:54:22.866179	reshaev	poll	такого билда нету
+2020-09-05 11:54:34.513126	reshaev	poll	loaloverre1984@protonmail.com:TvciLwcODE:+13608442433 
+buwormeki1977@protonmail.com:EPYWnEv9wh:+17816674040\
+2020-09-05 11:54:40.337293	reshaev	poll	вот такой есть от 29.06
+2020-09-05 12:11:04.423344	reshaev	poll	ну я на второе мыло зашел и на сколько я понял это этот билд который тебе нужен
+2020-09-05 12:13:04.329643	reshaev	poll	pass: aGX99n
+Download: https://qaz.im/load/2itT83/yH5iZQ
+Delete: https://qaz.im/index.php?a=delete&q=1395737052
+UgxqFDGNzoGidkreDvxYbQMfFnMUPTvB
+2020-09-05 12:13:31.353542	reshaev	poll	скинул тебе в офф декриптор, если не примешь саппорт будет ждать тебя на всякий
+2020-09-05 14:00:48.600041	reshaev	poll	ты че то перепутал наверно
+2020-09-05 14:00:48.602238	reshaev	poll	такого билда нету
+2020-09-05 14:00:48.610374	reshaev	poll	loaloverre1984@protonmail.com:TvciLwcODE:+13608442433 
+buwormeki1977@protonmail.com:EPYWnEv9wh:+17816674040\
+2020-09-05 14:00:48.612364	reshaev	poll	вот такой есть от 29.06
+2020-09-05 14:00:48.615377	reshaev	poll	ну я на второе мыло зашел и на сколько я понял это этот билд который тебе нужен
+2020-09-05 14:00:48.618411	reshaev	poll	pass: aGX99n
+Download: https://qaz.im/load/2itT83/yH5iZQ
+Delete: https://qaz.im/index.php?a=delete&q=1395737052
+UgxqFDGNzoGidkreDvxYbQMfFnMUPTvB
+2020-09-05 14:00:48.621107	reshaev	poll	скинул тебе в офф декриптор, если не примешь саппорт будет ждать тебя на всякий
+2020-09-05 18:47:47.860631	poll	reshaev	bro nu epta..
+2020-09-05 18:47:51.568546	poll	reshaev	nu gde to kto snova
+2020-09-05 18:48:09.311124	poll	reshaev	poimi rabota idet 24 chasa seichas.. ya ne mogy sdes sidet vsegda
+2020-09-05 18:48:21.026944	poll	reshaev	no tvoi ludi doljni kak y menya vsegda kto to sidit
+2020-09-05 19:39:35.368404	poll	reshaev	bro nu epta..
+2020-09-05 19:39:35.369946	poll	reshaev	nu gde to kto snova
+2020-09-05 19:39:35.370785	poll	reshaev	poimi rabota idet 24 chasa seichas.. ya ne mogy sdes sidet vsegda
+2020-09-05 19:39:35.371631	poll	reshaev	no tvoi ludi doljni kak y menya vsegda kto to sidit

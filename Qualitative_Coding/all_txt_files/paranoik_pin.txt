@@ -1,0 +1,105 @@
+Timestamp	From	To	Message
+2021-04-07 14:41:36.491257	pin	paranoik	привет
+2021-04-07 14:41:36.492379	pin	paranoik	тут?
+2021-04-07 14:42:06.006641	pin	paranoik	[10:41:53] <pin> ты в чат запостил декрипторы?
+2021-04-07 16:44:43.487180	paranoik	pin	h
+2021-04-07 16:45:26.143148	paranoik	pin	tyt?
+2021-04-08 05:21:02.880082	paranoik	pin	h
+2021-04-08 05:21:02.881780	paranoik	pin	tyt?
+2021-04-13 08:14:40.945078	pin	paranoik	ghbdtn
+2021-04-13 08:14:43.755345	pin	paranoik	привет
+2021-04-20 09:48:45.857041	pin	paranoik	ghbdtn
+2021-04-23 14:48:52.549458	pin	paranoik	тут?
+2021-04-23 14:48:54.120074	pin	paranoik	привет
+2021-04-26 13:16:40.846856	pin	paranoik	скажи если у меня есть декриптор то как мне раздекриптить определенный файл
+2021-04-27 08:34:40.706488	pin	paranoik	OP: pin2
+ID: SRVqLUwpagd8TWnkBOWPxVjMuTULW6czQqLTiElNsIXVQo5l1NeuThyBiS0CFkMZ
+Updated: 1 minute ago
+2021-04-29 09:02:41.328942	pin	paranoik	ghbdtn
+2021-05-13 17:49:10.567500	pin	paranoik	привет
+2021-05-20 08:14:22.278970	pin	paranoik	привет
+2021-05-27 19:34:19.634209	pin	paranoik	привет
+2021-05-29 16:39:21.562795	pin	paranoik	OP: pin
+ID: QzAFFW0rAGFfks1k4yuVLxuhsvFJNqpoda5VwWN5PqZ9v2wE2A3SdWF0Gw17bp6j
+скинь мне плиз декриптор в жабу
+2021-06-02 14:18:02.271823	pin	paranoik	ghbdtn
+2021-06-02 14:18:04.491529	pin	paranoik	привет
+2021-06-06 11:22:35.864691	pin	paranoik	привет
+2021-06-10 09:36:21.335306	paranoik	pin	hi
+2021-06-10 09:53:16.970181	paranoik	pin	hi
+2021-06-10 17:29:02.690283	pin	paranoik	ПИН2 билд плиз
+2021-06-14 20:20:53.383507	pin	paranoik	OP: pin2
+ID: 6dsFZPFVqPfvJkmCSxXNbLNKbPA0yeaaucflK7WIP8aZjieATSacWgH9XaSMjnDs
+Updated: 5 minutes ago
+2021-06-16 17:26:34.747017	pin	paranoik	re
+2021-06-16 17:26:53.438811	pin	paranoik	ку там в чате MMI подверди кошелек
+2021-06-16 17:26:55.027731	pin	paranoik	они готовы платить
+2021-06-17 18:07:28.897338	pin	paranoik	привет
+2021-06-18 17:45:56.109002	pin	paranoik	привет
+2021-06-22 19:05:04.030236	pin	paranoik	привет
+2021-06-25 22:54:44.324790	pin	paranoik	привет
+2021-07-11 12:58:12.168705	pin	paranoik	привет
+2021-07-16 09:22:48.612990	pin	paranoik	привет
+2021-07-20 09:39:27.885594	pin	paranoik	привет
+2021-07-29 15:19:45.095695	pin	paranoik	привет
+2021-07-29 15:20:30.265906	pin	paranoik	скинь плиз декрипторы ID: rkiLxhENzyr8hKLN6yXYU4Yh5A51NHnXCQ8bcjmIvUBm5QNBOdiORlhWVl3pbQoe
+2021-07-29 15:20:34.034918	pin	paranoik	мне сюда
+2021-07-31 19:02:36.001349	pin	paranoik	Key is as follows:
+
+hwYWKQSDK4NxUSQZGAOloTX7ZblcE5XWOr8gFmDoLHnjqFpocNKYBHlLK4wxznCN
+2021-07-31 19:02:50.274256	pin	paranoik	мы им дали декрипторы
+2021-07-31 19:03:13.972679	pin	paranoik	они говорят что много файлов разархивировалось но расширение не поменялось
+2021-07-31 19:03:16.537437	pin	paranoik	что делать?
+2021-08-05 10:18:09.543746	pin	paranoik	привет
+2021-08-11 07:41:00.330598	pin	paranoik	привет
+2021-08-11 07:41:08.919803	pin	paranoik	ПИН билдер сделай плиз
+2021-08-11 07:54:00.718744	paranoik	pin	ok
+2021-09-10 18:43:03.567066	pin	paranoik	ghbdtn
+2021-09-10 18:43:05.534830	pin	paranoik	привет
+2021-09-18 17:01:06.323264	pin	paranoik	1
+2021-09-18 17:01:16.086601	pin	paranoik	пин2 нужен билд
+2021-09-19 07:46:21.393994	pin	paranoik	ghbdtn
+2021-09-19 07:46:24.543982	pin	paranoik	привет
+2021-09-19 17:08:33.399315	pin	paranoik	+
+2021-09-19 20:33:46.090614	pin	paranoik	+
+2021-09-21 15:21:53.681368	pin	paranoik	привет
+2021-09-29 19:31:33.852902	pin	paranoik	приготовь плиз декриптор ixs7ZuV0f5x21QfwXkpSzQ43JEKQAVMH9KmxpbVDA78EsularocX7Li2jCRqekKm
+2021-09-30 14:35:11.390648	pin	paranoik	привет
+2021-10-03 08:15:34.538726	pin	paranoik	привет
+2021-10-03 08:16:03.897258	pin	paranoik	ПИН билдер
+2021-10-05 10:32:37.135902	pin	paranoik	привет
+2021-10-09 20:22:36.154832	pin	paranoik	привет
+2021-10-14 18:17:16.178968	pin	paranoik	привет
+2021-10-14 18:17:17.200841	pin	paranoik	ID: l9OsegOLiKSWtiEDZ2iqTdFYvinl13BXNJEHHxOlkAi21yF43O5O1oeLEaIuVOWE
+Updated: 16 minutes ago
+Online: 9 minutes ago
+2021-10-18 14:25:19.669701	pin	paranoik	привет
+2021-10-27 13:03:25.225493	pin	paranoik	привт
+2021-10-31 08:48:33.836357	pin	paranoik	привет
+2021-10-31 08:48:47.285483	pin	paranoik	скинь плиз пин2 билд
+2021-10-31 08:56:50.433745	pin	paranoik	[04:48:33] <pin> привет 
+[04:48:45] <pin> скинь плиз пин2 билд
+2021-11-01 09:15:44.846745	pin	paranoik	привет
+2021-11-02 16:57:05.211835	pin	paranoik	привет
+2021-11-22 15:30:50.767005	pin	paranoik	тут?
+2021-11-23 15:56:13.577979	pin	paranoik	тут?
+2021-11-27 18:37:29.000394	pin	paranoik	[13:36:48] <pin> http://czb6edlp7gsar4u5crxccldjkjn36p35fro7c7gck7wjumcrzq4efgid.onion/zeh7dkwfdxw99tdk/#/chat/55fd783cc108f24e3ff421307f7ccd1e 
+[13:36:54] <pin> pE7PVdB6kMr4pe6Jmp8cBthUF7Xd4vTMdIixjgPX5P4e
+2021-11-27 18:37:39.266179	pin	paranoik	pE7PVdB6kMr4pe6Jmp8cBthUF7Xd4vTMdIixjgPX5P4ewj2kBD7mNgeh6GkqBQsH 
+[13:37:05] <pin> нада дать тест декрипт
+2021-11-27 18:37:56.060069	pin	paranoik	,https://www.sendspace.com/file/lgos15
+2021-11-27 18:37:58.078453	pin	paranoik	https://www.sendspace.com/file/lgos15
+2021-11-27 18:38:03.279629	pin	paranoik	залей им в чам
+2021-11-27 18:38:07.248519	pin	paranoik	чат
+2021-11-27 18:58:45.550999	pin	paranoik	[13:36:48] <pin> http://czb6edlp7gsar4u5crxccldjkjn36p35fro7c7gck7wjumcrzq4efgid.onion/zeh7dkwfdxw99tdk/#/chat/55fd783cc108f24e3ff421307f7ccd1e 
+[13:36:54] <pin> pE7PVdB6kMr4pe6Jmp8cBthUF7Xd4vTMdIixjgPX5P4e
+2021-11-27 18:58:45.560295	pin	paranoik	pE7PVdB6kMr4pe6Jmp8cBthUF7Xd4vTMdIixjgPX5P4ewj2kBD7mNgeh6GkqBQsH 
+[13:37:05] <pin> нада дать тест декрипт
+2021-11-27 18:58:45.561587	pin	paranoik	,https://www.sendspace.com/file/lgos15
+2021-11-27 18:58:45.562856	pin	paranoik	https://www.sendspace.com/file/lgos15
+2021-11-27 18:58:45.564357	pin	paranoik	залей им в чам
+2021-11-27 18:58:45.565715	pin	paranoik	чат
+2021-12-01 20:41:26.389971	pin	paranoik	подготовь декриптор плиз pE7PVdB6kMr4pe6Jmp8cBthUF7Xd4vTMdIixjgPX5P4ewj2kBD7mNgeh6GkqBQsH
+2021-12-08 14:29:21.278080	pin	paranoik	привет
+2021-12-11 13:28:39.938675	pin	paranoik	привет
+2021-12-11 13:29:21.088579	pin	paranoik	скоро будет решаев?

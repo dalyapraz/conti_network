@@ -1,0 +1,8 @@
+Timestamp	From	To	Message
+2021-10-19 17:09:55.394378	ford	freebeer	привет
+2021-10-22 09:58:32.129416	ford	freebeer	ghbdtn
+2021-10-22 09:58:32.132560	ford	freebeer	привет
+2021-10-24 21:06:06.187389	ford	freebeer	привет
+2021-10-24 21:06:06.189311	ford	freebeer	ghbdtn
+2021-10-25 08:13:22.398854	ford	freebeer	привет
+2021-10-25 21:25:35.979359	ford	freebeer	привет

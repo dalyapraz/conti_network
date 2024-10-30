@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-07-12 12:19:43.254751	gold	idgo	Привет

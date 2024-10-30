@@ -1,0 +1,54 @@
+Timestamp	From	To	Message
+2020-06-23 06:06:17.098591	mavemat	buza	Добавил чекалку прокси в криптопнель
+2020-06-23 06:07:36.738132	mavemat	buza	Если поле пустое - проверка отключена, типы сканирования не блочаться
+2020-06-23 06:52:33.933137	mavemat	buza	Добавил чекалку прокси в криптопнель
+2020-06-23 06:52:33.938326	mavemat	buza	Если поле пустое - проверка отключена, типы сканирования не блочаться
+2020-07-03 07:11:38.186777	buza	mavemat	https://mk6gwg6mwnn6if33.onion/issues/175?issue_count=1&issue_position=1#note-8
+2020-07-03 08:21:20.766720	buza	mavemat	https://mk6gwg6mwnn6if33.onion/issues/175?issue_count=1&issue_position=1#note-8
+2020-07-03 08:22:29.891171	mavemat	buza	принял
+2020-07-13 12:58:33.418158	mavemat	buza	Привет, по криптопанели прокладка походу сдохла
+
+BK proxy https://185.189.151.142 is down.
+2020-07-13 12:58:36.174914	mavemat	buza	деф не реагирует
+2020-07-13 12:59:00.279950	buza	mavemat	привет
+2020-07-13 12:59:01.747947	buza	mavemat	спасибо
+2020-07-16 14:40:31.823393	buza	mavemat	https://mk6gwg6mwnn6if33.onion/issues/297?issue_count=3&issue_position=3&prev_issue_id=298#note-2
+2020-07-17 04:57:21.008784	buza	mavemat	https://mk6gwg6mwnn6if33.onion/issues/297?issue_count=3&issue_position=3&prev_issue_id=298#note-2
+2020-07-21 14:10:10.411717	buza	mavemat	про мои задачи хочу напомнить
+2020-07-22 05:02:15.971034	buza	mavemat	про мои задачи хочу напомнить
+2020-07-22 05:04:11.166716	mavemat	buza	Привет, да помню, скоро приступлю к реализации
+2020-07-22 07:05:34.914381	mavemat	buza	Привет, да помню, скоро приступлю к реализации
+2020-09-11 06:41:31.287729	mavemat	buza	ПРивет, подскажешь актуальный прокладки для криптопанели
+2020-09-11 06:42:01.938073	mavemat	buza	https://31.14.40.95/crpanel/
+https://ncdzrppa5xl3vw57lk6x3prcj5p63y3m46t4giq6rvdsa3woed3hicid.onion/crpanel/
+admin
+LIzRnhykE8DCfFS4Kzef2UbH0sTO2ec1
+2020-09-11 07:32:12.245065	mavemat	buza	ПРивет, подскажешь актуальный прокладки для криптопанели
+2020-09-11 07:32:12.248379	mavemat	buza	https://31.14.40.95/crpanel/
+https://ncdzrppa5xl3vw57lk6x3prcj5p63y3m46t4giq6rvdsa3woed3hicid.onion/crpanel/
+admin
+LIzRnhykE8DCfFS4Kzef2UbH0sTO2ec1
+2020-09-14 07:27:42.819101	buza	mavemat	Коллеги, с прошедшим профессиональным праздником)
+LET A = A + 1
+2020-09-23 11:48:53.861330	mavemat	buza	371/ 372 готовы, надо будет протестить
+2020-09-29 14:20:11.362461	buza	mavemat	привет маякни
+2020-09-30 07:26:43.892109	buza	mavemat	привет маякни
+2020-09-30 07:26:53.978606	mavemat	buza	+
+2020-09-30 07:30:57.291842	mavemat	buza	+
+2020-10-14 10:34:01.346003	mavemat	buza	Привет, а ты не в курсе что с redmine?
+2021-05-04 11:38:29.813524	buza	mavemat	тебе хорс стукнет
+2021-05-04 12:03:10.972366	buza	mavemat	тебе хорс стукнет
+2021-06-01 14:12:43.845944	buza	mavemat	ку
+2021-06-01 19:49:12.239461	buza	mavemat	ку
+2021-09-22 10:55:39.041887	buza	mavemat	ку
+2021-09-23 06:58:19.510393	buza	mavemat	ку
+2021-09-23 07:53:19.990757	buza	mavemat	ку
+2021-10-01 08:38:06.083085	buza	mavemat	ку
+2021-10-01 08:40:59.156413	mavemat	buza	Привет
+2021-10-04 15:19:51.169279	mavemat	buza	меня завтра не будет
+2021-10-05 07:19:31.768454	mavemat	buza	меня завтра не будет
+2021-10-06 08:10:07.591533	buza	mavemat	привет
+2021-10-06 08:12:24.234715	buza	mavemat	привет
+2021-10-29 15:39:50.026553	buza	mavemat	ку
+2021-11-01 07:57:21.695262	buza	mavemat	ку
+2021-11-01 07:57:40.427362	mavemat	buza	Привет

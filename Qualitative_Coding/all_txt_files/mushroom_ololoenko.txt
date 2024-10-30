@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2020-11-05 13:12:21.383429	mushroom	ololoenko	Привет.
+2020-11-05 13:12:24.449221	ololoenko	mushroom	Привет.
+2020-11-05 13:13:08.174770	mushroom	ololoenko	Тест
+2020-11-05 13:13:11.059103	ololoenko	mushroom	Тест

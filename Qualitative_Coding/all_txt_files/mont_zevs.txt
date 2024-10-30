@@ -1,0 +1,27 @@
+Timestamp	From	To	Message
+2021-07-16 11:05:43.317087	mont	zevs	 uniftorambo@exploit.im: шлем
+2021-07-22 03:35:36.187943	mont	zevs	доброе
+2021-08-18 10:14:36.627847	zevs	mont	и гифты
+2021-09-13 08:02:20.133934	mont	zevs	а кто такой stern@q3mcco35auwcstmt.onion
+2021-12-06 16:01:14.679786	mont	zevs	зашел на этого бота) там чел ищет в нете инфу как хакеры прячут вирус в доке ))
+2021-12-06 16:01:14.683970	mont	zevs	7.546162665
+2021-12-07 15:34:38.739337	mont	zevs	[07:08:10] <revers@q3mcco35auwcstmt.onion> по франклину 
+[07:08:10] <revers@q3mcco35auwcstmt.onion> у анс получается подняться щас бота ждем 
+[07:08:41] <mont> а он уже в сети 
+[07:09:01] <revers@q3mcco35auwcstmt.onion> сек 
+[07:09:02] <revers@q3mcco35auwcstmt.onion> щас гляну 
+[07:10:24] <revers@q3mcco35auwcstmt.onion> у меня пкоазывается что нев  сети 
+[07:11:05] <mont> 
+Bot: 6.1139944968   
+[07:11:19] <mont> Status: Online 
+[07:12:20] <revers@q3mcco35auwcstmt.onion> у меня он не крывается почему то 
+[07:13:14] <mont> а сейчас 
+[07:13:45] <mont>    2021-12-06 17:23:29,896 rev4 ProjectId: 6 BotId: 1139944968 Url: ''
+   2021-12-06 17:23:31,179 rev4 ProjectId: 6 BotId: 1139944968 Url: '' 
+[07:13:51] <mont> вчера ты был на этом боте 
+[07:13:55] <mont> должен открываться 
+[07:14:28] <revers@q3mcco35auwcstmt.onion> во открылся 
+[07:14:32] <revers@q3mcco35auwcstmt.onion> щас попробую. приянуть 
+[07:32:43] <revers@q3mcco35auwcstmt.onion> так все домен админа взяли 
+[07:32:52] <revers@q3mcco35auwcstmt.onion> щас прыгем мне его атм как подписать ? 
+[07:34:17] <mont> пиши rev take DA WORK

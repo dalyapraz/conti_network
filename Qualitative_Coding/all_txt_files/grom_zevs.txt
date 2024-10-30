@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2021-12-16 08:06:27.729789	grom	zevs	хай мен!
+2021-12-16 08:06:29.047940	grom	zevs	системы - ок, нужно поправить домен для бота Капрезе!
+2021-12-16 08:06:49.961911	grom	zevs	но мы не сильно этого бота грузим, так что контролируемо
+2021-12-16 08:06:55.652694	grom	zevs	точнее не грузим
+2021-12-29 15:04:31.514087	grom	zevs	http://pj3n6aix4l5lqoorwu5qbolmhwpqyabwpifdvn2w5qiznlqqayzmegid.onion/note/1U1kjIG12IiVvlWmhLlDXwPEPPx2VuWLNpjL31UnVfFIlVfiV5t7cmY6g09oRqsFGnwx63kqpRMSthOMKEvR5ZM#1380020fb31a0942e96759ead2b24591c1f4f38e32cd2f6dc1676926cb241e87
+2022-01-28 08:48:46.902239	grom	zevs	хай мен!

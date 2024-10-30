@@ -1,0 +1,358 @@
+Timestamp	From	To	Message
+2020-06-24 13:05:18.103143	stern	taker	1
+2020-06-24 13:05:27.006230	stern	taker	что хотел?
+2020-06-24 15:47:08.416482	stern	taker	1
+2020-06-24 15:47:08.417357	stern	taker	что хотел?
+2020-06-24 15:47:43.920804	taker	stern	да просто познакомиться
+2020-06-24 15:47:57.918385	taker	stern	вы столько всего интересного делаете, интересно
+2020-06-24 15:55:13.004413	stern	taker	ну давай поговорим
+2020-06-24 15:55:17.717042	stern	taker	что конкретно интересно?
+2020-06-24 15:56:23.268791	taker	stern	вопросов много конечно, как вообще начался трикбот? что побудило?
+2020-06-24 16:00:01.891860	stern	taker	он начался с банковского бота, сбор логов, логинов и паролей. это вопрос финансов
+2020-06-24 16:00:36.601257	stern	taker	Как ты узнал домен джаббера?
+2020-06-24 16:01:44.959432	taker	stern	ну так наверняка же какие-то личные стремления были, ты считай поднял успешную компанию с нуля, будь это легальный бизнес уже бы покупал яхты заграницей
+2020-06-24 16:02:05.845619	taker	stern	узнал через много шагов :) я ред тимер в прошлом
+2020-06-24 16:02:21.913400	stern	taker	ред тимер?
+2020-06-24 16:03:26.579251	stern	taker	Целенаправлено искал/кто-то сообщил, или случайно попал. Я к тому, чтобы больше никто не попал
+2020-06-24 16:04:15.711602	taker	stern	целенаправлено искал, думаю что пока должно быть норм после того как ты сервак переместил
+2020-06-24 16:04:25.979983	taker	stern	если хочешь могу побыстрому глянуть если я могу новый ИП найти
+2020-06-24 16:04:39.540668	taker	stern	но может джабу снова перегрузить
+2020-06-24 16:05:07.709057	stern	taker	геморойно поднимать ее, кучу людей без работы сидят)
+2020-06-24 16:05:27.938440	taker	stern	кстати нифига не геморойно
+2020-06-24 16:05:33.194806	stern	taker	это как crm система, на джабе все общение завязано
+2020-06-24 16:05:40.747559	taker	stern	я пока тестил как ваши сообщени я читать поднял у себя
+2020-06-24 16:05:43.195875	stern	taker	> ну так наверняка же какие-то личные стремления были
+
+Да просто больше ничего не умею особо)
+2020-06-24 16:05:49.752372	taker	stern	ну это я уже понял :D
+2020-06-24 16:06:02.640994	taker	stern	хаха тоже самое если честно
+2020-06-24 16:06:05.613204	stern	taker	да и помоему тут все просто
+2020-06-24 16:06:27.130769	stern	taker	ты хаком не занимаешься ?
+2020-06-24 16:06:36.537909	taker	stern	а сейчас смотрю с конти работаете, и с риуком
+2020-06-24 16:06:48.456665	stern	taker	да
+2020-06-24 16:07:05.614660	taker	stern	ну таким каким ты занимаешься нет, больше ред тим\threat intel
+2020-06-24 16:07:20.104299	taker	stern	но этот разговор между нами, мне нет желания и смысла что-то палить
+2020-06-24 16:07:25.352397	stern	taker	ок
+2020-06-24 16:07:36.197293	taker	stern	слушай а сложно кодером найти в россии на это дело?
+2020-06-24 16:07:43.618805	taker	stern	как бы ребята понимают же че кодят
+2020-06-24 16:08:04.810237	taker	stern	россии\украине
+2020-06-24 16:08:09.970037	stern	taker	не сложно
+2020-06-24 16:08:16.763597	stern	taker	тут психология
+2020-06-24 16:08:29.249961	stern	taker	они поначалу не вникают
+2020-06-24 16:08:31.071710	stern	taker	каокй проект в целом
+2020-06-24 16:08:33.673941	stern	taker	пилят модули
+2020-06-24 16:08:42.724576	stern	taker	доеверенные кодеры собирают
+2020-06-24 16:09:07.932895	stern	taker	потом как понимают, поднимаю оплату, и работаем дальше
+2020-06-24 16:09:32.243996	stern	taker	они уже вкурсе, что у меня все надежно, безопастно и анонимно
+2020-06-24 16:09:48.246446	taker	stern	почти анонимно
+2020-06-24 16:10:04.155012	taker	stern	установите уже наконец-то какой нить мониторинг на серверах
+2020-06-24 16:11:08.253757	taker	stern	так получается ты бизнес а буза технологии?
+2020-06-24 16:11:13.717658	stern	taker	ну ща все пересмотрим, поствавим мониторинг
+2020-06-24 16:11:16.933396	taker	stern	слушай кстати а насчет драйдекса
+2020-06-24 16:11:18.927478	taker	stern	работаете с ним?
+2020-06-24 16:11:27.573919	stern	taker	буза временный человек
+2020-06-24 16:11:34.101485	taker	stern	давай :) надо будет че потестить могу помочь
+2020-06-24 16:11:42.425103	stern	taker	ок
+2020-06-24 16:11:59.472282	taker	stern	не скидывай меня отсюда если не против, может еще пообщаемся как
+2020-06-24 16:12:01.626295	stern	taker	dridex лет 3-5 назад слышал
+2020-06-24 16:12:05.056060	stern	taker	ок
+2020-06-24 16:12:32.206622	stern	taker	ну они ща на локере тоже
+2020-06-24 16:12:44.915913	stern	taker	dridex хз поддерживается или нет
+2020-06-24 16:13:03.193391	stern	taker	ну судя по кремезу, новостей нет
+2020-06-24 16:13:06.337213	taker	stern	не следил, но они ж тут раздули недавно что типа максимка там идейный вдохновитель
+2020-06-24 16:13:15.713967	taker	stern	свадьду его разкопали, жену - не красиво
+2020-06-24 16:13:29.944454	taker	stern	хаха по кремезу сложно судить
+2020-06-24 16:13:48.280776	stern	taker	да особо нечего сказать по акве
+2020-06-24 16:13:53.727141	stern	taker	не общаюсь с ним
+2020-06-24 16:14:03.587938	taker	stern	он одно твитнет, другое продаст
+2020-06-24 16:14:46.047055	stern	taker	я давно за него не слышал, хз что там
+2020-06-24 16:15:07.968822	stern	taker	твиттер лет 5 назад читал dridex пару постов каких-то было
+2020-06-24 16:15:33.793431	taker	stern	да твитер это помойка "секрьюрити ресерчеров"
+2020-06-24 16:15:51.909941	stern	taker	ага
+2020-06-24 16:16:21.425760	stern	taker	ща bluekeep когда пилили тут, вся тех инфа и описание в основном на китайских сайтах)
+2020-06-24 16:16:41.619867	stern	taker	Ты чем занимаешься?
+2020-06-24 16:17:04.251463	stern	taker	и откуда сам, журналист может/ресерчер
+2020-06-24 16:17:16.444331	taker	stern	хах ну вон маркус вроде как раздуплил эксплойт но не опубликовал пока кто-то не спалил
+2020-06-24 16:17:30.326043	taker	stern	сам ред тимер, больше по threat intelу
+2020-06-24 16:17:56.387579	taker	stern	в основном работает по мелкому крайму за который платят
+2020-06-24 16:18:03.870702	taker	stern	трикбот это реально просто интересно
+2020-06-24 16:18:14.878404	taker	stern	эмотет тоже интересно но по нему ничего не знаю
+2020-06-24 16:18:19.508735	taker	stern	ниму*
+2020-06-24 16:18:24.522689	taker	stern	или нему? блин
+2020-06-24 16:19:13.588756	stern	taker	emotet да автор красава, стабильно поддерживает
+2020-06-24 16:19:54.243001	stern	taker	ты из россии ?
+2020-06-24 16:20:01.973877	taker	stern	из норильска
+2020-06-24 16:20:07.351661	stern	taker	))))
+2020-06-24 16:20:10.373789	taker	stern	это сложно назвать россией :D
+2020-06-24 16:20:18.057700	taker	stern	но да
+2020-06-24 16:20:45.167653	stern	taker	:)
+2020-06-24 16:21:02.566817	taker	stern	кстати!
+2020-06-24 16:21:24.773021	stern	taker	ага. смотрю фотки
+2020-06-24 16:21:28.037884	stern	taker	маленький город
+2020-06-24 16:21:29.834411	taker	stern	а как эта тема с северной корей пошла? вы больше по крайму или иногда приходится в политику лезть
+2020-06-24 16:21:37.597253	stern	taker	дороги норм вроде :-D )
+2020-06-24 16:21:51.239861	taker	stern	как бы инфу что вы собираете любое правительство был запалтила большие деньги
+2020-06-24 16:22:13.354060	taker	stern	хаха дороги да, только не вздыхай
+2020-06-24 16:22:18.762493	taker	stern	если только не в талнахе конечно
+2020-06-24 16:22:26.102007	taker	stern	а ты что? знаком с городом?
+2020-06-24 16:22:47.830528	taker	stern	а сори только увидел что смотришь фотки
+2020-06-24 16:24:13.316083	stern	taker	> как бы инфу что вы собираете любое правительство был запалтила большие деньги
+
+я не собираю инфу, мы по тех части тут работаем в основном
+2020-06-24 16:24:38.364462	stern	taker	да проще залочить, чем кому-то что-то продавать
+2020-06-24 16:24:51.582325	stern	taker	вобще продавать не наша тема
+2020-06-24 16:25:03.018985	taker	stern	а логпост ? там много чего интересного приходит
+2020-06-24 16:25:04.252562	stern	taker	это уже бизнес реально какой-то
+2020-06-24 16:25:16.072550	stern	taker	а тут мы в удовольствие
+2020-06-24 16:25:21.503322	taker	stern	в том числе и .gov
+2020-06-24 16:26:15.133333	taker	stern	:D ну так, просто спекулирую, но чтобы иметь такое удовольствие в россии чем-то придется делиться с гос-вом
+2020-06-24 16:26:16.788456	stern	taker	Да приходит наверно, но запроса на это нету. хз кому это надо и для чего
+2020-06-24 16:27:03.072112	stern	taker	да я думаю в россии никому ничего ненадо )
+2020-06-24 16:27:25.724479	taker	stern	вот это реально печаль
+2020-06-24 16:28:03.664824	stern	taker	эти все истории про русских хакерах, основаны на 3-4 группах
+2020-06-24 16:28:20.167019	taker	stern	например?
+2020-06-24 16:28:29.651743	stern	taker	ну типа fin7 fin8
+2020-06-24 16:28:39.073263	stern	taker	apt там какой-то
+2020-06-24 16:29:10.241243	stern	taker	инфы вобще много разной, она постоянно приходит уходит, в целом думаю она никому не нужна
+2020-06-24 16:29:33.652680	stern	taker	даже если трампа взломать
+2020-06-24 16:29:40.902859	stern	taker	завтра это уже никому интересно не будет
+2020-06-24 16:32:52.361485	stern	taker	Ты красава что джаббер взломал, сообщение написал
+2020-06-24 16:33:02.264286	stern	taker	уважуха тебе
+2020-06-24 16:33:10.917020	stern	taker	заморочился
+2020-06-24 16:34:14.780917	taker	stern	хех спасибо :)
+2020-06-24 16:34:29.637862	taker	stern	слушай надо отойти, ты завтра будешь тут?
+2020-06-24 16:35:00.371213	taker	stern	по группам кстати тюрла очень интересные ребята
+2020-06-24 16:35:10.687710	taker	stern	ну или что в новостях называют turla
+2020-06-24 16:35:15.690553	taker	stern	креативный подход
+2020-06-24 16:35:19.043138	stern	taker	да, я тут каждый день
+2020-06-24 16:35:40.898754	stern	taker	ща почитаю
+2020-06-24 16:37:17.522138	taker	stern	круть, будем на связи
+2020-06-24 16:37:26.304862	stern	taker	ок, на связи
+2020-06-24 16:38:22.255070	taker	stern	а если что в джабе багета batono@xmpp.jp пока он не додумается пароль поменять
+2020-06-24 16:39:29.477964	stern	taker	ок
+2020-06-24 16:39:33.601682	stern	taker	ну я тут пасс не буду тебе менять
+2020-06-24 16:40:15.131010	taker	stern	спасибо
+2020-06-30 00:53:52.129332	taker	stern	привет!
+2020-06-30 08:25:31.214267	taker	stern	привет!
+2020-06-30 08:27:53.613749	stern	taker	ghbdtn
+2020-06-30 08:27:54.397006	stern	taker	приве
+2020-07-02 04:52:27.968568	stern	taker	ghbdtn
+2020-07-02 04:52:27.969823	stern	taker	приве
+2020-07-02 04:55:09.113721	taker	stern	да просто чекинюсь, как дела?
+2020-07-02 04:55:58.863388	taker	stern	смотрю сентинел чет спалил насчет кобальт серверов
+2020-07-02 04:56:12.538536	taker	stern	и сразу бложек писать а то куда :D шпыоны блин
+2020-07-02 04:56:40.125206	taker	stern	видел че они творили на RSA в этом году
+2020-07-02 04:56:55.050355	taker	stern	приперли бентли в выстовочный зал, для антивируса блин
+2020-07-02 19:02:20.609515	taker	stern	да просто чекинюсь, как дела?
+2020-07-02 19:02:20.612140	taker	stern	смотрю сентинел чет спалил насчет кобальт серверов
+2020-07-02 19:02:20.613926	taker	stern	и сразу бложек писать а то куда :D шпыоны блин
+2020-07-02 19:02:20.619839	taker	stern	видел че они творили на RSA в этом году
+2020-07-02 19:02:20.622879	taker	stern	приперли бентли в выстовочный зал, для антивируса блин
+2020-07-04 17:20:11.446012	taker	stern	ты тут?
+2020-07-04 17:20:14.586402	taker	stern	я тут чего подумал
+2020-07-04 17:20:17.587398	taker	stern	нанимаете?
+2020-07-05 22:32:40.572901	taker	stern	ты тут?
+2020-07-05 22:32:40.575216	taker	stern	я тут чего подумал
+2020-07-05 22:32:40.577303	taker	stern	нанимаете?
+2020-07-05 22:34:18.878135	stern	taker	kf
+2020-07-05 22:34:20.240175	stern	taker	Да
+2020-07-06 05:11:29.545022	stern	taker	kf
+2020-07-06 05:11:29.546151	stern	taker	Да
+2020-07-06 16:02:44.959122	taker	stern	надо побольше об этом поговорить если ты заинтересован, я конечно понимаю что обычно не вламываются в компанию и просят работы, но может в этой сфере это даже плюс :D обход HR так сказать
+2020-07-07 15:04:29.626580	taker	stern	так что скажешь?
+2020-07-07 15:05:14.285788	taker	stern	я могу или входить в сети, или после закрепки ботом доводить "до ума"
+2020-07-07 15:11:05.130403	stern	taker	Привет
+2020-07-07 15:11:11.333032	stern	taker	отписал челу, он тебе тут напишет как выйдет в сеть
+2020-07-07 15:11:13.839222	stern	taker	он как раз по сетям
+2020-07-07 15:11:38.198711	taker	stern	круть, спасибо
+2020-08-14 16:14:35.102523	taker	stern	privet!
+2020-08-15 15:17:32.719903	taker	stern	privet!
+2020-08-15 15:38:54.324006	stern	taker	привет
+2020-08-24 15:37:55.073454	stern	taker	привет
+2020-08-24 15:38:23.186373	taker	stern	да что-то давно на связь не выходил, хотел спросить как ты :)
+2020-08-24 16:28:55.703351	stern	taker	ghbdtn
+2020-08-24 16:28:56.241496	stern	taker	привте
+2020-08-24 16:28:58.382036	stern	taker	все ок
+2020-08-24 16:28:59.141038	stern	taker	так же
+2020-08-24 16:29:03.436817	stern	taker	август же
+2020-08-24 16:39:36.537603	taker	stern	а ну да, отпуска
+2020-08-24 16:40:00.994561	stern	taker	ты как
+2020-08-24 16:40:11.901133	stern	taker	видел как батька с автоматом гоняет )
+2020-08-24 16:40:15.204178	stern	taker	с сыном )
+2020-08-24 16:50:32.461032	taker	stern	не! где?!
+2020-08-24 16:50:48.629202	taker	stern	да я норм, работаю по тихоньку
+2020-08-24 17:04:35.587405	taker	stern	слушай а такая идея
+2020-08-24 17:05:02.490827	taker	stern	что если мы похакаем эмотет или там драйдекс ?
+2020-08-24 17:05:06.639630	taker	stern	по ушам потом не надают?
+2020-08-24 17:59:25.141485	stern	taker	а какой смысл и что там хакать?
+2020-08-24 17:59:40.124240	stern	taker	emotet разобранный аналитиками есть в интернете
+2020-08-24 17:59:45.378569	stern	taker	dridex вобще лет не слышал
+2020-08-24 18:00:59.820400	stern	taker	по emotet не удобно будет, он мой партнер, сгружает загрузки. есть тут в жабе
+2020-08-24 18:15:36.949289	stern	taker	а какой смысл и что там хакать?
+2020-08-24 18:15:36.951283	stern	taker	emotet разобранный аналитиками есть в интернете
+2020-08-24 18:15:36.952587	stern	taker	dridex вобще лет не слышал
+2020-08-24 18:15:36.953493	stern	taker	по emotet не удобно будет, он мой партнер, сгружает загрузки. есть тут в жабе
+2020-08-24 18:15:56.371612	taker	stern	ааа не знал
+2020-08-24 18:16:04.109540	taker	stern	да мне чет хочется пожестить
+2020-08-24 18:16:07.390352	taker	stern	вот выдумаю
+2020-08-24 18:16:22.697618	taker	stern	а познакомишь?
+2020-08-24 18:17:33.678706	taker	stern	и как мне тебе отправить зашифрованное сообщение?
+2020-08-24 18:18:48.391731	taker	stern	кинь мне pgp или пубки?
+2020-08-24 18:39:22.536053	taker	stern	ну и кстати это важно
+2020-08-24 18:44:46.417277	stern	taker	отр нету?
+2020-08-24 18:47:00.078268	taker	stern	да надо поставить
+2020-08-24 18:47:17.488300	taker	stern	pgp лучше, OTR если тебя ломают перехватывается
+2020-08-24 18:47:50.606150	taker	stern	надо отойти но кинь или пабки чтобы через openssl ручками или pgp какой новый
+2020-08-24 18:49:33.088912	stern	taker	ок
+2020-08-24 21:14:56.239397	stern	taker	ок
+2020-08-25 16:54:15.745382	taker	stern	кинешь енкрипт какой? мне тебе написать надо
+2020-08-25 16:54:29.008967	stern	taker	сек
+2020-08-25 16:54:30.634107	stern	taker	пгп?
+2020-08-25 16:54:39.629770	stern	taker	-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=KAwH
+-----END PGP PUBLIC KEY BLOCK-----
+2020-08-25 16:54:41.542042	stern	taker	держи
+2020-08-25 16:54:44.813559	stern	taker	скинь свой тоже
+2020-08-25 16:54:44.893000	taker	stern	супер ща
+2020-08-25 16:54:49.458198	taker	stern	да 5 сек
+2020-08-25 16:58:51.740697	taker	stern	-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+EwY7ulQGR2TkDZv2
+=4QDr
+-----END PGP PUBLIC KEY BLOCK-----
+2020-08-25 17:03:02.145265	taker	stern	-----BEGIN PGP MESSAGE-----
+
+hQIMA6bxb8351LV0AQ/+P4WrYyFG+sTltctmPo3nPElR21TBBuVdn7cX0HjFT623
+OtPJD4sbTvbEkGv75gcpbfcTx4Am7VgWzkzsuG402Yf1noHcKlKmN0Y8rrCIFsh1
+ogLGh7Teo8Go5MJfkDtbvPOft56WWc5VbXz9KozCpf1qhO+pReioC7nuOk8aPl2M
+Cep/XV6qvkUfLy2txHUhpwZQYBC/OQGxWAzHPRblRJAqXcAGqwvXXkF2eLnhiK+T
+CRxp7tk3Fh32OfJAKqdPgn7+EWaj5hjdl+KGFk84QpZ/OlbkXN/0Vf/KXGkuN0a+
+/KuTiviLjzIu79YEaA3c3CFZ+A0vLQcZpqeGI9HbZyDO+L7fDLvo4vPmfzhUtSRo
+wNwsTka7fKRr/LHh/40pdliXPJ6bUqXd4CnN/xhLtORM3y1geGlaL7QE/qMsATpQ
+4hbfhXueVCuI3xCf+jp0OUJkAYYdKpzfxJxNXpI/PKJ8YOZDQpO3jzCI/OVDJVCf
+MRULGj6KJ5Gw9cBT8oykapGpWuufPryKYymYKH6HvKPsERBsnQsFbw1ARn7EPLBt
+0Q48PaI/IRe9I/c3gx+uJHovIUO0ck1TMTbPS69Ap9BwURigYwwwDW2aWLMO8Ynp
+8DiQGbdmoRNwfLRxoTrbnXvziJ087H5/AuLr8AGAa7t0G1P8kKoOdPV0bdFZ+XLS
+6QHuYQGMMjlkhtSUJI70b33hpKkVJXpWCjzkqrxGqPyAFOS5MTsvEJtuz/dsO8NY
+8n0ry3vCrLDG+PGlHRwbYfpWWo7McYPg11pPXMAW3heur0/XsfI0pHFvyy1llVUt
+c0e8ZpeTY8o1V4AV0tRyz7uHk381nVYq5mGTgkSZoMkZQ9UvbFSyIEQL+tj6B8N8
+DUMa521eUpxU2XG/XnDgN8Fc0JHxLEnkT7BB3k76OV+xfFEf2CjCHGfsf/BVVBq4
+bygaI5MsqUYE2zE/90ZG4YdKT0oM9lg5Bn6jRJUjR3+QxvToTUqLvsA1/qbm5Z9i
+NsdN9uf5D4cJzlOlkGK24TADniHgsuYqtnwhjV6XZcQXOeJC1hdHJ1f7XOpU4Q8l
+cIfp/GxhnApfFctCEbghj0IDXaYEIbkkEmKeg7icWBxSrWAfSaPGmUmbJqLjCS1y
+bdqpuLQ4XsmP3Tsnivudk5i6SUJlT6ZVPm5Al8uFPvGoVaUZOJj+YD7jPY9Pd38L
+X65RYnzDeuOTsddgto4uvyvQmB9fCFHhX9/2C82t/8ZSsIOkKLi7WMituQQaJ6/p
+3bEWDpUjImD0cE0ckJiZRLdzVPax9MO02EThqpziti0ChooSfkiOCWjeq7kZROSq
+pJHqRWaaygrwlmZUNFBHP+yWBZiHtFaWFZ8VaiFmIXDBwC3oBGchKJz58vwawKQ2
+LKJAAQYkOARkUx5LEy577PXc7cA3lEKmpxEOVBB3RcFzNN7xbS3HdSPk+mc3W0y/
+iDCFMSErNWyVlvr+E2Md/+pFi43UNi5PBhEL2B94sEMojzwUhWfBhpo2pH7hMpQj
+aHCoXD0PPYBXr2Te0Uv+dcMrldWmH+SowwCG/fSDEKluhuIOSLaqe9c1FI7DOm5S
+ZmXTxZQ0SaMZ5Qb0kXEH+R25t0xmqM4vSHiKUuAUhqeEk2Y9WCSoqUsn8kjrNs4Q
+3PaoSH5R7S4sJBrcbWsfyjlbCvnpSe58D6EEB12CrRM=
+=9GLd
+-----END PGP MESSAGE-----
+2020-08-25 17:03:04.031565	taker	stern	не отвечай тут
+2020-08-25 17:03:09.763344	taker	stern	именно на это сообщение
+2020-08-25 17:03:14.223738	taker	stern	в остальном можно говоить )
+2020-08-25 22:17:09.158061	stern	taker	[ERROR: This message is encrypted, and you are unable to decrypt it.]
+2020-09-23 20:47:49.844108	stern	taker	ага привет
+2020-10-01 18:00:33.957448	stern	taker	ага понял, отпишу тогда
+2020-10-01 18:00:51.645324	stern	taker	хакеры рюк которые, поковыряются.
+2020-10-02 16:54:23.978948	stern	taker	ага понял, отпишу тогда
+2020-10-02 16:54:23.980541	stern	taker	хакеры рюк которые, поковыряются.

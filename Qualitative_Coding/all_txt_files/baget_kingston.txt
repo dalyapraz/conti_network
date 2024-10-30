@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-09-25 12:48:57.916823	baget	kingston	Привет.

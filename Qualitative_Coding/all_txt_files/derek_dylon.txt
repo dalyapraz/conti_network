@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-07-05 18:46:17.400799	derek	dylon	привет как дела с thyssonkrupp?
+2021-07-05 18:46:26.732506	derek	dylon	и когда будет файл doc?

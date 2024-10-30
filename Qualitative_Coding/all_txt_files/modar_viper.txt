@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-10-29 11:21:38.823429	viper	modar	привет
+2020-10-29 11:21:49.835889	viper	modar	новые люди ждут тебя

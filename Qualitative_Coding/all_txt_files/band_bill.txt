@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-04-07 08:35:20.149408	bill	band	привет
+2021-05-12 10:03:15.683479	bill	band	привет

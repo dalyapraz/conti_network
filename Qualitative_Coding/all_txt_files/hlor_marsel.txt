@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-10-08 16:28:26.658157	hlor	marsel	ping
+2020-10-16 14:30:29.980922	hlor	marsel	тест, мои сообщения доходят?

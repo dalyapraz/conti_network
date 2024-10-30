@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-03-08 09:30:10.177727	bentley	clipper	Привет

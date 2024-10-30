@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-06-24 12:58:18.110286	clickclack	cuba	 тут?
+2020-07-03 12:59:00.928788	clickclack	cuba	 тут?
+2020-08-17 19:10:01.527308	clickclack	cuba	?

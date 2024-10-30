@@ -1,0 +1,124 @@
+Timestamp	From	To	Message
+2021-11-20 12:09:03.013152	cybergangster	tramp	da eshe shtuk 5 dobavil
+2021-11-20 13:11:15.980507	cybergangster	tramp	da eshe shtuk 5 dobavil
+2021-11-20 13:11:30.888124	tramp	cybergangster	да, вижу спс
+2021-11-20 17:47:35.577507	tramp	cybergangster	расшифруй плих им файлы MsGUp1wfZ5dgRJ15Y6tP5Hsp0SDjQBjbzj98zcoIPyQjugbwIYLoD57n3xEnCah6
+2021-11-20 23:21:49.671911	tramp	cybergangster	да, вижу спс
+2021-11-20 23:21:49.686821	tramp	cybergangster	расшифруй плих им файлы MsGUp1wfZ5dgRJ15Y6tP5Hsp0SDjQBjbzj98zcoIPyQjugbwIYLoD57n3xEnCah6
+2021-11-21 07:11:06.708276	tramp	cybergangster	привет
+2021-11-21 07:11:08.436750	tramp	cybergangster	ты тут ?
+2021-11-21 09:22:40.729649	tramp	cybergangster	привет
+2021-11-21 09:22:40.731105	tramp	cybergangster	ты тут ?
+2021-11-22 22:36:26.121192	tramp	cybergangster	hunton tvoi acc? - не понял
+2021-11-23 00:12:43.394019	cybergangster	tramp	nashel ya oshibku
+2021-11-23 00:12:51.108795	cybergangster	tramp	zavtra budet fix
+2021-11-23 01:08:06.804086	cybergangster	tramp	5.5 zakaji eshe versiu esxi please
+2021-11-23 05:15:25.267640	cybergangster	tramp	skin supportu esxi
+2021-11-23 05:15:29.872004	cybergangster	tramp	5.5
+2021-11-23 05:15:41.606126	cybergangster	tramp	on podgotovit vse poka ya splu
+2021-11-23 10:28:05.769783	cybergangster	tramp	nashel ya oshibku
+2021-11-23 10:28:05.772544	cybergangster	tramp	zavtra budet fix
+2021-11-23 10:28:05.774834	cybergangster	tramp	5.5 zakaji eshe versiu esxi please
+2021-11-23 10:28:05.778665	cybergangster	tramp	skin supportu esxi
+2021-11-23 10:28:05.782173	cybergangster	tramp	5.5
+2021-11-23 10:28:05.784687	cybergangster	tramp	on podgotovit vse poka ya splu
+2021-11-23 10:28:28.755357	tramp	cybergangster	привет
+2021-11-23 10:58:28.365153	tramp	cybergangster	привет
+2021-11-23 22:31:13.815505	tramp	cybergangster	что за баг бро ?
+2021-11-27 02:44:07.531158	cybergangster	tramp	Надеюсь сегодня сделает
+2021-11-27 08:03:21.109091	cybergangster	tramp	Надеюсь сегодня сделает
+2021-12-03 10:31:15.740355	tramp	cybergangster	ку
+2021-12-03 10:31:18.969218	tramp	cybergangster	ты тестишь ?
+2021-12-08 23:48:46.794984	tramp	cybergangster	ку
+2021-12-08 23:49:09.586032	tramp	cybergangster	билды нужны
+2021-12-09 00:38:21.644966	cybergangster	tramp	а ты не получил что ли?
+2021-12-09 07:36:00.352939	cybergangster	tramp	а ты не получил что ли?
+2021-12-09 07:36:25.859839	tramp	cybergangster	неа
+2021-12-09 17:28:47.545031	tramp	cybergangster	неа
+2021-12-10 02:45:22.937198	cybergangster	tramp	(01:46:47) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: (01:29:20) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Привет
+(01:29:38) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Спишитесь со скиппи с этими boydjen-it@outlook.com
+(01:29:44) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: У них там какие то траблы с декриптом
+(01:29:50) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: We had a chat with your team at http://contirec7nchr45rx6ympez5rjldibnqzh7lsa56lvjvaeywhvoj3wad.onion/NJv9nz4fcgefhEIiAcajtSgi4EhLEriHum6l1ZgTB3opPWhRg8KRrJYjxiLdSOrk but it is no longer active - we have a question about our decryptor and need your help.  Can you please contact us and open that chat again?  Thank you!
+(01:30:07) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Узнайте в чем проблема
+(01:32:24) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Трамп этот id забанил они в чат не могут попасть 
+(01:32:29) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Надо по мылу списаться
+2021-12-10 02:45:46.364280	cybergangster	tramp	Теперь ясно зачем они в старую панель ломятся
+2021-12-10 07:45:05.489174	cybergangster	tramp	(01:46:47) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: (01:29:20) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Привет
+(01:29:38) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Спишитесь со скиппи с этими boydjen-it@outlook.com
+(01:29:44) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: У них там какие то траблы с декриптом
+(01:29:50) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: We had a chat with your team at http://contirec7nchr45rx6ympez5rjldibnqzh7lsa56lvjvaeywhvoj3wad.onion/NJv9nz4fcgefhEIiAcajtSgi4EhLEriHum6l1ZgTB3opPWhRg8KRrJYjxiLdSOrk but it is no longer active - we have a question about our decryptor and need your help.  Can you please contact us and open that chat again?  Thank you!
+(01:30:07) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Узнайте в чем проблема
+(01:32:24) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Трамп этот id забанил они в чат не могут попасть 
+(01:32:29) cybergangster@q3mcco35auwcstmt.onion/1410513075163984878338200: Надо по мылу списаться
+2021-12-10 07:45:05.492057	cybergangster	tramp	Теперь ясно зачем они в старую панель ломятся
+2021-12-10 08:12:52.753014	tramp	cybergangster	ок
+2021-12-10 08:12:56.241567	tramp	cybergangster	написали на почту
+2021-12-10 11:54:36.767144	tramp	cybergangster	ок
+2021-12-10 11:54:36.769827	tramp	cybergangster	написали на почту
+2021-12-12 05:44:49.934091	cybergangster	tramp	маякни как будешь
+2021-12-12 08:56:30.023821	cybergangster	tramp	маякни как будешь
+2021-12-16 07:39:11.107385	cybergangster	tramp	tut?
+2022-01-02 18:30:51.142885	tramp	cybergangster	привет
+2022-01-06 09:03:48.929680	tramp	cybergangster	привет!
+2022-01-06 09:04:02.842863	tramp	cybergangster	ну эти файлы все летят и летят вообще никуда не пойдет уже
+2022-01-06 09:04:07.118899	tramp	cybergangster	сколько можно то
+2022-01-06 17:20:07.450782	tramp	cybergangster	привет!
+2022-01-06 17:20:07.456822	tramp	cybergangster	ну эти файлы все летят и летят вообще никуда не пойдет уже
+2022-01-06 17:20:07.460293	tramp	cybergangster	сколько можно то
+2022-01-06 17:22:55.726690	cybergangster	tramp	привет
+2022-01-06 17:23:04.512530	cybergangster	tramp	будем делать защиту чатов
+2022-01-06 17:25:42.051678	cybergangster	tramp	других вариков нету
+2022-01-06 17:25:50.468608	cybergangster	tramp	какие то безопасники че то мутят
+2022-01-06 17:26:14.549502	cybergangster	tramp	наверно с вт билды берут
+2022-01-06 18:02:24.948647	cybergangster	tramp	привет
+2022-01-06 18:02:24.950966	cybergangster	tramp	будем делать защиту чатов
+2022-01-06 18:02:24.958010	cybergangster	tramp	других вариков нету
+2022-01-06 18:02:24.960921	cybergangster	tramp	какие то безопасники че то мутят
+2022-01-06 18:02:24.966764	cybergangster	tramp	наверно с вт билды берут
+2022-01-12 18:55:55.119792	tramp	cybergangster	видишь?
+2022-01-16 12:45:19.512643	cybergangster	tramp	Привет
+2022-01-16 12:45:23.721541	cybergangster	tramp	Не общались еще
+2022-01-16 12:45:30.950792	cybergangster	tramp	Не выходит он в сеть че тоъ
+2022-01-16 16:11:57.140818	cybergangster	tramp	Привет
+2022-01-16 16:11:57.144198	cybergangster	tramp	Не общались еще
+2022-01-16 16:11:57.152406	cybergangster	tramp	Не выходит он в сеть че тоъ
+2022-01-23 14:49:54.810966	tramp	cybergangster	привет
+2022-01-27 20:40:12.436584	tramp	cybergangster	ну да
+2022-01-27 20:40:20.381328	tramp	cybergangster	но надо видеть пришли они в чат или нет
+2022-01-28 21:06:29.639433	cybergangster	tramp	Все сделал завтра заменю тебе билды тогда днем
+2022-01-29 05:27:00.700397	cybergangster	tramp	Все сделал завтра заменю тебе билды тогда днем
+2022-01-29 21:34:23.892039	cybergangster	tramp	саппорт новый будет
+2022-01-29 21:34:30.237643	cybergangster	tramp	да выдам как поймаю тебя
+2022-01-30 06:57:39.216370	cybergangster	tramp	саппорт новый будет
+2022-01-30 06:57:39.219896	cybergangster	tramp	да выдам как поймаю тебя
+2022-01-31 06:38:27.565124	cybergangster	tramp	ну он же через тор заходил
+2022-01-31 06:38:32.311624	cybergangster	tramp	?
+2022-01-31 06:39:37.229014	cybergangster	tramp	вы ему что не объяснили как юзать впн и соксы -  это по моему очевидный момент который каждый должен знать
+2022-01-31 07:02:12.875588	cybergangster	tramp	или он прям со своего ип заходил? :-D
+2022-01-31 07:02:34.559215	cybergangster	tramp	ты сам до какого работаешь ? - ну до лета точно
+2022-01-31 07:02:38.317006	cybergangster	tramp	там как карта ляжет
+2022-01-31 07:42:22.518900	cybergangster	tramp	ну он же через тор заходил
+2022-01-31 07:42:22.520156	cybergangster	tramp	?
+2022-01-31 07:42:22.523024	cybergangster	tramp	вы ему что не объяснили как юзать впн и соксы -  это по моему очевидный момент который каждый должен знать
+2022-01-31 07:42:22.530339	cybergangster	tramp	или он прям со своего ип заходил? :-D
+2022-01-31 07:42:22.534590	cybergangster	tramp	ты сам до какого работаешь ? - ну до лета точно
+2022-01-31 07:42:22.537307	cybergangster	tramp	там как карта ляжет
+2022-01-31 15:00:15.652369	tramp	cybergangster	REKALLCLOUD                  V5VjSMrUjO5eT1SzmqP7xIj2Li8IUn4h7DN7psNlXN51ENjsbzlbESIU2aRsoBpM
+2022-01-31 15:00:17.716717	tramp	cybergangster	да
+2022-01-31 15:00:23.210061	tramp	cybergangster	эти заплатили
+2022-02-04 16:05:22.848153	tramp	cybergangster	ты пофиксил ?
+2022-02-04 16:05:27.556334	tramp	cybergangster	новые билды выдашь ?
+2022-02-06 17:16:02.742568	tramp	cybergangster	ку
+2022-02-06 20:44:01.362983	tramp	cybergangster	83.242.96.193
+wkV%?ZG7wN
+2022-02-06 20:44:09.306359	tramp	cybergangster	esxi 5.5
+2022-02-07 05:51:34.478634	cybergangster	tramp	сделай плиз еще 7.0 версию или вышел
+2022-02-07 05:51:38.344111	cybergangster	tramp	выше*
+2022-02-07 10:30:26.662820	cybergangster	tramp	сделай плиз еще 7.0 версию или вышел
+2022-02-07 10:30:26.664847	cybergangster	tramp	выше*
+2022-02-09 14:52:16.013347	tramp	cybergangster	да
+2022-02-14 17:29:05.026371	tramp	cybergangster	привет
+2022-02-14 17:29:11.014346	tramp	cybergangster	нужны билды по ним
+2022-02-15 08:37:27.836570	tramp	cybergangster	привет
+2022-02-15 08:37:27.838948	tramp	cybergangster	нужны билды по ним
+2022-02-15 08:45:15.238321	tramp	cybergangster	привет

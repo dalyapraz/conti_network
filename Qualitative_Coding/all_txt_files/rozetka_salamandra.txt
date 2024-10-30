@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-07-01 14:02:31.302283	salamandra	rozetka	привет

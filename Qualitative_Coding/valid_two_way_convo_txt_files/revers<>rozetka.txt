@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-07-27 20:37:44.310588	rozetka	revers	ky
+2021-05-29 21:28:56.502181	revers	rozetka	здарова тут ?
+2021-06-14 20:40:43.951712	rozetka	revers	тут?

@@ -1,0 +1,29 @@
+Timestamp	From	To	Message
+2020-07-17 10:05:07.460815	buri	dorirus	Soobschenie iz-za otsutstviya OTR
+https://logdog.pw/?u_xVj7
+2020-07-23 20:58:56.779288	buri	dorirus	https://logdog.pw/?xq9FqA
+2020-07-24 10:01:40.404205	buri	dorirus	https://logdog.pw/?xq9FqA
+2020-07-29 09:37:08.078274	buri	dorirus	https://logdog.pw/?vrxVz8
+2020-07-29 10:22:03.052312	buri	dorirus	https://logdog.pw/?vrxVz8
+2020-07-31 15:17:27.010686	buri	dorirus	https://logdog.pw/?MrSYJs
+2020-07-31 16:36:14.403506	buri	dorirus	https://logdog.pw/?MrSYJs
+2020-08-03 19:25:41.479001	buri	dorirus	https://logdog.pw/?eSNwQr
+2020-08-04 11:01:14.033680	buri	dorirus	https://logdog.pw/?eSNwQr
+2020-08-31 09:04:42.077525	buri	dorirus	Privet! Mozhesh otvetit' na prediduschee soobschenie?
+2020-08-31 09:21:27.142891	buri	dorirus	Privet! Mozhesh otvetit' na prediduschee soobschenie?
+2020-09-03 17:59:33.379727	buri	dorirus	teamviewera net pochemu to. Mozhesh obratno ego postavit', pozhaluista?
+2020-09-04 10:16:20.936649	buri	dorirus	teamviewera net pochemu to. Mozhesh obratno ego postavit', pozhaluista?
+2020-09-07 16:15:30.853843	dorirus	buri	включил
+2020-09-07 16:15:42.563504	dorirus	buri	что-то с жабой у тебя, сообщения не доходят
+2020-09-07 16:20:57.281505	dorirus	buri	включил
+2020-09-07 16:20:57.283116	dorirus	buri	что-то с жабой у тебя, сообщения не доходят
+2020-09-07 21:50:47.749098	buri	dorirus	https://privnote.com/iszAIBin#CbHdhzCTx
+2020-09-08 09:09:19.534106	buri	dorirus	Poka ne nado
+2020-09-08 09:26:42.580795	buri	dorirus	https://privnote.com/iszAIBin#CbHdhzCTx
+2020-09-08 09:26:42.586351	buri	dorirus	Poka ne nado
+2020-09-08 18:10:26.719989	buri	dorirus	ok
+2020-09-09 09:07:57.318517	buri	dorirus	https://privnote.com/Ksqdd8rU#0CoiYPins
+2020-09-09 09:56:24.500850	buri	dorirus	ok
+2020-09-09 09:56:24.503207	buri	dorirus	https://privnote.com/Ksqdd8rU#0CoiYPins
+2020-09-09 10:00:05.000875	dorirus	buri	Привет. так и не ответил, сегодня ловить буду
+2020-09-16 13:11:37.153603	buri	dorirus	https://privnote.com/Zc4cECzg#bkHPMzRt1

@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2022-02-10 20:43:34.835489	born	best	пиши
+2022-02-10 20:43:35.509266	born	best	в тох

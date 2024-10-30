@@ -1,0 +1,76 @@
+Timestamp	From	To	Message
+2021-05-11 15:35:35.247276	ramon	atlas	ky
+2021-05-11 15:35:38.591894	ramon	atlas	otpishi ka kbdyesh' tyt
+2021-05-11 19:06:33.207914	ramon	atlas	ky
+2021-05-11 19:06:33.209258	ramon	atlas	otpishi ka kbdyesh' tyt
+2021-05-11 19:07:18.336274	atlas	ramon	привет
+2021-05-11 19:14:40.265271	ramon	atlas	hey
+2021-05-11 19:14:40.818153	ramon	atlas	mna
+2021-05-11 19:15:49.313213	atlas	ramon	я тут по криптам
+2021-05-11 19:15:59.525031	atlas	ramon	можно ко мне обрщаться
+2021-05-18 13:30:57.908513	ramon	atlas	otpishi mne
+2021-05-18 13:31:00.235144	ramon	atlas	kak bydesh' tyt
+2021-05-18 13:31:02.044518	ramon	atlas	jdy
+2021-05-18 13:31:02.995427	ramon	atlas	sricno0
+2021-05-18 13:31:04.754716	ramon	atlas	!!
+2021-05-18 17:25:30.818624	ramon	atlas	otpishi mne
+2021-05-18 17:25:30.827956	ramon	atlas	kak bydesh' tyt
+2021-05-18 17:25:30.830656	ramon	atlas	jdy
+2021-05-18 17:25:30.831077	ramon	atlas	sricno0
+2021-05-18 17:25:30.832029	ramon	atlas	!!
+2021-05-21 11:16:25.352649	ramon	atlas	ky
+2021-05-21 11:16:25.712045	ramon	atlas	man
+2021-05-21 12:48:18.922741	ramon	atlas	ay
+2021-05-21 12:48:19.738567	ramon	atlas	bro
+2021-05-21 12:48:21.263192	ramon	atlas	ti hde?
+2021-05-21 12:52:46.306374	ramon	atlas	ky
+2021-05-21 12:52:46.307799	ramon	atlas	man
+2021-05-21 12:52:46.308564	ramon	atlas	ay
+2021-05-21 12:52:46.309970	ramon	atlas	bro
+2021-05-21 12:52:46.310710	ramon	atlas	ti hde?
+2021-05-26 10:40:06.803769	ramon	atlas	ky
+2021-05-26 10:40:06.804499	ramon	atlas	otpihi
+2021-05-26 10:40:06.805251	ramon	atlas	mne
+2021-05-26 10:40:06.806145	ramon	atlas	sricno
+2021-05-26 10:40:07.955210	ramon	atlas	kak bdyesh'
+2021-05-26 11:24:09.522571	ramon	atlas	ay
+2021-05-26 14:05:57.199455	ramon	atlas	ky
+2021-05-26 14:05:57.200332	ramon	atlas	otpihi
+2021-05-26 14:05:57.201393	ramon	atlas	mne
+2021-05-26 14:05:57.202357	ramon	atlas	sricno
+2021-05-26 14:05:57.203749	ramon	atlas	kak bdyesh'
+2021-05-26 14:05:57.205727	ramon	atlas	ay
+2021-05-27 11:15:46.538814	ramon	atlas	ky
+2021-05-27 11:15:46.539377	ramon	atlas	mna
+2021-05-27 11:15:47.004518	ramon	atlas	otpishi
+2021-05-27 11:15:47.786589	ramon	atlas	kak bdyeh'
+2021-05-27 14:22:37.376393	ramon	atlas	ti gde propadaesh'?
+2021-06-01 08:56:28.803794	ramon	atlas	ky
+2021-06-01 08:56:28.804275	ramon	atlas	mna
+2021-06-01 08:56:28.804762	ramon	atlas	otpishi
+2021-06-01 08:56:28.805264	ramon	atlas	kak bdyeh'
+2021-06-01 08:56:28.805718	ramon	atlas	ti gde propadaesh'?
+2021-06-01 09:55:23.444988	atlas	ramon	привет
+2021-06-01 09:55:47.882361	atlas	ramon	я тут
+2021-06-01 09:55:54.242768	atlas	ramon	меня до вторника не было
+2021-06-01 09:56:06.661560	atlas	ramon	Я писал тебе, что не будет меня
+2021-06-01 09:56:20.060969	atlas	ramon	возможно сообщения не дошли
+2021-06-03 09:15:44.253738	atlas	ramon	привет
+2021-06-03 09:15:44.268302	atlas	ramon	я тут
+2021-06-03 09:15:44.270453	atlas	ramon	меня до вторника не было
+2021-06-03 09:15:44.272762	atlas	ramon	Я писал тебе, что не будет меня
+2021-06-03 09:15:44.275318	atlas	ramon	возможно сообщения не дошли
+2021-06-03 09:35:13.256594	ramon	atlas	hi
+2021-06-03 09:35:14.909928	ramon	atlas	man
+2021-06-03 09:35:22.408324	ramon	atlas	ne-a ni cego ne b ilo ot tebya(
+2021-06-03 11:02:21.750948	ramon	atlas	hi
+2021-06-03 11:02:21.752169	ramon	atlas	man
+2021-06-03 11:02:21.755361	ramon	atlas	ne-a ni cego ne b ilo ot tebya(
+2021-06-03 11:02:47.466916	atlas	ramon	привет бро)
+2021-06-24 12:00:42.491789	ramon	atlas	еш лгвф зкщзфд икщ?
+2021-06-24 12:00:55.159078	ramon	atlas	privet! ti kuda propal?
+2021-06-24 13:14:25.814784	ramon	atlas	еш лгвф зкщзфд икщ?
+2021-06-24 13:14:25.815791	ramon	atlas	privet! ti kuda propal?
+2021-06-24 13:18:12.142576	atlas	ramon	Привет бро)
+2021-06-24 13:18:35.491729	atlas	ramon	Были тех проблемы, пришлось все преутстанавливать
+2021-06-24 13:18:46.528217	atlas	ramon	Я в боевом режиме

@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2020-08-14 15:01:44.687377	rozetka	defender	Привет
+2020-08-26 19:38:23.985213	rozetka	defender	привет
+2021-03-05 19:42:17.006466	defender	rozetka	привет
+2021-03-05 19:42:19.602555	defender	rozetka	тут?

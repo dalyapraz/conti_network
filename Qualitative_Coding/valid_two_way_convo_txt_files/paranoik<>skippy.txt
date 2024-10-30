@@ -1,0 +1,12 @@
+Timestamp	From	To	Message
+2021-11-04 21:09:13.937298	skippy	paranoik	двадцать пять помноженное на пять =
+twenty-five multiplied by five = 
+
+Ответ цифрой. Write digit to answer.
+2021-11-04 21:09:34.002216	paranoik	skippy	125
+2021-11-04 21:09:39.282785	skippy	paranoik	двадцать пять помноженное на пять =
+twenty-five multiplied by five = 
+
+Ответ цифрой. Write digit to answer.
+2021-11-04 21:10:03.618084	paranoik	skippy	125
+2021-11-04 21:10:05.000784	skippy	paranoik	Congratulations! Now you can chat!

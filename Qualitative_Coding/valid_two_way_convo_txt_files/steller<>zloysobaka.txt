@@ -1,0 +1,668 @@
+Timestamp	From	To	Message
+2020-10-09 12:00:19.957608	zloysobaka	steller	привет, буза твой контакт дал, сказал что вместе будем работать над задачей
+2020-10-09 12:02:38.832151	steller	zloysobaka	Привет.
+2020-10-09 12:06:59.160359	zloysobaka	steller	если есть пару минут свободных, можешь расписать как да что в общих словах ?
+2020-10-09 12:10:02.013780	steller	zloysobaka	Наверно, backdoor на js. Сейчас у бузы спрошу.
+2020-10-09 12:16:32.085394	zloysobaka	steller	онлайн у тебя я ?
+2020-10-09 12:16:38.197350	zloysobaka	steller	авторизуй
+2020-10-09 12:22:16.988071	steller	zloysobaka	Вот ТЗ на backdoor
+asdfasdf#LK#:$
+Download: https://qaz.im/load/9GzHFt/ekTSn7
+Delete: https://qaz.im/index.php?a=delete&q=1416868201
+
+Нужно его на jscript написать.
+У меня готовый на с++ есть. Можно просто функционал перенести.
+2020-10-09 12:25:24.286871	zloysobaka	steller	так ты тоже этим занимаешь или мы разные задачи делать будем ?
+2020-10-09 12:27:10.098416	steller	zloysobaka	Я начал его переводить на jscript, но я его не знаю особо.
+У тебя как я понял опыт на нем есть.
+Можешь пока подумать, как сделать можно. Если что-то непонятно в ТЗ - спрашивай.
+2020-10-09 12:27:57.107414	steller	zloysobaka	буза же сказал - вместе делать будем
+2020-10-09 12:29:13.948519	zloysobaka	steller	да разбираюсь тоже, давно все стерлось с памяти )
+2020-10-09 12:30:25.819159	steller	zloysobaka	Ты какой средой пользовался для отладки jscript?
+2020-10-09 12:30:40.678454	zloysobaka	steller	вбэдит
+2020-10-09 12:30:54.058757	zloysobaka	steller	Vbsedit
+2020-10-09 12:31:16.680717	zloysobaka	steller	подскажи какой надо
+2020-10-09 12:32:45.399097	steller	zloysobaka	Я недавно искал подходящуюю.
+Нашёл Script Debugger IDE. Она на 30 дней только
+2020-10-09 12:37:28.174116	steller	zloysobaka	В общем, изучи ТЗ пока. Если что-то будет непонятно - обращайся.
+2020-10-09 12:37:47.928219	zloysobaka	steller	ок
+2020-10-09 12:38:42.818229	zloysobaka	steller	в выходыне выходные или ты работаешь ?
+2020-10-09 12:54:59.278636	steller	zloysobaka	Только будние работаю. Может гляну сообщения в выходные. Пиши в оффлайн
+2020-10-12 04:56:37.960889	zloysobaka	steller	привет перезалей тз, архив нулевого размера
+2020-10-12 08:17:41.415281	zloysobaka	steller	привет перезалей тз, архив нулевого размера
+2020-10-12 08:24:33.055161	steller	zloysobaka	Привет.
+backdoor\ТЗ
+Dowload URL:
+https://file.io/5usw1icNfhx2
+Pass:
+im|fs5^U0$WV7:-B6RA*
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/5usw1
+icNfhx2', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"im|fs5^U0$WV7:-B
+6RA*" 1.rar
+2020-10-12 08:27:23.171180	zloysobaka	steller	а код готового на с++ дашь ? с него же будем переписывать ?
+2020-10-12 08:35:01.096756	steller	zloysobaka	Держи
+backdoor
+Dowload URL:
+https://file.io/5jkltQiFY4pp
+Pass:
+ejfhOQcF#BUbGc{Se+<R
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/5jklt
+QiFY4pp', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"ejfhOQcF#BUbGc{S
+e+<R" 1.rar
+2020-10-12 08:35:26.668048	zloysobaka	steller	ты еще не начинал ? или уже что-то сделано ?
+2020-10-12 08:35:42.334550	steller	zloysobaka	Если нужно потом ещё тестовый сервер скину
+2020-10-12 08:37:21.096993	steller	zloysobaka	Пока только прикидываю, как это всё будет выглядеть.
+Посмотри ТЗ и исходник. Может какие-то идеи появятся
+2020-10-12 08:46:37.812269	steller	zloysobaka	Посмотрел код. Я думаю, можно в таком же стиле сделать, с объектами с теми же названиями и т.п. Как считаешь?
+2020-10-12 08:47:14.192199	zloysobaka	steller	да
+2020-10-12 08:48:57.256066	zloysobaka	steller	надо бы еще определиться в какой среде делать будем, куда заливать код и тп, ну чтобы все однотипно было, или не стоит этого ?
+2020-10-12 08:54:37.122251	steller	zloysobaka	У нас гитлаб.
+Делай пока в своём локальном репозитории
+2020-10-12 08:57:59.433560	steller	zloysobaka	Желательно коммиты осмысленные где-то раз в 2 дня писать
+2020-10-13 10:10:16.043359	steller	zloysobaka	Привет. Как успехи?
+2020-10-13 10:11:51.247199	zloysobaka	steller	привет, да вникаю в тз и твой код на с++, надо уже как то начинать потихуньку, буза сказал ты будешь задачи ставить, вот может направишь меня, а то я хз что сделано, что надо и т.п.
+2020-10-13 10:26:07.044474	steller	zloysobaka	Да, у меня уже мысли по поводу реализации появились.
+По очереди:
+1. Нужно написать несколько модулей на js для структуризации, продублировав код на с++. Эти модули потом скомпилировать на js скрипте и получить один файл. (компилятор у меня уже есть). Чтобы не изобретать велосипеды можно взять те же названия файлов и классов что и в оригинале, кроме тех которые не понадобятся. Возможно несколько классов будут избыточными.
+2. Реализовать соединение tcp в виде класса, используя wininet
+3. Добавить класс THttpClient
+4. С помощью http получить адрес c emercoin
+5. Добавить функцию GetID
+6. Начать добавлять основную логику модуля в файле commands.js
+
+По поводу реализации.
+Желательно всё структурировать как в оригинале, чтобы у каждого числа или строковой константы было своё связанное название. Можно делать вложенные классы, использовать перечисления enum в виде отображений const Enum = {a: 1, b: 2} и т.п.
+2020-10-13 10:28:40.555434	steller	zloysobaka	Вот компилятор и пару шаблонов-черновиков:
+backdoor\js\compile.js
+Dowload URL:
+https://file.io/7NDXpYVlm0aX
+Pass:
+_nW#kY@Amz^av)3oscUt
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/7NDXp
+YVlm0aX', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"_nW#kY@Amz^av)3o
+scUt" 1.rar
+2020-10-13 10:32:04.635438	steller	zloysobaka	Принял?
+2020-10-13 10:33:36.494908	zloysobaka	steller	да
+2020-10-13 10:34:09.216945	steller	zloysobaka	Если что непонятно будет - спрашивай )
+2020-10-13 10:36:17.306911	steller	zloysobaka	В с++ не надо сильно не вникать, можно на js уже писать. Там структура несложная, могу объяснить.
+2020-10-13 10:36:32.813679	zloysobaka	steller	давай
+2020-10-13 10:38:57.133780	steller	zloysobaka	Если в 2 словах, то логика модуля реализована в файлах backdoor и commands.
+Файл backdoor - основной, он связывает все остальные файлы.
+commands - реализует логику получения команд с сервера и возврат ответов-результатов.
+2020-10-13 10:39:51.363313	steller	zloysobaka	Остальные файлы утилитарные, там особой логики модуля нет
+2020-10-13 10:41:19.855190	steller	zloysobaka	Давай теперь по времени немного определимся. Ты уже прикинул, сколько может занять реализация 2 пункта, например?
+2020-10-13 10:41:54.494470	zloysobaka	steller	нет, даже не могу сходу это сделать
+2020-10-13 10:42:24.860569	steller	zloysobaka	Сокетами в js пользовался когда-нибудь?
+2020-10-13 10:42:34.383550	zloysobaka	steller	нет
+2020-10-13 10:43:11.757613	steller	zloysobaka	Хорошо, давай тогда с более простого: за сколько можешь реализовать функцию GetID?
+2020-10-13 10:44:15.296660	zloysobaka	steller	эту ?
+2020-10-15 07:14:04.533315	steller	zloysobaka	Привет
+2020-10-15 07:14:39.913300	steller	zloysobaka	Отпиши, как будешь
+2020-10-15 07:19:56.722942	zloysobaka	steller	привет
+2020-10-15 07:20:42.883357	steller	zloysobaka	Тебе не приходило?
+
+17:13:10] <steller> gitlab:
+https://179.43.147.243/steller/backdoor.js 
+[17:22:15] *** Сообщение не было отправлено. Либо завершите частную беседу, либо перезапустите её.
+[17:22:15] <steller> Посмотри http.js. Можешь на следующем шаге им заняться. 
+Там функции wininet прикрутил кое-где и сформировал структуру наследования, совместимую с jscript.
+Нужно будет THttpClient доработать, и протестить её на CheckLocale()
+
+В util.js есть альтернативные варианты работы с tcp, но скорее всего они не понадобятся т.к. winsock не поддерживает socks proxy а winhttp ещё не использовал.
+2020-10-15 07:21:24.722101	zloysobaka	steller	нет не приходило
+2020-10-15 07:22:18.161680	steller	zloysobaka	А это?
+
+[14.10.2020 16:35:56] <steller> defender@q3mcco35auwcstmt.onion
+[14.10.2020 17:13:10] <steller> gitlab:
+https://179.43.147.243/steller/backdoor.js
+2020-10-15 07:22:44.234583	zloysobaka	steller	последнее сообщение с контактом дефендера
+2020-10-15 07:23:07.948775	steller	zloysobaka	Понятно. Что-то жабу штормит)
+2020-10-15 07:55:51.989643	zloysobaka	steller	ты на какой ide остановился для разработки под js ?
+2020-10-15 07:57:53.964828	steller	zloysobaka	Редактирую в vscode
+Отладка пока на script debugger ide stas semenov
+2020-10-15 08:03:34.418082	zloysobaka	steller	а ты компилировал http.js ? а то у меня ошибки выскочили
+2020-10-15 08:49:57.617154	steller	zloysobaka	Какие ошибки?
+2020-10-15 08:53:23.037131	steller	zloysobaka	Его еще нужно с с++ на js перевести.
+2020-10-15 08:53:43.356476	zloysobaka	steller	уже понял ) я просто думал ты начал его уже переводить
+2020-10-15 08:59:28.739406	steller	zloysobaka	Да, так и есть: начал.
+В нём нужно дополнить wrapper доп. функциями, и заменить вызовы на Wrapper. и т.д.
+return Error() нужно заменить на throw new Error(), выловить исключения с помощью catch и освободить ресурсы winapi, если они были выделены.
+
+В принципе, технические моменты только решить, а потом можно отлаживать, проверять соединение
+2020-10-15 09:00:57.190698	steller	zloysobaka	Справишься с ним сам, чтобы нам в один файл изменения не вносить?
+2020-10-15 09:01:32.210074	zloysobaka	steller	буду делать
+2020-10-15 09:01:48.014166	zloysobaka	steller	последняя твоя версия на гите ?
+2020-10-15 09:02:02.650370	steller	zloysobaka	Я пока другими частями займусь.
+Да, последняя
+2020-10-15 09:05:15.906698	steller	zloysobaka	Возьми ветку, например, http_connection, потом сольём
+2020-10-15 09:07:11.104205	zloysobaka	steller	> Возьми ветку, например, http_connection, потом сольём 
+это ты про что
+2020-10-15 09:07:39.295293	steller	zloysobaka	про гит.
+2020-10-15 09:08:11.775492	steller	zloysobaka	git checkout http_connection и там можешь http.js править
+2020-10-15 09:09:16.774128	steller	zloysobaka	Скорее всего не буду трогать http.js пока, но ветку создай на всякий случай
+2020-10-15 12:33:37.847463	zloysobaka	steller	а ты проверял у тебя нет ошибки 
+Ошибка выполнения Microsoft JScript (1, 1) : Невозможно создание объекта сервером программирования объектов
+
+Wrapper = new ActiveXObject("DynamicWrapper")
+
+или ты не проверял еще ?
+2020-10-15 12:42:07.487153	steller	zloysobaka	Да, там dll внешняя нужна.
+Попробуй вариант CallRoutineFromDLL в utils.js
+2020-10-15 13:00:53.461607	steller	zloysobaka	Для неё тоже требуется внешняя dll
+Видимо, нужно её скачать и зарегистрировать, т.к. без winapi скорее всего не обойтись.
+Попробуй поизучать какие варианты есть вызова из dll
+2020-10-15 13:00:59.865119	zloysobaka	steller	dll не будет внешняя использоваться ?
+2020-10-15 13:01:41.243736	steller	zloysobaka	В принципе её можно скачать.
+2020-10-15 13:01:48.169047	steller	zloysobaka	И зарегистрировать
+2020-10-15 13:01:52.486696	zloysobaka	steller	если будет то какая чтобы на ней остановиться
+2020-10-15 13:04:54.389995	steller	zloysobaka	Давай DynamicWrapper возьмем пока
+2020-10-15 13:15:23.461335	zloysobaka	steller	ок
+2020-10-15 13:16:34.701266	zloysobaka	steller	буду в этом направлении копать, ну конечно перевод с с++ пока туговато идет, надо понимать что делает на с++ какая команда. потом аналогию на js делать, + знать логику что писали и для чего... разбираюсь )
+2020-10-15 13:25:29.198182	steller	zloysobaka	Сейчас нужно сделать хотя-бы один вызов из dll в первую очередь, а по с++ командам потом смотреть. Там проблем не должно быть.
+2020-10-16 06:44:48.571574	steller	zloysobaka	Привет.
+Обновил backdoor.js/master
+Есть некоторые изменения в http.js
+2020-10-16 07:05:10.027714	zloysobaka	steller	понял
+2020-10-16 07:05:13.025005	zloysobaka	steller	привет
+2020-10-16 07:38:25.347338	zloysobaka	steller	посмотри плиз в моем бранче CreateLocate.js - такая реализация не пойдет CreateLocate
+2020-10-16 07:40:58.364303	steller	zloysobaka	Работает?
+2020-10-16 07:41:21.968831	zloysobaka	steller	1 если страна в списке, 0 если нет
+2020-10-16 07:41:51.529945	steller	zloysobaka	Отлично.
+2020-10-16 07:42:11.878363	zloysobaka	steller	но там без вининет как ты написал использовать
+2020-10-16 07:42:12.130231	steller	zloysobaka	А вызов winapi ты пробовал?
+2020-10-16 07:42:28.588680	zloysobaka	steller	вот мучаю, скадал дллку а она не регистрируется
+2020-10-16 07:42:32.795836	zloysobaka	steller	уже три версии скачал
+2020-10-16 07:42:41.600954	zloysobaka	steller	все выскидывают ошибку  при регистрации
+2020-10-16 07:42:42.745085	steller	zloysobaka	Там нужно зарегистрировать com
+2020-10-16 07:43:11.293783	zloysobaka	steller	ну я имею ввиду ошибка при регистрации дллки самой, а не в скрипте
+2020-10-16 07:44:09.342267	steller	zloysobaka	В принципе, можно без wininet обойтись, тогда не будет поддержки socks прокси, а некоторые машины его используют. Но даже в этом случае нам нужно native winapi, т.к. в оригинале много на него завязано
+2020-10-16 07:44:31.757325	zloysobaka	steller	понял, тогда дальше мучаю дллку
+2020-10-16 07:44:44.416899	zloysobaka	steller	а у ебя зарегистрировалась ? может ты мне свою скинешь дллку
+2020-10-16 07:45:48.469185	steller	zloysobaka	Я ещё не пробовал.
+Пока искал альтернативные варианты. Ещё есть 2, если что. Ссылки в utils.js добавил
+2020-10-16 07:46:22.287167	zloysobaka	steller	ок
+2020-10-16 07:46:35.642246	steller	zloysobaka	С загрузкой DynamicWrapper, похоже, самый простой вариант. Нужно его в первую очередь испробовать
+2020-10-16 07:46:58.063582	zloysobaka	steller	понял, занимаюсь пока им
+2020-10-16 07:47:09.975727	steller	zloysobaka	Есть еще DynamicWrapperX - похожий
+2020-10-16 07:47:38.002083	zloysobaka	steller	тоже пробовал
+2020-10-16 07:47:40.714250	zloysobaka	steller	и тожеошибка
+2020-10-16 07:47:52.674292	zloysobaka	steller	буду мучать чтобы тупо этот код начал рабоать
+Wrapper = new ActiveXObject("DynamicWrapper")
+Wrapper.Register("WinInet.dll", "InternetCloseHandle", "I=H", "f=s", "R=b");
+Wrapper.Register("WinInet.dll", "HttpOpenRequestA", "I=Hssssslp", "f=s", "R=h")
+Wrapper.Register("WinInet.dll", "InternetOpenA", "I=slssl", "f=s", "R=k")
+Wrapper.Register("WinInet.dll", "HttpAddRequestHeadersA", "I=Hsll", "f=s", "R=b")
+2020-10-16 07:50:39.148227	steller	zloysobaka	Да, посмотри, он должен быть рабочим т.к. он популярный. Ещё CallRoutineFromDLL из подобных
+2020-10-16 11:27:29.220405	steller	zloysobaka	Как у тебя дела? Запустил winapi?
+2020-10-16 11:30:42.620412	zloysobaka	steller	на 10-ке ни одна дллка не зарегистрировалась, на 7-ке регнулась без ошибок, но врапер не работает, на любой из Wrapper.Register("WinInet.dll выдает ошибку
+2020-10-16 11:31:44.881341	steller	zloysobaka	Да, у меня тоже на 7ке сразу заработала
+2020-10-16 11:38:14.122525	steller	zloysobaka	На 7ке работают функции
+2020-10-16 11:42:56.094201	zloysobaka	steller	у меня пишет ошибку Unsuppored prefix
+2020-10-16 11:43:13.923770	zloysobaka	steller	можешь показать как у тебя ? у себя проверю
+2020-10-16 11:43:57.490503	steller	zloysobaka	Wrapper.Register("Kernel32.dll", "GetLastError", "f=s", "R=l")
+
+e = Wrapper.GetLastError();
+е возвращает 0
+2020-10-16 11:44:33.792991	steller	zloysobaka	Параметров нет, поэтому нет "i=...
+2020-10-16 11:47:04.561232	steller	zloysobaka	А ты пробовал поле структуры так инициализировать?
+THttp =
+{
+  WEB_CLIENT: "Webclient",
+  USER_AGENT: "User-Agent:" + WEB_CLIENT,
+2020-10-16 11:47:37.996448	zloysobaka	steller	а у меня ошибка такая же DynamicWrapperX.2: Unsupported prefix
+2020-10-16 11:48:16.529886	steller	zloysobaka	У меня DynamicWrapper установлен
+2020-10-16 11:48:36.414999	steller	zloysobaka	Это у тебя на 10ке ошибка?
+2020-10-16 11:48:40.661673	zloysobaka	steller	yf 7-rt
+2020-10-16 11:48:49.884804	zloysobaka	steller	на 7-ке
+2020-10-16 11:48:58.725990	steller	zloysobaka	Попробуй 1-ю версию
+2020-10-16 11:51:06.535526	zloysobaka	steller	ну так работает 
+
+инициализировать?
+THttp =
+{
+ WEB_CLIENT: "Webclient",
+ USER_AGENT: "User-Agent:" + WEB_CLIENT,
+
+ WScript.Echo(THttp.WEB_CLIENT); 
+
+выдает Webclient
+2020-10-16 11:53:09.219107	steller	zloysobaka	У меня на второе поле жалуется, что там конкатенация.
+2020-10-16 11:53:19.711018	steller	zloysobaka	*отладчик
+2020-10-16 11:55:27.863139	zloysobaka	steller	так WEB_CLIENT не определен может поэтому
+2020-10-16 12:04:21.177067	steller	zloysobaka	Поробуй отсюда обёртку:
+http://glsft.free.fr/_public/download/dynawrap/DynaWrap.zip
+
+Должна работать
+2020-10-16 12:17:08.401298	zloysobaka	steller	ага с этой на 7-ке отработало, на 10-ке нет
+2020-10-16 12:29:42.930567	steller	zloysobaka	Ну, пусть пока как-то работает. Можно уже дальше двигаться и реализовывать http и можно параллельно тестировать команды и т.д.
+2020-10-16 12:30:59.350088	steller	zloysobaka	Если что-нибудь непонятно по winapi будет - спрашивай
+2020-10-16 12:32:16.111132	zloysobaka	steller	ок, так а не проблема что в 10-ке не работает врапер ?
+2020-10-16 12:34:46.179198	steller	zloysobaka	Да, фиг с ней. Исходники dll есть, подкорректируем если что.
+2020-10-16 12:37:28.277071	steller	zloysobaka	Кстати написано что 10ка поддерживается:
+Автор: Юрий Попов
+Лицензия: freeware
+Последняя версия: 2.2.0.0 (см. примечание о её установке внизу страницы)
+Поддерживает ОС: Windows XP, Windows 7, Windows 8, Windows 10
+2020-10-16 12:39:00.338547	zloysobaka	steller	да, поэтому я и качал 2-у версию
+2020-10-19 07:05:27.498052	steller	zloysobaka	Привет.
+Слей код с master в свою ветку.
+Добавил там обновления в гитлабе.
+2020-10-19 07:14:34.220502	zloysobaka	steller	ок привет
+2020-10-19 07:38:58.882705	zloysobaka	steller	какую сейчас фукнкцию переписывать ?
+2020-10-19 07:42:25.825055	steller	zloysobaka	Вот эти по очереди:
+ConnectWininet()
+Connect()
+MessageWininet()
+2020-10-19 08:15:09.889990	steller	zloysobaka	Добавил скрипт для сборки backdoor.build.js
+К нему нужно python 2 установить
+2020-10-19 08:16:59.707642	zloysobaka	steller	именнно 2 ?
+2020-10-19 08:43:27.465940	steller	zloysobaka	Да, 2.х
+2020-10-19 11:33:48.912556	zloysobaka	steller	если есть минутка можешь у себя глдянуть есть ли ошибка тут
+Wrapper.InternetOpenA(THttp.WEB_CLIENT, 1,  null, null, 0); 
+
+а то у меня падает при компиляции на этом месте
+2020-10-19 11:37:50.511382	steller	zloysobaka	Может при отладке?
+2020-10-19 11:38:26.800520	zloysobaka	steller	да при отладке
+2020-10-19 11:38:31.490914	steller	zloysobaka	Ты залил?
+2020-10-19 11:40:53.682958	zloysobaka	steller	в моем бранче http js
+2020-10-19 11:42:32.508938	steller	zloysobaka	А у тебя много веток развелось )
+2020-10-19 11:42:49.182478	zloysobaka	steller	)
+2020-10-19 11:45:20.996374	steller	zloysobaka	Видимо, у меня история из веток показывается удалённых
+2020-10-19 11:54:16.716964	steller	zloysobaka	Возьми для начала все изменения из master в свою ветку, чтобы проверять обновлённый скрипт
+2020-10-19 11:57:05.221922	zloysobaka	steller	так в моей ветки все последние обновления
+2020-10-19 12:00:02.219205	steller	zloysobaka	build.bat нету
+2020-10-19 12:00:46.593470	zloysobaka	steller	счас удалю и новую опять ветку создам
+2020-10-19 12:05:45.824015	zloysobaka	steller	ветка HTTP
+2020-10-19 12:06:24.902811	steller	zloysobaka	Зачем? Сделай слияние.
+2020-10-19 12:07:04.758182	steller	zloysobaka	У меня в логе уже целая куча бессмысленных веток развелось
+2020-10-19 12:44:44.081355	steller	zloysobaka	Wrapper.Register("WinInet.dll", "InternetOpenA", "I=slssl", "f=s")
+//INTERNET_OPEN_TYPE_PRECONFIG                    0   // use registry configuration
+INTERNET_OPEN_TYPE_DIRECT = 1   // direct to net
+Internet = Wrapper.InternetOpenA(
+  THttp.WEB_CLIENT, INTERNET_OPEN_TYPE_DIRECT,
+    0, 0, 0);
+нормально работает.
+void в с - это отсутствующий параметр. Сверься со справкой по функции. Это значит нужно из Register() возвращаемый тип убрать 'r=...
+2020-10-19 12:49:19.825988	steller	zloysobaka	Принял?
+2020-10-19 13:01:12.357229	zloysobaka	steller	да
+2020-10-19 13:24:34.376977	steller	zloysobaka	На сайте MS ошибка в определении
+Нужно Wrapper.Register("WinInet.dll", "InternetOpenA", "I=slssl", "f=s", 'r=h'); делать
+2020-10-19 13:30:44.548284	steller	zloysobaka	Забери ещё с мастера. Методы - прототипы для классов поправил.
+2020-10-19 13:45:20.759473	zloysobaka	steller	 New Merge Request
+
+From master into HTTP
+2020-10-19 13:45:24.237869	zloysobaka	steller	так надо делать ?
+2020-10-19 14:01:59.055954	steller	zloysobaka	Да.
+Удобнее будет историю смотреть - что откуда взялось
+2020-10-19 14:03:59.983472	steller	zloysobaka	Смысл в том, что после добавления заявленного функционала в виде названия ветки она должна сливаться в основную, но и в основной можно делать небольшие изменения и забирать в другие ветки
+2020-10-19 14:47:58.372310	zloysobaka	steller	 Request to merge master into HTTP
+This merge request contains merge conflicts
+
+Please resolve these conflicts or merge this request manually.
+2020-10-19 14:54:59.556887	steller	zloysobaka	В msvs есть инструмент для слияния. Ещё есть meld
+git config --global diff.tool meld
+git config --global difftool.prompt false
+2020-10-19 14:56:10.507725	steller	zloysobaka	Сначала закомить все свои изменения
+2020-10-19 14:59:58.649629	steller	zloysobaka	Принял?
+2020-10-19 15:34:58.422379	zloysobaka	steller	да
+2020-10-19 15:43:18.843449	zloysobaka	steller	а через панельку как сделать слияние ? чето не получается через панель, ошибку пишет, и мои изменения все закимичены
+2020-10-20 08:22:37.717187	zloysobaka	steller	да
+2020-10-20 08:22:37.891476	zloysobaka	steller	а через панельку как сделать слияние ? чето не получается через панель, ошибку пишет, и мои изменения все закимичены
+2020-10-20 08:23:19.380836	steller	zloysobaka	Привет. Ты имеешь ввиду сайт?
+2020-10-20 08:25:14.643371	zloysobaka	steller	да
+2020-10-20 08:25:45.763030	steller	zloysobaka	Там нет такого.
+2020-10-20 08:30:03.579683	steller	zloysobaka	Вот так должно выглядеть слияние:
+https://stackoverflow.com/questions/11133290/which-version-of-the-git-file-will-be-finally-used-local-base-or-remote
+
+Слева и справа - 2 ветки, а посередине результат. Т.е. ты можешь выбрать свои и мои изменения. 
+Конфликты возникли из-за того, что мы одно и то же правили.
+Посмотри в сети есть большое количество инструментов для слияния
+2020-10-20 08:31:06.546075	steller	zloysobaka	В msvs очень удобно сделали расширение. Там можно просто галочки выбирать и смотреть результат
+2020-10-20 08:31:55.493512	steller	zloysobaka	А как у тебя с http, там много у тебя изменений?
+2020-10-20 08:32:56.785385	zloysobaka	steller	нет, ищи почему ошибка 
+Wrapper.Register("WinInet.dll", "InternetConnectA", "I=Hslssllp", "f=s")  // void InternetConnectA
+
+	INTERNET_SERVICE_HTTP = 3;
+	
+  Connection = Wrapper.InternetConnectA(Internet, Addr.GetHost(), Addr.Port, '','', INTERNET_SERVICE_HTTP, 0, 0); 
+
+выдает ошибку тут, вот разбираюсь где неправильно что
+2020-10-20 08:35:39.739580	steller	zloysobaka	Смотри чтобы типы соответствовали в i= и r=
+Тут у тебя ошибка: r= должно быть.
+2020-10-20 08:36:12.076677	zloysobaka	steller	на сайте мс  void InternetConnectA
+2020-10-20 08:36:32.296171	steller	zloysobaka	Ты же видишь, есть возвращаемое значение?
+Я тебе писал, что у них ошибка на сайте
+2020-10-20 08:37:15.167072	zloysobaka	steller	понял буду смотреть
+2020-10-20 08:50:35.272104	steller	zloysobaka	У тебя определение INTERNET_SERVICE_HTTP прописано?
+Проверь параметр port, там должен быть тип SHORT.
+В qt creator открой backdoor, там удобно по объявлениям переходить ctrl+mouse. INTERNET_PORT = WORD = SHORT
+2020-10-20 08:51:28.026941	zloysobaka	steller	 INTERNET_SERVICE_HTTP = 3;
+2020-10-20 11:22:30.581302	steller	zloysobaka	DynamicWrapperX нормально с InternetConnectA. Переделывай на него
+2020-10-20 11:22:30.753544	steller	zloysobaka	*работает
+2020-10-20 11:22:52.781594	zloysobaka	steller	версия 2.2 ?
+2020-10-20 11:23:37.719464	steller	zloysobaka	Да. Почитай по нему справку. Правильно зарегить нужно его.
+2020-10-20 11:28:45.268216	zloysobaka	steller	с какого сайта ты брал ?
+2020-10-20 11:53:38.401896	steller	zloysobaka	http://dynwrapx.script-coding.com/dwx/pages/download.php?ver=2.2.0.0&lang=en
+2020-10-20 13:05:16.841509	zloysobaka	steller	ты DynamicWrapperX тоже на 7-ке ставил ?
+2020-10-20 13:06:22.346527	steller	zloysobaka	Да
+2020-10-21 04:58:40.747341	zloysobaka	steller	привет модешь скинуть как у тебя определена функция InternetConnectA и какие параметры отдаешь ?
+2020-10-21 07:31:23.930118	zloysobaka	steller	привет модешь скинуть как у тебя определена функция InternetConnectA и какие параметры отдаешь ?
+2020-10-21 07:32:22.692235	steller	zloysobaka	Привет.
+WrapperX.Register("WinInet.dll", "InternetConnectA", "i=pstssllp", "r=h");
+2020-10-21 12:38:02.365326	zloysobaka	steller	привет если есть время можешь опытным взлядом глянуть почему вываливается MessageWininet на строке 
+if (!WrapperX.InternetQueryOptionA(WinRequest, INTERNET_OPTION_SECURITY_FLAGS, Flags,  BufLen))
+			 throw Error("InternetQueryOptionA Error: %d\r\n" + WrapperX.GetLastError());
+2020-10-21 12:41:00.124261	steller	zloysobaka	Доходит до throw?
+2020-10-21 12:41:46.952100	zloysobaka	steller	нет
+2020-10-21 12:42:21.353455	steller	zloysobaka	Тогда нужно объявление Register смотреть
+2020-10-21 12:45:10.891293	steller	zloysobaka	Ещё нужно буфер выделить с помощью WrapperX.MemAlloc()
+Посмотри на форуме:
+http://www.forum.script-coding.com/viewtopic.php?id=7328
+2020-10-21 12:46:47.270608	steller	zloysobaka	Ещё нужно поправить в старых объявлениях l на u для DWORD.
+Посмотри, здесь типы есть:
+http://dynwrapx.script-coding.com/dwx/pages/types.php?lang=en
+2020-10-21 13:33:41.661499	steller	zloysobaka	Залил на гитлаб proc-handler.js. Там сделал обёртку для работы со структурами winapi. Нам пригодится.
+2020-10-21 13:34:24.157784	zloysobaka	steller	ок гляну
+2020-10-22 11:07:11.875914	zloysobaka	steller	привет подскажи плиз, а то не могу выловить ошибку
+
+BOOLAPI HttpSendRequestExA(
+  HINTERNET           hRequest,
+  LPINTERNET_BUFFERSA lpBuffersIn,
+  LPINTERNET_BUFFERSA lpBuffersOut,
+  DWORD               dwFlags,
+  DWORD_PTR           dwContext
+);
+
+правильное определение hppuu ?
+WrapperX.Register("WinInet.dll", "HttpSendRequestExA", "i=hppuu", "f=l", "r=l")
+
+ или DWORD_PTR это не DWORD
+2020-10-22 11:26:27.209518	steller	zloysobaka	Это указатель. 
+И возвращаемый тип b.
+Ты заголовочниках смотрел?
+2020-10-22 11:27:34.567250	zloysobaka	steller	на сайте мс смотрю
+2020-10-22 11:29:24.979567	steller	zloysobaka	Посмотри в msvs или в qt creator. Там удобнее. ctrl+click
+2020-10-22 11:30:24.932064	steller	zloysobaka	*Привет
+2020-10-22 11:41:41.215123	steller	zloysobaka	Как у тебя в общем продвигается?
+2020-10-22 11:43:41.099998	zloysobaka	steller	медленно, каждую же строчку перевожу на js, сейчас MessageWininet функцию делаю
+2020-10-22 11:47:11.996703	steller	zloysobaka	Ты заливай раз в 2 где-то дня на гитлаб, что успел сделать. Так я смогу подкорректировать куда дальше двигаться и какие более подходящие для тебя задачи делать.
+2020-10-22 11:47:44.076214	zloysobaka	steller	да ок
+2020-10-22 11:47:47.950248	steller	zloysobaka	И ещё чтобы одно и то же не делать
+2020-10-22 11:48:08.316111	zloysobaka	steller	ну я только же в своей ветке делаю и там правлю
+2020-10-22 11:48:26.387597	steller	zloysobaka	Нам их сливать нужно будет
+2020-10-22 11:48:56.897470	steller	zloysobaka	А сливать намного удобнее без коллизий.
+2020-10-26 10:53:10.538901	zloysobaka	steller	привет что сегодня гит лежит ?
+2020-10-26 11:00:28.680751	steller	zloysobaka	Привет.
+Похоже на то
+2020-10-27 10:35:20.878188	steller	zloysobaka	Привет.
+Как успехи?
+2020-10-27 10:36:35.054403	zloysobaka	steller	привет, застрал блин на этой функции, ошибка уже и разные входные параметры пробую и все равно еррор
+2020-10-27 10:37:46.978042	zloysobaka	steller	WrapperX.Register("WinInet.dll", "HttpSendRequestExA", "i=hppup", "r=l")
+
+     BodySize = Headers.Value(THttp.CONTENT_LENGTH);
+     if (Method == 'G') BodySize = 1; // 12017 err code workaround
+     
+	 BufferIn = {};
+     
+	 BufferIn.dwStructSize = WrapperX.MemAlloc(64);//sizeof(INTERNET_BUFFERS);
+     BufferIn.dwBufferTotal = BodySize; //DWORD(BodySize);   // +  m_lstrlen(SendBuf);
+	 
+	 BufferIn.dwOffsetHigh = 0; 
+	 BufferIn.dwOffsetLow = 0; 
+	 BufferIn.dwBufferLength = 0; 
+	 BufferIn.lpvBuffer = 0; 
+	 BufferIn.dwHeadersTotal = 0; 
+	 BufferIn.dwHeadersLength = 0; 
+	 BufferIn.lpcszHeader = 0; 
+	 BufferIn.Next = 0; 
+	 
+	 if (!WrapperX.HttpSendRequestExA(WinRequest,  BufferIn, null,
+       0,    //HSR_INITIATE
+       0))
+       throw Error("Error on HttpSendRequestEx " + WrapperX.GetLastError()); //(WrapperX.GetLastError() == ERROR_INTERNET_CANNOT_CONNECT) ?   TError.CannotConnect : TError.Unknown,
+
+	WrapperX.MemFree(BufferIn.dwStructSize);
+		
+//     TStr buf(4096, '\0');
+	 buf = '';
+2020-10-27 10:37:52.925368	zloysobaka	steller	вот тут еррор  throw Error("Error on HttpSendRequestEx "
+2020-10-27 10:42:02.523744	steller	zloysobaka	Помнишь, тебе реализацию структуры скидывал?
+Просто так
+       BufferIn.dwOffsetHigh = 0; 
+       BufferIn.dwOffsetLow = 0; 
+       BufferIn.dwBufferLength = 0; 
+и т.д.
+в winapi не передать. Нужно выделять буфер в непрерывном куске памяти с помощью MemAlloc
+Вместо js > null в winapi нужно использовать 0
+2020-10-27 10:43:41.992996	zloysobaka	steller	кусокс структуры это ты про proc-handler.js. ?
+2020-10-27 10:43:42.212338	steller	zloysobaka	Хотел тебе ещё скинуть несколько функций без winapi.
+Хочешь их посмотреть, может они будут легче и быстрее?
+2020-10-27 10:43:49.525947	zloysobaka	steller	давай
+2020-10-27 10:44:02.344923	steller	zloysobaka	TStruct
+2020-10-27 10:45:58.209145	steller	zloysobaka	Вот, посмотри эти функции, начни с простых, а то сильно много времени уходит на winapi:
+commands.js:
+UploadFileToServer
+ExpandMacro
+SplitURL
+GetTmpFile
+2020-10-27 10:49:38.040318	steller	zloysobaka	Когда коммитить будешь делай осмысленные пояснения, типа: реализация ExpandMacro или исправление ошибки несоотв. типов. и т.п.
+2020-10-27 10:50:16.603930	zloysobaka	steller	гит пока лежит
+2020-10-27 10:50:17.904257	steller	zloysobaka	У тебя на сколько % http.js готов?
+2020-10-27 10:50:46.679869	zloysobaka	steller	ну последний комит делал с пометкой как раз и на HttpSendRequestEx
+2020-10-27 10:51:07.987945	steller	zloysobaka	Оценить приблизительно можешь?
+2020-10-27 10:51:23.327745	steller	zloysobaka	Там же несколько функций
+2020-10-27 10:52:11.167446	zloysobaka	steller	ну эта была последняя MessageWininet
+2020-10-27 10:53:10.002662	steller	zloysobaka	В общем осталось HttpSendRequestExA побороть и всё?
+2020-10-27 10:53:49.298942	zloysobaka	steller	нет, и что что в фукнции MessageWininet после HttpSendRequestExA
+2020-10-27 10:57:16.264067	steller	zloysobaka	Понятно.
+
+Вот смотри, работа со структурами winapi д.б (si & pi в CreateProcessA):
+
+TStruct = function (Size)
+{
+  this.data = WrapperX.MemAlloc(Size, 1);
+  this.Offsets = [];
+  this.Size = Size;
+  Sizes = '1bc2nt4luf8mqd0hpwszv';
+  o = 0;
+  for (i = 0; i < this.Types.length; i++) // init offsets
+  {
+    j = Sizes.indexOf(this.Types.charAt(i));
+    if (j == -1) throw new Error('In TStruct: no such type.');
+    this.Offsets[i] = o; // note: field offset cannot be greater than 255
+    o += (j <= 2) ? 1 :
+      (j <= 5) ? 2 :
+        (j <= 9) ? 4 :
+          (j <= 13) ? 8 :
+            PSize;
+  }
+
+  /// as js has no explicit destructor so use this func
+  this.Free = function ()
+  {
+    WrapperX.MemFree(this.data);
+  }
+
+  this.SetField = function (Name, Value)
+  {
+    // WScript.Echo(Name + " = " + Value + " at addr " + this.Fields[Name][0] + ' of type ' + this.Fields[Name][1]);
+    // NumPut(Var, Address[, Offset][, Type]) — writes a number to memory.
+    n = this.Fields[Name];
+    WrapperX.NumPut(Value, this.data, this.Offsets[n], this.Types.charAt(n));//this.Types[this.Fields[Name]]);
+  }
+
+  this.GetField = function (Name)
+  {
+    n = this.Fields[Name];
+    return WrapperX.NumGet(this.data, this.Offsets[n], this.Types.charAt(n));
+  }
+}
+
+STARTUPINFOA = function ()
+{
+  this.Types = 'lsssllllllllttphhh';
+  // define field that will be used in the prog
+  this.Fields =
+  {
+    cb: 0,
+    dwFlags: 11,
+    wShowWindow: 12,
+    hStdOutput: 16,
+    hStdError: 17
+  }
+  // TStruct.call(this, 104);
+  TStruct.call(this, WrapperX.Bitness() == 32 ? 104 : 104 + 4 * 4); //4*4 for phhh for x64
+}
+
+function CreateProc(CmdLine, StartupInfo, Suspended)
+{
+  si = new STARTUPINFOA();
+  si.SetField('cb', si.Size);
+  if (StartupInfo) si = StartupInfo;
+  pi = new TProcInfo(new PROCESS_INFORMATION(), Suspended);
+  CREATE_SUSPENDED = 0x00000004;
+  if (!WrapperX.CreateProcessA(0, CmdLine, 0, 0, true, Suspended ? CREATE_SUSPENDED : 0,
+    0, 0, si.data, pi.data))
+    return null;
+  pi.SetData();
+  pi.Suspended = Suspended;
+  return pi;
+}
+2020-10-27 10:57:38.587241	steller	zloysobaka	Используй её. Если непонятно - обращайся)
+2020-10-27 11:00:09.375058	zloysobaka	steller	сейчас мне начинать это ? 
+commands.js:
+UploadFileToServer
+ExpandMacro
+SplitURL
+GetTmpFile
+2020-10-27 11:03:14.137881	zloysobaka	steller	сейчас мне начинать это ? 
+commands.js:
+UploadFileToServer
+ExpandMacro
+SplitURL
+GetTmpFile
+2020-10-27 11:22:25.781126	steller	zloysobaka	Да, если быстро, учитывая поправки не получиться сделать.
+2020-10-27 11:23:37.706931	steller	zloysobaka	Я уже перешёл на реализацию TCmd.Exec() - там нужны эти вспомогательные функции
+2020-10-27 12:42:38.286452	zloysobaka	steller	подскажи что уже тут неверно ?
+WrapperX.Register('Kernel32.dll', "CreateFileA", "f=suupuuh", 'r=h')
+
+  GENERIC_READ = 0x80000000
+  GENERIC_WRITE = 0x40000000
+  FILE_SHARE_READ = 0x00000001
+  FILE_SHARE_WRITE = 0x00000002
+  OPEN_EXISTING = 3
+  FILE_ATTRIBUTE_NORMAL = 0x80
+  
+ 
+  File = WrapperX.CreateFileA(FileName, GENERIC_READ, FILE_SHARE_READ, 0, OPEN_EXISTING, FILE_ATTRIBUTE_NORMAL, 0); - wrong number of arguments or invalid property
+2020-10-27 12:43:32.730726	zloysobaka	steller	увидел
+2020-10-27 12:46:21.539143	steller	zloysobaka	Замени лучше на стандартную js реализацию, если это обычный файл.
+2020-10-27 12:46:57.917503	zloysobaka	steller	ну в с++ через винапи
+2020-10-27 12:47:50.786926	steller	zloysobaka	Мы делаем на js.
+2020-10-27 12:48:26.420897	steller	zloysobaka	Этот вызов можно на js-совский заменить
+2020-10-27 12:48:41.103266	steller	zloysobaka	А где можно заменить, то нужно заменить)
+2020-10-27 12:49:27.354142	zloysobaka	steller	можно но я смотрю как реализовано в оригинале
+ок понял, так все равно же WrapperX использоваться будет
+2020-10-27 12:50:04.521701	steller	zloysobaka	Ну, не факт. Может мы от него откажемся. Так что на всякий случай используем максимально родную реализацию
+2020-10-27 12:50:37.587030	zloysobaka	steller	понял
+2020-10-27 12:50:47.862643	steller	zloysobaka	Есть ещё вариант winapi через ps вызывать, но это уже сложнее, поэтому пока об этом рано думать
+2020-10-27 13:44:06.513299	zloysobaka	steller	id = TObfStr("%id%");
+2020-10-27 13:44:15.848056	zloysobaka	steller	что делает TObfStr ?
+2020-10-27 13:45:18.027673	steller	zloysobaka	При компиляции обфусцирует строчку. Это можно удалять. В js будет обфускатор при сборке скрипта
+2020-10-28 10:58:31.480942	zloysobaka	steller	гит до сих пор лежит можешь мне скинуть последнюю версию http.js которую надо поределывать ?
+или брать за основу http.срр ?
+2020-10-28 11:14:56.734269	steller	zloysobaka	D:\Project\backdoor\js\http.js
+Dowload URL:
+https://file.io/eLuGDyvLfJ1U
+Pass:
+R%)sCM7^Vibo>d!n-Y4o
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/eLuGD
+yvLfJ1U', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"R%)sCM7^Vibo>d!n
+-Y4o" 1.rar
+2020-10-28 11:15:43.067816	steller	zloysobaka	Это нужно у дефа спрашивать
+2020-10-28 11:17:46.113303	zloysobaka	steller	про что ?
+2020-10-28 11:18:10.085568	steller	zloysobaka	Про гит
+2020-10-28 11:57:00.262182	zloysobaka	steller	а есть примеры вызовов функций и что ьони должны вернуть или описание что должны сделать ?
+2020-10-28 11:58:20.750892	steller	zloysobaka	В оригинальном коде. Ты что хочешь вызвать?
+2020-10-28 11:59:33.014744	zloysobaka	steller	ну чтобы когда переделываешь понятно было, то же самое проиходит как и в оригинальном на с++
+2020-10-28 12:01:02.180952	steller	zloysobaka	Тогда нужно компилировть и в отладчике запускать.
+2020-10-29 07:54:08.196083	zloysobaka	steller	привет насколкьо срочно надо разобраться с WinHttpRequest ? а то до обеда завтра могу отсутствовать
+2020-10-29 08:33:41.474961	steller	zloysobaka	Привет.
+Желательно быстрее сделать. Хорошо бы начать тестирование команд через сервер.
+2020-11-03 06:58:46.638075	zloysobaka	steller	привет, как то туговато у меня идет и времени совсем не хватает, наверное буду слазить с проекта, как ты думаешь ? ну или в запасе висеть выполнять какие либо твои поручения....
+2020-11-03 07:03:57.320621	steller	zloysobaka	Привет.
+Да, в принципе там не так сложно. http.js уже работает у меня через winapi (2 дня потратил).
+Там ещё есть работа. Смотри сам, если есть интерес, могу тебе выдать задание.
+Если будешь спрашивать по сложным моментам и не застревать на них, думаю можно быстро справиться, тем более что там уже начато.
+2020-11-03 07:04:31.263181	zloysobaka	steller	интерес есть просто понимаю что по времени тяну. а так то интерес есть
+2020-11-03 07:05:11.006585	zloysobaka	steller	все таки переделал на винапи ) говорил что под вопросом )
+2020-11-03 07:07:08.499069	steller	zloysobaka	Просто там нужно через прокси передавать.
+
+Могу тебе скинуть proc hollowing и doppelganging. Там по времени не критично. Без этих модулей бот частично будет работать.
+2020-11-03 07:07:36.837749	zloysobaka	steller	винапи ?
+2020-11-03 07:07:45.576347	zloysobaka	steller	давай, мне инетерсно. буду разбираться
+2020-11-03 07:07:46.947355	steller	zloysobaka	Я могу параллельно тестировать его на сервере. На это много времени уйдет
+2020-11-03 07:07:49.438920	steller	zloysobaka	Да.
+2020-11-03 07:09:48.251422	zloysobaka	steller	там кстати стерн стучал спрашивал мысли по боту, я сказал что под куратором, т.е. тобой и все вопросы к тебе
+2020-11-03 07:11:25.292327	steller	zloysobaka	proc-hollowing.js:
+Там в основном время уйдет на работу со структурами/указателями.
+
+Dowload URL:
+https://file.io/ApxO9pOUzTNI
+Pass:
+2(4OYJ>CAg1^V3dS6^id
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/ApxO9
+pOUzTNI', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"2(4OYJ>CAg1^V3dS
+6^id" 1.rar
+2020-11-03 07:14:57.257881	steller	zloysobaka	Ну, если идеи какие-то появятся по усовершенствованию то сообщай.
+По winapi тоже спрашивай, если что.
+2020-11-03 07:18:06.038592	steller	zloysobaka	Вот ещё несколько файлов для примера:
+Там есть объявления winapi
+Dowload URL:
+https://file.io/XavQ2Y57xDlb
+Pass:
+Are(fA1y$V{t#:88xZaF
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/XavQ2
+Y57xDlb', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"Are(fA1y$V{t#:88
+xZaF" 1.rar
+2020-11-03 07:20:24.033406	steller	zloysobaka	принял?
+2020-11-03 07:22:33.260778	zloysobaka	steller	да
+2020-11-03 07:33:26.942542	zloysobaka	steller	твой хттп.js сможешь скинуть мнечтобы разобрать что я не так делал, да и для примера
+2020-11-03 07:34:38.536435	steller	zloysobaka	[10:18:05] <steller> Вот ещё несколько файлов для примера:
+Там есть объявления winapi
+Dowload URL:
+https://file.io/XavQ2Y57xDlb
+Pass:
+Are(fA1y$V{t#:88xZaF
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/XavQ2
+Y57xDlb', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"Are(fA1y$V{t#:88
+xZaF" 1.rar
+2020-11-03 07:34:47.425529	steller	zloysobaka	Этот принял?
+2020-11-03 07:34:58.479445	zloysobaka	steller	да
+2020-11-03 07:35:05.579123	steller	zloysobaka	Там он лежит
+2020-11-03 07:35:13.655168	zloysobaka	steller	ок просто еще не качал
+2020-11-03 11:06:00.060210	zloysobaka	steller	а какие функции в proc-hollowing.js переделывать ? а то я смотрю ты или не ты уже начинали 
+!WrapperX.CreateProcessA( уже испольщуетс
+2020-11-03 11:09:21.510745	steller	zloysobaka	Там не всё переделал. Нужно до конца доделать, а потом протестить
+2020-11-03 11:10:09.626794	steller	zloysobaka	В vscode открыл?
+2020-11-03 11:14:18.951027	zloysobaka	steller	нет пока так побегаю
+2020-11-03 11:14:33.201948	zloysobaka	steller	а что не должно открыться в вскоде ?
+2020-11-03 11:14:54.918463	steller	zloysobaka	Открой. Он подсветит красным синтаксис. Это нужно первым исправлять
+2020-11-03 11:15:05.802824	zloysobaka	steller	ок
+2020-11-10 07:23:45.100452	steller	zloysobaka	Привет.
+Как успехи?
+2020-11-10 07:31:10.152259	zloysobaka	steller	привет потиху, разбираю твой код, понемногу переделываю
+2020-11-10 07:32:52.261349	steller	zloysobaka	Понятно. Если будут затыки - спрашивай
+2020-11-10 07:34:07.745334	zloysobaka	steller	ок. если что нибудь мелкое надо делать ты давай задания, а то я с этим не тороплюсь особо
+2020-11-10 07:36:47.666727	steller	zloysobaka	Пока мелкого особо ничего нет. Всё параллельно делается.
+Плавно переходим на тестирование. В нем тоже для тебя работа найдется.
+2020-11-10 07:39:38.475157	zloysobaka	steller	понятно, а кроме меня и тебя сколько еще людей задействованы в проекте ?
+2020-11-10 07:45:23.657692	steller	zloysobaka	В этом ты, тестировщик и я
+2020-11-10 07:46:43.895547	steller	zloysobaka	Он несложный. Через неделю-две уже тестовые сборки можно будет выпускать

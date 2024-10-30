@@ -1,0 +1,71 @@
+Timestamp	From	To	Message
+2021-10-08 15:50:49.308506	begemot	buran	Привет я Гатор  от рокко
+2021-10-11 08:50:10.842243	begemot	buran	Привет, я от green
+2021-10-11 08:50:22.120363	begemot	buran	я  по поводу дедиков на винду
+2021-10-21 17:00:50.810762	buran	begemot	привет
+2021-10-21 17:26:50.427576	begemot	buran	Привет
+2021-10-21 17:27:01.245558	begemot	buran	оплатишь серваки?
+2021-10-21 17:28:39.537316	begemot	buran	я насчет 2 сервака на кобу
+2021-10-21 17:29:24.314661	buran	begemot	да сколько штук сделаешь?
+2021-10-21 17:29:25.612043	buran	begemot	только хостер адругого
+2021-10-21 17:29:25.614268	buran	begemot	и посмотри этот хост
+2021-10-21 17:29:26.860813	buran	begemot	ip_coba: "66.29.138.17" 
+pass_coba: "Zuih4Yiez235daevahsha" 
+port_coba: 49530
+version: 43
+alaskagova.com
+2021-10-21 17:29:26.863702	buran	begemot	а буза?
+2021-10-21 17:29:28.049805	buran	begemot	2 окей
+2021-10-21 17:29:28.053376	buran	begemot	да оплачу
+2021-10-21 17:29:43.673152	begemot	buran	ага сообщений не было
+2021-10-21 17:29:48.476250	begemot	buran	да хостер другой
+2021-10-21 17:31:05.587948	begemot	buran	0.00255376
+37JcnKmYGBT7H5fyWuthHnrJsQjcHrewDB
+2021-10-21 17:31:14.534044	begemot	buran	там 28 мин
+2021-10-21 17:33:17.263865	begemot	buran	ping
+2021-10-21 17:44:48.538399	begemot	buran	осталось 15 мин
+2021-10-21 17:45:50.093172	buran	begemot	блин у меня кошель у саморта
+2021-10-21 17:45:53.575645	buran	begemot	сапорта
+2021-10-21 17:46:07.764800	buran	begemot	так быстро не смогу скинуть
+2021-10-21 17:46:09.893752	buran	begemot	как придет
+2021-10-21 17:46:23.958281	buran	begemot	грин своими оплачивал
+2021-10-21 17:46:25.413405	begemot	buran	ок пиши тогда я пока здесь
+2021-10-21 17:46:28.099125	buran	begemot	я потом ему кидал
+2021-10-21 17:46:31.577529	buran	begemot	можно так?
+2021-10-21 17:50:26.171138	begemot	buran	я ему написал жду ответа
+2021-10-21 17:51:01.276036	buran	begemot	угу
+2021-10-21 18:17:10.261701	begemot	buran	он пополнит сейчас жду деньги на счет и отдам
+2021-10-21 18:18:55.437015	buran	begemot	вроле оплатил
+2021-10-21 18:42:32.262113	buran	begemot	бегемот?)
+2021-10-21 18:57:48.006897	begemot	buran	ага 7 мин
+2021-10-21 18:58:03.321080	begemot	buran	долго ждал деньги
+2021-10-21 19:14:35.560834	begemot	buran	ты не против если тебе завтра выдам кобы. у меня процес в краш. это может просто занят время
+2021-10-21 19:16:21.212666	begemot	buran	там с доменами нюанс
+2021-10-21 19:16:45.229994	begemot	buran	нужно другие. брал специльно на норм хостере.
+2021-10-21 19:16:52.575687	begemot	buran	специально
+2021-10-21 19:17:08.023656	begemot	buran	завтра утром*
+2021-11-08 16:36:36.969430	begemot	buran	Привет
+2021-11-08 16:36:44.995726	begemot	buran	я от green
+2021-11-15 18:46:03.319126	begemot	buran	Привет бро дежри
+2021-11-15 18:46:10.699555	begemot	buran	root_passwd: eixugaeghu4Fe8xoh5mu
+profile: 2.4.3
+domain_name: "halartymana.com"
+azure_domain: "d3lmob12otz3mw.cloudfront.net" 
+dns_ip: "74.125.196.113" 
+ip_coba: "77.83.197.40" 
+pass_coba: "poodasaz0ahwaPooQuai" 
+port_coba: 49933
+version: 43
+2021-11-15 18:46:19.281086	begemot	buran	root_passwd: eixugaeghu4Fe8xoh5mu
+profile: 2.4.3
+domain_name: "naratabavaz.com"
+azure_domain: "d3lmob12otz3mw.cloudfront.net" 
+dns_ip: "74.125.196.113" 
+ip_coba: "193.42.37.21" 
+pass_coba: "poodasaz0ahwaPooQuai" 
+port_coba: 49933
+version: 43
+2021-11-15 18:47:36.778212	begemot	buran	бро за две кобы кинь сюда 250$  35Z4UipuER5ZGprGUugcoxPWwZ43RXchPX
+2021-11-15 19:37:03.181135	begemot	buran	бро тут?
+2021-11-16 07:19:40.007264	begemot	buran	Привет
+2021-11-16 14:48:45.623062	begemot	buran	Привет

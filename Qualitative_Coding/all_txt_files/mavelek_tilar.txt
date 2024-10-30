@@ -1,0 +1,10 @@
+Timestamp	From	To	Message
+2020-07-09 14:50:42.585971	tilar	mavelek	hey
+2020-07-09 14:50:43.998967	tilar	mavelek	bro
+2020-08-06 15:18:54.410365	tilar	mavelek	ky
+2020-08-06 15:18:56.177735	tilar	mavelek	tyt?
+2020-08-06 15:20:30.298269	mavelek	tilar	hi
+2020-08-06 15:20:36.710987	tilar	mavelek	bro
+2020-08-06 15:20:41.104198	tilar	mavelek	otr ne raboet y tebya?
+2020-08-12 10:13:50.362400	tilar	mavelek	hey
+2020-08-12 10:13:51.697154	tilar	mavelek	bro

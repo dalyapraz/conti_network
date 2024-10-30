@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-08-11 12:15:36.062960	boba	poll	привет
+2020-08-28 09:49:18.693141	poll	boba	ky ky
+2020-09-17 14:37:56.425844	boba	poll	ку

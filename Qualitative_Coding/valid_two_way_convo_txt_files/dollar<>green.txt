@@ -1,0 +1,35 @@
+Timestamp	From	To	Message
+2021-09-06 19:06:21.091800	dollar	green	bro server lejit
+2021-09-06 19:06:25.179247	dollar	green	tak i ne raboet
+2021-09-06 19:09:10.498967	dollar	green	https://privnote.com/icbZ3WlB#3X996ejij
+2021-09-07 04:32:08.917905	dollar	green	bro server lejit
+2021-09-07 04:32:08.919283	dollar	green	tak i ne raboet
+2021-09-07 04:32:08.920458	dollar	green	https://privnote.com/icbZ3WlB#3X996ejij
+2021-09-10 08:09:37.790237	green	dollar	Бро как будешь маякни, я скину кобы новые
+2021-09-10 12:07:53.284064	green	dollar	Бро как будешь маякни, я скину кобы новые
+2021-10-06 15:51:04.069807	dollar	green	hey
+2021-10-06 15:51:04.897291	dollar	green	bro
+2021-10-06 15:51:07.207742	dollar	green	ti kuda propal?
+2021-10-06 15:55:32.149050	dollar	green	hey
+2021-10-06 15:55:32.150241	dollar	green	bro
+2021-10-06 15:55:32.150545	dollar	green	ti kuda propal?
+2021-10-24 10:17:10.785300	dollar	green	bro
+2021-10-24 10:17:12.891517	dollar	green	servak opaltit' nado
+2021-10-24 10:17:15.193441	dollar	green	kotorie ti pokupal
+2021-10-24 10:17:16.801523	dollar	green	dlya roketa
+2021-10-24 10:17:21.487244	dollar	green	srocno!!!!!!!!!
+2021-10-24 10:17:26.584552	dollar	green	s pitnicy lejit serber
+2021-10-24 10:17:26.585670	dollar	green	bro
+2021-10-24 10:17:28.981013	dollar	green	srocno!!
+2021-10-24 12:34:19.829503	dollar	green	bro
+2021-10-24 12:34:19.834505	dollar	green	servak opaltit' nado
+2021-10-24 12:34:19.836238	dollar	green	kotorie ti pokupal
+2021-10-24 12:34:19.836668	dollar	green	dlya roketa
+2021-10-24 12:34:19.837597	dollar	green	srocno!!!!!!!!!
+2021-10-24 12:34:19.838352	dollar	green	s pitnicy lejit serber
+2021-10-24 12:34:19.840030	dollar	green	srocno!!
+2021-11-02 10:06:29.062457	dollar	green	ky
+2021-11-02 10:06:31.323518	dollar	green	otpihi kak bdyesh'
+2021-11-03 06:18:56.855062	dollar	green	ky
+2021-11-03 06:18:56.855673	dollar	green	otpihi kak bdyesh'
+2021-11-16 15:22:42.644646	dollar	green	hey

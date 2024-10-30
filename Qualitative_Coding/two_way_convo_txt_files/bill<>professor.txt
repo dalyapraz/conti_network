@@ -1,0 +1,46 @@
+Timestamp	From	To	Message
+2020-07-10 14:37:42.068813	bill	professor	тут?
+2020-07-13 18:13:55.813549	professor	bill	ку-ку? дор не может дописаться до тебя
+2020-07-14 06:31:15.502853	professor	bill	здарова)
+2020-07-14 06:33:27.401571	bill	professor	здарова)
+2020-07-28 11:26:26.663437	professor	bill	привет, на месте?
+2020-07-28 11:32:33.799732	bill	professor	привет, на месте?
+2020-08-11 05:56:30.299273	bill	professor	привет, постучи, когда проснешься
+2020-08-12 11:32:59.698932	bill	professor	привет, постучи, когда проснешься
+2020-08-12 11:33:42.028096	professor	bill	привет
+2020-08-12 11:33:42.242820	professor	bill	стучу
+2020-08-12 11:33:57.708380	bill	professor	привет
+2020-08-12 12:49:09.059337	bill	professor	%&F*G^(&gf3ahj
+https://www.sendspace.com/file/k02v7y
+https://www.sendspace.com/delete/k02v7y/4f285ba66846bb69bfabbe1ee56d427e
+2020-08-21 06:02:52.767448	bill	professor	привет
+утилита для создания хексов
+;,om7iun6b5yvcrw;tbop7n8o&YOFIUKBv78lic856vutblNGMhg
+
+    Download: https://qaz.im/load/5thd8E/SayD8T   
+    Delete: https://qaz.im/index.php?a=delete&q=1368934545
+
+    
+образец запуска: bin2hex.exe --bin=bin.exe  --hex=test.txt
+2020-08-25 04:05:46.417745	professor	bill	привет)
+2020-08-31 08:00:09.243932	professor	bill	привет
+2020-10-05 06:39:53.203181	professor	bill	ооо здарова))
+2020-10-05 06:39:54.794644	professor	bill	как отдохнул?
+2020-10-12 05:29:49.418625	professor	bill	ку
+2020-10-12 05:30:17.263454	professor	bill	не заводится у меня последний шеллкод инжектор = ( 
+крашится дллка, сможем обновить? работа туговато идет без него = (
+2020-10-12 05:30:50.503083	bill	professor	привет
+2020-10-12 05:39:28.548808	professor	bill	привет
+2020-10-14 08:10:16.613253	professor	bill	
+» [08:32:12] <alter> блять
+» я еще запутатся мог в версиях... можешь перезалить если не сложно? 
+» прям сейчас протестирую еще разок и скажу
+2020-10-14 08:10:18.685783	professor	bill	привет
+2020-10-20 07:29:14.285314	professor	bill	привет
+2020-10-29 09:17:19.328681	bill	professor	отр не подымается (
+2020-10-29 09:19:21.491814	professor	bill	тест
+2020-10-29 09:19:33.001173	bill	professor	тест так тест
+2020-10-29 09:19:48.108351	bill	professor	отр лежит
+2020-10-29 09:24:17.586641	professor	bill	отр не подымается (
+2020-10-29 09:24:17.648572	professor	bill	тест так тест
+2020-10-29 09:24:17.691727	professor	bill	отр лежит

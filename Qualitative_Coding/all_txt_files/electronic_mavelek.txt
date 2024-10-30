@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2020-09-02 14:26:05.518624	electronic	mavelek	re
+2020-09-02 14:26:06.660256	electronic	mavelek	привет
+2020-09-02 14:26:07.737151	electronic	mavelek	принял
+2020-09-02 14:28:08.150308	electronic	mavelek	принял

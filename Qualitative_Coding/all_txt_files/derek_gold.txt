@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-07-12 10:46:02.107029	gold	derek	Привет

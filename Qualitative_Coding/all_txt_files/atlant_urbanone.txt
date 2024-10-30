@@ -1,0 +1,18 @@
+Timestamp	From	To	Message
+2020-09-10 06:55:14.052719	atlant	urbanone	привет
+2020-09-10 06:55:16.899765	atlant	urbanone	док нужен?
+2020-09-10 07:22:34.328056	atlant	urbanone	привет
+2020-09-10 07:22:34.331819	atlant	urbanone	док нужен?
+2020-09-10 15:49:30.666766	atlant	urbanone	 ку
+2020-09-10 15:49:34.762952	atlant	urbanone	делаем док?
+2020-09-10 15:49:55.503178	urbanone	atlant	 ку
+2020-09-10 15:49:55.504208	urbanone	atlant	делаем док?
+2020-09-10 16:19:53.348041	atlant	urbanone	бро делаем док?
+2020-09-10 18:53:30.614854	atlant	urbanone	ждем?
+2020-09-13 03:30:02.926854	atlant	urbanone	ghdtn
+2020-09-13 03:30:07.144824	atlant	urbanone	как там с длл?
+2020-09-14 07:17:44.114286	atlant	urbanone	ghdtn
+2020-09-14 07:17:44.116807	atlant	urbanone	как там с длл?
+2020-09-15 10:30:25.124625	atlant	urbanone	 привет док делаем сегодя?
+2020-09-15 10:50:51.109337	urbanone	atlant	 привет док делаем сегодя?
+2020-09-15 12:46:03.176290	atlant	urbanone	нет

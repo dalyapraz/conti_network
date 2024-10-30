@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-07-22 14:59:06.468931	clickclack	strix	привет !

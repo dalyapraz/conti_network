@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-06-25 17:35:17.944284	merch	tiktak	привет
+2021-06-25 17:52:46.832785	tiktak	merch	привет
+2021-07-28 07:12:31.875372	tiktak	merch	тут?

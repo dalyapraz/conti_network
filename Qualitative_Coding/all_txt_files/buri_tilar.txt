@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-08-06 17:47:04.454430	buri	tilar	blagodaryu!
+2020-08-10 11:32:17.458887	buri	tilar	blagodaryu!
+2020-09-22 19:01:14.274955	buri	tilar	HI! Kak sam?

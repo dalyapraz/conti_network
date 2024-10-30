@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-04-28 09:10:35.775326	mango	nik-da	mango> привет бро
+[12:10:22] *** Your message was not sent. Either end your private conversation, or restart it.
+[12:10:22] <mango> пейлоды вчерашние живык?
+2021-05-11 16:59:05.895137	nik-da	mango	привет

@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-07-27 12:30:57.580545	buza	mult	but not only, they combine "living off the land" tactics and more custom tools from friendly developers
+2021-07-27 12:42:18.894175	mult	buza	but not only, they combine "living off the land" tactics and more custom tools from friendly developers
+2021-11-11 10:39:30.360111	mult	buza	ok thank you
+2021-11-11 10:39:47.542423	buza	mult	always welcome

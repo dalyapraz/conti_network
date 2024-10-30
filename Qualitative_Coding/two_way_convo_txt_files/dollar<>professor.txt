@@ -1,0 +1,16 @@
+Timestamp	From	To	Message
+2021-08-05 08:06:06.109396	professor	dollar	5*20=
+2021-08-05 10:09:23.715993	professor	dollar	5*20=
+2021-08-05 10:09:55.119168	dollar	professor	100
+2021-08-05 18:52:21.129434	dollar	professor	100
+2021-08-05 18:52:22.771774	professor	dollar	5*20=
+2021-08-05 18:53:59.037246	dollar	professor	100
+2021-08-05 18:54:17.684901	professor	dollar	5*20=
+2021-08-05 18:57:49.759163	dollar	professor	100
+2021-08-05 19:43:33.419839	professor	dollar	5*20=
+2021-08-05 19:44:25.034251	dollar	professor	100
+2021-08-05 19:44:25.962880	professor	dollar	5*20=
+2021-08-05 19:45:24.282083	professor	dollar	100
+2021-08-05 19:45:55.114972	dollar	professor	100
+2021-08-05 19:45:56.149906	professor	dollar	5*20=
+2021-08-05 19:46:08.853963	dollar	professor	100

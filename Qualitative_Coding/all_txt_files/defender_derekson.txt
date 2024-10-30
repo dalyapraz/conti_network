@@ -1,0 +1,363 @@
+Timestamp	From	To	Message
+2021-08-06 17:36:58.731460	derekson	defender	ping
+2021-08-06 18:01:26.687004	derekson	defender	тут?
+2021-08-06 18:02:28.028332	defender	derekson	да
+2021-08-06 18:03:20.098482	derekson	defender	https://qaz.im/zaq/e6nb5zH3#2SHzBeB3
+e58uidtjn45rtujdk4l
+2021-08-06 18:03:28.146515	derekson	defender	отправил
+2021-08-06 18:16:56.540560	derekson	defender	+
+2021-08-06 18:17:02.452657	derekson	defender	https://qaz.im/zaq/2serR58b#Qa6fKHQF
+w4eys3
+2021-08-06 18:22:24.301875	defender	derekson	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-08-06 18:22:32.537795	defender	derekson	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-08-27 13:34:53.752133	defender	derekson	ты тут?
+2021-08-27 13:42:19.341615	derekson	defender	дf
+2021-08-27 13:42:21.933369	derekson	defender	да
+2021-08-27 13:42:25.674071	derekson	defender	у меня работает
+2021-08-27 13:44:04.160490	derekson	defender	у других тоже
+2021-08-27 13:46:59.589908	defender	derekson	потому что я ребутнул тор на ервере
+2021-08-27 13:47:04.465730	defender	derekson	следи за этим
+2021-08-27 13:47:14.840898	defender	derekson	это твоя ответственность
+2021-08-27 13:47:37.818301	derekson	defender	так не было проблем
+кого я вижу, вылетел только ты и Elroy
+2021-08-27 13:47:43.114919	derekson	defender	все остальные на месте были
+2021-08-27 14:02:06.524090	defender	derekson	по кобам мануал у кого?
+2021-08-27 14:02:13.984617	defender	derekson	от грина
+2021-08-27 14:24:06.452533	derekson	defender	настройка серверов кобы?
+2021-08-27 14:24:08.001390	derekson	defender	У меня нет
+2021-08-27 14:32:20.916350	derekson	defender	мне давал только для криптованых файлов sh\sc
+сервера - нет
+2021-09-03 14:31:06.164875	derekson	defender	Привет
+2021-09-03 14:35:01.457924	derekson	defender	оплатишь бк админки?
+2021-09-03 14:35:13.744527	derekson	defender	мне на все не хватило, две осталось
+2021-09-03 14:35:45.299791	defender	derekson	привет давай
+2021-09-06 09:29:39.915965	derekson	defender	ривет
+2021-09-06 09:29:50.175998	derekson	defender	гит который с jenkins лежит
+2021-10-12 13:29:55.801021	derekson	defender	привет
+2021-10-12 13:29:57.787135	derekson	defender	тут?
+2021-10-12 13:44:34.976229	defender	derekson	da
+2021-10-12 14:30:30.107949	derekson	defender	оплатишь сервер?
+2021-10-14 14:05:34.600251	derekson	defender	+
+2021-10-14 14:05:45.829255	derekson	defender	закреп
+2021-10-14 14:06:05.523012	defender	derekson	+
+2021-10-14 14:06:05.524167	defender	derekson	закреп
+2021-10-14 14:06:17.930922	derekson	defender	0.00020566
+35aWyVRkYme3aKeezp6wsJVGeoYsCTH44Z
+2021-10-29 12:28:27.640903	derekson	defender	Привет
+2021-10-29 13:01:54.545971	derekson	defender	Вопрос
+2021-10-29 13:02:11.465561	derekson	defender	нужен совет)
+2021-12-16 16:44:37.507717	derekson	defender	привет
+2021-12-16 16:44:43.325964	derekson	defender	новый чек
+2021-12-16 16:45:11.223232	derekson	defender	3B7AmkZ8VVhKAAqCp4ZLNVbmGJQoZcaBc9
+2021-12-16 16:45:14.039842	derekson	defender	0.003503
+2021-12-16 16:46:33.705265	defender	derekson	ок
+2021-12-16 16:46:35.699404	defender	derekson	сек
+2021-12-16 16:47:17.885976	derekson	defender	ок, 13 минут
+2021-12-16 16:47:56.406520	defender	derekson	отпрвил
+2021-12-16 16:48:32.819463	derekson	defender	спасибо
+2021-12-17 16:37:10.824387	derekson	defender	привет
+2021-12-17 16:37:13.517048	derekson	defender	оплатишь впс?
+2021-12-17 16:47:23.410296	defender	derekson	привет давай
+2021-12-17 16:50:02.915792	derekson	defender	3JDKxEidX2JhmusBDB3BRaCahucEiHcK8n
+2021-12-17 16:50:08.244301	derekson	defender	0.003611
+2021-12-17 16:54:53.417591	derekson	defender	10 минут
+2021-12-17 16:55:16.410962	defender	derekson	сек
+2021-12-17 16:56:20.336672	defender	derekson	+
+2021-12-17 16:57:43.317717	derekson	defender	спасибо
+2021-12-22 13:34:51.514225	derekson	defender	ping
+2021-12-22 17:13:00.043859	defender	derekson	тут?
+2021-12-22 17:38:12.617654	derekson	defender	да
+2021-12-22 17:38:13.467335	derekson	defender	а ты?
+2021-12-22 17:39:07.645824	defender	derekson	да
+2021-12-24 13:05:51.620884	derekson	defender	Привет
+2021-12-24 13:05:58.945747	derekson	defender	надоб оплатить рокеты и админки БК
+2021-12-24 13:06:20.922050	derekson	defender	сегодня надо бы)
+2021-12-24 17:46:13.810313	defender	derekson	видишь?
+2021-12-24 17:47:18.610748	derekson	defender	да
+2021-12-24 17:47:48.648010	derekson	defender	-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBGHGBPcBEADuuED27SmrEvvFVV4KUzYDC4AfkdhZ1CrWaBf1GZL8uFwQH5H0
+0+bqCJa2CKEys14k6HMjs2DQJq1PlZqFSD40QgPdnbfxLNjFZed4kfG99Vf24YIt
+w3uoCchPV8+8nidWezQonsItoJDQg62i4jhmUZgwqNge+PVinR3+uTqO58MmS1wX
+8QAkeqckKgU1WQU58YoxqICL5xLNeSK3aheoX8QkxOmq8zeaGcC++e3j52sQ97kj
+YZMBFFctVHD4SEwzj7Vy+JSJQysfjcluaXzeCvUhauIAv/v9ij4hYJwDTUoqqEJG
+4fYscvDxW6QPIpxmbcHBbuZKyafZ6tDtitTdNeEk3VDZ3wi9WyRAI6uqqCEUOgcB
+5R/8mSJRN2GnXNuHXB/QWY9E6fZhBiMI2Gtp198d2SH4PBND6NcdCHIyJA/PFpnc
+eN4RuFn7UgCAWXFOdz6m/DCC/Czao+3tOo1zy1U+dcMVUTKKICDoLUjsx2KSrarW
+ooG5XQnlmvvani74dWXMVcnkyg5w0Jq0QF9yqYGBgTe8EukGzFrpFFTD4xW/1FUP
+VjS+w7z9WBOCxfB6Xwkb00Y+r55GRLPuhZHQKM2TZlB+eEhjn//ENwwkFHrxU1DA
+roHqj2HS3FRbrrXqvVE1MjrTmyWJfvls50cb4Xk2FRqGNaZFclbQdCePKQARAQAB
+tBZEZW1ldCA8ZGVtZXRAZGVtZXQuZGU+iQJUBBMBCAA+FiEE8deOfqEBB1t5eq28
+s3bQ58JBOAkFAmHGBPcCGy8FCQHg1rkFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AA
+CgkQs3bQ58JBOAklpQ//RWRxcxv52s/QvDL8aAbk9cYscB8zYUI2IJJw6wp25962
+KvLf9sU9dK57f0FlwJLJIHCMPdjMjkrKiXqVjHwBMg1gEqu2tSbyVCEBRBvAT190
+JpYuv2Yh2omuRPP2E+Ug/FJgK+Ii0ePMJEs5adWbXi9uNBJb2IeCHllVN1Qhsvxr
+yHLUEZC7TCNXtqodklNJ5sxiH14S6bFxmZRS5U+kW1SaFLHe6goiiKPI7nTwKgZj
+U0t9hXbjuZLLCPbQWsZu9bMfH1kQwn/Df/t4CL/rymcBTdHiVMkeb+400RJRGa/J
+psDm0tpysiHwUVLbkq3pyaSh/O9J4iHQtiFGP38JJnPlWJVTijGcYKE3WjCjVMXC
+e5lMiOrjNsYdNJ3M0Li8bWNVlPG8HsqLR8O4O+Cg8idoaWQY3UfhBaEM6qiHhUkg
+L5nceELC4oVa0yYHQqgWIxv3aBJ37hqlmB28AmlJyUTWI+NV0NNvCOLONaVbySPh
+cour12SVINA3oCB9izUhYXsIwZYBBWO60vR0j3CJXKizT6o272GQs5oytFICvVPE
+7/sIK4sbMvd9tdzlvEKhfNI3fq89hk1U9FM8bEAblqWvzjbn7WHSggT8S+OCEUgZ
+h9KQkaE9KiCS/3LV3P2C73VetnYWNEiyOBBcvgzEp2T9F4cG8N3M0Ah5tgLeXiS5
+Ag0EYcYE9wEQALnKPqQyTYtoBvO5UQfYNRRi47xYEVDJzAVwjESqwxbShxLJ71nv
+Yt6VOp16DwBS5Jlc4v4yPSxYQOXOOTT/D5ofGqADh1NPWkV3JSsbaQUXZL0vr3ue
+itmS9RwGezO6ZKuPruijb2EqS0PPJlHfITjnnEXQh7sPdAtLtJ7B01ZeSA0Zw3Rf
+c+c3I8UywWUQpf4kyw4WtPJtJtCtYaUDxywYmr5YZjl5Dc3Gj1/EpblqXNule6vM
+hcCgc0E9IdKcXXzRDeQ6L0SiYUNl32ZBCJpV9gvJmU5lYyQzo3UXABXV5GpOHjCm
+ngaHhHlsgTUgofQToF+IAKf+VHiNr4N29Yzm6lfweToM5vaPdZ0IUvhxkEBBNXJW
+sY894zEVN9YHjoWl5sp/zlVswjuBlkPeYp5rSS2FyomjUBnkTldA0tMU3yZTcCNX
+HqIdDMrBw6Lt6IR5kumg/uPhQGscIMogj9Vv+TaXSFphqpGDTwlECG1MTHBaOLs/
+IKGd/wekVXebCUVGjIc2h3HnT6UhyioGrJBlvejM9+tIkPs25UR9i8B36muqX5u5
+z+5S0OOjiiWW6hdmL8lKz1sVcKwSthwaVbDI+4gQWosl6Y/qIPbLqJxelEKCWms7
+HF9zci/ZdBXMOXEpBlG0vWMV5adZsaueTt2iY+sFW2K11hPEYY6T0FW9ABEBAAGJ
+BHIEGAEIACYWIQTx145+oQEHW3l6rbyzdtDnwkE4CQUCYcYE9wIbLgUJAeDWuQJA
+CRCzdtDnwkE4CcF0IAQZAQgAHRYhBMFRSyPJd/FFMLhf0KcHHKeI20kYBQJhxgT3
+AAoJEKcHHKeI20kYSSgQAJ7UJqJz+z98oIfq1dsSOHxC9sirc+OgEuxJoIEsku+H
+69JsHaNfFbVkFqPYyay2j20gUoTpMHd0LMRSyqpEVwSLT/vGUn2tMgBZ2UrM0Zas
+avVyN7dMN4NIOdNrj7TxZzZ8vYX0qwCmUg9lDR0BOl04wVCR2GIlNSGIx5ZmFDui
+TRVNB7fUsgvzCqQR34Mn1jJseH+VWLW76rqk6moRLJ+AWJS3vbXB8R3jeLZyVEA6
+W9gNjDtptytzz+ROOEVv5h48MYZKG+PyRRUc/laubze8hL1G68MAJERHi4jJImqs
+gxppw3oWW0CrwzhiijfboLC3FnCiFPOPXU2g0nfcKBnChOspIGVwImvKZ5QIVfpE
++9utRPV5QDqlQekpiZqy6YwpbPpGho9TRVKjiwqGSlKBBdDm5mvYJyl/GuJe4/te
+ZcGrbMj/ZIExnWozUqKSdQqlhYGdRA+Mk5tuvGnquGSXKka7xmSz1K6cLRLIzjRT
+GH911C5bipODzLyq1aHL6EieofIXFzyzvDoH4dazTjawHVJ5DCpmWc7sykIg0NJt
+uZJ72qkxsuF/LkQwnNwVKRzOVdo4k9zepaZszSMJLNRDcspVnfGcCSqS+O3l5VeU
+6WNPWmq2mVnJAPv1MhmbASyBtUhiHrMYSV+rwKvFw9rWBhKkP49drgKk5dmL9lbw
+2ZUP/RBepJ3CMehPQLKRyjraGLyHUUDgX7WRdSKHOUCliYO2eRcIiUBPi1DjkVaT
+B163vXsOUxTUY4A1Pa2RyisFq7U0PivqZ+Fe4t4ytKTeA9gYmsZl93ryVEd4MeX3
+9pLc5xsNk0FH9KOkIYxJkJcva4zrJUiRZc0mQFun0VNmwgWsAf4yQUxsO5vMMt6f
+Z0vRXHa8yC62tynzpI8ioYSTKCvA9DlHI8Vjl6sGyyG8sGen6r+hQoy2lnoS5A/R
+jndlwqnlZEE41Af0yJwkV29Jwk2jM5CenvpiVSRx2C9oYxL8Y8t2JaZA5CQSMAQ0
+oj1xGHUzMuRt2/kx5P7ySPv3KXWY/CbNhrxhW9njbHDlHPPkixTJpRpdRmesOwV6
+hE3csmbWqtBYRKQZum1E1f1C/SRoBIjqCcF5UYio1T1WGAKl7wDPsz5FVbw93lQp
+9gV1IqAuVtuPtBHXXAT48jl0qmikuQTQpFSF3xpDmnX6MyL5Wmf9RCrsE0zEjVjm
+43Nm7NSfY3vBjACMohXphOCQ7EBJE6EkgzzXt2fcZNHvmKkodDquN5c/yHvaq/pl
+G4wSFxSYaRDzRrLN44xMWD5AhjTb01S+6ALAwgzNKr81tT6rf7Zruf2rGvMQTRnz
+fOtAJc143hjusy96pRIdAg66Mhe0KVlTDLi/H0djcnxMjKKc
+=Q8w5
+-----END PGP PUBLIC KEY BLOCK-----
+2021-12-24 17:48:03.819469	derekson	defender	-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBGHGBPcBEADuuED27SmrEvvFVV4KUzYDC4AfkdhZ1CrWaBf1GZL8uFwQH5H0
+0+bqCJa2CKEys14k6HMjs2DQJq1PlZqFSD40QgPdnbfxLNjFZed4kfG99Vf24YIt
+w3uoCchPV8+8nidWezQonsItoJDQg62i4jhmUZgwqNge+PVinR3+uTqO58MmS1wX
+8QAkeqckKgU1WQU58YoxqICL5xLNeSK3aheoX8QkxOmq8zeaGcC++e3j52sQ97kj
+YZMBFFctVHD4SEwzj7Vy+JSJQysfjcluaXzeCvUhauIAv/v9ij4hYJwDTUoqqEJG
+4fYscvDxW6QPIpxmbcHBbuZKyafZ6tDtitTdNeEk3VDZ3wi9WyRAI6uqqCEUOgcB
+5R/8mSJRN2GnXNuHXB/QWY9E6fZhBiMI2Gtp198d2SH4PBND6NcdCHIyJA/PFpnc
+eN4RuFn7UgCAWXFOdz6m/DCC/Czao+3tOo1zy1U+dcMVUTKKICDoLUjsx2KSrarW
+ooG5XQnlmvvani74dWXMVcnkyg5w0Jq0QF9yqYGBgTe8EukGzFrpFFTD4xW/1FUP
+VjS+w7z9WBOCxfB6Xwkb00Y+r55GRLPuhZHQKM2TZlB+eEhjn//ENwwkFHrxU1DA
+roHqj2HS3FRbrrXqvVE1MjrTmyWJfvls50cb4Xk2FRqGNaZFclbQdCePKQARAQAB
+tBZEZW1ldCA8ZGVtZXRAZGVtZXQuZGU+iQJUBBMBCAA+FiEE8deOfqEBB1t5eq28
+s3bQ58JBOAkFAmHGBPcCGy8FCQHg1rkFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AA
+CgkQs3bQ58JBOAklpQ//RWRxcxv52s/QvDL8aAbk9cYscB8zYUI2IJJw6wp25962
+KvLf9sU9dK57f0FlwJLJIHCMPdjMjkrKiXqVjHwBMg1gEqu2tSbyVCEBRBvAT190
+JpYuv2Yh2omuRPP2E+Ug/FJgK+Ii0ePMJEs5adWbXi9uNBJb2IeCHllVN1Qhsvxr
+yHLUEZC7TCNXtqodklNJ5sxiH14S6bFxmZRS5U+kW1SaFLHe6goiiKPI7nTwKgZj
+U0t9hXbjuZLLCPbQWsZu9bMfH1kQwn/Df/t4CL/rymcBTdHiVMkeb+400RJRGa/J
+psDm0tpysiHwUVLbkq3pyaSh/O9J4iHQtiFGP38JJnPlWJVTijGcYKE3WjCjVMXC
+e5lMiOrjNsYdNJ3M0Li8bWNVlPG8HsqLR8O4O+Cg8idoaWQY3UfhBaEM6qiHhUkg
+L5nceELC4oVa0yYHQqgWIxv3aBJ37hqlmB28AmlJyUTWI+NV0NNvCOLONaVbySPh
+cour12SVINA3oCB9izUhYXsIwZYBBWO60vR0j3CJXKizT6o272GQs5oytFICvVPE
+7/sIK4sbMvd9tdzlvEKhfNI3fq89hk1U9FM8bEAblqWvzjbn7WHSggT8S+OCEUgZ
+h9KQkaE9KiCS/3LV3P2C73VetnYWNEiyOBBcvgzEp2T9F4cG8N3M0Ah5tgLeXiS5
+Ag0EYcYE9wEQALnKPqQyTYtoBvO5UQfYNRRi47xYEVDJzAVwjESqwxbShxLJ71nv
+Yt6VOp16DwBS5Jlc4v4yPSxYQOXOOTT/D5ofGqADh1NPWkV3JSsbaQUXZL0vr3ue
+itmS9RwGezO6ZKuPruijb2EqS0PPJlHfITjnnEXQh7sPdAtLtJ7B01ZeSA0Zw3Rf
+c+c3I8UywWUQpf4kyw4WtPJtJtCtYaUDxywYmr5YZjl5Dc3Gj1/EpblqXNule6vM
+hcCgc0E9IdKcXXzRDeQ6L0SiYUNl32ZBCJpV9gvJmU5lYyQzo3UXABXV5GpOHjCm
+ngaHhHlsgTUgofQToF+IAKf+VHiNr4N29Yzm6lfweToM5vaPdZ0IUvhxkEBBNXJW
+sY894zEVN9YHjoWl5sp/zlVswjuBlkPeYp5rSS2FyomjUBnkTldA0tMU3yZTcCNX
+HqIdDMrBw6Lt6IR5kumg/uPhQGscIMogj9Vv+TaXSFphqpGDTwlECG1MTHBaOLs/
+IKGd/wekVXebCUVGjIc2h3HnT6UhyioGrJBlvejM9+tIkPs25UR9i8B36muqX5u5
+z+5S0OOjiiWW6hdmL8lKz1sVcKwSthwaVbDI+4gQWosl6Y/qIPbLqJxelEKCWms7
+HF9zci/ZdBXMOXEpBlG0vWMV5adZsaueTt2iY+sFW2K11hPEYY6T0FW9ABEBAAGJ
+BHIEGAEIACYWIQTx145+oQEHW3l6rbyzdtDnwkE4CQUCYcYE9wIbLgUJAeDWuQJA
+CRCzdtDnwkE4CcF0IAQZAQgAHRYhBMFRSyPJd/FFMLhf0KcHHKeI20kYBQJhxgT3
+AAoJEKcHHKeI20kYSSgQAJ7UJqJz+z98oIfq1dsSOHxC9sirc+OgEuxJoIEsku+H
+69JsHaNfFbVkFqPYyay2j20gUoTpMHd0LMRSyqpEVwSLT/vGUn2tMgBZ2UrM0Zas
+avVyN7dMN4NIOdNrj7TxZzZ8vYX0qwCmUg9lDR0BOl04wVCR2GIlNSGIx5ZmFDui
+TRVNB7fUsgvzCqQR34Mn1jJseH+VWLW76rqk6moRLJ+AWJS3vbXB8R3jeLZyVEA6
+W9gNjDtptytzz+ROOEVv5h48MYZKG+PyRRUc/laubze8hL1G68MAJERHi4jJImqs
+gxppw3oWW0CrwzhiijfboLC3FnCiFPOPXU2g0nfcKBnChOspIGVwImvKZ5QIVfpE
++9utRPV5QDqlQekpiZqy6YwpbPpGho9TRVKjiwqGSlKBBdDm5mvYJyl/GuJe4/te
+ZcGrbMj/ZIExnWozUqKSdQqlhYGdRA+Mk5tuvGnquGSXKka7xmSz1K6cLRLIzjRT
+GH911C5bipODzLyq1aHL6EieofIXFzyzvDoH4dazTjawHVJ5DCpmWc7sykIg0NJt
+uZJ72qkxsuF/LkQwnNwVKRzOVdo4k9zepaZszSMJLNRDcspVnfGcCSqS+O3l5VeU
+6WNPWmq2mVnJAPv1MhmbASyBtUhiHrMYSV+rwKvFw9rWBhKkP49drgKk5dmL9lbw
+2ZUP/RBepJ3CMehPQLKRyjraGLyHUUDgX7WRdSKHOUCliYO2eRcIiUBPi1DjkVaT
+B163vXsOUxTUY4A1Pa2RyisFq7U0PivqZ+Fe4t4ytKTeA9gYmsZl93ryVEd4MeX3
+9pLc5xsNk0FH9KOkIYxJkJcva4zrJUiRZc0mQFun0VNmwgWsAf4yQUxsO5vMMt6f
+Z0vRXHa8yC62tynzpI8ioYSTKCvA9DlHI8Vjl6sGyyG8sGen6r+hQoy2lnoS5A/R
+jndlwqnlZEE41Af0yJwkV29Jwk2jM5CenvpiVSRx2C9oYxL8Y8t2JaZA5CQSMAQ0
+oj1xGHUzMuRt2/kx5P7ySPv3KXWY/CbNhrxhW9njbHDlHPPkixTJpRpdRmesOwV6
+hE3csmbWqtBYRKQZum1E1f1C/SRoBIjqCcF5UYio1T1WGAKl7wDPsz5FVbw93lQp
+9gV1IqAuVtuPtBHXXAT48jl0qmikuQTQpFSF3xpDmnX6MyL5Wmf9RCrsE0zEjVjm
+43Nm7NSfY3vBjACMohXphOCQ7EBJE6EkgzzXt2fcZNHvmKkodDquN5c/yHvaq/pl
+G4wSFxSYaRDzRrLN44xMWD5AhjTb01S+6ALAwgzNKr81tT6rf7Zruf2rGvMQTRnz
+fOtAJc143hjusy96pRIdAg66Mhe0KVlTDLi/H0djcnxMjKKc
+=Q8w5
+-----END PGP PUBLIC KEY BLOCK-----
+2022-01-10 12:22:24.403155	derekson	defender	Привет
+2022-01-10 12:22:28.908742	derekson	defender	оплатишь сервера?
+2022-01-12 15:09:11.406757	derekson	defender	Привет
+2022-01-17 08:51:10.063553	derekson	defender	Привет
+2022-01-17 08:51:27.241986	derekson	defender	Дай пожалуйста впс) 30шт
+2022-01-18 08:05:24.917795	derekson	defender	Привет
+2022-01-18 08:05:30.560310	derekson	defender	надо оплатить несколько серверов
+2022-01-20 10:43:36.751775	derekson	defender	Привет
+2022-01-20 10:43:52.025701	derekson	defender	Скинь пожалуйста впс 15-20 шт
+2022-01-21 13:00:34.206378	derekson	defender	Привет
+2022-01-21 13:00:56.314021	derekson	defender	у меня выход в инет через whonix + vpn
+2022-01-21 13:01:04.321717	derekson	defender	оплатишь пару серверов?
+2022-01-25 17:07:09.222161	derekson	defender	привет
+2022-01-25 17:07:46.202507	derekson	defender	оплатишь сервер?
+2022-01-25 17:07:54.244208	defender	derekson	привет
+2022-01-25 17:07:54.246838	defender	derekson	оплатишь сервер?
+2022-01-26 13:47:37.568435	derekson	defender	Привет
+2022-01-26 13:48:06.995318	derekson	defender	скинь впс пожалуйста
+2022-01-26 14:10:05.693018	defender	derekson	тут?
+2022-01-26 15:01:35.552052	derekson	defender	да
+2022-01-26 15:51:23.309471	derekson	defender	ping
+2022-01-26 15:51:24.603605	derekson	defender	скинь впс пожалуйста
+2022-01-26 22:57:15.418116	defender	derekson	где данные по всем серверам???
+2022-01-27 08:30:23.054767	defender	derekson	где данные по всем серверам???
+2022-01-27 11:12:41.438613	derekson	defender	пинг
+2022-01-27 11:13:43.420296	defender	derekson	жду
+2022-01-27 11:31:56.402408	derekson	defender	123
+2022-01-27 11:35:21.051035	defender	derekson	https://6k2zmzhc2wjs3u7rjykzuas2mtsd3w7va3alafnkzfiehmq2g3jrlmqd.onion/
+2022-01-27 11:37:50.400151	derekson	defender	https://6k2zmzhc2wjs3u7rjykzuas2mtsd3w7va3alafnkzfiehmq2g3jrlmqd.onion/note/1aPrgVchSA1Ay1TWQmnxptbJVV3VMJeQ7MoAjg7Dj4Py#86b51935a80c8cf97a3b1d3fd7e697b386ca656fb987a568685ee6a0f8d9d68f
+2022-01-27 11:46:01.637015	defender	derekson	принял
+2022-01-27 12:11:03.361199	derekson	defender	скинь пожалуйста еще впс
+2022-01-27 12:11:03.366453	derekson	defender	15-20 шт
+2022-01-27 12:37:01.706003	defender	derekson	root 45.86.74.108 123qweASDzxc
+root 5.181.80.125 123qweASDzxc
+root 185.99.132.248 P*1rM@WzYm42q8
+root 5.39.63.107 123qweASDzxc
+root 158.69.133.72 123qweASDzxc
+root 23.254.228.234 Y8Tn7WVsPuJqbRpsFd
+root 194.36.191.19 123qweASDzxc
+root 194.40.243.33 S9m7LTV3e756
+root 23.160.193.217 zclqqwouwfqk
+
+root 176.103.62.176 Hzy59gDZ BG
+root 94.140.113.71 pEJeIl9zqkwnLmW LV
+root 146.19.253.90 xctY2gds98oXNtwj NL
+root 38.92.191.89 xSRs9Up8Vtb9xQHC US
+
+root 5.2.78.37 97552266b2397be148cb626180bff4c1 NL
+root 198.244.194.4 oGYMvME2d6U8wzis UK
+root 80.92.206.199 zwyfmtCmBt8H NL
+root 45.14.226.23 zNJ2432Uc7rk7Lod NL
+root 185.38.185.13 M7s8C0x6 NL
+
+root 45.41.204.137 v@hgcYCinp1B
+root 94.140.113.17 o6tyGMzP5ufZplo
+root 139.28.235.177 123qweASDzxc
+root 5.181.80.143 0.00009531
+root 185.99.132.67 s*z2O9P6H9L@bp
+root 5.39.63.108 123qweASDzxc
+root 192.99.255.38 123qweASDzxc
+root 142.11.253.72 pbsfkJyKg5R5M4
+root 185.106.123.88 123qweASDzxc
+root 45.41.204.139 %aCBKb0mN8qF
+2022-01-31 09:36:37.345260	derekson	defender	Привет
+2022-01-31 09:36:45.595632	derekson	defender	скинь пожалуйста 15-20 впс
+2022-02-01 16:09:11.962052	derekson	defender	привет
+2022-02-01 16:09:34.682000	derekson	defender	скинь впс пожалуйста. На завтра надо еще 8 шт рабочих
+2022-02-03 09:06:05.388806	derekson	defender	привет
+2022-02-03 09:06:16.090709	derekson	defender	скинь впс пожалуйста. 20-30 шт
+2022-02-03 09:06:26.741553	derekson	defender	и сможешь оплатить сегодня несколько серверов?
+2022-02-04 15:50:46.135238	derekson	defender	Привет
+2022-02-04 15:50:55.568398	derekson	defender	оплатим сервер?
+2022-02-07 08:02:03.939190	derekson	defender	Привет
+2022-02-07 08:02:12.787164	derekson	defender	Скинь пожалуйста 20 впс
+2022-02-08 13:04:07.030504	derekson	defender	Привет
+2022-02-08 13:04:56.949356	derekson	defender	скинь пожалуйста впс, 20 шт
+2022-02-11 10:03:32.623333	derekson	defender	привет
+2022-02-14 17:26:30.093498	derekson	defender	Привет
+2022-02-14 17:26:40.674656	derekson	defender	скинь пожалуйста 10-15 впс
+2022-02-17 09:10:37.745439	derekson	defender	Привет
+2022-02-17 09:10:44.086827	derekson	defender	скинь немного впс пожалуйста
+2022-02-17 09:16:37.317621	derekson	defender	и еще надо проплатить сервера, поможешь?
+2022-02-21 13:57:47.189806	derekson	defender	привет
+2022-02-21 15:38:19.210486	derekson	defender	206.188.196.239 - 27.02
+168.100.8.69   - 26.02
+168.100.11.213  - 28.02
+195.123.222.91  - 05.03
+45.61.136.202  - 01.03
+162.33.179.125  - 25.02
+185.64.104.5   - 05.03
+217.12.204.65  - 26.02
+185.64.104.141   - 25.02
+185.14.28.109  - 26.02
+5.181.156.15  - 07.03
+162.33.178.178  - 23.02
+45.61.138.153  - 22.02
+185.64.104.36   - 04.03
+195.123.228.5  - 28.02
+195.123.228.6  - 28.02
+2022-02-21 15:43:56.681629	derekson	defender	тут?
+2022-02-22 08:43:53.133988	derekson	defender	ping
+2022-02-22 18:56:35.840890	derekson	defender	привет
+2022-02-22 18:58:48.455702	defender	derekson	привет
+2022-02-22 18:58:59.212497	defender	derekson	там надо дженскинс продлить?
+2022-02-22 18:59:02.037652	defender	derekson	давай продлим
+2022-02-22 19:06:35.290751	defender	derekson	через час
+2022-02-22 19:06:38.564105	defender	derekson	отойду
+2022-02-22 19:18:44.450139	derekson	defender	отлично, давай
+2022-02-22 20:46:04.933413	defender	derekson	тут?
+2022-02-23 07:45:16.743651	defender	derekson	тут?
+2022-02-23 07:45:23.508451	derekson	defender	да
+2022-02-23 12:11:05.775111	derekson	defender	привет
+2022-02-23 12:11:13.299613	defender	derekson	привет
+2022-02-23 12:11:18.581689	defender	derekson	давай оплатим
+2022-02-23 12:11:20.333286	derekson	defender	оплатим?
+2022-02-23 12:11:21.469450	derekson	defender	ок
+2022-02-23 12:13:31.400736	derekson	defender	0.00129598
+2022-02-23 12:13:34.461026	derekson	defender	33hiG13GTHTV2G8aZxzBJHBPBpDNevcK2B
+2022-02-23 12:15:32.189331	defender	derekson	+
+2022-02-23 12:17:39.136811	derekson	defender	еще что-то будем оплачивать?
+2022-02-23 12:18:37.825054	defender	derekson	а что там ближайшее самое?
+2022-02-23 12:21:49.005158	derekson	defender	4 рокетчата
+криптопанель
+2022-02-23 12:41:50.791846	defender	derekson	какие рокетчаты? кто там работает?
+2022-02-23 12:41:58.816139	defender	derekson	криптопанель давай оплатим
+2022-02-23 13:05:46.710146	derekson	defender	криптопанель
+2022-02-23 13:06:05.076558	derekson	defender	0.00174000
+2022-02-23 13:06:10.036394	derekson	defender	3351LRF9NrFH5v2CMZWsCv66tv5UAjX5Gn
+2022-02-23 13:06:55.332714	derekson	defender	Рокетчаты:
+Один где все сидим
+HR
+Ed
+Осинтеры
+2022-02-23 13:07:01.215776	defender	derekson	+
+2022-02-23 13:07:26.705257	defender	derekson	HR
+Ed
+Осинтеры 
+
+сколько тут активных юзеров в каждом?
+2022-02-23 13:52:22.419732	derekson	defender	HR 3-5
+Ed 9-15
+Osint 3-6
+2022-02-23 13:57:37.777048	defender	derekson	что это за цифры:
+2022-02-23 13:57:45.689358	defender	derekson	3-5
+3 активных 5 всего?
+2022-02-23 13:57:46.442150	derekson	defender	активные юзеры
+2022-02-23 13:57:54.139393	derekson	defender	иногда 3, иногда 5)
+2022-02-23 13:59:50.977072	defender	derekson	ясно
+2022-02-23 14:00:28.882732	derekson	defender	так что делать?
+2022-02-23 14:00:47.824224	defender	derekson	что в ЕД рокете обсуждают?
+2022-02-23 14:01:03.333632	derekson	defender	я так понимаю пентестеры, коба
+2022-02-23 14:01:31.114981	defender	derekson	HR это новички?
+2022-02-23 14:01:58.433482	derekson	defender	там собеседования
+2022-02-23 14:03:07.997012	defender	derekson	какие сроки у этих серверов?
+2022-02-23 14:03:22.694044	defender	derekson	рокетов
+2022-02-23 14:04:33.330568	derekson	defender	где мы - 26.02
+ed 25.02
+osint 26.02
+HR 01.03
+2022-02-23 14:32:40.888790	defender	derekson	hr туши, с ед и осинтами решаем
+2022-02-23 14:36:56.406137	derekson	defender	хорошо

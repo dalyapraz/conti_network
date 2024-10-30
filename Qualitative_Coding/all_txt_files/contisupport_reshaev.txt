@@ -1,0 +1,44 @@
+Timestamp	From	To	Message
+2020-08-07 08:28:46.979061	contisupport	reshaev	qq epta
+2020-08-07 13:08:22.995198	contisupport	reshaev	что это
+2020-08-07 13:08:27.695037	contisupport	reshaev	с пидгином
+2020-08-07 13:08:31.343595	contisupport	reshaev	по другому стало
+2020-08-07 13:09:11.694797	reshaev	contisupport	Ты test вместо записки писал?
+2020-08-07 13:09:15.950641	contisupport	reshaev	да
+2020-08-07 13:09:19.059857	reshaev	contisupport	ок
+2020-08-07 13:09:25.597756	contisupport	reshaev	че с пидгином
+2020-08-07 13:09:28.660698	contisupport	reshaev	другой вид стал
+2020-08-07 13:09:32.827236	reshaev	contisupport	хз
+2020-08-07 13:09:35.894070	reshaev	contisupport	может фсб
+2020-08-07 13:09:37.565817	reshaev	contisupport	чекает
+2020-08-07 13:09:45.080855	contisupport	reshaev	бля сейфово через вивер работать
+2020-08-07 13:09:55.895703	reshaev	contisupport	Не очень
+2020-08-07 13:10:01.320088	contisupport	reshaev	вот и я о чем)
+2020-08-07 13:10:05.174021	reshaev	contisupport	Закрой его кстати
+2020-08-07 13:10:10.497760	contisupport	reshaev	закрыл
+2020-08-07 13:10:21.641127	reshaev	contisupport	И размонтируй криптоконтейнер
+2020-08-07 13:10:25.725720	reshaev	contisupport	И примонтируй опять
+2020-08-07 13:10:31.845578	reshaev	contisupport	Посмотрим не побился ли файл
+2020-08-07 13:12:15.071689	contisupport	reshaev	норм
+2020-08-07 13:12:17.047819	contisupport	reshaev	вроде
+2020-08-07 13:12:24.194021	reshaev	contisupport	збс
+2020-08-07 13:12:24.607851	contisupport	reshaev	только у пидгина другой вид стал
+2020-08-07 13:12:34.006507	reshaev	contisupport	дай еще раз
+2020-08-07 13:12:35.559795	reshaev	contisupport	доступ
+2020-08-07 13:12:38.295614	reshaev	contisupport	я чекну
+2020-08-07 13:12:41.883041	contisupport	reshaev	сек
+2020-08-07 13:13:29.180097	contisupport	reshaev	257 665 462
+kpn364
+2020-08-10 11:35:37.144108	contisupport	reshaev	зашло
+2020-08-12 09:32:21.829377	contisupport	reshaev	pass: WlqfufVccUdDIlB9L2ICBJtmuuZkFlFU
+Download: https://qaz.im/load/eKeYaE/bYEtEi
+Delete: https://qaz.im/index.php?a=delete&q=157780446
+2020-08-12 10:06:35.073622	contisupport	reshaev	pass: WlqfufVccUdDIlB9L2ICBJtmuuZkFlFU
+Download: https://qaz.im/load/eKeYaE/bYEtEi
+Delete: https://qaz.im/index.php?a=delete&q=157780446
+2020-08-14 14:20:27.274862	contisupport	reshaev	тут?
+2020-09-01 08:09:50.560215	contisupport	reshaev	qq
+2020-09-09 15:25:29.374673	reshaev	contisupport	Писал кто?
+2020-10-15 10:45:02.409399	reshaev	contisupport	Скинь переписку  сним
+2020-10-19 09:36:14.157091	contisupport	reshaev	Ты где блять, тя хлопнули там?
+2020-10-19 11:42:20.513379	contisupport	reshaev	Ты где блять, тя хлопнули там?

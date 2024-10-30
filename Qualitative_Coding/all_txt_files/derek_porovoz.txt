@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2022-02-15 20:04:45.182046	porovoz	derek	https://pbs.twimg.com/profile_images/378800000584412078/2f060a374fe6fa9d33738cf4df3f29fa_400x400.jpeg
+2022-02-15 20:05:06.108969	derek	porovoz	сам иди
+2022-02-15 20:05:07.157153	porovoz	derek	https://pbs.twimg.com/profile_images/378800000584412078/2f060a374fe6fa9d33738cf4df3f29fa_400x400.jpeg

@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-12-09 05:41:59.179569	cybergangster	defender	привет

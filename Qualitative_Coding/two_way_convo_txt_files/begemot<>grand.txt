@@ -1,0 +1,24 @@
+Timestamp	From	To	Message
+2021-12-02 12:00:46.557786	begemot	grand	Привет
+2021-12-06 10:47:24.670859	begemot	grand	Привет
+2021-12-06 10:47:58.608143	begemot	grand	Мне green говорил одну) 3 так 3 без проблем)
+2021-12-06 10:48:11.348816	begemot	grand	по оплате к тебе ?
+2021-12-06 10:50:59.012393	grand	begemot	привет бро
+2021-12-06 10:51:02.037971	grand	begemot	кого 3?
+2021-12-06 10:51:16.973228	grand	begemot	я грину сейчас да, писал по серваку кобы
+2021-12-06 10:51:17.311706	begemot	grand	коба
+2021-12-06 10:51:19.901823	grand	begemot	1
+2021-12-06 10:51:32.288855	begemot	grand	хорошо делаю
+2021-12-06 10:51:33.509664	grand	begemot	да по оплате давай закину
+2021-12-06 10:55:22.043823	begemot	grand	скинь 122$ 
+
+bc1qah9yltjk556w375sdqqt2d4lltg49vkprgnsw7
+2021-12-06 10:55:43.876827	grand	begemot	сек
+2021-12-06 10:57:54.019400	grand	begemot	f2eff1719091b0f2dc0614a7d21a861e0eda418d7f336615575e26d2ababb61a
+2021-12-06 10:58:17.209045	begemot	grand	спасибо
+2021-12-06 10:58:26.704614	grand	begemot	тебе спасибо)
+2021-12-10 10:35:22.503150	begemot	grand	Ghbdtn
+2021-12-10 10:35:26.639245	begemot	grand	Привет
+2021-12-11 17:53:56.402290	begemot	grand	https://www.sendspace.com/file/ixckb2
+2021-12-13 09:44:43.767883	begemot	grand	https://www.sendspace.com/file/ixckb2
+2021-12-13 16:18:27.516856	begemot	grand	Привет бро ты забрал ?

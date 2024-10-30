@@ -1,0 +1,15 @@
+Timestamp	From	To	Message
+2020-08-17 13:21:53.837166	kerasid	dorirus	проверка
+2020-08-17 13:22:06.214222	kerasid	dorirus	куку
+2020-08-17 13:33:08.267083	kerasid	dorirus	мне пишет что не могу прочитать
+2020-08-17 13:33:11.475439	kerasid	dorirus	ебет мозг отр
+2020-08-17 13:40:32.934117	kerasid	dorirus	не шифрует
+2020-08-17 20:37:47.255034	kerasid	dorirus	а вот это грустная новость
+2020-08-18 11:00:20.967963	kerasid	dorirus	а вот это грустная новость
+2020-08-26 16:01:14.345056	kerasid	dorirus	ку
+2020-08-31 09:30:43.603707	dorirus	kerasid	Привет
+2020-09-02 14:00:37.882508	dorirus	kerasid	Привет
+2020-09-02 14:00:38.082506	dorirus	kerasid	 <buri> Hi! Poprosili sdelat' sleduyuschee
+
+на сервере с доменом https://serv-xyz.tk/ убрали ограничение на длинну гет и пост запросов 
+[15:54:28] <buri> SMozhesh sdelat', please?

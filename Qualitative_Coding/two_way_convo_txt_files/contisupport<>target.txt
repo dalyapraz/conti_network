@@ -1,0 +1,47 @@
+Timestamp	From	To	Message
+2020-10-07 18:42:36.779525	target	contisupport	привет
+2020-10-07 18:42:37.232480	target	contisupport	1
+2020-10-07 18:42:41.182715	target	contisupport	нужен билд
+2020-10-07 18:42:42.971664	target	contisupport	пд лок
+2020-10-07 18:42:44.004293	target	contisupport	под
+2020-10-07 18:42:48.624949	target	contisupport	сориентируй по времени
+2020-10-07 18:42:50.271708	target	contisupport	во сколько ты тут
+2020-10-07 18:42:52.045874	target	contisupport	со скольки
+2020-10-07 18:42:53.573731	target	contisupport	до скольки
+2020-10-07 18:42:58.284559	target	contisupport	и что за текст в билде идет
+2020-10-07 18:42:59.580327	target	contisupport	при локе
+2020-10-08 05:58:00.200647	target	contisupport	привет
+2020-10-08 05:58:00.202353	target	contisupport	1
+2020-10-08 05:58:00.205405	target	contisupport	нужен билд
+2020-10-08 05:58:00.206070	target	contisupport	пд лок
+2020-10-08 05:58:00.206858	target	contisupport	под
+2020-10-08 05:58:00.207611	target	contisupport	сориентируй по времени
+2020-10-08 05:58:00.208307	target	contisupport	во сколько ты тут
+2020-10-08 05:58:00.209114	target	contisupport	со скольки
+2020-10-08 05:58:00.218956	target	contisupport	до скольки
+2020-10-08 05:58:00.224879	target	contisupport	и что за текст в билде идет
+2020-10-08 05:58:00.226078	target	contisupport	при локе
+2020-10-08 06:14:03.636670	contisupport	target	Привет, конкретно я с 11:00 до 21:00 по МСК
+2020-10-08 11:48:27.243491	target	contisupport	привет
+2020-10-08 11:50:10.031863	contisupport	target	хай
+2020-10-09 06:48:01.653366	target	contisupport	привет
+2020-10-09 15:35:47.699399	target	contisupport	нужен ключ
+2020-10-09 15:35:49.160254	target	contisupport	к этой сетке
+2020-10-09 15:35:50.647026	target	contisupport	они выплатили
+2020-10-09 15:35:55.285704	target	contisupport	выдать им
+2020-10-13 20:01:51.719168	target	contisupport	привет
+2020-10-13 20:01:52.010048	target	contisupport	еще билдд нужен
+2020-10-13 20:01:52.536183	target	contisupport	на
+2020-10-13 20:01:53.674679	target	contisupport	почты
+2020-10-13 20:01:53.676856	target	contisupport	monazen@protonmail.com
+nikamoi@protonmail.com
+2020-10-13 20:02:12.387408	target	contisupport	текст
+2020-10-13 20:02:13.321506	target	contisupport	только
+2020-10-13 20:02:15.090332	target	contisupport	Thе nеtwоrk is lockеd. Dо nоt try tо usе оthеr softwаrе. Fоr dеcryptiоn tоol write hеrе:
+
+почта 1
+почта 2
+2020-10-13 20:02:15.092977	target	contisupport	этот
+2020-10-13 20:02:18.081831	target	contisupport	и ничего другого не добавлять
+2020-10-16 03:06:43.670713	target	contisupport	1
+2020-10-16 09:02:17.501168	target	contisupport	1

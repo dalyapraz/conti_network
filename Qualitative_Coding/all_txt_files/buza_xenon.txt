@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-09-18 09:19:23.903505	buza	xenon	привет
+2020-10-20 09:24:50.281012	buza	xenon	познакомься пожалуйста с kaktus@q3mcco35auwcstmt.onion

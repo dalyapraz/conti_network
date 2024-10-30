@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-09-27 13:51:50.484174	salamandra	doomsday	привет
+2021-09-27 13:51:50.485244	doomsday	salamandra	привет

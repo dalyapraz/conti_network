@@ -1,0 +1,87 @@
+Timestamp	From	To	Message
+2021-10-05 19:47:07.084217	porovoz	dollar	бро в чат зайдешь?
+2021-10-05 20:04:57.078322	dollar	porovoz	бро в чат зайдешь?
+2021-10-25 13:57:04.070367	dollar	porovoz	hey
+2021-10-25 13:57:05.177274	dollar	porovoz	man
+2021-10-25 13:57:10.035462	dollar	porovoz	otpsihi kak bdyesh' online
+2021-10-25 13:57:13.029976	dollar	porovoz	roket lejit
+2021-10-26 04:53:16.974533	dollar	porovoz	hey
+2021-10-26 04:53:16.975328	dollar	porovoz	man
+2021-10-26 04:53:16.976647	dollar	porovoz	otpsihi kak bdyesh' online
+2021-10-26 04:53:16.977522	dollar	porovoz	roket lejit
+2021-11-01 10:05:41.783534	dollar	porovoz	itpishi bro
+2021-11-01 10:05:42.542152	dollar	porovoz	kak bdyesh'
+2021-11-01 13:38:18.752015	dollar	porovoz	itpishi bro
+2021-11-01 13:38:18.753037	dollar	porovoz	kak bdyesh'
+2021-11-12 11:39:32.937881	dollar	porovoz	porovoz
+BEEMAC-TS  - для энди * в работе
+TCM-PDC-XA04 - для энди *в работе
+ATLWVD03  *saawi    https://www.zoominfo.com/c/intellinet/59671809 - \ * сняли кербу,разхешили сервисные акки, сейчас смотрим куда доступ есть
+CTXPROD017 - *Енди \ этот где 5.7кк пк, у него ДА получили, качаем дату. там она настроена так что у ДА не имеется доступов для всего файлового, от разных юзеров качаем.*
+2021-11-12 12:32:13.052515	dollar	porovoz	porovoz
+BEEMAC-TS  - для энди * в работе
+TCM-PDC-XA04 - для энди *в работе
+ATLWVD03  *saawi    https://www.zoominfo.com/c/intellinet/59671809 - \ * сняли кербу,разхешили сервисные акки, сейчас смотрим куда доступ есть
+CTXPROD017 - *Енди \ этот где 5.7кк пк, у него ДА получили, качаем дату. там она настроена так что у ДА не имеется доступов для всего файлового, от разных юзеров качаем.*
+2021-11-15 15:17:42.788154	dollar	porovoz	po 3 botikam tvoim
+2021-11-15 15:17:45.344001	dollar	porovoz	vse v razbore
+2021-11-15 15:17:52.366019	dollar	porovoz	1 yje daty vikacali pocti
+2021-11-15 15:17:56.773407	dollar	porovoz	tak vse super bro
+2021-11-15 15:17:58.585233	dollar	porovoz	jdem new
+2021-11-15 15:18:03.916961	dollar	porovoz	nadeys' podelih'cay eshe
+2021-12-02 17:57:40.011597	dollar	porovoz	po 3 botikam tvoim
+2021-12-02 17:57:40.012792	dollar	porovoz	vse v razbore
+2021-12-02 17:57:40.014753	dollar	porovoz	1 yje daty vikacali pocti
+2021-12-02 17:57:40.017178	dollar	porovoz	tak vse super bro
+2021-12-02 17:57:40.018508	dollar	porovoz	jdem new
+2021-12-02 17:57:40.019608	dollar	porovoz	nadeys' podelih'cay eshe
+2021-12-07 11:50:33.613091	dollar	porovoz	privet
+2021-12-07 11:50:34.688951	dollar	porovoz	brodi
+2021-12-07 11:50:37.614403	dollar	porovoz	ya tyt
+2021-12-07 11:50:48.265834	dollar	porovoz	otdixat' gonyal, sorry
+2021-12-07 11:51:10.778494	dollar	porovoz	otpsihi kak bydehs' tyt
+2021-12-07 15:38:11.169248	dollar	porovoz	privet
+2021-12-07 15:38:11.170368	dollar	porovoz	brodi
+2021-12-07 15:38:11.171028	dollar	porovoz	ya tyt
+2021-12-07 15:38:11.171903	dollar	porovoz	otdixat' gonyal, sorry
+2021-12-07 15:38:11.172600	dollar	porovoz	otpsihi kak bydehs' tyt
+2021-12-07 18:44:55.895195	dollar	porovoz	 была корпа Стива 
+5.7pc которые были khr , они вышли на связь в переговорах 
+BEEMAC-TS
+TCM-PDC-XA04
+эти пока запросил у товарщей, не помню по вх пк, надо наверно делать так, чтобы как ток скинули сразу домен пробить
+ATLWVD03 - тут решают проблему с выкачкой, блочит мониторинг все исх траф , не дает даж мегу грузить, кейс маленький сам по себе
+CTXPROD017 этот же и есть 5.7пк khr который в переговорах 
+
+Group Accounts for \\ISCADC07.nbhdhqdomain.nbhd.org да там админ очень злой оказался. сменил все креды, все закрепы слетели.
+на мегу не качалось. скачивать начал на onedrive и его локнули.
+ничего не вышло с этим кейсом( в итоге то что качалось, локнуто.
+там инфы по итогу на 8гб всего и то не особо инфа
+ща гляну еще
+2021-12-07 18:45:50.020420	dollar	porovoz	bro, ya xz chto ti perejivash;, no vse po plany dvigaetcay
+2021-12-07 18:45:59.813728	dollar	porovoz	vot chto mne seicas skinyli otcet
+2021-12-07 18:46:09.306759	dollar	porovoz	tenet govorit vse toje samoe tebe kidal
+2021-12-08 12:28:45.812189	dollar	porovoz	привет, пока в процессе, у них директор в ковидном госпитале) они там пытаюсься с ним общатся удаленно по поводу бабок
+
+950к выставили им \ поровоз CTXPROD017 - *Енди \ этот где 5.7кк пк
+вот по этому
+2021-12-08 13:25:24.801275	dollar	porovoz	 была корпа Стива 
+5.7pc которые были khr , они вышли на связь в переговорах 
+BEEMAC-TS
+TCM-PDC-XA04
+эти пока запросил у товарщей, не помню по вх пк, надо наверно делать так, чтобы как ток скинули сразу домен пробить
+ATLWVD03 - тут решают проблему с выкачкой, блочит мониторинг все исх траф , не дает даж мегу грузить, кейс маленький сам по себе
+CTXPROD017 этот же и есть 5.7пк khr который в переговорах 
+
+Group Accounts for \\ISCADC07.nbhdhqdomain.nbhd.org да там админ очень злой оказался. сменил все креды, все закрепы слетели.
+на мегу не качалось. скачивать начал на onedrive и его локнули.
+ничего не вышло с этим кейсом( в итоге то что качалось, локнуто.
+там инфы по итогу на 8гб всего и то не особо инфа
+ща гляну еще
+2021-12-08 13:25:24.803988	dollar	porovoz	vot chto mne seicas skinyli otcet
+2021-12-08 13:25:24.804690	dollar	porovoz	tenet govorit vse toje samoe tebe kidal
+2021-12-08 13:25:24.805073	dollar	porovoz	bro, ya xz chto ti perejivash;, no vse po plany dvigaetcay
+2021-12-08 13:25:24.805789	dollar	porovoz	привет, пока в процессе, у них директор в ковидном госпитале) они там пытаюсься с ним общатся удаленно по поводу бабок
+
+950к выставили им \ поровоз CTXPROD017 - *Енди \ этот где 5.7кк пк
+вот по этому

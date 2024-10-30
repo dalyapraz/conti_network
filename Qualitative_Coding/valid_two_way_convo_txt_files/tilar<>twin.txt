@@ -1,0 +1,8 @@
+Timestamp	From	To	Message
+2020-08-03 12:54:46.646964	tilar	twin	ky
+2020-08-04 17:24:44.310395	twin	tilar	tut?
+2020-09-02 18:40:59.439229	tilar	twin	zakin' plz 60$
+2020-09-04 14:20:55.475407	twin	tilar	,
+2020-09-04 14:20:56.578796	twin	tilar	а
+2020-09-04 14:20:56.581005	twin	tilar	у
+2020-09-04 14:20:56.991849	twin	tilar	ц

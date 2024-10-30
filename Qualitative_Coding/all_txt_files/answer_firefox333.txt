@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-04-16 09:08:34.450963	answer	firefox333	Добрый день
+2021-04-16 09:08:37.267615	firefox333	answer	Добрый день

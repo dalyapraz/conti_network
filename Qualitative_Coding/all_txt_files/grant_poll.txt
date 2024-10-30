@@ -1,0 +1,18 @@
+Timestamp	From	To	Message
+2020-06-29 12:50:20.370067	grant	poll	смотри там пошли боты
+2020-07-03 13:57:49.309409	poll	grant	FLCORP-R90PTHK5_W10018362.60A3EAD2DB3CDD31180E82E3EF466195
+2020-07-03 13:57:51.825919	poll	grant	ne v domene
+2020-07-03 13:57:56.531982	poll	grant	krytili kak mogli
+2020-07-03 17:13:09.571571	poll	grant	FLCORP-R90PTHK5_W10018362.60A3EAD2DB3CDD31180E82E3EF466195
+2020-07-03 17:13:09.574633	poll	grant	ne v domene
+2020-07-03 17:13:09.575527	poll	grant	krytili kak mogli
+2020-07-06 08:45:55.853205	grant	poll	привет, сегодня ono54
+2020-07-07 10:52:48.925741	grant	poll	привет тебе дошли были сообщения?
+2020-07-20 15:03:49.219390	grant	poll	привет бро
+2020-07-20 15:03:51.487406	grant	poll	как дела7
+2020-07-29 17:55:46.664002	poll	grant	hi man
+2020-07-29 17:55:48.028713	poll	grant	tyt?
+2020-08-17 11:38:16.191298	grant	poll	привет
+2020-08-21 17:42:17.785850	grant	poll	бро, чекаешь ботов?
+2020-08-25 19:06:53.468389	grant	poll	 Bot 1cc58419ba3180f753a132f004d4e2b8 is ready
+2020-08-25 19:06:53.471187	grant	poll	посмотри 8 группа

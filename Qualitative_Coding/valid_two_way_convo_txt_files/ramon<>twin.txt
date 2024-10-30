@@ -1,0 +1,57 @@
+Timestamp	From	To	Message
+2020-10-09 10:00:51.175256	twin	ramon	Я еще спать не ложился
+2020-10-13 19:54:49.130181	twin	ramon	Сделал
+2020-10-13 20:08:10.835274	ramon	twin	krasava
+2020-10-13 20:28:01.125446	ramon	twin	krasava
+2021-03-09 13:46:46.696078	twin	ramon	Хэй
+2021-03-12 20:28:25.375784	twin	ramon	ну что там твой пидорас
+2021-03-14 13:34:37.937280	ramon	twin	edavis$alasu.edu$MSSQLSvc/OPTIDOC2.alasu.edu:1433*$0f35f54f9add46a0e519afa33f5374d0.........
+
+Hornets1! 
+
+RTCService$alasu.edu$sip/asunet.alasu.edu*$f545cc0da44013eb73fb66b4c1bf517b
+
+changeme
+
+RTCComponentService$alasu.edu$http/asunet.alasu.edu*$1c30bb745fdd04afe5f0a4c8754d4031
+
+changeme
+2021-03-14 18:37:44.138339	ramon	twin	edavis$alasu.edu$MSSQLSvc/OPTIDOC2.alasu.edu:1433*$0f35f54f9add46a0e519afa33f5374d0.........
+
+Hornets1! 
+
+RTCService$alasu.edu$sip/asunet.alasu.edu*$f545cc0da44013eb73fb66b4c1bf517b
+
+changeme
+
+RTCComponentService$alasu.edu$http/asunet.alasu.edu*$1c30bb745fdd04afe5f0a4c8754d4031
+
+changeme
+2021-03-22 16:10:51.517373	ramon	twin	hi
+2021-03-22 16:10:52.485751	ramon	twin	man
+2021-03-26 15:33:49.983390	ramon	twin	75.147.147.133
+VPA-015_W10019042.D173BD1D7FF1BB1EDFFB1BFBB15351DF
+отписка
+2 серва распрыгались на компы ,на  сервы прыгнуть не можем зум 179кк но других доменов нет или не можем найти
+2021-03-26 15:33:55.407683	ramon	twin	zaberhs'?
+2021-03-26 17:33:29.992666	ramon	twin	zaberhs'?
+2021-03-26 17:33:29.992993	ramon	twin	75.147.147.133
+VPA-015_W10019042.D173BD1D7FF1BB1EDFFB1BFBB15351DF
+отписка
+2 серва распрыгались на компы ,на  сервы прыгнуть не можем зум 179кк но других доменов нет или не можем найти
+2021-03-26 17:34:24.922787	twin	ramon	там всего 2 серва
+2021-03-26 18:28:46.176609	twin	ramon	там всего 2 серва
+2021-04-28 14:45:59.056646	ramon	twin	ky
+2021-04-28 17:20:09.010129	ramon	twin	ky
+2021-05-17 16:27:36.603949	ramon	twin	hey
+2021-05-17 16:27:36.604639	ramon	twin	man
+2021-05-17 16:27:47.917355	ramon	twin	tyt?
+2021-05-17 16:28:18.055121	twin	ramon	да
+2021-05-17 16:30:59.760620	ramon	twin	otr
+2021-05-17 16:30:59.764505	ramon	twin	raboet?
+2021-05-17 16:31:07.847342	ramon	twin	def v sety y teaby?
+2021-05-17 16:31:07.897322	ramon	twin	moejsh' bnapsit' emy
+2021-05-17 16:31:32.457345	ramon	twin	i mne skinyt'
+2021-05-17 16:31:32.950189	ramon	twin	novie
+2021-05-17 16:31:41.922616	twin	ramon	новые что?
+2021-05-17 16:31:48.065372	twin	ramon	жабу новую надо?

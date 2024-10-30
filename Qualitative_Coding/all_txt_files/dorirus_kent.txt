@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-09-22 15:41:39.661889	kent	dorirus	Привет
+2020-10-01 11:22:22.904392	kent	dorirus	привет

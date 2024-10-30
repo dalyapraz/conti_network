@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-11-27 17:00:42.396801	pin	dandis	привет

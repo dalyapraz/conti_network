@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-10-03 08:28:29.362078	mango	swift	привет зп

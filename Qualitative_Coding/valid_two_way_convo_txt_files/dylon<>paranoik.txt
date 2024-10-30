@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-10-13 17:51:48.900882	dylon	paranoik	bro gotovi?
+2021-11-11 17:18:25.876996	paranoik	dylon	тут?

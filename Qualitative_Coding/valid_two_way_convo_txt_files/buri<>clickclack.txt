@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2020-06-22 16:35:41.596030	clickclack	buri	привет !
+2020-06-22 16:35:42.198353	clickclack	buri	Pixel 4 XL (128GB, Just Black, Unlocked)
+Pixel 4 XL (64GB, Just Black, Unlocked)
+2020-06-22 16:35:44.997164	clickclack	buri	такое возьмешь?
+2020-07-08 16:21:52.984952	buri	clickclack	https://logdog.pw/?Xp9Jii
+2020-07-08 16:21:54.613358	buri	clickclack	ti kak?
+2020-07-08 16:34:26.805330	buri	clickclack	https://logdog.pw/?Xp9Jii
+2020-07-08 16:34:26.808739	buri	clickclack	ti kak?
+2020-09-07 21:36:09.486852	buri	clickclack	https://privnote.com/21L4AlCu#iybwuWNT7
+2020-09-08 09:58:18.598266	buri	clickclack	https://privnote.com/21L4AlCu#iybwuWNT7
+2020-09-28 17:19:53.464836	clickclack	buri	тут?
+2020-09-28 17:19:53.466066	buri	clickclack	тут?

@@ -1,0 +1,27 @@
+Timestamp	From	To	Message
+2020-07-28 11:41:16.489142	professor	deploy	привет)
+2020-07-28 11:41:21.228826	professor	deploy	я вернулся) ты скучал? = )
+2020-07-28 11:41:48.654728	deploy	professor	Привет бро)
+2020-07-28 11:42:06.470864	deploy	professor	Иногда да!)
+2020-07-28 11:42:14.045183	deploy	professor	Как дела?
+2020-07-28 11:42:25.500622	deploy	professor	В отпуске был?
+2020-07-28 11:43:01.068086	professor	deploy	да на недельку отваливался) но уже тут))
+2020-07-28 11:43:20.531873	deploy	professor	Хорошо отдохнул?
+2020-07-28 11:45:05.615965	professor	deploy	ну так... мало))) но хорошо)
+2020-07-28 12:01:39.723116	professor	deploy	сможешь дллку собрать вот с такой точкой входа
+2020-07-28 12:01:46.775745	professor	deploy	
+» Библиотека, полученная по командам 3 и 4, запускается на выполнение программой rundll32.exe, точка входа Control_RunDLL
+» 
+» образец:
+» #ifdef __cplusplus    // Если используется код C++, 
+» extern "C" {          // мы должны экспортировать C-интерфейс
+» #endif
+»       __declspec(dllexport) void WINAPI Control_RunDLL(HWND hwnd, HINSTANCE hinst, char* lpszCmdLine, int nCmdShow)
+»       {
+»             ...
+»             ...
+»             ...
+»       }
+» #ifdef __cplusplus    // Если используется код C++, 
+» }          // мы должны экспортировать C-интерфейс
+» #endif

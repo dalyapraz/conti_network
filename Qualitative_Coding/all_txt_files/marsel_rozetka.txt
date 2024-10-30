@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2020-09-22 14:28:03.704833	rozetka	marsel	hi
+2020-09-22 19:45:33.596613	marsel	rozetka	Download: https://qaz.im/load/TA3bnN/7ebbZY
+Delete: https://qaz.im/index.php?a=delete&q=1223188473
+2020-09-22 19:45:39.050304	marsel	rozetka	Password 123
+2020-09-27 11:13:53.931933	marsel	rozetka	Download: https://qaz.im/load/TA3bnN/7ebbZY
+Delete: https://qaz.im/index.php?a=delete&q=1223188473
+2020-09-27 11:13:53.933240	marsel	rozetka	Password 123
+2020-10-06 17:06:33.994122	rozetka	marsel	Привет
+2020-10-13 22:01:40.622699	marsel	rozetka	Download: https://qaz.im/load/FD3faD/G6Dzht
+Delete: https://qaz.im/index.php?a=delete&q=250942006
+2020-10-13 22:01:45.762563	marsel	rozetka	Пас 123
+2020-11-11 20:00:55.477460	rozetka	marsel	привет

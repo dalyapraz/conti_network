@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-12-28 09:36:35.694327	pumba	starfall	привет
+2022-01-13 07:45:37.145747	pumba	starfall	привет
+2022-01-13 07:45:44.537864	pumba	starfall	панель умерла

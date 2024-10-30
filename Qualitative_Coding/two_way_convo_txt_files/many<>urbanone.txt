@@ -1,0 +1,12 @@
+Timestamp	From	To	Message
+2020-08-03 13:40:37.044864	many	urbanone	
+тут?
+2020-08-03 13:42:58.397580	urbanone	many	
+тут?
+2020-08-14 21:42:44.522124	urbanone	many	красава
+2020-08-17 12:27:22.394908	urbanone	many	красава
+2020-08-27 10:25:58.353616	many	urbanone	все бро
+2020-08-27 10:26:01.001655	many	urbanone	все наладил
+2020-08-31 14:13:05.725679	many	urbanone	ку док?
+2020-08-31 18:30:53.368938	many	urbanone	тут?
+2020-08-31 18:31:02.965148	many	urbanone	тут?

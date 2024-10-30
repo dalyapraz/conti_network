@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-06-22 18:35:24.297382	revers	kevin	tyt ?
+2020-06-22 18:37:02.974498	revers	kevin	я от альтера

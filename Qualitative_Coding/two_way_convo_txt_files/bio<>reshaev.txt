@@ -1,0 +1,79 @@
+Timestamp	From	To	Message
+2021-11-03 09:14:48.586505	bio	reshaev	я его добавил, но пока его нет в сети
+2021-11-03 09:14:54.499325	bio	reshaev	или не видно во всяком случае
+2021-11-03 20:18:36.634832	bio	reshaev	все норм, в работу вступил!
+2021-11-03 20:20:17.313456	bio	reshaev	все норм, в работу вступил!
+2021-11-03 20:20:31.761308	reshaev	bio	:yes:
+2021-11-08 05:24:05.895414	bio	reshaev	привет
+2021-11-08 05:24:08.372094	bio	reshaev	тут?
+2021-11-08 05:24:41.828607	reshaev	bio	Привет
+2021-11-08 05:24:42.265620	reshaev	bio	Да
+2021-11-10 07:54:30.604442	bio	reshaev	привет
+2021-11-10 07:54:40.200727	bio	reshaev	ты кошелек кинул в чате?
+2021-11-10 15:41:37.023901	bio	reshaev	тут?
+2021-11-10 15:41:45.583128	bio	reshaev	декрипт файлов сделаешь?
+2021-11-12 12:44:37.687206	bio	reshaev	привет
+2021-11-12 12:45:01.153866	bio	reshaev	CTYXIDg4ep2FpdCyQkpBew8yiMxwwL1vgR1Wz1fOv3sfUNmi8loTOLTcZRlrtrK2
+2021-11-12 12:45:03.479487	bio	reshaev	оплатили нам
+2021-11-12 12:45:10.372472	bio	reshaev	просят помощи
+2021-11-12 17:02:43.518190	bio	reshaev	трампа нет, подскажи еще момент пожалуйста
+2021-11-12 17:03:19.239063	bio	reshaev	вот этой конторы ID: DeKqFnPwRxx9InxLeeIrMqt6v0jlmwGjVMbxb03sbKo17muEWYbvUWYHwvhVRBeA
+2021-11-12 17:03:35.907752	bio	reshaev	нужен link  на сайт
+2021-11-12 17:03:58.458177	bio	reshaev	можешь посмотреть где-нибудь
+2021-11-12 17:04:32.235121	bio	reshaev	?
+2021-11-12 17:06:50.622198	reshaev	bio	У меня нету
+2021-11-12 17:06:53.875312	reshaev	bio	Жди трампа
+2021-11-12 17:07:08.228495	bio	reshaev	понял, извиняй
+2021-11-14 12:03:03.069545	bio	reshaev	привет
+2021-11-14 12:04:55.653066	bio	reshaev	там в Пт трамп про ЗП говорил
+2021-11-18 16:10:16.549345	bio	reshaev	привет
+2021-11-18 16:10:20.155273	bio	reshaev	чат работает?
+2021-11-18 16:10:29.088214	bio	reshaev	не открывает его вообще
+2021-11-18 16:13:26.686916	reshaev	bio	Server v offline ushel
+2021-11-18 16:13:37.140109	bio	reshaev	понял
+2021-11-18 16:41:33.388169	reshaev	bio	nas lomanuli
+2021-11-18 16:50:32.463896	bio	reshaev	пиздец...беда
+2021-11-18 16:51:00.509468	bio	reshaev	восстановим?
+2021-11-18 16:51:15.320363	reshaev	bio	Etu adminku s koncami proebali
+2021-11-18 16:51:29.205515	bio	reshaev	ну бекап хоть был?
+2021-11-18 16:51:42.423723	reshaev	bio	Chego?
+2021-11-18 16:51:51.792881	bio	reshaev	переписок
+2021-11-18 16:52:17.201332	bio	reshaev	т.е. не восстановим переписки?
+2021-11-18 16:52:25.982507	reshaev	bio	net
+2021-11-18 16:52:40.980230	reshaev	bio	U nas kluchi spizdili
+2021-11-18 16:52:48.170462	reshaev	bio	torovskie
+2021-11-18 16:52:55.377064	reshaev	bio	nam seychas podnimat na etih je ne variant
+2021-11-18 16:53:37.346551	bio	reshaev	ну так понятно. поднять и сделать бекап периписок и удалить нахуй. не сможем?
+2021-11-18 16:53:59.269071	reshaev	bio	ne vse server uje musora skoree vsego zahvatili
+2021-11-18 16:54:27.069077	bio	reshaev	нас не выщемят через сервер?
+2021-11-18 16:54:38.516437	reshaev	bio	hz)
+2021-11-18 16:54:56.070321	bio	reshaev	ну ты шутник блин
+2021-11-18 16:55:21.179875	reshaev	bio	eto ne shutka ip servera oni kak to cherez tor nashli
+2021-11-18 16:55:34.873718	reshaev	bio	hotya mojet gde to utechka bila hz
+2021-11-18 16:55:49.565989	reshaev	bio	hotya ya dumau u menya bi uje maski show bilo
+2021-11-18 16:55:53.337297	bio	reshaev	жопа, нужно концы чистить
+2021-11-18 16:58:08.956814	bio	reshaev	ладно, жабу записываю твою и трампа, ноут в мусорку
+2021-11-18 16:58:17.575142	bio	reshaev	вариантов нет
+2021-11-18 16:58:22.045042	reshaev	bio	ahahah
+2021-11-18 17:00:19.472325	bio	reshaev	))
+2021-11-18 17:00:28.677362	bio	reshaev	короче восстанавливай хоть что-нить
+2021-11-18 17:00:33.651349	bio	reshaev	клиентов назад вернем
+2021-11-18 17:00:49.527340	reshaev	bio	da ne zagonyaisya k nam bi uje prishli
+2021-11-18 17:01:39.392599	bio	reshaev	ок
+2021-11-18 17:22:12.967013	bio	reshaev	а в какое время ломанули то?
+2021-11-18 17:23:14.193758	reshaev	bio	Ne izvestno
+2021-11-18 17:23:22.788980	reshaev	bio	No ya dumau dostatochno dolgo oni tam sideli
+2021-11-18 17:23:51.306662	bio	reshaev	охуеть
+2021-11-18 17:24:31.030310	bio	reshaev	что теперь?
+2021-11-18 17:24:43.391732	reshaev	bio	novoe vse podnomyat buden
+2021-11-18 17:24:58.007088	reshaev	bio	u nas adminka kak raz uje novya vrode gorova doljna bit
+2021-11-18 17:25:15.848854	reshaev	bio	zavtra u codera utochnu
+2021-11-18 17:25:29.827366	bio	reshaev	а уязвимость то известна через которую ломанули?
+2021-11-18 17:25:43.021104	bio	reshaev	есть хотябы предположение как?
+2021-11-18 17:26:08.218939	reshaev	bio	Ne izvestno
+2021-11-19 18:19:31.076038	bio	reshaev	привет
+2021-11-19 18:19:33.041964	bio	reshaev	тут?
+2021-11-19 19:29:53.350221	bio	reshaev	тут?
+2021-11-19 19:29:53.350657	bio	reshaev	привет
+2021-11-19 19:30:00.223093	reshaev	bio	da
+2021-11-19 19:30:43.271004	bio	reshaev	может подскажешь

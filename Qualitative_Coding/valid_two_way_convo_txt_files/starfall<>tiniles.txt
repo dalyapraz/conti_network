@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-12-15 12:52:35.025518	tiniles	starfall	привет
+2021-12-15 12:52:37.945302	starfall	tiniles	Привет, писал?

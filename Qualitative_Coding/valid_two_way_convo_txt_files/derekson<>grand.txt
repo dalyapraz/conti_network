@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2022-02-03 13:50:20.164072	grand	derekson	бро привет, я от грина
+2022-02-03 13:57:57.633726	derekson	grand	привет
+2022-02-22 08:45:35.394457	derekson	grand	привет

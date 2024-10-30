@@ -1,0 +1,6 @@
+Timestamp	From	To	Message
+2021-06-24 12:55:34.748409	grajdanin	dylon	1O0+4OI = ?
+2021-06-28 11:40:57.304729	grajdanin	dylon	1O0+4OI = ?
+2021-06-28 11:45:48.752847	dylon	grajdanin	501
+2021-06-28 17:13:38.751229	dylon	grajdanin	501
+2021-06-28 17:13:50.655383	grajdanin	dylon	Congratulations! Now you can chat!

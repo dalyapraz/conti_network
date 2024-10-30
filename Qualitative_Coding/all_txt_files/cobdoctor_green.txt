@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-10-14 13:16:38.093351	cobdoctor	green	привет
+2020-11-04 16:41:01.517183	cobdoctor	green	привет
+2020-11-04 16:41:17.192701	green	cobdoctor	привет

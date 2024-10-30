@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2020-07-06 17:00:51.582261	bill	doomsday	тук-тук
+2020-07-06 17:00:51.583439	doomsday	bill	тук-тук
+2020-07-07 12:32:01.090573	bill	doomsday	привет
+2020-07-07 12:32:01.091975	doomsday	bill	привет

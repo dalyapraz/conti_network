@@ -1,0 +1,6 @@
+Timestamp	From	To	Message
+2021-11-24 10:13:59.115828	cherry	braun	приё
+2021-11-24 11:15:04.301884	braun	cherry	ку
+2021-11-24 15:21:40.647178	braun	cherry	прием
+2021-11-24 15:23:48.814256	braun	cherry	11
+2021-11-24 15:24:48.316325	braun	cherry	1111

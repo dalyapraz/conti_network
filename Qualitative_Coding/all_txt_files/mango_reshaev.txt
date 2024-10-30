@@ -1,0 +1,117 @@
+Timestamp	From	To	Message
+2020-09-19 10:03:58.031013	reshaev	mango	Привет
+2021-03-03 17:57:10.653647	mango	reshaev	привет
+2021-03-03 17:57:15.039829	mango	reshaev	мне надо локер получить
+2021-03-03 17:57:21.680087	mango	reshaev	стерн сказал у тебя акк запросить
+2021-03-06 18:49:03.531492	mango	reshaev	привет, вот у меня ребята локер запустили на одной сетке - сижу теперь жду как в панель кто нибудь отпишет?
+2021-03-06 18:59:28.900880	mango	reshaev	они просят еще 3-4 билда
+2021-03-17 15:19:38.725476	mango	reshaev	дядь
+2021-03-17 15:19:40.115509	mango	reshaev	привет
+2021-03-23 07:36:07.905726	mango	reshaev	ебать как так то...
+2021-04-09 07:52:16.921792	reshaev	mango	макни как будешь
+2021-04-09 08:20:28.573967	reshaev	mango	Я зайду часа в 3-4 и давай дотестим соксы
+2021-04-09 09:48:25.652312	reshaev	mango	макни как будешь
+2021-04-09 09:48:25.652750	reshaev	mango	Я зайду часа в 3-4 и давай дотестим соксы
+2021-04-09 09:49:10.073590	mango	reshaev	привет оке  я тут
+2021-04-09 13:34:38.693047	mango	reshaev	привет оке  я тут
+2021-04-09 13:35:02.759454	mango	reshaev	привет я на связи бро
+2021-04-09 13:35:18.145108	mango	reshaev	After 3 days we will delete this chat with the subsequent blocking of your ID.  - эт ты в диалоге писал?
+2021-04-09 13:35:24.744385	reshaev	mango	да
+2021-04-09 13:35:27.091183	reshaev	mango	привет
+2021-04-09 13:35:35.461744	reshaev	mango	Они ответили че нить?
+2021-04-09 13:35:42.278945	mango	reshaev	я думаю это лишнее было) они же отписали что кредит ждут..
+2021-04-09 13:35:49.221800	mango	reshaev	там не быстро это неделя - две..
+2021-04-09 13:35:54.595958	reshaev	mango	Бля
+2021-04-09 13:35:56.600998	mango	reshaev	они вот даже не заходили эти 3 дня в беседу
+2021-04-09 13:36:03.438655	reshaev	mango	Скрой тогда сообщение
+2021-04-09 13:36:06.919005	reshaev	mango	hide нажми
+2021-04-09 13:36:14.771657	mango	reshaev	есть(
+2021-04-09 13:36:15.745058	mango	reshaev	)
+2021-04-09 13:36:19.782766	mango	reshaev	давай соксы дожмем
+2021-04-09 13:36:22.525435	reshaev	mango	Че запустишь соксы?
+2021-04-09 13:36:28.083232	mango	reshaev	:)
+2021-04-09 13:36:51.077401	mango	reshaev	запускаем 5 мин
+2021-04-09 13:47:52.213751	mango	reshaev	тачки запущены
+2021-04-09 13:47:58.231936	mango	reshaev	что еще надо сделать?
+2021-04-09 13:48:28.686995	reshaev	mango	Запустить сокс модуль через бота
+2021-04-09 13:48:33.475362	reshaev	mango	У дефендера узнай
+2021-04-09 13:59:49.207583	reshaev	mango	Узнал?
+2021-04-09 14:13:51.961466	mango	reshaev	да все запустил
+2021-04-09 14:14:32.131201	reshaev	mango	Ни че нету пока
+2021-04-09 14:14:59.688805	mango	reshaev	ща проверю мин
+2021-04-09 14:17:31.690098	reshaev	mango	У этого чела был доступ к админке?
+2021-04-09 14:17:36.338358	reshaev	mango	Которому ты билды делал
+2021-04-09 14:20:57.223837	mango	reshaev	нет
+2021-04-09 14:21:08.122489	mango	reshaev	ты ж сам сказал после первых 3х выплат
+2021-04-09 14:21:11.932090	mango	reshaev	запустил соксы еще раз
+2021-04-09 14:21:52.027235	reshaev	mango	Можешь логи в админке посмотреть?
+2021-04-09 14:22:10.479317	reshaev	mango	Socks module started должно быть
+2021-04-09 14:45:56.676376	mango	reshaev	момент
+2021-04-09 14:46:01.848224	mango	reshaev	закрыл все уже)
+2021-04-09 14:47:34.531978	mango	reshaev	во
+2021-04-09 14:47:49.573322	mango	reshaev	блин малый который сетку делал и пропал тока что авторизацию кинул)
+2021-04-09 14:47:55.524741	mango	reshaev	как быть я хз даже))))
+2021-05-01 12:31:43.608185	mango	reshaev	шифровальщик бабук на своем сайте заявили что заканчивают свою деятельность, а исходники своего локера выложили в паблик
+2021-05-01 12:31:50.001110	mango	reshaev	в последнее время много шуму тоже наделали
+2021-05-10 19:08:33.481755	mango	reshaev	бро а ты уточнил номера по остальным?
+2021-05-10 21:21:39.751194	mango	reshaev	бро а ты уточнил номера по остальным?
+2021-06-01 16:17:23.755588	mango	reshaev	привет бро
+2021-06-01 16:17:52.947608	mango	reshaev	 mega.io 
+ jydmeszp@sharklasers.com 
+uRF65Fvxo83gTs735Hwqmvu 
+ 
+l.7z qwe123!@#lou 
+l1.7z qwe123!@#lou1 
+
+ loudounmutual -lockerId:0VTAgkVvFOUYm0CpuQDQ9mx6R3LN8CcpdJLYUswCFLFm9nTm5XrCLC1ysEYHqxEK 
+site:loudounmutual.com 
+name:Loudoun Mutual Insurance Company 
+
+
+Надо на сайт кинуть
+2021-06-01 16:19:00.962157	reshaev	mango	привет бро
+2021-06-01 16:19:00.962899	reshaev	mango	 mega.io 
+ jydmeszp@sharklasers.com 
+uRF65Fvxo83gTs735Hwqmvu 
+ 
+l.7z qwe123!@#lou 
+l1.7z qwe123!@#lou1 
+
+ loudounmutual -lockerId:0VTAgkVvFOUYm0CpuQDQ9mx6R3LN8CcpdJLYUswCFLFm9nTm5XrCLC1ysEYHqxEK 
+site:loudounmutual.com 
+name:Loudoun Mutual Insurance Company 
+
+
+Надо на сайт кинуть
+2021-06-02 14:47:36.872854	mango	reshaev	привет
+2021-06-17 20:42:14.368684	mango	reshaev	[resent] site:plastic-surgeon.co.uk; 
+cn:United Kingdom 
+revenue:22kk 
+repairs engineering 
+lock id:0LcTcBoDZ0WNXOAYGmm3vABkkadSkUYZpFNhrCFKQm246X0su9RCxoq3zb8XXKcs 
+[23:38:12] <snowwinter@exploit.im> site plastic-surgeon.co.uk;
+2021-06-18 07:56:50.043318	mango	reshaev	[resent] site:plastic-surgeon.co.uk; 
+cn:United Kingdom 
+revenue:22kk 
+repairs engineering 
+lock id:0LcTcBoDZ0WNXOAYGmm3vABkkadSkUYZpFNhrCFKQm246X0su9RCxoq3zb8XXKcs 
+[23:38:12] <snowwinter@exploit.im> site plastic-surgeon.co.uk;
+2021-06-18 08:01:47.512178	reshaev	mango	Ghbd
+2021-06-18 08:01:49.346962	reshaev	mango	Привет
+2021-06-18 08:01:51.568839	reshaev	mango	Это что?
+2021-06-18 08:11:36.655546	mango	reshaev	привет локнул тип вот сетку еще
+2021-06-18 08:11:55.368755	reshaev	mango	ok
+2021-07-30 14:49:15.142854	mango	reshaev	привет
+2021-07-30 14:49:16.339816	mango	reshaev	[17:38:44] <gorec> привет, отпишите им ок , подождем lwQWojfYdaTOzvDiqWb9rDTP9Y1v0eLAUkD1wQHWvLL1Q3J4XSahQ0OCMPHiZ2v3
+2021-08-02 15:54:28.040500	mango	reshaev	привет
+2021-08-11 05:53:33.877966	mango	reshaev	привет
+2021-08-11 05:53:35.581343	mango	reshaev	[23:00:39] <gorec> привет, попроси отписать кого-то lwQWojfYdaTOzvDiqWb9rDTP9Y1v0eLAUkD1wQHWvLL1Q3J4XSahQ0OCMPHiZ2v3 !
+2021-08-28 13:17:46.009919	reshaev	mango	Давай в понедельник пообщаемся
+2021-08-29 06:28:33.367687	reshaev	mango	Давай в понедельник пообщаемся
+2021-08-31 12:08:40.072777	reshaev	mango	Отпиши как будешь
+2021-08-31 13:23:42.052898	reshaev	mango	Отпиши как будешь
+2021-09-27 08:11:57.901330	mango	reshaev	привет сегодня родим текста все
+2021-09-30 20:13:08.718960	mango	reshaev	а кто спрашивает ?
+2021-10-19 08:18:52.449192	mango	reshaev	привет да пиши как будешь
+2021-11-11 20:51:17.177221	mango	reshaev	по идее нет. но зевс я так понял спамит.. спроси лучше у С
+2021-11-12 07:01:08.211894	mango	reshaev	по идее нет. но зевс я так понял спамит.. спроси лучше у С

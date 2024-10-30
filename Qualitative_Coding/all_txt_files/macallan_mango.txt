@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2022-02-15 16:29:38.093101	macallan	mango	привет!
+2022-02-15 16:29:58.487499	macallan	mango	тут?
+2022-02-15 16:30:31.727168	macallan	mango	я от кибера
+2022-02-17 11:27:27.517200	macallan	mango	привет!
+2022-02-17 11:27:27.526300	macallan	mango	тут?
+2022-02-17 11:27:27.529491	macallan	mango	я от кибера

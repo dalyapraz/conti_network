@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-07-22 16:45:56.837791	ford	valemy	3+3=?
+2021-07-22 16:47:19.302470	valemy	ford	6
+2021-07-22 16:47:20.924387	ford	valemy	Congratulations! Now you can chat!

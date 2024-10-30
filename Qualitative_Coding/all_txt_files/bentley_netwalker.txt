@@ -1,0 +1,411 @@
+Timestamp	From	To	Message
+2021-04-16 07:19:49.821832	bentley	netwalker	Доброго дня.
+2021-04-16 08:07:02.724205	bentley	netwalker	я по поводу ботов
+2021-04-19 16:38:23.819841	bentley	netwalker	Привет.
+2021-04-26 09:19:57.247163	bentley	netwalker	Доброго дня. готов ехель
+2021-04-26 09:19:57.248048	bentley	netwalker	Download: https://qaz.im/load/tR37RF/8DQ5eb   
+Delete: https://qaz.im/index.php?a=delete&q=1926224143
+пас: 123321 
+1К файлов
+2021-04-26 09:20:50.139366	netwalker	bentley	+
+2021-04-26 09:21:12.453581	bentley	netwalker	Как в пятницу прошло?
+2021-04-27 10:22:37.410164	bentley	netwalker	Првиет. Готов сегодняшний ехель
+2021-04-27 10:23:07.991460	bentley	netwalker	Download: https://qaz.im/load/HiEfzY/4B2F8f   
+Delete: https://qaz.im/index.php?a=delete&q=12365457
+pass: 123321
+2021-04-27 10:23:15.218659	bentley	netwalker	1K exel
+2021-04-27 11:15:57.997114	bentley	netwalker	Првиет. Готов сегодняшний ехель
+2021-04-27 11:15:57.999730	bentley	netwalker	Download: https://qaz.im/load/HiEfzY/4B2F8f   
+Delete: https://qaz.im/index.php?a=delete&q=12365457
+pass: 123321
+2021-04-27 11:15:58.001278	bentley	netwalker	1K exel
+2021-04-27 14:16:37.070227	bentley	netwalker	Привет. Пришел линк на сегодняшний ехель?
+2021-04-27 14:43:18.984649	netwalker	bentley	+
+2021-04-27 14:43:33.011662	bentley	netwalker	Хорошо.
+2021-04-28 11:20:52.029989	bentley	netwalker	Добрый день. Готов ехель
+2021-04-28 11:20:52.468622	bentley	netwalker	 Download: https://qaz.im/load/43HBQ2/ysa46b   
+  Delete: https://qaz.im/index.php?a=delete&q=1965148773
+
+  
+123321
+2021-04-28 11:27:22.349134	netwalker	bentley	+
+2021-04-29 12:29:07.776844	bentley	netwalker	Добрый день. готов ехель
+2021-04-29 12:29:09.080466	bentley	netwalker	 Download: https://qaz.im/load/ttsDhY/bStQiE   
+   Delete: https://qaz.im/index.php?a=delete&q=594088065
+
+   
+123321 1K
+2021-04-29 12:42:12.830256	netwalker	bentley	+
+2021-04-30 10:38:48.424196	bentley	netwalker	Добрый день. Готов ехель
+2021-04-30 10:38:50.176451	bentley	netwalker	 Download: https://qaz.im/load/n6B6KD/3iQ2n8   
+   Delete: https://qaz.im/index.php?a=delete&q=1686375644
+
+   
+123321
+2021-04-30 10:38:51.807530	bentley	netwalker	1К
+2021-04-30 16:10:11.145131	bentley	netwalker	 Готов доступ к админке (хранилищу) 
+[19:09:18] <bentley> https://dnog7cgicmkrvugrfxexo34gikjbr54sd5skxj4r42aj4tuy2hjsw6qd.onion 
+[19:09:34] <bentley> nskle
+https://1ty.me/DkRNCL
+2021-04-30 16:10:29.669960	bentley	netwalker	Пришло?
+2021-04-30 16:11:42.581733	netwalker	bentley	ето что ?
+2021-04-30 16:11:49.535267	netwalker	bentley	а понял супер
+2021-04-30 16:12:01.039386	bentley	netwalker	да проверь пож. что там боты есть
+2021-04-30 16:26:32.568466	netwalker	bentley	Ботов не вижу)
+2021-04-30 16:26:39.978337	netwalker	bentley	я просто не юзал еще эту админку
+2021-04-30 16:26:42.342596	bentley	netwalker	вообще?
+2021-04-30 16:27:04.914378	netwalker	bentley	а нет что то есть
+2021-04-30 16:27:10.455615	bentley	netwalker	ок
+2021-04-30 16:27:19.709040	netwalker	bentley	Зас разберусь там не много)
+2021-04-30 16:27:35.350399	bentley	netwalker	Хорошо. сегодня net8
+2021-04-30 16:56:12.175830	netwalker	bentley	без внц да ?
+2021-04-30 16:56:23.066126	netwalker	bentley	а как боту кобу прогрузить?
+2021-04-30 16:56:45.799501	bentley	netwalker	А в чем коба?
+2021-04-30 16:57:07.470082	netwalker	bentley	ехе длл или пш
+2021-04-30 16:58:06.478259	bentley	netwalker	<hof> нажать на кнопку запуска длл, ввести линк на файл длл, и функция вызова, например DllRegisterServer
+[27.04.2021 10:41:30] <bentley> А линк как сделать?
+[27.04.2021 10:41:41] <hof> залить на любой фтп
+2021-04-30 18:55:18.417912	netwalker	bentley	внц нету да ?
+2021-04-30 18:55:37.343190	bentley	netwalker	Должно быть
+2021-04-30 18:55:44.492513	bentley	netwalker	в карточке бота
+2021-04-30 18:56:25.415549	netwalker	bentley	сокс запус вижу внц нет
+2021-04-30 18:57:02.213912	bentley	netwalker	Щас спрошу у админа
+2021-04-30 19:13:04.540440	bentley	netwalker	никого нет уже.
+2021-04-30 19:45:48.575693	bentley	netwalker	Сделали.
+2021-04-30 19:45:51.459445	bentley	netwalker	 там в карточке бота появилась строка старт внц и опен
+но нужен вьюер
+это через стерна
+2021-04-30 19:47:00.532872	netwalker	bentley	+
+2021-04-30 19:52:10.519092	netwalker	bentley	его уже седня не будет ?
+2021-04-30 19:52:25.637709	bentley	netwalker	Написал ему.
+2021-04-30 19:53:48.915905	netwalker	bentley	а он в сети ?
+2021-04-30 19:53:58.134470	bentley	netwalker	Нет
+2021-04-30 19:54:11.085009	netwalker	bentley	понял) я просто сеодня разминулся с ним
+2021-05-04 10:17:40.678381	bentley	netwalker	Добрый день. готов ехель
+2021-05-04 10:17:41.963502	bentley	netwalker	  Download: https://qaz.im/load/B6zbzH/bHS9RD   
+   Delete: https://qaz.im/index.php?a=delete&q=1171011028
+
+   
+123321 1К
+2021-05-04 12:42:34.094237	bentley	netwalker	Добрый день. готов ехель
+2021-05-04 12:42:34.095262	bentley	netwalker	  Download: https://qaz.im/load/B6zbzH/bHS9RD   
+   Delete: https://qaz.im/index.php?a=delete&q=1171011028
+
+   
+123321 1К
+2021-05-04 12:42:50.380841	netwalker	bentley	+
+2021-05-06 19:06:34.205322	netwalker	bentley	Дядька мой
+2021-05-06 19:06:35.072035	netwalker	bentley	Смотри вопрос такой
+2021-05-07 10:04:31.588657	bentley	netwalker	Добрый день. Готов ехель с БК 1к копий с разными хешами и другая админка
+2021-05-07 10:04:42.120631	bentley	netwalker	Админка:
+2021-05-07 10:05:10.945201	bentley	netwalker	https://privnote.com/stJgPQB6#5sE2ipnfk
+2021-05-07 10:06:07.002122	bentley	netwalker	Логин: b15
+2021-05-07 10:06:31.854041	bentley	netwalker	Пароль: https://privnote.com/kGnTbCHH#We82kxmfV
+2021-05-07 10:07:17.026526	bentley	netwalker	  Download: https://qaz.im/load/sb5n9T/tF9RDd   
+   Delete: https://qaz.im/index.php?a=delete&q=945582404
+
+   
+123321 1K
+2021-05-07 10:07:46.615536	bentley	netwalker	группа БК 15
+2021-05-07 14:30:23.993879	bentley	netwalker	Приходило?
+2021-05-07 14:30:54.504078	netwalker	bentley	+
+2021-05-10 12:34:41.617973	bentley	netwalker	Доброго дня. Готова сборка ехелей  БК группа 15
+2021-05-10 12:34:43.160572	bentley	netwalker	Download: https://qaz.im/load/57dB3z/6ATR73   
+Delete: https://qaz.im/index.php?a=delete&q=634558826
+123321
+1K
+2021-05-10 13:41:53.790421	netwalker	bentley	priv
+2021-05-10 13:41:55.127067	netwalker	bentley	+
+2021-05-11 11:51:23.397616	bentley	netwalker	Готов ехель с БК
+2021-05-11 11:51:25.212100	bentley	netwalker	 Download: https://qaz.im/load/G76EKe/SFBAdZ   
+  Delete: https://qaz.im/index.php?a=delete&q=966698674
+
+  
+123231
+1К
+2021-05-12 12:13:23.714174	bentley	netwalker	Добрый день.готовы ехели
+2021-05-12 12:13:23.715991	bentley	netwalker	  Download: https://qaz.im/load/49QiGQ/7bdNe6   
+  Delete: https://qaz.im/index.php?a=delete&q=100837669
+
+  
+123321
+2021-05-12 12:13:30.100237	bentley	netwalker	net15 Трик
+2021-05-13 13:10:26.709483	bentley	netwalker	Добрый день. Готов ехель 1к Группа net16
+2021-05-13 13:10:27.990571	bentley	netwalker	  Download: https://qaz.im/load/E29Etk/f37ab8   
+  Delete: https://qaz.im/index.php?a=delete&q=1359541035
+
+  
+123321 1К
+2021-05-13 16:39:02.278384	netwalker	bentley	nen&
+2021-05-13 16:39:03.428334	netwalker	bentley	тут?
+2021-05-13 16:39:11.232157	bentley	netwalker	Да
+2021-05-13 16:39:18.909313	netwalker	bentley	Прив братиш
+2021-05-13 16:39:25.068080	netwalker	bentley	тебе щас видно норм боты идут или шлак ?
+2021-05-13 16:39:31.153657	netwalker	bentley	какой примерно отстук с админкой ?)
+2021-05-13 16:39:35.595012	netwalker	bentley	а то туда что то ничего не приходит)
+2021-05-13 16:39:42.886152	bentley	netwalker	щас гляну в стату
+2021-05-13 16:40:48.630631	bentley	netwalker	10437177 	BZQEKOXFVINZLSH_W629200.F43FE097769B17A28BBAE29198866EDD 	net16 	2021-05-13 16:04:19 	2021-05-13 16:37:45 	Windows 8 x64 	218.214.92.107 	AU 	22
+2021-05-13 16:40:55.167472	bentley	netwalker	
+10439537 	AQKSPORVUWDDIIH_W10010240.373DB653127865BE61B876BF3F537718 	net16 	2021-05-13 16:36:14 	2021-05-13 16:36:19 	Windows 10 x64 	185.232.23.77 	DE 	10
+10437177 	BZQEKOXFVINZLSH_W629200.F43FE097769B17A28BBAE29198866EDD 	net16 	2021-05-13 16:04:19 	2021-05-13 16:37:45 	Windows 8 x64 	218.214.92.107 	AU 	22
+10439676 	GBROWN_W10015063.3ABB2A4573FB17847BB6355310BB127D 	net16 	2021-05-13 16:37:55 	2021-05-13 16:38:00 	Windows 10 x64 	51.132.66.157 	GB 	10
+10439756 	DESKTOP-D019GDM_W10018363.84E51488BB307931B77D73BB95037E78 	net16 	2021-05-13 16:38:44 	2021-05-13 16:38:47 	Windows 10 x64 	87.166.57.137 	DE 	10
+10439770 	DESKTOP-D019GDM_W10018363.655322BB31955FFB6BC5F348615D8733 	net16 	2021-05-13 16:38:53 	2021-05-13 16:38:56 	Windows 10 x64 	87.166.57.142 	DE 	10
+10434582 	GBOEQXCC_W617601.94AC352C4F58C6BDC82F9C283164A7D4 	net16 	2021-05-13 15:31:12 	2021-05-13 16:38:58 	Windows 7 x64 SP1 	154.61.71.53 	US 	37
+10436546 	GOQVFARJHVNLGR_W617601.17BC3BB6EF3B92F77F77DDF1B3BE17DF 	net16 	2021-05-13 15:55:25 	2021-05-13 16:39:03 	Windows 7 x64 SP1 	79.112.76.251 	RO 	22
+10439799 	DESKTOP-D019GDM_W10018363.70F3BF2633BB03BB9653B132B3B1EFF1 	net16 	2021-05-13 16:39:09 	2021-05-13 16:39:13 	Windows 10 x64 	92.211.109.159 	DE 	10
+10437205 	LHYZNMD_W617601.3BE1B3FC8BB337BBFFD97D69F351E77D 	net16 	2021-05-13 16:05:02 	2021-05-13 16:39:18 	Windows 7 x64 SP1 	118.127.59.83 	AU 	22
+10439821 	DESKTOP-D019GDM_W10018363.BC6713DFBB79599FAA9BB1C7B5D8AF18 	net16 	2021-05-13 16:39:23 	2021-05-13 16:39:31 	Windows 10 x64 	87.166.57.142 	DE 	10
+10439829 	DESKTOP-D019GDM_W10018363.DB315B3FBBFABBFFE7C62F5FBBA023F3 	net16 	2021-05-13 16:39:28 	2021-05-13 16:39:32 	Windows 10 x64 	92.211.110.162 	DE 	10
+10436285 	PGAOVMHEQPSNYU_W617601.324BB9E53B55FFBDB937DE33BD97D593 	net16 	2021-05-13 15:51:56 	2021-05-13 16:39:46 	Windows 7 x64 SP1 	37.235.53.46 	ES 	22
+10436651 	EKZHJ_W617601.37017FC57FB9397737BBA2F55247B72B 	net16 	2021-05-13 15:57:08 	2021-05-13 16:39:56 	Windows 7 x64 SP1 	31.210.111.142 	TR 	22
+10439894 	DESKTOP-D019GDM_W10018363.B770FB5F7E69D33BB5A5737CBBF85C3D 	net16 	2021-05-13 16:40:01 	2021-05-13 16:40:04 	Windows 10 x64 	92.211.110.162 	DE 	10
+10433643 	USER-PC_W617601.B927BB5993B533F16143B85AF3C3B7F6 	net16 	2021-05-13 15:19:27 	2021-05-13 16:40:07 	Windows 7 x64 SP1 	65.119.186.242 	US 	22
+10439939 	DESKTOP-D019GDM_W10018363.B1D9B2BB058DFD163B7FB3BFB385B23D 	net16 	2021-05-13 16:40:18 	2021-05-13 16:40:21 	Windows 10 x64 	92.211.110.162 	DE 	10
+10439943 	DESKTOP-D019GDM_W10018363.BBDFC130ABAFFB34B172403B2CF5192B 	net16 	2021-05-13 16:40:19 	2021-05-13 16:40:21 	Windows 10 x64 	92.211.109.159 	DE 	10
+10437053 	DANNY-107_W617601.783773CDD12B3B38D7B30D7B33BB9544 	net16 	2021-05-13 16:02:13 	2021-05-13 16:40:23 	Windows 7 x64 SP1 	173.220.69.202 	US 	22
+10439956 	CQNNY_W629200.F857BB1177D564BBFD6319427F7A615B 	net16 	2021-05-13 16:40:23 	2021-05-13 16:40:23 	Windows 8 x64 	194.99.106.98 	DE 	10
+10436536 	COGK_W617601.39B771E533BCCF938677B283DBA9BBFF 	net16 	2021-05-13 15:55:18 	2021-05-13 16:40:24 	Windows 7 x64 SP1 	172.111.149.148 	PA 	22
+10439952 	DESKTOP-D019GDM_W10018363.45138B7BB03E0DD7BEBFB7463967B3B3 	net16 	2021-05-13 16:40:21 	2021-05-13 16:40:25 	Windows 10 x64 	92.211.109.159 	DE 	10
+10439967 	Emily_W10010240.867FA461192C330201D6CFF7AC1DD2E0 	net16 	2021-05-13 16:40:27 	2021-05-13 16:40:27 	Windows 10 x64 	3.11.85.34 	US 	10
+2021-05-13 16:41:11.997127	netwalker	bentley	я встате вижу да
+2021-05-13 16:41:18.755743	netwalker	bentley	там вроде как если 22+ то это бот
+2021-05-13 16:41:24.796271	netwalker	bentley	или не факт ?
+2021-05-13 16:41:30.796408	bentley	netwalker	да. они должны попадать
+2021-05-13 16:41:46.559538	netwalker	bentley	угу а в админке пусто)
+2021-05-13 16:42:01.181953	netwalker	bentley	ну посморич что в конце получиться
+2021-05-13 16:42:09.567853	bentley	netwalker	А по другим группам есть боты?
+2021-05-13 16:42:15.409508	netwalker	bentley	+
+2021-05-13 16:42:26.093123	bentley	netwalker	только 16 нет да?
+2021-05-13 16:42:48.157498	netwalker	bentley	+
+2021-05-13 16:42:59.468747	netwalker	bentley	мб еще каких старых
+2021-05-13 16:43:05.018453	netwalker	bentley	но там небыло почти ботов
+2021-05-13 16:44:13.754906	bentley	netwalker	zcyj
+2021-05-13 16:44:15.608114	bentley	netwalker	ясно
+2021-05-13 16:44:20.307120	bentley	netwalker	отписал дефу
+2021-05-13 16:53:32.395721	bentley	netwalker	Загимается.
+2021-05-14 11:36:08.805917	bentley	netwalker	Доброго дня. Готовы ехели
+2021-05-14 11:36:11.456792	bentley	netwalker	 Download: https://qaz.im/load/6zQd9F/Qf4yns   
+   Delete: https://qaz.im/index.php?a=delete&q=673089446
+
+   
+123321 1К
+2021-05-14 11:36:17.092419	bentley	netwalker	Группа net17
+2021-05-14 11:41:30.174948	netwalker	bentley	Вы можете сделать хлс на мой линк?
+могу оплатить если критично.
+Чтоб лоадер прогрузить свой сначала. А там уже вам перекинуть нужных.
+2021-05-14 11:41:33.289565	netwalker	bentley	спамер спрашивает
+2021-05-14 11:42:14.032009	bentley	netwalker	Давай линк. Что у тебя по нему закпускается и как?
+2021-05-14 11:42:19.827328	bentley	netwalker	Да можем
+2021-05-14 11:42:34.700022	bentley	netwalker	Надо разобратьсся только с нагрузкой что и как запустить
+2021-05-17 15:07:30.584584	bentley	netwalker	Приходило, бро?
+2021-05-17 15:07:32.075713	bentley	netwalker	Ехели
+2021-05-17 15:07:45.352156	netwalker	bentley	+
+2021-05-17 15:08:33.929230	bentley	netwalker	Ок
+2021-05-17 15:08:38.710883	bentley	netwalker	Хорошей охоты
+2021-05-17 15:08:48.036753	netwalker	bentley	спс бро
+2021-05-20 17:26:59.061500	bentley	netwalker	Готово
+2021-05-20 17:26:59.610469	bentley	netwalker	LDfh927348fnklsjdnlgkj3n4g
+2021-05-20 17:27:04.022968	bentley	netwalker	https://privatlab.com/s/v/9m5D6Z2wNRieZyp20goq
+2021-05-20 17:42:47.202300	bentley	netwalker	Готово
+2021-05-20 17:42:47.202701	bentley	netwalker	LDfh927348fnklsjdnlgkj3n4g
+2021-05-20 17:42:47.204956	bentley	netwalker	https://privatlab.com/s/v/9m5D6Z2wNRieZyp20goq
+2021-05-20 18:27:03.035912	bentley	netwalker	Приходило?
+2021-05-20 18:31:09.519758	netwalker	bentley	Да.
+2021-05-20 18:31:15.767057	bentley	netwalker	Ок
+2021-05-21 13:02:24.073859	bentley	netwalker	kjhdf9283fujskdnlkgjnl34kjng
+2021-05-21 13:04:14.680738	bentley	netwalker	Готов трик несколко файлов с разными хешами
+2021-05-21 13:21:49.632589	bentley	netwalker	kjhdf9283fujskdnlkgjnl34kjng
+2021-05-21 13:21:49.634078	bentley	netwalker	https://privatlab.com/s/v/YOrV8M33bahOdrlQNBGb
+2021-05-21 13:21:49.634933	bentley	netwalker	Готов трик несколко файлов с разными хешами
+2021-05-21 13:22:15.541124	netwalker	bentley	+
+2021-05-25 16:53:32.201852	netwalker	bentley	прив
+2021-05-25 16:53:39.836258	netwalker	bentley	пытаюсь узнать у штерна что с доком
+2021-05-25 16:53:57.455291	bentley	netwalker	Да он недавно появилсяв сети
+2021-05-25 16:54:02.193950	bentley	netwalker	Должен ответить
+2021-05-25 17:02:27.667141	netwalker	bentley	[22:00:33] <netwalker> он нужен очень.
+[22:01:57] <Stern> у меня нету дока
+[22:02:03] <Stern> спроси у bentley@ может у него есть
+2021-05-25 17:02:28.750541	netwalker	bentley	)
+2021-05-25 17:02:59.236003	bentley	netwalker	ехель как был раньше да?
+2021-05-25 17:03:23.795904	bentley	netwalker	Можем заказывать. Надо решить с оплатой.
+2021-05-25 17:03:34.008889	bentley	netwalker	6к в месяц стоит подписка на ехель.
+2021-05-25 17:04:25.835034	netwalker	bentley	картинку вставишь нашу ?
+2021-05-25 17:04:43.006237	bentley	netwalker	Конечно.
+2021-05-25 17:05:57.487542	netwalker	bentley	просто он просил твою посмотреть а ты не показал)
+2021-05-25 17:07:14.182524	bentley	netwalker	Сек
+2021-05-25 17:07:15.257260	bentley	netwalker	JHDGf8427fygjhsdbkgjh3b5kjhgb
+2021-05-25 17:07:19.548624	bentley	netwalker	https://privatlab.com/s/v/xAjL5j6mJ2fXxMpyz6wJ
+2021-05-25 17:07:21.363548	bentley	netwalker	Вот
+2021-05-25 17:26:54.059299	netwalker	bentley	ну попробуем с нее. аверы говорит такие текста ловят
+2021-05-25 17:27:00.988430	netwalker	bentley	щас будет точечно слать
+2021-05-25 17:27:04.932397	netwalker	bentley	мас спам не показал результатов
+2021-05-25 17:27:12.188976	netwalker	bentley	40-50 фалов разных надо будет
+2021-05-25 17:27:28.792432	bentley	netwalker	Не проблема.
+2021-05-25 17:27:34.049860	bentley	netwalker	Что в нагрузке?
+2021-05-25 17:28:54.875378	netwalker	bentley	БК
+2021-05-25 17:28:57.597078	netwalker	bentley	не трик
+2021-05-25 17:29:00.644974	netwalker	bentley	на трик больше не делаем
+2021-05-25 17:29:02.792764	bentley	netwalker	Ясно.
+2021-05-25 17:29:17.455047	bentley	netwalker	Что решили по оплате? Когда начинаем?
+2021-05-25 17:29:42.616529	netwalker	bentley	Завтра уже нужен. я думаю Штерн закинет. ) у меня по крайне мере пока нету. я с ним решу ок ?
+2021-05-25 17:29:54.094533	bentley	netwalker	Да решай.
+2021-06-07 16:25:49.858482	netwalker	bentley	Повтори
+2021-06-09 10:39:22.182977	bentley	netwalker	Првиет. Делаем сегодня ехель с БК?
+2021-06-09 16:49:50.316647	bentley	netwalker	 Download: https://qaz.im/load/K4nK2Z/4HBNdQ   
+   Delete: https://qaz.im/index.php?a=delete&q=114525952
+
+   
+123321 100файлов
+2021-06-09 16:51:33.285579	bentley	netwalker	БК группа 15. Запрос статы по скачкам. https://slingshotsforchrist.com/getfile.php?action=getlog
+2021-06-10 10:56:35.896322	bentley	netwalker	Првиет.
+2021-06-10 10:56:40.199808	bentley	netwalker	Делаем ехель?
+2021-06-10 12:30:23.321804	netwalker	bentley	+
+2021-06-10 12:30:40.301597	netwalker	bentley	ns dbltk dj
+2021-06-10 12:30:40.674620	bentley	netwalker	ок
+2021-06-10 12:30:45.610286	netwalker	bentley	ты видел вопросы ?
+2021-06-10 12:30:56.197156	bentley	netwalker	нет
+2021-06-10 12:30:58.165480	netwalker	bentley	Ты вопросы видел ?
+2021-06-10 12:31:02.486157	netwalker	bentley	xlsx можешь сделать ?
+2021-06-10 12:31:05.186150	netwalker	bentley	по поводу формата
+2021-06-10 12:31:18.606013	bentley	netwalker	повтори вопросы
+2021-06-10 12:31:21.348034	netwalker	bentley	щас покажу как вчера ругалось
+2021-06-10 12:31:23.010107	bentley	netwalker	формат чего?
+2021-06-10 12:31:24.292501	netwalker	bentley	15 минут
+2021-06-10 12:31:29.555141	netwalker	bentley	найду
+2021-06-10 12:31:41.294950	netwalker	bentley	файла
+2021-06-10 12:31:41.404273	netwalker	bentley	более приватный поставить
+2021-06-10 12:32:59.986561	bentley	netwalker	что значит боле приватный?
+2021-06-10 12:34:25.190521	netwalker	bentley	10 min pokaju
+2021-06-10 13:17:51.823801	netwalker	bentley	у тебя есть жаба внешнаяя?
+2021-06-10 13:17:54.913333	netwalker	bentley	или токс ?
+2021-06-10 13:18:07.237831	bentley	netwalker	есть внешняя
+2021-06-10 13:18:32.251470	bentley	netwalker	benalen@exploit.im
+2021-06-10 13:25:26.239579	bentley	netwalker	Так что по ехелю?
+2021-06-10 13:25:31.895987	bentley	netwalker	Делаем или что то надо менять?
+2021-06-10 13:33:30.306654	netwalker	bentley	да 10 минут доеду до офиса.
+2021-06-10 13:34:04.404595	bentley	netwalker	Жду как отпишешь
+2021-06-10 13:52:49.595459	netwalker	bentley	To: Anabel Hurtado <ahurtado@grundfos.com>
+Subject: Notification: RE: Invoice correction
+
+ 
+
+This is a Grundfos mail system notification which requires your attention & action!
+
+Reason for notification: an email was sent to you with an attachment which was blocked due to security rule posted on Insite-Yammer regarding blocking of attached files based on old Office file formats (.doc, .xls, .dot, etc.)
+
+The blocked mail is from: joe@flowdataindustries.com on date: 6/9/2021 5:38:50 PM UTC.
+The subject of the blocked mail is: RE: Invoice correction
+
+We recommend you contact joe@flowdataindustries.com and inform that if the attachment is to pass the security filter the file must be saved as a current Office file format e.g. .docx, .xlsx, .dotx, etc. and resend the mail with the updated file attachment.
+
+For your information the sender has received an automatic Grundfos reply (6/9/2021 5:38:50 PM UTC) explaining the reason for email blocking and how to proceed by saving file in current Office file format and resending.
+
+Disclaimer some mail systems have own reply rules which will not present the Grundfos automatic reply  reason why you need to contact the sender.
+[09.06.2021 23:03:15] <netwalker> > .xlsx 
+
+> the file must be saved as a current Office file format e.g. .docx, .xlsx, .dotx, etc. and resend the mail with the updated file attachment. 
+[09.06.2021 23:03:28] <netwalker> сделай xlsx
+2021-06-10 13:53:31.115172	bentley	netwalker	Уточняю
+2021-06-10 13:53:48.416250	netwalker	bentley	xlsx
+2021-06-10 13:54:07.921574	netwalker	bentley	можешь сделать?
+2021-06-10 13:54:30.448037	bentley	netwalker	Спаршиваю кодера
+2021-06-10 13:56:02.815789	bentley	netwalker	] <kimchenym> макроса такого не бывает , только хлсб и хлсм
+2021-06-10 14:05:32.988212	bentley	netwalker	Делаем хлсб?
+2021-06-10 16:50:46.426907	bentley	netwalker	Скажи, делать ехель,
+2021-06-10 16:50:56.930508	bentley	netwalker	Как вчера?
+2021-06-10 16:51:12.082584	netwalker	bentley	Бро отбой на сегодня у меня пиздос
+2021-06-10 16:51:15.041029	netwalker	bentley	Переставил винду
+2021-06-10 16:51:18.505441	netwalker	bentley	ебанул токс себе
+2021-06-10 16:51:28.001512	bentley	netwalker	Понял
+2021-06-10 16:51:28.993741	netwalker	bentley	потерял контактов тут гору. щас разберусь как быть
+2021-06-10 16:51:39.192414	bentley	netwalker	Жесть...
+2021-06-11 07:42:50.289026	bentley	netwalker	Доброе утро, бро. Делаемехель сегодня?
+2021-06-16 12:30:35.106893	bentley	netwalker	Готово
+2021-06-16 12:30:48.770756	bentley	netwalker	 Download: https://qaz.im/load/eNaiQY/HSQSFs  
+  Delete: https://qaz.im/index.php?a=delete&q=754999226
+
+ 
+123321
+2021-06-16 14:05:04.199691	bentley	netwalker	Готово
+2021-06-16 14:05:04.200811	bentley	netwalker	 Download: https://qaz.im/load/eNaiQY/HSQSFs  
+  Delete: https://qaz.im/index.php?a=delete&q=754999226
+
+ 
+123321
+2021-08-06 11:31:34.777560	netwalker	bentley	Братиш
+2021-08-10 17:30:48.964304	netwalker	bentley	bro u tebya link est ot nashego rocket chata ?
+2021-08-10 17:31:22.760568	bentley	netwalker	нет только кутокс
+2021-08-10 17:32:34.833166	netwalker	bentley	bk norm pashet ?
+2021-08-10 17:32:42.541160	bentley	netwalker	да
+2021-08-10 17:32:56.779088	netwalker	bentley	+
+2021-08-16 19:11:55.837139	netwalker	bentley	bro on slal 4to to ?
+2021-08-16 19:12:33.153069	bentley	netwalker	да он просылал ехель по нескольким конторам
+2021-08-16 19:12:41.061255	bentley	netwalker	но ничего не сткнуло
+2021-08-16 19:13:47.559192	bentley	netwalker	отправил тебе там переписку
+2021-09-09 10:03:31.429392	netwalker	bentley	можешь в токс зайти
+2021-09-09 10:04:06.224819	bentley	netwalker	Зашел
+2021-09-09 10:07:33.698249	netwalker	bentley	и можешь сделать файл с бк чистым
+2021-09-09 10:07:43.177074	bentley	netwalker	Да.
+2021-09-09 10:08:14.800900	netwalker	bentley	+
+2021-09-09 10:08:35.557072	bentley	netwalker	C rfrbv pfgecrjv&
+2021-09-09 10:08:39.596714	bentley	netwalker	С каким запуском?
+2021-09-09 10:08:43.468003	bentley	netwalker	Как обычно?
+2021-09-09 10:08:55.536872	netwalker	bentley	+
+2021-09-09 10:08:59.584366	netwalker	bentley	не под спам
+2021-09-09 10:09:07.440076	netwalker	bentley	под точечный
+2021-09-09 10:09:36.104837	bentley	netwalker	Понятно.
+2021-09-09 10:09:42.963769	bentley	netwalker	Скакой точкой входа сделать?
+2021-09-09 10:11:38.110769	netwalker	bentley	мы о ехе говорим или длл ?
+2021-09-09 10:11:46.612328	bentley	netwalker	длл
+2021-09-09 10:11:51.641092	netwalker	bentley	мне ехе нужен
+2021-09-09 10:12:07.437280	bentley	netwalker	А длл?
+2021-09-09 10:12:26.226458	bentley	netwalker	Ехе просто быстро палится
+2021-09-09 10:12:28.399633	bentley	netwalker	Сделаем
+2021-09-09 10:12:29.111822	netwalker	bentley	Щас узнаю сможет ли запустить.
+2021-09-09 10:12:33.140508	netwalker	bentley	Я знаю.
+2021-09-09 10:12:39.267205	netwalker	bentley	Но длл н езапустит менеджер
+2021-09-13 13:54:48.006314	netwalker	bentley	Привнет
+2021-09-13 13:54:49.568895	netwalker	bentley	Привет
+2021-09-13 13:54:54.313303	netwalker	bentley	Сделай сегодня плиз файл
+2021-09-13 13:54:55.423112	netwalker	bentley	ехе
+2021-09-13 13:54:59.222773	netwalker	bentley	не под спам
+2021-09-13 13:54:59.422906	bentley	netwalker	Првиет.
+2021-09-13 13:55:07.961694	bentley	netwalker	БК или трик?
+2021-09-13 13:55:13.411937	netwalker	bentley	бк
+2021-09-13 13:55:19.850676	bentley	netwalker	ок.
+2021-09-13 15:03:03.515031	bentley	netwalker	Готово.
+2021-09-15 13:22:01.766045	netwalker	bentley	Бро дай стату плиз
+2021-09-15 13:22:06.524399	netwalker	bentley	на бк
+2021-09-15 13:22:15.002101	netwalker	bentley	и ехе на сегодня то же нужен
+2021-09-15 13:22:37.611677	bentley	netwalker	Првиет. Сделаем.
+2021-09-15 13:24:09.903122	bentley	netwalker	У тебя не осталась прошлая учетка?
+2021-09-15 13:24:47.885174	netwalker	bentley	и15 ,
+2021-09-15 13:24:51.605248	netwalker	bentley	b15 &
+2021-09-15 13:24:52.412388	netwalker	bentley	?
+2021-09-15 13:24:56.086016	bentley	netwalker	Да.
+2021-09-15 13:25:04.354290	netwalker	bentley	+
+2021-09-15 13:54:39.947953	bentley	netwalker	Готово.
+2021-09-15 13:54:41.979756	bentley	netwalker	,0]U2Tk#-e=(d2xm
+https://privatlab.com/s/v/6Ge79k5oR5iWGwdBkZdO
+https://dyncheck.com/scan/id/360cc79cc05f72c093bc6b68504b2b78
+2021-09-15 13:54:50.779391	bentley	netwalker	Это ехе.
+2021-09-15 13:56:28.748265	bentley	netwalker	Это учетка
+2021-09-15 13:56:29.857378	bentley	netwalker	DHFg2378y6fubkhjdbgkhj42hlkgbjhsbdkjghb
+2021-09-15 13:56:33.648327	bentley	netwalker	https://privatlab.com/s/v/dbDdlY6ZAXTdrDZaELZM
+2021-09-20 11:11:46.019511	netwalker	bentley	привет
+2021-09-21 14:27:14.280430	netwalker	bentley	ты на когда сможешь хлс сделать?
+2021-09-21 14:27:23.323905	netwalker	bentley	еще один нарисолвался
+2021-09-21 14:27:38.531139	bentley	netwalker	Привет. С бк?
+2021-12-02 19:49:20.124782	netwalker	bentley	Привет тут?
+2021-12-02 19:53:21.236202	bentley	netwalker	Привет тут?
+2021-12-06 17:58:29.602498	netwalker	bentley	там спамер выешл на связь
+2022-02-10 15:22:31.329289	netwalker	bentley	Бро у тебя файлы остались ?
+2022-02-10 15:22:37.277647	netwalker	bentley	сделаешь ? крипт ?
+2022-02-16 11:28:50.673161	netwalker	bentley	https://www.sendspace.com/file/5dyime
+2022-02-16 11:28:54.340271	netwalker	bentley	https://www.sendspace.com/delete/5dyime/3f050ddf9c5153c73d8017c267220216
+2022-02-16 11:28:59.679528	netwalker	bentley	Сделай плиз ехе и длл
+2022-02-16 11:29:16.593652	bentley	netwalker	++
+2022-02-16 12:47:05.396846	bentley	netwalker	Готово
+2022-02-16 12:47:06.194181	bentley	netwalker	KJFH!@#&(fyicbjksdbfkj2h3bkfjhbsd
+2022-02-16 12:47:10.233667	bentley	netwalker	https://dropfiles.me/download/5d6373e9df0f1205/#Y9vyBvr2SNnNN-IP2_hdng

@@ -1,0 +1,8 @@
+Timestamp	From	To	Message
+2020-09-25 12:15:49.643350	cobdoctor	boby	хай
+2020-10-14 13:16:30.882099	cobdoctor	boby	тут
+2020-10-14 13:24:38.772894	boby	cobdoctor	тут
+2020-11-09 17:51:19.491302	cobdoctor	boby	хай
+2020-11-09 17:51:21.081089	cobdoctor	boby	нет еще
+2020-11-09 18:18:29.740265	cobdoctor	boby	хай
+2020-11-09 18:18:29.740722	cobdoctor	boby	нет еще

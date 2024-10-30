@@ -1,0 +1,83 @@
+Timestamp	From	To	Message
+2020-10-20 08:12:06.621158	mango	terry	салют бро, тебе надо с хофом сегодня затестить все по поводу модуля червя
+2020-10-20 08:12:14.673635	mango	terry	и отпишите мне потом какие баги нашли
+2020-10-20 08:49:01.713376	mango	terry	салют бро, тебе надо с хофом сегодня затестить все по поводу модуля червя
+2020-10-20 08:49:01.883931	mango	terry	и отпишите мне потом какие баги нашли
+2020-10-22 00:02:04.787189	terry	mango	По тесту тройки.
+1. wormDll отработал, но есть недочеты. Выявлен баг - jim4, заразивший вторую рабочую ВМ, после перезагрузки, прекращает отстук. До выключения либо перезагрузки отстук идет стабильно. 
+В тоже время, jim, запущенный вручную, продолжает отстук после перезагрузки/выключения и принимает команды. 
+2. Команды shareDll и tabDll загрузили на серверную ВМ одинаковый модуль lib4. В обоих случаях отстук идет стабильно.
+2020-10-22 01:27:28.438738	terry	mango	По тесту тройки.
+1. wormDll отработал, но есть недочеты. Выявлен баг - jim4, заразивший вторую рабочую ВМ, после перезагрузки, прекращает отстук. До выключения либо перезагрузки отстук идет стабильно. 
+В тоже время, jim, запущенный вручную, продолжает отстук после перезагрузки/выключения и принимает команды. 
+2. Команды shareDll и tabDll загрузили на серверную ВМ одинаковый модуль lib4. В обоих случаях отстук идет стабильно.
+2021-01-29 09:31:05.226958	mango	terry	-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBF++eqMBEADdjjnaAHlvl7iMH2BIM/gu5l5EYoi9dNHTRQMXzCMvHuSTv5t3
+vLAMaN7sfHTf00IwuKND+QIj5UycibnMSkVfQQOKHLdZg3p1qsKhr7cC/vsEUQKh
+LDkKHC9h7ZbWAXSV5YIKnym86B8j7jkjzyOwZ54yrd26DXGY7fTjgPHzUVYDYoVN
+8DyNIHKDWCRg9M4gChliz26vP7knd/sP/9UsvVw6q+1O4caufVVyBGKe6aTJYBQ/
+Nds5UUVPsfWrrrIjEUvPP1h5htv0LiDvUU1v+M562WG2AZIWeA0BSoXObHD58g+i
+wU5fhxAdZa0UH8w9sU7Co8fZGVVk9QcrPkLjcox1iYXLSlVKBOcdyMPGpX0N2dpL
+bpQ9OzjcnjIiWEvkMKqd4AV5gxOKCLxjaja26rzhVzbcXf/JaHcoyCwHfyzz1PTE
+0J/VQlN3JR/tgxef1SIYAi6lr+Cs8mPalhdYRc9T+MJRn0r8fM54e8KIYpvL9FVY
+0WFZEIjGcC1Xs4+AxE09+2nxuI9M+Jhu3uou7AkQSZk/KtZfrS73BeedDI/2Hvxs
+rgU5KsiYvfOInaAqms/FHk2XGx/b/B87KbVgkdrU0i/MoDUaL9F385lRtlvR99xo
+6AJO+PCytu0uNq/RfEz8Xrxx3+zzhl7USqqdNGnb7ZTdd8PE+pzyJ8z68QARAQAB
+tCNmcmFuY2VzIDxJb21vbmltYWtlcjE0ODhAeWFuZGV4LnJ1PokCVAQTAQgAPhYh
+BDOjlh0O2mAVAwaL5ZD3KMbOXN08BQJfvnqjAhsPBQkcNjYdBQsJCAcCBhUKCQgL
+AgQWAgMBAh4BAheAAAoJEJD3KMbOXN08b/cP/14UQhwZWHf0COAl1uTnY3oKWrJN
+cNNJwQgowZcOqxNWAarXu8T8ooWH4i7F46S4TUMlRf35GBp/LflWQv2Szo0fATDS
+9qHSRwAfiWs1CYnnLXm5tdG0D7QPfD9qhQ14OZ85cu0ZanTC2PtNe6kIFJLvDyBj
+JTgdApx3WYqD/W9fVyZGlE0NXxF6eLNvS26RbNAmE0vTUm0aIeZnEn7ujIKEYEkd
+ToAd16XfGYi3PqUOgSB/poPc+Aw7WEwxjBMwpRtJSxAMsQFJ6th1gMkweVOxVH+I
+t7uqNklbXfhxR1Q/evXX3ib9Ncy2xKeYBJXWAhbGPjiLTG+qL7VamF87GcWeSsJ+
+uEppMGC/K2bLXy08sgq4CHfTh/5xNjh5xGYe2QF0t+WyoKS2ke815bp42kIvulXP
+gYH64ZtMlo1Id+SwvJnOZ2uOV0puwZIPLLBTRvhPPCA9cNt5GBsOsbUhSWIv6KPe
++XxauvrK825adOFAwXwNc3mCpayNbTyQfKL9ZogDbVYa237Qblbuj6IYALUtBZCm
+xgRzTFfvDB2X1cDrr3pkSOcXdFsbF6y/wwi0BYNHq9zacDsne76J/mw+RjANkdrx
+6wEJXtq6V43EBu0ToIn4x1gxPQGfSbUj+bI6l/SJgUcd9iqYBXfj79Ccv3ldzhmR
+moUgpFLKMDhrF28d
+=Yyyk
+-----END PGP PUBLIC KEY BLOCK-----
+2021-02-01 14:24:41.925430	terry	mango	Привет
+2021-02-01 14:24:48.036486	terry	mango	Тут?
+2021-02-10 16:12:29.741474	terry	mango	Привет
+2021-02-10 16:12:31.225524	terry	mango	https://privnote.com/SXFFTtWr#hCPeJakp9
+2021-02-10 17:52:49.855833	terry	mango	Мени файлы
+2021-02-10 18:03:40.428150	terry	mango	Привет
+2021-02-10 18:03:40.428806	terry	mango	https://privnote.com/SXFFTtWr#hCPeJakp9
+2021-02-10 18:03:40.429654	terry	mango	Мени файлы
+2021-02-16 15:42:29.229221	terry	mango	 привет
+https://privnote.com/RjwjqpJL#MVbMcSTxU
+2021-02-16 16:38:04.797611	terry	mango	 привет
+https://privnote.com/RjwjqpJL#MVbMcSTxU
+2021-03-02 16:59:51.557632	terry	mango	Привет
+2021-03-02 16:59:57.562977	terry	mango	https://privnote.com/Gc7C380E#Y2iVQhLxo
+2021-03-02 18:27:24.198385	terry	mango	Привет
+2021-03-02 18:27:24.219696	terry	mango	https://privnote.com/Gc7C380E#Y2iVQhLxo
+2021-03-02 18:41:12.415588	mango	terry	привет бро
+2021-03-02 18:41:13.705213	mango	terry	есть
+2021-03-04 21:11:16.441626	terry	mango	Привет
+2021-04-29 16:11:00.643576	terry	mango	Привет
+2021-04-29 16:11:01.537566	terry	mango	https://privnote.com/mFkaGyqm#2jGyvCaWi
+2021-04-29 16:12:04.224658	terry	mango	Jim tot норм, lib - детекты
+2021-04-29 16:56:52.309811	terry	mango	Привет
+2021-04-29 16:56:52.316541	terry	mango	https://privnote.com/mFkaGyqm#2jGyvCaWi
+2021-04-29 16:56:52.318005	terry	mango	Jim tot норм, lib - детекты
+2021-05-25 16:01:35.858357	terry	mango	Привет. Инфу скинул
+2021-06-25 18:40:46.597341	terry	mango	Привет. Тут?
+2021-06-25 18:40:51.616665	terry	mango	Лови ттрик https://privnote.com/LjiqtJLB#7zdZfvCMo
+2021-07-20 19:24:34.187033	terry	mango	https://privnote.com/VvAvQmM2#RjLHb7Eq3
+2021-07-20 21:07:05.718676	terry	mango	https://privnote.com/VvAvQmM2#RjLHb7Eq3
+2021-07-22 20:15:31.809802	terry	mango	https://privnote.com/uz0gRRJ5#NXuOyD9o9 вторая админка
+2021-07-22 20:53:38.500949	terry	mango	https://privnote.com/uz0gRRJ5#NXuOyD9o9 вторая админка
+2021-07-29 19:08:26.385540	terry	mango	По новой админке:
+https://privnote.com/vxaGqUH7#qn3XIxyEL
+2021-07-29 19:24:08.649555	terry	mango	2:
+https://privnote.com/aGCXECud#CsFbtuYRt
+2021-07-30 07:35:09.670475	terry	mango	По новой админке:
+https://privnote.com/vxaGqUH7#qn3XIxyEL
+2021-07-30 07:35:09.675183	terry	mango	2:
+https://privnote.com/aGCXECud#CsFbtuYRt
+2021-08-16 15:51:16.530633	mango	terry	привет давай дам зп

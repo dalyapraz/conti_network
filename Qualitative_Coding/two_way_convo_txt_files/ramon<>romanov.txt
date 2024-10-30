@@ -1,0 +1,12 @@
+Timestamp	From	To	Message
+2021-03-17 18:43:18.839615	ramon	romanov	nakonec-to))
+2021-03-17 18:43:29.415082	ramon	romanov	void
+2021-04-02 01:08:57.931318	romanov	ramon	chto voobwe ne bulo?
+2021-04-02 09:42:30.790174	romanov	ramon	chto voobwe ne bulo?
+2021-04-02 09:43:23.382976	ramon	romanov	hi
+2021-04-02 09:43:23.886442	ramon	romanov	man
+2021-04-06 12:22:08.285792	ramon	romanov	hey
+2021-04-06 12:22:09.773423	ramon	romanov	yo
+2021-04-06 12:22:10.222073	ramon	romanov	man
+2021-04-06 12:22:10.815715	ramon	romanov	tyt?
+2021-04-15 16:49:08.058805	romanov	ramon	Шалом бро

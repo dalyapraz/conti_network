@@ -1,0 +1,28 @@
+Timestamp	From	To	Message
+2020-08-26 17:01:26.688166	stern	voron	1
+2020-08-26 17:01:27.001606	stern	voron	11
+2020-08-27 16:22:14.913148	stern	voron	тест
+2020-08-27 16:22:15.161786	stern	voron	1
+2020-08-27 16:37:49.905769	stern	voron	тест
+2020-08-27 16:37:49.907476	stern	voron	1
+2020-09-18 11:56:33.050491	stern	voron	https://privnote.com/get23R01#TwGAU3YBV
+2020-09-18 11:56:42.559794	stern	voron	доступы к админке где светофор
+2020-09-18 22:17:47.902035	stern	voron	https://privnote.com/get23R01#TwGAU3YBV
+2020-09-18 22:17:47.903010	stern	voron	доступы к админке где светофор
+2020-09-21 15:44:11.232382	voron	stern	тут?
+2020-09-24 17:29:48.610450	stern	voron	https://privnote.com/JaWf9zSr#8FH5pLSZj
+2020-09-24 19:38:26.699536	stern	voron	https://privnote.com/JaWf9zSr#8FH5pLSZj
+2020-10-07 11:46:37.998306	stern	voron	там чекер перезагрузили
+2020-10-07 11:46:41.262226	stern	voron	должен работать
+2020-10-07 11:46:42.466683	stern	voron	по джабберу
+2020-10-07 11:46:43.424608	stern	voron	и еще
+2020-10-07 11:46:50.986274	stern	voron	pws тоже заработал вродще
+2020-10-07 11:46:53.275122	stern	voron	проверьте плизщ
+2020-10-09 10:25:11.636429	stern	voron	https://privnote.com/6MHNJcdQ#68Fsji0m5
+2020-10-09 17:13:40.943842	stern	voron	https://privnote.com/6MHNJcdQ#68Fsji0m5
+2020-10-12 13:53:43.088653	stern	voron	1
+2020-10-14 16:17:21.202673	stern	voron	в светофор идут боты
+2020-10-14 18:49:38.609675	stern	voron	в светофор идут боты
+2020-10-18 06:01:26.845524	stern	voron	https://privnote.com/oB8pmx76#wmjRl8j3z
+2020-10-18 18:36:20.827834	stern	voron	https://privnote.com/oB8pmx76#wmjRl8j3z
+2020-10-23 12:59:38.178142	stern	voron	привет\

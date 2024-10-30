@@ -1,0 +1,8 @@
+Timestamp	From	To	Message
+2020-07-22 10:51:55.387239	buri	band	Hi! Kak dela?
+2020-07-22 14:22:20.852759	buri	band	Hi! Kak dela?
+2020-07-22 14:47:18.883376	buri	band	tut?
+2020-07-24 09:43:55.422147	buri	band	https://logdog.pw/?w6XMUN
+2020-07-24 12:21:06.102476	buri	band	https://logdog.pw/?w6XMUN
+2020-07-30 09:59:22.226651	buri	band	https://logdog.pw/?O_lhk_
+2020-07-30 13:48:14.624810	buri	band	https://logdog.pw/?O_lhk_

@@ -1,0 +1,15 @@
+Timestamp	From	To	Message
+2021-02-01 15:47:49.784029	ramon	nik-da	otpihi kak bydehs'
+2021-02-01 15:47:50.179204	ramon	nik-da	tyt
+2021-02-01 16:06:56.959227	ramon	nik-da	otpihi kak bydehs'
+2021-02-01 16:06:56.960089	ramon	nik-da	tyt
+2021-03-25 14:29:11.048992	ramon	nik-da	otpihi
+2021-03-25 14:29:12.337598	ramon	nik-da	kak bydesh'
+2021-03-25 14:29:13.902149	ramon	nik-da	tyt
+2021-03-25 14:54:21.650695	ramon	nik-da	otpihi
+2021-03-25 14:54:21.651225	ramon	nik-da	kak bydesh'
+2021-03-25 14:54:21.651861	ramon	nik-da	tyt
+2021-06-04 08:59:28.517639	ramon	nik-da	ky
+2021-06-04 10:33:28.745810	ramon	nik-da	ky
+2021-06-07 09:21:17.250132	nik-da	ramon	privet \ ne doshlo soobshenie
+2021-06-07 09:22:19.025812	ramon	nik-da	privet

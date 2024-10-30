@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2021-05-27 14:53:04.563525	baraka	firefox333	11
+2021-05-27 14:53:07.769610	firefox333	baraka	11
+2021-05-27 19:51:52.712840	baraka	firefox333	это Влад
+2021-05-27 19:51:55.822165	firefox333	baraka	это Влад
+2021-05-27 22:25:28.173220	baraka	firefox333	ау
+2021-05-27 22:25:31.487571	firefox333	baraka	ау
+2021-05-28 11:58:09.332753	baraka	firefox333	11
+2021-05-28 11:58:12.669719	firefox333	baraka	11

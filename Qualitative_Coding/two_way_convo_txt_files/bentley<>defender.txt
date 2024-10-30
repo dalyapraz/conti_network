@@ -1,0 +1,139 @@
+Timestamp	From	To	Message
+2020-06-22 09:40:31.867691	defender	bentley	Привет, нужно зарегать на какой нибудь другой внешней жабе акк и скинуть мне сюда, это нужно в случае потери этой жабы
+2020-06-22 09:41:21.275869	bentley	defender	У меня есть volhvb@exploit.im
+2020-06-22 10:13:31.249823	defender	bentley	ok
+2020-06-23 08:06:35.943531	bentley	defender	Привет.
+2020-06-23 08:07:18.505442	bentley	defender	Помоги, пожалуйста. Не работает сервер виртуалок https://173.232.146.199/phpvirtualbox-5.0-5/
+2020-06-24 12:38:21.642862	defender	bentley	ЕЩЕ РАЗ ВСЕМ кто не скинул мне свою резервную жабу, скиньте сейчас! Чтобы с вами был контакт если эта жаба накроется. Она сейчас не стабильная. Если аккаунта нет, регайте на любой сервисе exploit.im, xmpp.jp, jabb.im, jabber.ru и других
+2020-06-25 16:58:52.360439	bentley	defender	Привет.
+2020-06-25 16:59:17.438173	bentley	defender	Картер говорит, что прислал тебе лицухи на корп ав
+2020-06-25 16:59:26.358245	bentley	defender	Как их будем ставить?
+2020-06-30 10:40:00.126534	bentley	defender	Привет. Можешь помочь?
+2020-06-30 10:40:03.993027	bentley	defender	Regular tests are disabled because Lero proxy https://173.232.146.72 is down.
+Please call system administrator.
+2020-06-30 10:40:12.263409	bentley	defender	В криптопанеле на автотестах.
+2020-07-01 17:41:55.011354	bentley	defender	Привет. Сделай, пожалуйста, стату end1
+2020-07-02 14:08:04.204536	bentley	defender	Привет.
+2020-07-02 14:08:20.420099	bentley	defender	Сделай, пожалуйста, стату da9 и gi10
+2020-07-06 12:14:31.054288	bentley	defender	Привет. Сделай, пожалуйста, стату da11 и gi11
+2020-07-06 12:37:24.424634	defender	bentley	TeSanCW9vPfX88NQzbpB
+/groups/statistics/86da1a98bd2cd8439d26a35a1e1534b209702242671dfcd7a940aeb99fe990648e77e9f85a1d2276d39b16a0228fffa80b7d
+2020-07-06 12:38:02.177396	defender	bentley	kefJ6csepnQWcwPCKsA9
+/groups/statistics/bf63b89ef6c1f16ca9139c3246a4b686e1c8f9e2a860c37c1269d75bc68fbccc31074dbae0bf2893750533a6dbd248cbe0dc
+2020-07-06 12:38:03.604187	defender	bentley	привет
+2020-07-06 12:39:56.330096	bentley	defender	Спасибо
+2020-07-06 17:37:07.449548	bentley	defender	Сделай, пожалуйста, еще стату для всех групп end*
+2020-07-06 17:55:43.866421	defender	bentley	64cRUE4V6Mf3gNNQs286
+/groups/statistics/c1004a13d5b75873a9ca4f06cad2db540adec24ecf03082aa783a89a2ec878aad498f873220627c637ce3022c2b066ee421c
+2020-07-06 17:56:11.166076	bentley	defender	Спс
+2020-07-08 14:10:25.913988	bentley	defender	Привет.
+2020-07-08 14:10:36.861812	bentley	defender	Сделай, пожалуйста, стату gi12
+2020-07-14 16:53:34.678862	bentley	defender	Привет. Сделай, пожалуйста, стату gi13
+2020-07-16 11:35:41.658662	bentley	defender	Привет.
+2020-07-16 11:35:55.934942	bentley	defender	Сделай, пожалуйста, стату xxl1 и gi4
+2020-07-16 13:07:10.471747	bentley	defender	Сделай, пожалуйста, еще стату da12
+2020-07-16 14:53:12.662736	bentley	defender	Сделай, пожалуйста, еще стату gi14
+2020-07-16 15:49:23.249109	defender	bentley	dqEUC7mGLeq3vUjx4J5q
+/groups/statistics/134219ee00e9f5a8c7c5f9c18e8c5ace1ff96352e1738a5efe5851074fcfdd005e12f65ded94c3d7acc5c3c3708b8958de83
+2020-07-16 15:49:32.770531	bentley	defender	Спс ))
+2020-07-24 11:01:23.377326	bentley	defender	Привет.
+2020-07-24 11:01:36.952561	bentley	defender	Сделай, пожалуйста, стату strn1
+2020-07-24 11:05:19.625811	defender	bentley	XhPYG8wc33FZHFnA2Meh
+/groups/statistics/651afcdf6ebf526c30cd346d9d54eb8c1e7650587fcf0f8ac32e30c47fc569e97c7161979998d4cc6f70f4458da9b7a18333
+2020-07-27 12:00:31.786700	bentley	defender	Привет. Сделай, пожалуйста, стату da14
+2020-07-27 13:50:31.177301	bentley	defender	Сделай, пожалуйста, стату da14
+2020-07-28 14:14:39.040180	bentley	defender	Привет.
+2020-07-28 14:14:46.335912	bentley	defender	Сделай, пожалуйста, стату t470
+2020-07-30 14:48:30.226805	bentley	defender	Привет.
+2020-07-30 14:48:39.712646	bentley	defender	Сделай, пожалуйста, стату ma1
+2020-08-03 12:04:27.787149	bentley	defender	Привет. Автотесты ругаются
+2020-08-03 12:04:29.363692	bentley	defender	ATTENTION!
+Git proxy is down, so the auto test scripts will not update!
+Please notify system administrator!
+2020-08-03 12:04:34.183037	bentley	defender	Это тебе же писать?
+2020-08-03 19:19:39.612775	bentley	defender	Работало. И снова ругается
+2020-08-03 19:19:41.518698	bentley	defender	ATTENTION!
+Git proxy is down, so the auto test scripts will not update!
+Please notify system administrator!
+2020-08-03 19:23:00.039806	defender	bentley	должно работать
+2020-08-04 10:32:49.876729	bentley	defender	Привет.
+2020-08-04 10:33:02.270054	bentley	defender	Снова ругаются автотесты
+2020-08-04 10:33:04.060600	bentley	defender	ATTENTION!
+Git proxy is down, so the auto test scripts will not update!
+Please notify system administrator!
+2020-08-05 12:43:39.663824	bentley	defender	Привет. Сделай, пожалуйста, стату po1
+2020-08-07 10:53:10.432512	bentley	defender	Привет.
+2020-08-07 10:53:38.808681	bentley	defender	Подскажи, пожалуйста, кто сейчас может помочь с настройкой машины на 
+https://173.232.146.236/phpvirtualbox/
+2020-08-07 11:47:11.197238	defender	bentley	привет стрикс
+2020-08-07 11:47:41.164743	bentley	defender	Спс.
+2020-08-11 11:14:42.317000	bentley	defender	Привет.
+2020-08-12 14:11:10.706946	bentley	defender	Привет.
+2020-08-12 14:11:21.390492	bentley	defender	Сделай, пожалуйста, стату на все группы chil
+2020-08-12 14:11:24.367177	bentley	defender	chil*
+2020-08-13 14:12:24.463888	bentley	defender	Привет.
+2020-08-13 14:12:30.750019	bentley	defender	Сделай, пожалуйста, стату po1
+2020-08-14 11:36:06.245547	bentley	defender	Привет.
+2020-08-14 11:36:12.843619	bentley	defender	Сделай, пожалуйста, стату po2
+2020-08-24 13:26:16.568952	bentley	defender	Привет.
+2020-08-24 13:26:33.148857	bentley	defender	Сделай, пожалуйста, стату gi77
+2020-08-26 15:36:24.662466	bentley	defender	Привет. Сделай, пожалуйста, стату po3
+2020-09-01 13:46:14.326462	bentley	defender	Привет.
+2020-09-01 13:46:21.805283	bentley	defender	Сделай, пожалуйста, стату da4
+2020-09-07 14:25:16.576709	bentley	defender	Привет.
+2020-09-07 14:25:40.702076	bentley	defender	Сделай, пожалуйста, доступ к стате dr1 и da6
+2020-09-14 12:46:03.904778	bentley	defender	Привет.
+2020-09-14 12:46:10.741711	bentley	defender	Сделай, пожалуйста, стату da7
+2020-09-17 08:51:02.410731	bentley	defender	Привет.
+2020-09-17 08:51:33.997898	bentley	defender	Помоги, пожалуйста. Не работает админка  https://uibegvz4hxzrqjqc.onion/
+2020-09-17 08:51:43.999511	bentley	defender	Internal Server Error  после фхода
+2020-09-17 08:51:47.886814	bentley	defender	входа
+2020-09-22 10:22:23.221314	bentley	defender	Привет. Как с доступом к нашей жабе?
+2020-09-22 10:22:28.938090	bentley	defender	kraftman
+2020-09-24 10:58:14.725571	bentley	defender	Привет
+2020-09-24 10:58:30.946460	bentley	defender	Помоги, пожалуйста, не пускает в https://uibegvz4hxzrqjqc.onion/login с Логином tt1
+2020-09-25 12:12:13.813934	bentley	defender	Привет.
+2020-09-25 12:12:29.325913	bentley	defender	С новым доступом все равно не пускает сюда https://uibegvz4hxzrqjqc.onion/login
+2020-09-25 12:12:38.462796	bentley	defender	Постоянно окно логина
+2020-09-28 20:19:11.712979	bentley	defender	Привет
+2020-09-28 20:19:31.740131	bentley	defender	Подскажи, как проверить что работают прокалдки БК, которые выдает грин?
+2020-10-01 18:13:37.446990	bentley	defender	Привет
+2020-10-01 18:13:41.536837	bentley	defender	 <Stern> 
+[19:08:21] <defender> love@ хочет доступ в ацесс
+[19:08:25] <defender> дать ему?
+[19:08:28] <defender> говорит потерял 
+[01:08:48] <Stern> \это кто вобще ? 
+[01:09:15] <bentley> он занимается триком. Деалет Морсу 
+[01:09:28] <bentley> Тестер 
+[01:10:17] <Stern> аему зачем access? 
+[01:11:07] <bentley> Отстуки смотреть https://uibegvz4hxzrqjqc.onion/login 
+[01:11:14] <bentley> кргда тестирует трика 
+[01:11:18] <Stern> ок 
+[01:11:20] <Stern> стукни дефендеру
+2020-10-01 18:30:55.395531	defender	bentley	привет ага в курсе
+2020-10-01 18:31:08.905654	bentley	defender	Спс )
+2020-10-06 17:24:56.776982	bentley	defender	Првиет.
+2020-10-06 17:25:24.264968	bentley	defender	Сделайю, пожалуйста, стату всех групп ono в новой админке https://kwwka7ark3ynr7k7.onion
+2020-10-06 17:25:59.388282	defender	bentley	привет ок
+2020-10-06 19:53:07.183777	bentley	defender	Как со статой?
+2020-10-06 20:02:46.669108	defender	bentley	сейчас
+2020-10-14 08:41:16.225837	bentley	defender	Привет
+2020-10-14 08:41:46.545986	bentley	defender	Сделай, пожалуйста, доступ к стате в новой админке https://kwwka7ark3ynr7k7.onion/ ко всем группам mor
+2020-10-14 09:27:26.642229	defender	bentley	привет, это для боба?
+2020-10-14 09:27:40.849431	defender	bentley	стерн говорил что он только в первой админке работает
+2020-10-14 20:12:59.008899	bentley	defender	Сделай, пожалуйста, доступ к стате chil150 с первой админки для боби
+2020-10-14 20:15:45.969260	defender	bentley	сек
+2020-10-19 08:52:46.153630	bentley	defender	Привет.
+2020-10-19 08:53:05.586049	bentley	defender	Сделай, пожалуйста, доступ к сатате все группы chil старая админка
+2020-10-19 08:53:25.464034	bentley	defender	Для boby@q3mcco35auwcstmt.onion
+2020-10-19 12:54:27.546879	bentley	defender	Привет. Сделай, пожалуйста, доступ к сатате все группы chil старая админка
+2020-10-26 12:25:07.157011	bentley	defender	Привет.
+2021-10-24 21:31:52.844968	defender	bentley	привет
+2021-10-24 21:32:01.054738	defender	bentley	выдал хофу новый конфиг
+2021-10-24 21:32:06.666577	defender	bentley	для понедельника
+2021-10-25 06:29:50.400007	defender	bentley	привет
+2021-10-25 06:29:50.401095	defender	bentley	выдал хофу новый конфиг
+2021-10-25 06:29:50.402091	defender	bentley	для понедельника
+2021-10-25 06:30:35.093164	bentley	defender	Отлично! Спасибо.
+2021-11-04 12:51:49.218013	bentley	defender	Добрый день.
+2021-11-04 12:53:15.853928	defender	bentley	Добрый день.

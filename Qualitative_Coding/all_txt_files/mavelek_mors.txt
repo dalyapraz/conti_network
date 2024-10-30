@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-10-27 14:52:31.591103	mors	mavelek	привет, у тебя еще есть смтп ?

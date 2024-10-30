@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-02-04 15:15:27.389198	boby	bumer	hi man
+2021-03-03 23:28:39.203289	boby	bumer	kak v obhem? otpisky dash?
+2021-03-04 12:51:29.099097	boby	bumer	kak v obhem? otpisky dash?

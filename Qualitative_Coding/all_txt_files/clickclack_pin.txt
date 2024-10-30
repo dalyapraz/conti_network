@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-07-10 10:41:45.255381	pin	clickclack	привет

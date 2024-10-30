@@ -1,0 +1,24 @@
+Timestamp	From	To	Message
+2020-09-24 11:18:14.554852	defender	boby	2+3=?
+2020-09-24 11:18:19.778584	boby	defender	5
+2020-09-24 11:18:21.508088	defender	boby	Congratulations! Now you can chat!
+2020-10-03 11:55:22.799341	defender	boby	
+[14:53:48] <defender> privet periodicheski
+[14:53:57] <defender> pishi esli chto
+2020-10-03 12:15:13.753592	defender	boby	
+[14:53:48] <defender> privet periodicheski
+[14:53:57] <defender> pishi esli chto
+2020-10-26 14:25:25.065483	boby	defender	blay a ehe zaebala jaba padat posotoyannoo
+2021-10-22 14:14:55.447034	defender	boby	ЭТО НАДО СДЕЛАТЬ ВСЕМ, иначе жаба перестанет у вас работать
+
+новый домен жабы версии 3
+odw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion
+
+его прописываем в настройках аккаунта - соединение - сервер
+перед этим на это вкладке ставим галку Вручную указать адрес сервера и порт
+
+порт стандартный 5222 
+
+ВАЖНО, все остальное остается, аккаунт отстается со старым доменом... прописывается только домен для соединения 
+
+!!! Как сделаете, отпишите мне что все ОК

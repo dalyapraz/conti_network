@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-11-19 17:11:23.458477	professor	cybergangster	5*20=
+2021-11-19 17:12:35.381100	cybergangster	professor	100
+2021-11-19 17:12:36.521989	professor	cybergangster	5*20=
+2021-11-19 17:12:43.653504	cybergangster	professor	100

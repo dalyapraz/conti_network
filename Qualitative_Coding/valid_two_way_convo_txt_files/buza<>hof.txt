@@ -1,0 +1,77 @@
+Timestamp	From	To	Message
+2020-06-23 07:32:57.324836	hof	buza	привет
+2020-06-23 07:33:06.123234	buza	hof	привет
+2020-07-02 07:51:04.030726	hof	buza	привет
+2020-07-02 07:51:05.487198	hof	buza	3S67OIVYuRUuStTXhTlNlMdS
+Download: https://qaz.im/load/b26fTQ/zY7ba2
+Delete: https://qaz.im/index.php?a=delete&q=1483700356
+2020-07-02 07:51:13.124014	hof	buza	установка на все студии
+2020-07-03 08:02:15.343959	hof	buza	привет
+2020-07-03 08:02:33.192784	hof	buza	а что с ментосом дальше делаем?
+2020-07-03 08:02:49.295553	hof	buza	еще что то по обфускатору нужно?
+2020-07-06 07:34:41.725648	hof	buza	привет, будет время посмотри плиз инсталятор ментоса, все ли устраивает
+2020-07-31 09:18:54.301562	hof	buza	привет
+2020-09-02 12:53:22.539610	buza	hof	Привет всем.
+Всем разработчикам, включая веб, просьба скинуть мне краткий список своих скиллов по языкам программирования и стекам.
+Спасибо.
+2020-09-03 13:24:16.896489	hof	buza	я по-моему писал как нас бортанули, заспуфив наш домен и перекинув его на свои адреса - неа, не писал
+2020-09-08 08:26:42.184740	hof	buza	привет
+2020-09-08 12:32:28.340256	hof	buza	посмотри плиз код
+2020-09-08 12:32:30.057987	hof	buza	[07.09.2020 22:07:14] <asmwardest> https://qaz.im/load/NR73rR/eRTk9k
+[07.09.2020 22:07:24] <asmwardest> nRMy3CTMCRCjCJQzQ
+2020-09-08 12:32:50.559041	hof	buza	эмеркоин от asmwardest
+2020-09-11 15:36:07.745939	hof	buza	есть детект, такой же Win64/Trickbot.V
+2020-09-14 06:38:26.046417	hof	buza	есть детект, такой же Win64/Trickbot.V
+2020-09-16 10:51:30.941650	hof	buza	привет, naned модуль готовит к выпуску
+2020-09-16 10:51:47.109940	buza	hof	привет, я знаю
+2020-09-24 11:20:21.300473	hof	buza	привет, на криптопанель сменили доступ?
+2020-09-24 11:20:30.224642	buza	hof	привет
+2021-06-16 09:54:21.333222	hof	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-06-16 09:54:41.528363	buza	hof	привет
+2021-06-16 09:54:48.566795	hof	buza	по поводу ghostа все в силе? кидаю ему исходники на трик1?
+2021-06-16 09:54:50.883685	buza	hof	мин
+2021-06-16 09:55:04.963522	hof	buza	херово, что он на 10ке работает
+2021-06-16 09:55:30.324519	hof	buza	я провел с ним беседу, чтобы переехал на линукс, или работал на виртуалке
+2021-06-16 09:55:39.481613	buza	hof	шифрование
+2021-06-16 09:55:43.618972	buza	hof	давай в рокете
+2021-06-16 09:55:52.146422	hof	buza	а, сек
+2021-06-16 09:56:10.991721	hof	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-06-16 09:57:05.867707	buza	hof	слетело
+2021-06-16 09:57:12.962431	hof	buza	ок
+2021-06-24 13:59:19.827805	hof	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-06-24 14:00:28.377846	buza	hof	-----BEGIN PGP MESSAGE-----
+
+hQIMA1b5aQ2oj3ZCARAAtr+4pwlqvoEYzhvgOuSrsc7KTpGnXwRdWLGwUOfXiZoM
+0fM/jwWWOenVfUaRbH9/Tizp01TInW2VuR03wCbyPREDL6iQMqBh0ZelMR8aOWjf
+qfJxd1HRciFnjKG0C8ZuBPRk7ayj25L3R3KGaviATxzBUIYrsZmTkcqOGiPUUZ/7
+hgS2kgtZ5TCj2Upv8rLWF8eGdinC1jXLZ08YNaNXRM4jzKQ5N/PyYcYF3mNYOckR
+qA+5MtY9h/P72qgkOruvhZtLlN34GyiYN7khIHg8Byz6cAAwsL8rGmJlkCcu+x+V
+JatBkYdW7vz3hUZGOWZm2W5OnfizopbSkjVOJpsVRPqS2n1wgJfem+JPjlYhc5vH
+EnxvLZ4D2WZ3ezA1vwYEuHfOIk//PeiG6lsvcadaUJeaaI9yEIxCi2ienoM1Demt
+e4wi2k99lvv7SsmasP7Pu1RPo7GAdV1/PrrIug3aKuor/cPO1SXh0G7crrKBbLpN
+//HicCFjvpN1m64wtVO75J7ZxCLVeTcwvfwoyIAr0aD8LVJRvLvamkoOOnRkVqlL
+/kJAgBldouycmCLE/Qz1t1N2IsazpcxC67uQGEQriMQWhxpQrw2p/ge0KsiRgKyF
+C8z785vYDJW1FXHFTRrQBKFF0KZRZYrPnXxoYf6T/++qx9StMXn54ykk3CDrJiTS
+tQFBGaoA4W9j+7B0MATG5MGiU5wTybV3wY0we6E4JxhMQ3uuk3UqqMUWB4YTN45o
+QS7Kra3UucTKH3EXAx2liPsCivQyPID7fNQozdqgrjr1a7sA/+0VNK16/q+rJAIK
+nB6zpO2SFM6PZZfimlgz6TQqZWLiLEwDk+F8SVUqSrD2XhYLfJyNMhSnTU6bjq/y
+u2fjT+zPbdPvKg2Vpn2LDFRyRFwCkou92s+yOzpHtr2iKRUpjww=
+=dDhg
+-----END PGP MESSAGE-----
+2021-06-25 08:07:00.754758	hof	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-06-25 08:07:40.499162	hof	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-06-25 08:08:19.246090	hof	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-06-25 08:08:34.795717	buza	hof	привет
+2021-06-25 08:08:46.603885	buza	hof	пгп не работает у меня, твои сообщения вижу, свои не шифруются
+2021-06-25 08:08:50.687363	buza	hof	понял
+2021-06-25 10:16:22.080221	hof	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-06-25 10:19:54.678951	buza	hof	давай в тот чат
+2021-06-30 09:54:20.256972	hof	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-06-30 09:54:33.823923	buza	hof	привет
+2021-06-30 09:55:17.908128	buza	hof	принял
+2021-06-30 09:55:40.456809	hof	buza	только после изменений модулей пусть ко мне на тест закинут
+2021-06-30 09:56:16.241397	hof	buza	а почему минимальная студия для модулей стоит 2015 ? Из-за шифрования строк либой?
+2021-08-12 10:15:45.753592	hof	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-08-12 10:16:13.479912	buza	hof	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-08-12 10:16:15.294490	hof	buza	[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+2021-11-11 13:25:45.751195	hof	buza	привет

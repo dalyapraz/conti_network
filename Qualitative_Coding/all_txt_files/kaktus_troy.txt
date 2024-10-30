@@ -1,0 +1,12 @@
+Timestamp	From	To	Message
+2020-10-27 09:21:57.899931	troy	kaktus	2+3=?
+2020-10-27 09:22:06.968270	kaktus	troy	5
+2020-10-27 09:22:07.781218	troy	kaktus	2+3=?
+2020-10-27 09:23:05.553962	kaktus	troy	привет!
+2020-10-27 09:24:39.676142	troy	kaktus	2+3=?
+2020-10-27 09:25:00.040528	kaktus	troy	5
+2020-10-27 09:39:34.578327	troy	kaktus	2+3=?
+2020-10-27 09:39:40.407633	kaktus	troy	23
+2020-10-27 09:39:42.270239	troy	kaktus	Congratulations! Now you can chat!
+2020-10-27 09:40:15.840853	kaktus	troy	привет!
+2020-10-27 09:40:27.242395	troy	kaktus	hi

@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-11-08 19:03:50.252116	begemot	ed	Привет
+2021-11-08 19:03:50.253785	ed	begemot	Привет

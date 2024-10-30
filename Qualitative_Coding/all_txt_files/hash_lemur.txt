@@ -1,0 +1,189 @@
+Timestamp	From	To	Message
+2020-07-16 11:32:01.495760	lemur	hash	привет)
+2020-07-16 11:32:06.385200	lemur	hash	пропали вы опять
+2020-07-16 11:32:11.546606	lemur	hash	писем не нужно?)
+2020-08-20 18:10:09.029250	lemur	hash	привет)
+2020-08-20 18:10:16.086399	lemur	hash	что у вас, встала работа пока?
+2020-08-20 19:15:29.632153	hash	lemur	Привет
+2020-08-20 19:15:36.399118	hash	lemur	Готовимся пока что
+2020-08-20 19:39:14.777138	lemur	hash	хорошо)
+2021-01-29 14:19:28.637862	lemur	hash	тук тук
+2021-01-29 14:19:36.974829	lemur	hash	можешь сегодня 20 заслать?
+2021-01-29 14:19:43.943814	lemur	hash	а то шило, вообще пусто
+2021-02-01 06:23:33.903102	lemur	hash	привет
+2021-02-01 06:23:42.467827	lemur	hash	на этой неделе будут тексты?
+2021-02-09 08:30:57.502625	lemur	hash	privet
+2021-02-19 11:54:57.401229	lemur	hash	привет, на месте?
+2021-05-04 12:32:35.229688	lemur	hash	123
+2021-05-04 12:32:37.356429	lemur	hash	привет
+2021-05-04 12:32:39.118406	lemur	hash	тут?
+2021-05-04 12:33:46.074319	lemur	hash	{Greetings|Hello|Good day to you|Good arternoon}{!|,|}
+{Your payment|Payment you sent|Payment we received from you|Your advance payment} {in the amount of|for the total sum of|in the sum of} СУММА is {processed|completed|managed|checked} and {approved|affirmed|collected} by our {managers|operators|financial department|financial dept}. Please {check your|look at your|inspect your|check the} {payment|transaction} {information|details} for {transfer|funds transfer} НОМЕР ПЕРЕВОДА, {delivery|transport|shipping} {details|information} and {payslip|bank check} {in the|inside the} {attached file|file attached}.
+{Your|Your desired} {order|purchase order|online order} НОМЕР ЗАКАЗА will {be delivered|arrive to you|arrive to address you specified in order} in {a week|7 days|5 days|6 days}. 
+{Thank you for the|Thanks for the|We are grateful for the|We appreciate your} {order|purchase|online order}!
+
+ТЕМА:
+Your {personal|online} {order|purchase|purchase order} invoice НОМЕР ИНВОЙСА {is paid|is covered|is compensated|is fully covered}
+
+АТТАЧ:
+Order Summary
+Payment Total Information
+Delivery details
+Delivery Information
+Purchase Info & Shipment data
+Transaction details
+Total order details
+Additional Information
+
+------------------------------------
+ 
+{Greetings|Hello|Good day to you|Good arternoon}{!|,|}
+{We are|We're} {writing|messaging|mailing} {to you|you} {regarding|concerning} your {transaction|payment|transfer|money transfer} НОМЕР ПЕРЕВОДА for СУММА for {A|B|C|D|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z}{A|B|C|D|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z}{A|B|C|D|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z} {store|shop|online store} is {processed|completed|approved} and {received|collected|accepted}.
+{We have|We’ve} {submitted|sent|scheduled} your {order|purchase|purchase order|online order} for the {delivery|shipping and delivery|transfer}: {it will|this will} {take|require} {about|approximately} {3-5|4-5|five} days. Please {check your|look at your|inspect your|check the} {information and|details and} {payslip|bank check|receipt} in the {attached file|file attached}.
+{Thank you for|Thanks for} {your business|your order|your interest}.
+
+ТЕМА:
+{Invoice|Given invoice|Bill} НОМЕР ИНВОЙСА for {order|purchase|purchase order|online order} НОМЕР ЗАКАЗА is {approved|given approval|affirmed|covered|paid}
+
+АТТАЧ:
+Order details
+Purchase information
+Paid invoice details
+Full transaction info
+Delivery and check
+Client documentation
+Full order summary
+
+----------------------------------------
+ 
+{Hello|Hey|Good day|Greeting|Good afternoon}!
+{Yesterday|Recently|In these days|Just recently|Not long ago|Not too long ago} {you have|you've} {formed|left|submitted} the {order|purchase order|online purchase order|online purchase} НОМЕР ЗАКАЗА and {made|sent us|performed} {a payment|a compensation|an advance payment} {for this order|for it} order in {amount of|quantity of|sum of|total sum of} CУММА. {Today|Yesterday} {it|your payment} was {successfully|correctly} {processed|completed|obtained}. 
+{Your|The} {parcel|box|packet|equipment} will {be delivered|arrive|be brought} to {specified|selected|a specified|your residence|your home|your specified} address by {EMS|DHL|FedEX|UPS|USPS} {courier|mail} service. {Estimated|Approximate} Delivery Date: ДАТА.
+All {details of|information on|info about|information about} your {order|purchase|purchase order} {you will find|you can find|you can discover|can be found} {in the|within the|inside the} {attached file|file attached}.
+{Thank you|Thanks|Thank you for your business|Thank you very much}!
+
+ТЕМА:
+{Payment for order|Transaction for order|Order transaction} for invoice НОМЕР ИНВОЙСА is {complete|approved|accepted|paid}, {wait for|await|please wait for} {the|your} {box|parcel|delivery}
+
+АТТАЧ:
+Detailed transaction
+Payment description
+Payment and order summary
+Total order data
+Information for customer
+Shop info
+Purchase details
+2021-05-04 12:33:51.733174	lemur	hash	три шаблона
+2021-05-04 12:34:05.716777	lemur	hash	чо вы всё, вернулись на работу?
+2021-05-04 15:22:04.218620	lemur	hash	123
+2021-05-04 15:34:46.000297	hash	lemur	Привет
+2021-05-04 15:34:47.409762	hash	lemur	Принял
+2021-05-04 15:36:28.311129	lemur	hash	хорошо)
+2021-05-04 15:36:29.795163	lemur	hash	ввс
+2021-05-04 15:36:39.470012	lemur	hash	всё, мы в прежнем режиме работаем?
+2021-05-04 15:36:51.264779	hash	lemur	Щас будем смотреть, что будет выходить
+2021-05-04 15:37:30.881880	lemur	hash	понял
+2021-05-04 15:37:49.653203	lemur	hash	слушай, есть какие-то другие способы оплаты кроме бтц?
+2021-05-04 15:38:04.818408	hash	lemur	Да хз
+2021-05-04 15:38:06.316455	hash	lemur	Эфир
+2021-05-04 15:38:13.665946	hash	lemur	Может другая крипта какая еще
+2021-05-04 15:39:31.742577	lemur	hash	лайткойн лучше всего
+2021-05-04 15:39:42.145764	lemur	hash	а то битки страшные комиссии просят
+2021-05-04 15:40:19.165030	lemur	hash	и если есть возможность, я б вперёд взял за 5-10 писем
+2021-05-04 15:40:32.162213	lemur	hash	а то прижало очень последний месяц
+2021-05-04 15:40:33.437251	hash	lemur	Позже немного будет
+2021-05-04 15:40:50.886633	lemur	hash	мне сегодня-завтра норм если получится
+2021-05-04 15:40:55.732705	lemur	hash	спасибо большое
+2021-05-04 15:40:58.576402	hash	lemur	Ок
+2021-05-04 15:41:08.585710	lemur	hash	а так всё стабильно
+2021-05-04 15:41:15.510832	lemur	hash	я на связи до полуночи по мск
+2021-05-04 15:41:19.034182	lemur	hash	каждый будний
+2021-05-04 18:55:50.243907	lemur	hash	там маякнёшь как что
+2021-05-05 14:37:09.804283	lemur	hash	привет)
+2021-05-05 14:37:14.478460	lemur	hash	что там у нас?\
+2021-05-05 14:37:23.997013	hash	lemur	Привет
+2021-05-05 14:37:26.140481	hash	lemur	К ночи
+2021-05-05 14:37:29.633170	lemur	hash	хорошо
+2021-05-05 14:37:29.899738	hash	lemur	Кинь кош
+2021-05-05 14:37:31.942387	lemur	hash	гут
+2021-05-05 14:37:37.817869	lemur	hash	лайты?
+2021-05-05 14:37:55.589701	hash	lemur	Не бтс
+2021-05-05 14:38:15.599160	lemur	hash	ничего другого нет, да?(
+2021-05-05 14:38:24.089998	hash	lemur	Неа
+2021-05-05 14:39:06.072334	lemur	hash	жаль(
+2021-05-05 14:39:07.550981	lemur	hash	12KHi1L1KUNDjSvkG5j56FRNbFrud3ZjUU
+2021-05-05 14:39:16.141368	hash	lemur	+
+2021-05-05 14:39:22.967546	lemur	hash	на будущее было б хорошо лайтами работать
+2021-05-05 14:39:32.847740	hash	lemur	Ну если будут у меня они
+2021-05-05 14:39:35.936234	hash	lemur	Пока нету
+2021-05-05 14:39:41.156988	hash	lemur	Менять тоже геморно
+2021-05-05 14:39:41.594559	lemur	hash	угу)
+2021-05-05 14:39:53.561121	lemur	hash	да там по итогу меньше расходов
+2021-05-05 14:40:00.412780	hash	lemur	Ок
+2021-05-05 19:38:11.501258	hash	lemur	Отправил
+2021-05-05 19:38:24.737039	lemur	hash	вижу, спасибо)
+2021-07-02 12:06:05.376659	lemur	hash	привет)
+2021-07-02 12:06:09.634670	lemur	hash	сдался
+2021-07-02 12:06:19.123805	lemur	hash	сможешь эти 60 оплатить сегодня?
+2021-07-09 08:24:33.286101	lemur	hash	привет)
+2021-07-09 08:24:36.014099	lemur	hash	тут?
+2021-07-09 09:12:29.038304	lemur	hash	скоро сдамся, хотел узнать - под аттач же шлём?
+2021-07-09 09:12:43.713817	hash	lemur	Привет
+2021-07-09 09:12:44.555879	hash	lemur	Да
+2021-07-09 09:12:47.923396	lemur	hash	++
+2021-07-09 10:20:20.545746	lemur	hash	https://send.exploit.in/download/acfda6d9a25cde75/#ArM1gV8m1CFXpqz_WdOGhA
+2021-07-09 10:21:28.547631	hash	lemur	Принял
+2021-07-09 10:21:35.453515	lemur	hash	хорошо)
+2021-07-09 10:21:38.951546	hash	lemur	Мне нужно отъехать. Вернусь - буду изучать
+2021-07-09 10:21:43.149082	lemur	hash	там аного вариантов, смотри
+2021-07-09 10:21:45.728434	lemur	hash	да, хорошо
+2021-07-09 10:21:50.417691	hash	lemur	Ок
+2021-07-10 04:01:58.941707	lemur	hash	привет)
+2021-07-10 04:02:01.901927	lemur	hash	глянул?
+2021-07-10 08:59:35.402498	lemur	hash	друг?)
+2021-07-10 09:20:22.579742	hash	lemur	Привет
+2021-07-10 09:20:26.270198	hash	lemur	Не успел вчера
+2021-07-10 09:20:30.917647	hash	lemur	Уехать надо было
+2021-07-10 09:20:34.379573	hash	lemur	Сегодня гляну все
+2021-07-10 09:20:42.190494	lemur	hash	я понял, да
+2021-07-10 09:20:46.562423	lemur	hash	хорошо, на связи)
+2021-07-10 09:52:10.607735	lemur	hash	а то я пустой)
+2021-07-10 09:52:15.399667	lemur	hash	жду оплаты)
+2021-07-21 11:06:06.994188	lemur	hash	я правильно принял, к завтра тексты?
+2021-07-21 11:07:28.323400	lemur	hash	и сегодня тогда сможешь закинуть 60 за те три текста и эти?
+2021-07-21 11:12:15.084545	hash	lemur	Да, на завтра
+2021-07-21 11:12:17.194198	hash	lemur	Да
+2021-07-21 11:35:23.213093	lemur	hash	спасибо)
+2021-07-21 11:35:26.356985	lemur	hash	щас кош дам
+2021-07-21 11:35:40.957248	lemur	hash	1DSp4woswZECAL9zdmmGeu1s7k1sGExFDh
+2021-07-21 14:53:49.120366	lemur	hash	не забудь только)
+2021-07-21 19:39:31.921388	lemur	hash	123
+2021-07-21 19:47:06.191901	hash	lemur	Ушло
+2021-07-21 19:59:21.858143	lemur	hash	спасибо!
+2021-07-21 20:24:42.911031	hash	lemur	Завтра к 14 сдай плз
+2021-07-22 05:56:21.706381	lemur	hash	холрошо)
+2021-07-22 11:30:23.149688	lemur	hash	сорри, чуть задержался
+2021-07-22 11:30:27.033363	lemur	hash	терри отдать?
+2021-07-22 11:39:26.021989	hash	lemur	Привет
+2021-07-22 11:39:26.953686	hash	lemur	Да
+2021-07-22 11:39:31.694694	lemur	hash	++
+2021-07-30 10:26:36.025255	lemur	hash	привет
+2021-07-30 10:26:43.839097	lemur	hash	терри отдал ещё 7 писем
+2021-07-30 10:26:49.891569	lemur	hash	к сегодня и понедельнику
+2021-07-30 10:26:54.161213	lemur	hash	итого 100 пока
+2021-07-30 10:27:18.121794	lemur	hash	1DSp4woswZECAL9zdmmGeu1s7k1sGExFDh
+2021-08-06 13:25:03.044699	lemur	hash	привет)
+2021-08-06 13:25:14.719199	lemur	hash	сможешь сегодня заслать 80 за те письма?
+2021-08-06 13:33:42.496770	hash	lemur	Привет
+2021-08-06 13:33:44.111714	hash	lemur	Да
+2021-08-06 13:33:52.176674	hash	lemur	Чуть позже
+2021-08-06 13:33:53.407850	lemur	hash	супер)
+2021-08-06 13:33:55.222244	lemur	hash	сек
+2021-08-06 13:36:28.211277	lemur	hash	1DSp4woswZECAL9zdmmGeu1s7k1sGExFDh
+2021-08-06 13:36:33.241336	lemur	hash	спасибо)
+2021-08-06 14:45:47.410835	lemur	hash	не забудь только)
+2021-09-27 14:51:22.426414	lemur	hash	123
+2021-09-27 14:51:27.823333	lemur	hash	123
+2021-10-14 09:11:40.749482	lemur	hash	привет
+2021-10-14 09:11:52.327994	lemur	hash	слушай, я так понимаю это всё одна компания
+2021-10-14 09:12:04.367848	lemur	hash	у тебя нет с tenet связи?

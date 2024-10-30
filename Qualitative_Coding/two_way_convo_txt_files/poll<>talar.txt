@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-08-07 13:56:19.566814	talar	poll	привет. у тебя доступ в боевую админку есть?
+2020-08-10 12:27:49.149242	poll	talar	bro y menya komp glukanul, pereskin mne dostypi
+2020-08-12 04:56:21.037796	poll	talar	bro y menya komp glukanul, pereskin mne dostypi

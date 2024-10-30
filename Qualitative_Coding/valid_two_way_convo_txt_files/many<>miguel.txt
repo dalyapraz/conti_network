@@ -1,0 +1,11 @@
+Timestamp	From	To	Message
+2020-08-19 17:30:25.891116	many	miguel	вот с путти динамика https://dyncheck.com/scan/id/724cac9b34bd38b3737d8f4bcbd0167e
+2020-08-25 11:47:58.775969	many	miguel	ща норм аттач.ку
+2020-08-25 11:48:04.117193	many	miguel	ваще не палит ниче
+2020-08-25 11:48:37.502121	miguel	many	привет
+2020-08-25 11:48:51.661695	miguel	many	если понадобится то напишем
+2020-08-25 11:48:59.751470	many	miguel	ок. с путти дать?
+2020-09-03 12:22:58.362829	miguel	many	ща
+2020-10-05 19:22:48.003035	many	miguel	https://dyncheck.com/scan/id/03121e75f1070dc230d3953da6074722#collapse_info
+2020-10-05 19:22:51.731205	many	miguel	бла не тебе
+2020-10-05 19:22:55.766958	many	miguel	:-D

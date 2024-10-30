@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-09-08 09:04:11.484121	atlant	miguel	привет
+2020-09-08 09:04:13.388139	atlant	miguel	док нжуен?
+2020-10-01 10:19:59.837927	atlant	miguel	привет Бро займ 60$

@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2021-04-06 11:50:47.642411	professor	zolotoy	5*20=
+2021-04-06 14:48:18.252236	zolotoy	professor	100
+2021-04-06 14:48:20.241411	professor	zolotoy	5*20=
+2021-04-06 14:50:29.211581	zolotoy	professor	777
+2021-04-06 14:50:30.854408	professor	zolotoy	правильный ответ - 777
+2021-06-27 09:37:06.089289	professor	zolotoy	а кто автор ифсб ?

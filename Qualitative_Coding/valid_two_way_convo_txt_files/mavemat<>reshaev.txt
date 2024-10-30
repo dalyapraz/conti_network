@@ -1,0 +1,164 @@
+Timestamp	From	To	Message
+2020-09-09 11:47:46.145285	mavemat	reshaev	а у тебя нет файла для мазетоп?, чтобы посмотреть что у них там дальше
+2020-09-09 15:25:05.216920	mavemat	reshaev	а у тебя нет файла для мазетоп?, чтобы посмотреть что у них там дальше
+2020-09-09 15:25:36.742823	reshaev	mavemat	нет
+2020-09-25 08:19:49.797683	mavemat	reshaev	привет. а саппорт может видеть уже занесенные паттерны?
+2020-09-26 19:14:03.577337	mavemat	reshaev	привет. а саппорт может видеть уже занесенные паттерны?
+2020-10-15 06:57:06.425621	reshaev	mavemat	Привет, http://m232fdxbfmbrcehbrj5iayknxnggf6niqfj6x4iedrgtab4qupzjlaid.onion/ не заходит сюда timeout пишет, реши плиз
+2020-10-15 07:06:50.672195	reshaev	mavemat	и еще говорят что админка не грузится хотя у меня грузится, посмотри тоже плиз
+2020-10-15 07:09:47.787682	reshaev	mavemat	Привет, http://m232fdxbfmbrcehbrj5iayknxnggf6niqfj6x4iedrgtab4qupzjlaid.onion/ не заходит сюда timeout пишет, реши плиз
+2020-10-15 07:09:47.790749	reshaev	mavemat	и еще говорят что админка не грузится хотя у меня грузится, посмотри тоже плиз
+2020-10-15 07:12:40.182022	mavemat	reshaev	хмм
+2020-10-15 07:12:55.392573	mavemat	reshaev	админка работает
+2020-10-15 07:13:05.202207	mavemat	reshaev	а линк поправил
+2020-10-15 10:44:33.876575	mavemat	reshaev	хмм
+2020-10-15 10:44:33.878442	mavemat	reshaev	админка работает
+2020-10-15 10:44:33.880163	mavemat	reshaev	а линк поправил
+2020-10-22 04:51:13.859317	reshaev	mavemat	Привет, срочно можешь пофиксить загрузку файлов тут? http://m232fdxbfmbrcehbrj5iayknxnggf6niqfj6x4iedrgtab4qupzjlaid.onion/ upload error пишет
+2020-10-22 04:56:15.729993	reshaev	mavemat	Download: https://qaz.im/load/YRkT9S/7bAki7
+Delete: https://qaz.im/index.php?a=delete&q=1632585328
+2020-10-22 04:56:20.266359	reshaev	mavemat	вот файл для примера
+2020-10-22 04:58:01.749251	reshaev	mavemat	очень срочно
+2020-10-22 06:51:25.707009	reshaev	mavemat	Привет, срочно можешь пофиксить загрузку файлов тут? http://m232fdxbfmbrcehbrj5iayknxnggf6niqfj6x4iedrgtab4qupzjlaid.onion/ upload error пишет
+2020-10-22 06:51:25.855936	reshaev	mavemat	Download: https://qaz.im/load/YRkT9S/7bAki7
+Delete: https://qaz.im/index.php?a=delete&q=1632585328
+2020-10-22 06:51:25.856367	reshaev	mavemat	вот файл для примера
+2020-10-22 06:51:25.857526	reshaev	mavemat	очень срочно
+2020-10-23 14:51:01.508391	mavemat	reshaev	Привет,  сервак для домена contirecovery.info заабузили
+2020-10-26 08:13:03.972020	mavemat	reshaev	Првиет, домен в абуз тоже улетел
+2020-11-01 17:35:47.585583	reshaev	mavemat	привет, добавь плиз возможность удаления чатов операторм
+2020-11-02 07:34:21.414058	reshaev	mavemat	привет, добавь плиз возможность удаления чатов операторм
+2020-11-02 07:55:55.591492	mavemat	reshaev	привет, готово
+2020-11-02 13:01:44.463720	mavemat	reshaev	привет, готово
+2020-11-02 16:08:35.334735	reshaev	mavemat	отпиши как будешь
+2020-11-03 05:56:44.251119	reshaev	mavemat	отпиши как будешь
+2021-02-08 15:01:59.503306	reshaev	mavemat	Привет, чекни плиз че там с чатом
+2021-03-16 19:44:59.832264	reshaev	mavemat	Привет, если статус стоит operator read only то саппорт ему билды не может назначить и нельзя другим операторам доступ дать на его диалоги
+2021-03-17 06:30:03.874523	reshaev	mavemat	Привет, если статус стоит operator read only то саппорт ему билды не может назначить и нельзя другим операторам доступ дать на его диалоги
+2021-03-17 06:30:33.393978	mavemat	reshaev	Принял, поправлю
+2021-03-17 15:35:10.127299	reshaev	mavemat	Скинь плиз линк на news
+2021-03-23 16:41:34.020010	reshaev	mavemat	cлушай а что означают песочные часы внизу справа от сообщения
+2021-03-24 07:15:17.098407	reshaev	mavemat	cлушай а что означают песочные часы внизу справа от сообщения
+2021-03-24 07:16:08.674224	mavemat	reshaev	клиент не прочитал еще сообщение
+2021-03-24 09:40:51.075355	mavemat	reshaev	клиент не прочитал еще сообщение
+2021-04-09 17:36:57.451357	mavemat	reshaev	Привет, там тор сервак надо оплатить
+2021-05-03 12:13:27.565489	mavemat	reshaev	ошибка отр
+2021-05-03 12:26:34.928042	mavemat	reshaev	ошибка отр
+2021-05-05 06:14:10.964273	reshaev	mavemat	Привет, сделай плиз логирование всех ошибок если клиенту не удается по какой-то причине создать чат при загрузке .txt
+2021-05-06 05:10:38.708656	reshaev	mavemat	Привет, сделай плиз логирование всех ошибок если клиенту не удается по какой-то причине создать чат при загрузке .txt
+2021-05-06 05:10:57.793377	mavemat	reshaev	Привет, ок
+2021-05-06 07:42:19.595519	reshaev	mavemat	Привет, сделай еще плиз где нибудь что бы отображалось 
+общее количество диалогов/новых за 24 часа
+2021-05-06 07:49:47.063116	mavemat	reshaev	Только для админа?
+2021-05-06 07:49:54.930352	reshaev	mavemat	Нет для всех
+2021-05-17 06:43:01.398999	reshaev	mavemat	маякни как будешь
+2021-05-18 05:05:56.318812	reshaev	mavemat	маякни как будешь
+2021-05-18 05:06:12.606284	mavemat	reshaev	+
+2021-05-18 08:55:34.080232	mavemat	reshaev	+
+2021-06-02 23:05:54.931626	reshaev	mavemat	привет
+2021-06-02 23:05:59.849230	reshaev	mavemat	у нас место скоро закончится
+2021-06-02 23:06:08.114182	reshaev	mavemat	на новостном серваке
+2021-06-03 05:08:56.376367	reshaev	mavemat	привет
+2021-06-03 05:08:56.377297	reshaev	mavemat	у нас место скоро закончится
+2021-06-03 05:08:56.378443	reshaev	mavemat	на новостном серваке
+2021-06-03 21:01:22.237713	reshaev	mavemat	[07:05:54] <reshaev> привет 
+[07:05:59] <reshaev> у нас место скоро закончится 
+[07:06:07] <reshaev> на новостном серваке
+2021-06-04 05:00:41.237839	reshaev	mavemat	[07:05:54] <reshaev> привет 
+[07:05:59] <reshaev> у нас место скоро закончится 
+[07:06:07] <reshaev> на новостном серваке
+2021-06-14 18:28:29.714767	reshaev	mavemat	Привет сделай плиз что бы новость можно было выложить скрытно но доступ был только по определенной ссылке
+2021-06-15 07:23:01.714020	reshaev	mavemat	Привет сделай плиз что бы новость можно было выложить скрытно но доступ был только по определенной ссылке
+2021-06-15 07:25:16.623125	mavemat	reshaev	Принял
+2021-06-15 07:48:51.679844	mavemat	reshaev	Принял
+2021-06-18 16:34:58.761824	reshaev	mavemat	Привет
+2021-06-18 16:35:08.929576	reshaev	mavemat	Добавил места на сервере?
+2021-06-21 07:31:55.509705	reshaev	mavemat	Отпиши как будешь
+2021-06-21 07:32:50.967594	reshaev	mavemat	Привет
+2021-06-21 07:32:50.982616	reshaev	mavemat	Добавил места на сервере?
+2021-06-21 07:32:50.983881	reshaev	mavemat	Отпиши как будешь
+2021-06-21 07:32:58.617894	mavemat	reshaev	+
+2021-08-02 11:11:36.176745	mavemat	reshaev	Привет, маякни как будешь, серв надо оплатить
+2021-08-02 15:34:31.751633	mavemat	reshaev	Привет, маякни как будешь, серв надо оплатить
+2021-08-13 10:31:40.170797	reshaev	mavemat	Привет
+2021-08-13 10:31:45.692772	reshaev	mavemat	Умер домен continews.click
+2021-08-13 10:33:03.991326	reshaev	mavemat	А не не умер
+2021-08-13 10:33:09.710831	reshaev	mavemat	502 ошибка
+2021-08-16 06:45:51.622252	reshaev	mavemat	Привет
+2021-08-16 06:45:51.623909	reshaev	mavemat	Умер домен continews.click
+2021-08-16 06:45:51.630403	reshaev	mavemat	А не не умер
+2021-08-16 06:45:51.631812	reshaev	mavemat	502 ошибка
+2021-08-18 01:50:24.329169	reshaev	mavemat	Поменяй все рут пассы от сайтов с данными
+2021-08-18 01:50:26.503684	reshaev	mavemat	От сервреов
+2021-08-18 09:06:18.042426	reshaev	mavemat	Поменяй все рут пассы от сайтов с данными
+2021-08-18 09:06:18.045749	reshaev	mavemat	От сервреов
+2021-08-18 10:29:25.623329	reshaev	mavemat	А от сервера рут пасс?
+2021-08-19 14:24:18.482767	reshaev	mavemat	А от сервера рут пасс?
+2021-08-24 06:07:06.383767	reshaev	mavemat	Привет
+2021-08-24 06:07:24.278273	reshaev	mavemat	Там дурачки спамят чат
+2021-08-24 06:07:24.280478	reshaev	mavemat	Можешь почистить?
+2021-08-24 07:57:00.989331	reshaev	mavemat	Привет
+2021-08-24 07:57:00.996957	reshaev	mavemat	Там дурачки спамят чат
+2021-08-24 07:57:00.999813	reshaev	mavemat	Можешь почистить?
+2021-09-06 07:31:05.057636	mavemat	reshaev	Привет, надо еще 2 сервака оплатить
+2021-09-06 17:58:28.182262	mavemat	reshaev	Привет, надо еще 2 сервака оплатить
+2021-09-07 22:19:07.302368	reshaev	mavemat	Привет
+2021-09-07 22:19:25.217287	reshaev	mavemat	чекни что с новостным
+2021-09-07 22:19:37.423109	reshaev	mavemat	Ни админка ни че не работет
+2021-09-08 07:19:03.705704	reshaev	mavemat	Привет
+2021-09-08 07:19:03.706663	reshaev	mavemat	чекни что с новостным
+2021-09-08 07:19:03.708617	reshaev	mavemat	Ни админка ни че не работет
+2021-09-08 12:12:27.726409	reshaev	mavemat	ok
+2021-09-16 23:04:46.371604	reshaev	mavemat	V bloge kogda vikladivaesh s timerom publikaciu sdelay please vozmojnost screenshotov dobavlat
+2021-09-17 07:24:14.919557	reshaev	mavemat	V bloge kogda vikladivaesh s timerom publikaciu sdelay please vozmojnost screenshotov dobavlat
+2021-09-22 11:49:31.151202	reshaev	mavemat	bro srochno nado pochinit cha
+2021-09-22 11:49:32.299840	reshaev	mavemat	t
+2021-09-22 11:49:39.894828	reshaev	mavemat	pustuu stranicu vidaet
+2021-09-23 06:58:19.512122	reshaev	mavemat	bro srochno nado pochinit cha
+2021-09-23 06:58:19.515836	reshaev	mavemat	t
+2021-09-23 06:58:19.521542	reshaev	mavemat	pustuu stranicu vidaet
+2021-10-01 13:32:16.705408	mavemat	reshaev	напиши как будешь ,серваки поолачивать надо
+2021-10-01 17:38:43.160409	mavemat	reshaev	но потерпит до понедельника
+2021-10-02 12:04:36.592390	mavemat	reshaev	напиши как будешь ,серваки поолачивать надо
+2021-10-02 12:04:36.603747	mavemat	reshaev	но потерпит до понедельника
+2021-10-02 12:18:55.215276	reshaev	mavemat	v ponedelnik budu
+2021-10-02 12:54:07.846563	reshaev	mavemat	Bro potoropis s blogom novim please rebyata praym silno jdut
+2021-10-04 06:55:39.285736	reshaev	mavemat	v ponedelnik budu
+2021-10-04 06:55:39.295853	reshaev	mavemat	Bro potoropis s blogom novim please rebyata praym silno jdut
+2021-10-04 07:39:28.282277	mavemat	reshaev	начал обновлять
+2021-10-04 08:10:36.816950	mavemat	reshaev	начал обновлять
+2021-10-05 10:11:33.757950	reshaev	mavemat	Привет
+2021-10-05 10:18:59.373671	reshaev	mavemat	Сделай плиз что бы в блоге можно было определенную публикацию на первое место продвинуть
+2021-10-06 08:12:24.225257	reshaev	mavemat	Привет
+2021-10-06 08:12:24.232450	reshaev	mavemat	Сделай плиз что бы в блоге можно было определенную публикацию на первое место продвинуть
+2021-10-13 20:32:49.332438	reshaev	mavemat	Надо переделать кое-что
+1) Warning text & text перенести в одну вкладку назовем ее content
+warining text переименовать в private text, а text в public text
+2) Во вкладке контент так же добавить возможность загрузить архив с семплами спиженной даты эти семплы должны быть доступны для скачивания на страничке с таймером. Сделай там какую-нибудь кнопку типа examples of data
+2021-10-14 00:12:01.335238	reshaev	mavemat	И вот эту надпись вернхнюю замени на Data will be published after:
+2021-10-14 08:23:03.223826	reshaev	mavemat	Надо переделать кое-что
+1) Warning text & text перенести в одну вкладку назовем ее content
+warining text переименовать в private text, а text в public text
+2) Во вкладке контент так же добавить возможность загрузить архив с семплами спиженной даты эти семплы должны быть доступны для скачивания на страничке с таймером. Сделай там какую-нибудь кнопку типа examples of data
+2021-10-14 08:23:03.228252	reshaev	mavemat	И вот эту надпись вернхнюю замени на Data will be published after:
+2021-10-14 19:57:07.895925	reshaev	mavemat	Доделай плиз это в понедельник
+2021-10-14 19:57:27.951173	reshaev	mavemat	Срочно
+2021-10-15 11:40:12.847028	reshaev	mavemat	Доделай плиз это в понедельник
+2021-10-15 11:40:12.848629	reshaev	mavemat	Срочно
+2021-10-16 15:46:48.840972	mavemat	reshaev	Привет
+2021-11-03 07:14:28.504135	reshaev	mavemat	Привет  напомни когда чат будет новый
+2021-11-03 09:30:33.908735	reshaev	mavemat	Привет  напомни когда чат будет новый
+2021-11-05 07:56:21.456078	reshaev	mavemat	Подними админку конти как зайдешь
+2021-11-05 07:59:16.753276	reshaev	mavemat	Подними админку конти как зайдешь
+2021-11-07 10:16:22.792538	reshaev	mavemat	(07:11:03 AM) pin@q3mcco35auwcstmt.onion: https://continews.click/
+(07:11:08 AM) pin@q3mcco35auwcstmt.onion: 502 Bad Gateway
+2021-11-08 07:29:39.700269	reshaev	mavemat	(07:11:03 AM) pin@q3mcco35auwcstmt.onion: https://continews.click/
+(07:11:08 AM) pin@q3mcco35auwcstmt.onion: 502 Bad Gateway
+2021-11-17 13:53:23.143964	reshaev	mavemat	Привет закажи файловый сервер на 20 TB
+2021-11-18 07:57:18.077885	reshaev	mavemat	Привет закажи файловый сервер на 20 TB
+2021-11-18 16:14:59.418910	reshaev	mavemat	bro u nas server v offline ushel
+2021-11-18 16:44:57.785363	reshaev	mavemat	nas lomanuli koroche
+2021-11-19 08:18:30.300273	reshaev	mavemat	bro u nas server v offline ushel
+2021-11-19 08:18:30.302610	reshaev	mavemat	nas lomanuli koroche
+2021-11-19 11:28:03.798449	reshaev	mavemat	Ti srochno nujen
+2021-11-19 11:47:00.687220	reshaev	mavemat	Ti srochno nujen

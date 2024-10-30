@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2021-07-01 21:04:45.884761	grand	derek	но у него тоже отпал бот сразу
+2021-07-01 21:06:30.570125	derek	grand	но у него тоже отпал бот сразу
+2021-07-11 06:40:01.040805	grand	derek	али мне его пнуть не смог,  а ты уже ушол в офф \ жду на связи
+2021-07-11 14:04:21.495902	grand	derek	али мне его пнуть не смог,  а ты уже ушол в офф \ жду на связи
+2021-12-24 15:52:21.091712	grand	derek	
+[18:36:23] <deanon> bro , peredai plz tenetu chtoby jabber perezagruzil 
+[18:36:32] <deanon> a to s nim OTR ne delaetsya 
+[18:36:43] <deanon> on tipo online , no otr nel'zya sdelat'
+2021-12-24 15:56:17.942839	derek	grand	
+[18:36:23] <deanon> bro , peredai plz tenetu chtoby jabber perezagruzil 
+[18:36:32] <deanon> a to s nim OTR ne delaetsya 
+[18:36:43] <deanon> on tipo online , no otr nel'zya sdelat'

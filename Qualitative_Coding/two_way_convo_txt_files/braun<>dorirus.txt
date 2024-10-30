@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2020-07-01 10:28:56.377032	braun	dorirus	Привет.
+2020-07-01 10:28:57.750083	braun	dorirus	тут?
+2020-07-01 10:32:32.204730	dorirus	braun	Ghbdtn
+2020-08-26 13:53:38.599219	braun	dorirus	Привет.

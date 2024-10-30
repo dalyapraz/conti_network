@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-12-17 09:37:31.639850	pin	starfall	22plus22=?
+2021-12-17 09:37:37.749471	starfall	pin	44
+2021-12-17 09:37:38.927678	pin	starfall	22plus22=?
+2021-12-17 09:37:53.209237	pin	starfall	Congratulations! Now you can chat!

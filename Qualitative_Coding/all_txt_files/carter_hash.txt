@@ -1,0 +1,14 @@
+Timestamp	From	To	Message
+2020-07-14 08:21:41.171740	carter	hash	
+привет, 
+Administrator 162.244.81.159 jln9ewve serverroom.net auchie@protonmail.ch popo00--
+2020-07-14 08:21:51.277492	hash	carter	Принял
+2020-07-14 08:21:55.028858	hash	carter	Спасибо
+2020-10-12 11:17:15.238624	carter	hash	да, привет
+2020-10-27 14:26:53.680074	carter	hash	оплатил, Your order is under review, please give us a few minutes to validate your purchase.
+2020-10-27 14:27:17.240566	hash	carter	Ок, спасибо
+2020-10-27 14:27:43.373866	hash	carter	И купи плз мне ще 1 сервант вот здесь https://www.nocix.net/
+2020-10-27 14:27:51.600227	hash	carter	Такой же, как в предыдущих конфигах
+2020-10-27 14:28:55.716107	hash	carter	С десятым дебианом
+2020-10-27 14:31:04.415335	hash	carter	Только на отдельный акк
+2020-10-27 14:31:05.950373	carter	hash	хорошо

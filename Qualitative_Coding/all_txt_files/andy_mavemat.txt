@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-08-05 11:26:26.039870	andy	mavemat	привет

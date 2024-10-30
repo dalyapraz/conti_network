@@ -1,0 +1,8 @@
+Timestamp	From	To	Message
+2021-06-23 17:33:44.241293	modnik	dylon	5+5=?
+2021-06-28 11:40:57.300706	modnik	dylon	5+5=?
+2021-06-29 13:22:35.326648	modnik	dylon	5+5=?
+2021-06-29 13:22:40.634505	dylon	modnik	10
+2021-06-29 13:22:42.054131	modnik	dylon	Congratulations! Now you can chat!
+2021-09-02 19:13:01.141149	modnik	dylon	hi man
+2021-10-11 12:48:38.304183	modnik	dylon	hi

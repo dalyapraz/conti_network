@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-08-23 09:24:27.533674	mentos	tunri	привет
+2021-08-23 09:24:32.232184	mentos	tunri	я от бузы
+2021-09-27 08:30:50.157372	mentos	tunri	привет
+2021-09-27 08:30:50.158721	tunri	mentos	привет

@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-10-14 10:53:58.368359	nevada	derek	привет бро, как дела?
+2020-10-14 10:58:52.081782	derek	nevada	привет бро, как дела?

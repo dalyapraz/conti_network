@@ -1,0 +1,6 @@
+Timestamp	From	To	Message
+2021-11-24 14:04:48.260370	macallan	pin	привет
+2021-11-24 18:52:58.814630	macallan	pin	привет
+2021-11-24 18:53:34.657599	pin	macallan	привет
+2021-11-25 07:41:43.415195	pin	macallan	привет
+2021-12-11 13:16:36.432239	pin	macallan	тут?

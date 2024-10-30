@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-08-10 10:47:09.275946	rand	kaktus	Привет

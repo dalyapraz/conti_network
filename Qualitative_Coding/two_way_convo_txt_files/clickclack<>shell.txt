@@ -1,0 +1,21 @@
+Timestamp	From	To	Message
+2020-06-30 09:27:18.418393	clickclack	shell	привет
+2020-06-30 10:57:19.727157	clickclack	shell	привет
+2020-07-10 14:02:52.813662	clickclack	shell	привет расскажи что с прозвоном не так
+2020-07-10 20:40:23.462906	shell	clickclack	tut ?
+2020-07-20 16:56:30.646097	clickclack	shell	привет как освсободишься пиши
+2020-07-23 10:29:54.794732	clickclack	shell	бро привет, не слышал внц сделали?
+2020-07-28 16:44:19.162899	clickclack	shell	вылетал
+2020-08-01 00:27:12.275141	shell	clickclack	https://privnote.com/wLdfwDok#UUKuk37ZB
+2020-08-01 09:22:03.400104	shell	clickclack	https://privnote.com/wLdfwDok#UUKuk37ZB
+2020-08-01 09:46:08.806641	clickclack	shell	ппц
+2020-08-03 09:45:22.540575	clickclack	shell	ппц
+2020-08-10 18:39:50.083181	clickclack	shell	привет ! тут?
+2020-09-01 11:05:46.748983	shell	clickclack	https://privnote.com/Sz3OvPop#PiOknY7ky
+2020-09-01 11:38:41.896129	shell	clickclack	https://privnote.com/Sz3OvPop#PiOknY7ky
+2020-09-01 11:39:15.573044	clickclack	shell	привет ща сделаем
+2020-09-02 16:38:06.457947	shell	clickclack	оператор говорит, что нужно чтобы кто - то подписался за пак, без подписи курьер пак не оставит, я спросила, когда будет последняя доставка, она сказала сегодня примерно в этом промежутке времени 3.20 - 4.25, но это не точное время, например вчера курьер сделал вторую попытку доставить пак в районе 5 вечера
+2020-09-02 16:38:14.662531	shell	clickclack	оператор говорит, что нужно чтобы кто - то подписался за пак, без подписи курьер пак не оставит, я спросила, когда будет последняя доставка, она сказала сегодня примерно в этом промежутке времени 3.20 - 4.25, но это не точное время, например вчера курьер сделал вторую попытку доставить пак в районе 5 вечера
+2020-09-03 08:31:28.953699	clickclack	shell	https://logdog.pw/?Oelh4wBN5XZFpRoLntEf#WhVMhOH6rQqo2uE14ls_u2Db40sB4VDXArC346Z9qzkv10aM0YdFR4ZIvoP+poZE
+2020-09-03 11:25:13.818963	clickclack	shell	https://logdog.pw/?Oelh4wBN5XZFpRoLntEf#WhVMhOH6rQqo2uE14ls_u2Db40sB4VDXArC346Z9qzkv10aM0YdFR4ZIvoP+poZE
+2020-09-21 16:15:17.451086	clickclack	shell	14200 получили

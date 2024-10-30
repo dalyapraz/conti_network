@@ -1,0 +1,15 @@
+Timestamp	From	To	Message
+2020-08-13 12:21:34.969095	clickclack	tilar	привет доком поделишьсся?
+2020-09-10 10:14:28.206894	tilar	clickclack	hey
+2020-09-10 10:14:28.209350	tilar	clickclack	yo
+2020-09-10 10:14:28.210034	tilar	clickclack	mantytyt?
+2020-09-10 10:14:30.650580	tilar	clickclack	xls bydet seoganuy?
+2020-09-10 10:14:34.283276	tilar	clickclack	kikidat' link?
+2020-09-10 10:14:37.561371	tilar	clickclack	fail mne kriptit'?
+2020-09-10 14:45:47.865876	tilar	clickclack	ky
+2020-09-10 14:45:48.545028	tilar	clickclack	bro
+2020-09-10 14:45:49.829005	tilar	clickclack	ti gde?
+2020-09-10 16:23:29.738647	tilar	clickclack	ky
+2020-09-10 16:23:29.746931	tilar	clickclack	bro
+2020-09-10 16:23:29.748216	tilar	clickclack	ti gde?
+2020-09-15 16:13:50.495987	clickclack	tilar	привет

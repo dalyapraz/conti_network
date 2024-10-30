@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-11-22 11:59:13.148453	mavemat	strix	Привет
+2021-11-22 17:37:43.697519	mavemat	strix	Напиши как в онлайне будешь

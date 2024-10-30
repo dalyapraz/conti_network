@@ -1,0 +1,15 @@
+Timestamp	From	To	Message
+2020-09-18 12:49:26.935394	ganesh	carter	привет
+2020-09-18 12:49:30.636857	ganesh	carter	тут?
+2020-09-18 12:50:17.522261	carter	ganesh	да, привет
+2020-09-18 12:50:53.975049	ganesh	carter	керасид тебе ищет срочно что то
+2020-09-18 12:52:44.640369	carter	ganesh	ага, уже отписал ему, спасибо
+2020-09-30 09:07:07.792450	carter	ganesh	привет,  <green> картер стукни ganesh, скажи ему какие для кобы серваки нужны
+2020-09-30 09:07:41.463683	carter	ganesh	приемрно такие 
+2x200Gb SSD Storage
+32GB ECC RAM
+4c/8t Xeon® E3 v2/v3
+Unlimited traffic
+2020-09-30 09:08:35.465283	ganesh	carter	привет спс
+2020-09-30 09:09:39.830738	ganesh	carter	это дедики правильно?
+2020-09-30 09:10:36.073616	carter	ganesh	да

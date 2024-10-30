@@ -1,0 +1,12 @@
+Timestamp	From	To	Message
+2021-07-27 22:32:08.941427	zolotoy	rozetka	тут?
+2021-07-27 22:37:09.250078	zolotoy	rozetka	чет отр глючит люто
+2021-07-27 22:38:15.945697	rozetka	zolotoy	тут?
+2021-07-27 22:38:15.946133	rozetka	zolotoy	чет отр глючит люто
+2021-07-27 22:44:43.067005	rozetka	zolotoy	12
+2021-07-27 22:45:20.133667	zolotoy	rozetka	12
+2021-07-27 23:29:34.674226	rozetka	zolotoy	ку
+2021-08-09 23:38:14.944409	zolotoy	rozetka	хуй)
+2021-10-17 22:41:25.222793	rozetka	zolotoy	hi
+2021-10-19 19:39:27.589516	rozetka	zolotoy	hi
+2022-01-17 15:49:48.327711	zolotoy	rozetka	мне тут принтер найтмер дали)))

@@ -1,0 +1,42 @@
+Timestamp	From	To	Message
+2020-08-11 18:57:47.306753	quite	poll	
+� [11:48:25] <quite> на нём команды не отрабатываются нормально, он помирает 
+� [11:48:36] <quite> спауниться в процессы не даёт 
+� [11:48:44] <quite> помирает
+2020-08-13 10:09:51.919639	quite	poll	ky, kak dela
+2020-08-15 11:54:01.175729	quite	poll	hi
+2020-08-17 08:17:16.328201	quite	poll	hi
+2020-08-17 17:47:43.615708	poll	quite	[13:21:47] <poll>  PAL-5VJXK13_W10018363.85EF8C5952326C0BB05FADDF5FB14D13 
+[13:21:50] <poll> vot ehe bot ot nih 
+[13:21:52] <poll> pystil tebe
+2020-08-17 17:49:21.204284	quite	poll	[13:21:47] <poll>  PAL-5VJXK13_W10018363.85EF8C5952326C0BB05FADDF5FB14D13 
+[13:21:50] <poll> vot ehe bot ot nih 
+[13:21:52] <poll> pystil tebe
+2020-08-18 21:43:22.742463	quite	poll	
+� [12:59:55] <poll> build gotov
+kinew?
+2020-08-21 17:38:07.912943	quite	poll	ya tyt man, ti prosto ne otvetil , ya dymal zanyat ti)
+2020-08-21 20:07:43.574541	poll	quite	bro tyt?
+2020-08-21 20:15:25.961871	quite	poll	bro tyt?
+2020-08-24 06:30:46.425359	poll	quite	hi man
+v doroge sednya. budu chut pozje
+2020-08-24 07:42:47.199042	poll	quite	hi man
+v doroge sednya. budu chut pozje
+2020-08-31 09:10:45.326971	quite	poll	bi
+2020-09-01 22:18:03.812652	poll	quite	lockeri est no bez crypta. kidat?
+2020-09-02 07:33:06.345967	poll	quite	lockeri est no bez crypta. kidat?
+2020-09-02 16:47:36.628879	poll	quite	tyt?
+2020-09-02 16:47:44.003308	quite	poll	+
+2020-09-02 16:55:29.094268	quite	poll	tyt?
+2020-09-07 11:16:06.595185	poll	quite	[06:48:31] <poll> bro nu emo meo 
+[06:48:36] *** Попытка возобновить личную переписку
+[06:48:52] <poll> ny ti che nazvanie ne mojesh dobavit normalno? 
+[06:49:02] <poll> che blay eto za korayviay hren?!
+2020-09-07 11:16:19.602542	poll	quite	vozmi  otkroi google & dobav ego normalno
+2020-09-07 11:30:34.500265	quite	poll	[06:48:31] <poll> bro nu emo meo 
+[06:48:36] *** Попытка возобновить личную переписку
+[06:48:52] <poll> ny ti che nazvanie ne mojesh dobavit normalno? 
+[06:49:02] <poll> che blay eto za korayviay hren?!
+2020-09-07 11:30:34.501642	quite	poll	vozmi  otkroi google & dobav ego normalno
+2020-09-07 17:36:36.893867	quite	poll	нет не выходит. отваливается
+2020-09-09 12:43:16.916173	quite	poll	hi

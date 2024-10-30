@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-09-07 17:44:04.204484	buran	viper	хай
+2021-09-07 17:44:26.192458	viper	buran	привет
+2021-10-06 11:12:49.833136	viper	buran	привет новый чат HR buran o0(*HIFKJ  https://my-ppl.com

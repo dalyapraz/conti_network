@@ -1,0 +1,12 @@
+Timestamp	From	To	Message
+2021-03-15 14:47:04.195923	kramer	steller	50$+550 баксов (пример ответа: 10$)
+2021-03-15 14:47:27.734204	steller	kramer	600$
+2021-03-15 14:47:28.951335	kramer	steller	Congratulations! Now you can chat!
+2021-03-15 14:48:23.521583	steller	kramer	Привет.
+2021-03-15 14:48:30.242927	steller	kramer	Мне вот это пришло.
+rdp rdp://SERVER-AGM\ella:!QA@WS#ED4rfv@5.141.22.50
+
+ftp://himemsys:antiDen4ik@@188.93.130.254
+
+вот так обычно попадаются в логах
+[19:15:17] <kramer> любой стилер тянет рдп и ссш акки

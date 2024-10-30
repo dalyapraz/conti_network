@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2020-10-01 16:23:41.923590	stern	troy	Привет
+2020-10-01 16:23:53.368401	stern	troy	нам нужен лицензионный софт sintenel c1 который и  cylance
+2020-10-01 16:24:11.204049	troy	stern	hi
+2020-10-01 16:24:21.034204	troy	stern	mogno dlya testov
+2020-10-01 16:24:26.405694	troy	stern	obhoda ego
+2020-10-30 17:47:14.498902	stern	troy	Привет

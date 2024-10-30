@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-07-15 12:06:00.832404	derek	reshaev	ыва
+2021-07-16 11:14:32.963398	derek	reshaev	ыва
+2021-09-16 11:01:23.194669	reshaev	derek	privet
+2021-09-16 11:01:23.197828	reshaev	derek	dollar@ ti je?

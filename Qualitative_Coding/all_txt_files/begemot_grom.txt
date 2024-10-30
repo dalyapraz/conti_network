@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-10-01 12:54:26.227257	grom	begemot	[ERROR: This message is encrypted, and you are unable to decrypt it.]
+2021-10-01 12:58:18.288481	grom	begemot	[ERROR: This message is encrypted, and you are unable to decrypt it.]
+2021-10-20 08:10:02.368369	begemot	grom	Привет

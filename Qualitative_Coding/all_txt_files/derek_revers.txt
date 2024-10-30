@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-04-06 19:44:56.389082	revers	derek	здарова

@@ -1,0 +1,35 @@
+Timestamp	From	To	Message
+2021-11-29 19:36:51.041131	bio	tiniles	2+3=?
+2021-11-29 19:40:54.886955	tiniles	bio	5
+2021-11-29 19:40:56.556086	bio	tiniles	2+3=?
+2021-11-29 19:41:02.866001	tiniles	bio	5
+2021-11-29 19:41:04.046130	bio	tiniles	Congratulations! Now you can chat!
+2021-11-29 19:43:58.939736	bio	tiniles	?
+2021-12-13 20:08:16.364901	bio	tiniles	тут?
+2021-12-15 12:29:41.636131	bio	tiniles	привет
+2021-12-16 05:42:50.813684	bio	tiniles	как появишься, дай знать плиз
+2021-12-16 05:43:05.881116	bio	tiniles	7b2jOXuTTMAoogMh8uBqteofbpkoGSEPM73s0cLysPi2CXLjbga55xRoeKyS00Z4
+2021-12-16 08:10:34.329561	bio	tiniles	как появишься, дай знать плиз
+2021-12-16 08:10:34.332265	bio	tiniles	7b2jOXuTTMAoogMh8uBqteofbpkoGSEPM73s0cLysPi2CXLjbga55xRoeKyS00Z4
+2021-12-16 08:13:43.344808	tiniles	bio	+
+2021-12-17 16:00:58.706765	bio	tiniles	ну ты где там???
+2021-12-17 16:01:02.848842	bio	tiniles	нужен очень
+2021-12-17 16:13:16.911195	bio	tiniles	VWkYI95vHZxIHk07m6dZiLCJHeP0OA7b4Jl5ywtTJ2RGGJwWW95KiGUcrCLG0qZB - скидывай для них весь софт по декрипту прям в чат
+2021-12-17 16:13:19.733451	bio	tiniles	они ждут
+2021-12-17 16:50:56.206765	bio	tiniles	ну где ты блина блинский
+2021-12-17 17:17:49.822922	bio	tiniles	ну ты где там???
+2021-12-17 17:17:49.824521	bio	tiniles	нужен очень
+2021-12-17 17:17:49.825966	bio	tiniles	VWkYI95vHZxIHk07m6dZiLCJHeP0OA7b4Jl5ywtTJ2RGGJwWW95KiGUcrCLG0qZB - скидывай для них весь софт по декрипту прям в чат
+2021-12-17 17:17:49.827577	bio	tiniles	они ждут
+2021-12-17 17:17:49.828417	bio	tiniles	ну где ты блина блинский
+2021-12-18 19:39:04.652510	bio	tiniles	4UycJUP8iw6QBQzcmVfk7EK0pObJHjsLxeaXIv9uRiO5KboMTqA1H6Z5SstFEIwf 
+они оплатили, но у них с декриптором проблема под линукс
+посмотри плиз 
+скинули файл который не могут дешифровать
+2021-12-18 19:39:09.758569	bio	tiniles	спасибо
+2021-12-18 20:05:16.316588	bio	tiniles	4UycJUP8iw6QBQzcmVfk7EK0pObJHjsLxeaXIv9uRiO5KboMTqA1H6Z5SstFEIwf 
+они оплатили, но у них с декриптором проблема под линукс
+посмотри плиз 
+скинули файл который не могут дешифровать
+2021-12-18 20:05:16.317321	bio	tiniles	спасибо
+2021-12-19 10:43:33.258818	bio	tiniles	привет

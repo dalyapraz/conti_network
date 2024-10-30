@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2022-02-08 18:29:19.104599	atlas	born	повтори не могу прочитать

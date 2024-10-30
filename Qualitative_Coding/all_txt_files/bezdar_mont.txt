@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-12-14 09:28:27.671144	mont	bezdar	whereismym0ney@xmpp.jp

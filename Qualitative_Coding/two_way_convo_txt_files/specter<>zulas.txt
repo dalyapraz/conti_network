@@ -1,0 +1,246 @@
+Timestamp	From	To	Message
+2021-09-16 06:39:38.669986	zulas	specter	привет . напиши еще раз . у меня OTR нет
+2021-09-16 07:02:56.376444	specter	zulas	привет
+2021-09-16 07:05:10.759788	specter	zulas	у меня вопрос по запросу
+2021-09-16 07:05:25.957624	zulas	specter	да .какому ?
+2021-09-16 07:05:53.124962	specter	zulas	POST /TST150/WIN-D92SKISQ0JG_W639600.579036FF7F1C6D1A25B3F315D688968E/84/ HTTP/1.1
+Accept: */*
+Content-Type: multipart/form-data; boundary=---------ILIRTLGXDQADQZQV
+Connection: Close
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+Host: 63.147.234.198:443
+Content-Length: 917
+Cache-Control: no-cache
+
+-----------ILIRTLGXDQADQZQV
+Content-Disposition: form-data; name="data"
+
+dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|QU5JRA==|QUhXcVRVa3I0ZWhzWDY0ZW00S3JTMFprc2h0d0VzdXlsanBoNm5XOE1KZFg4NlJkMExNbEl6YmotMk9kNFFaQQ==|1588241125|1651313125|Lw==|1|1
+dXNlcg==|Chrome|LnJlZ2lzdGVyLmNvbQ==|X191dG1h|MTk1NDMxOTg3LjU5MDA3MzIyNy4xNTg4MjQxMTQ0LjE1ODgyNDExNDQuMTU4ODI0MTE0NC4x|1588241143|1651313173|Lw==|0|0
+dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|MVBfSkFS|MjAyMS0wOC0yMC0wNg==|1629440823|1632032823|Lw==|1|0
+dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|TklE|MjIxPUlqcVRFLTlnYWpWUWNnTUgyNGVUcFBJMmFQYkYzZUJSamJOWXlDSXF1dXFhb2ttbktrNHk4THhOcVMzNm1LU0VpS0tLSjBISU5EdjZaUG4tcVJvZEMwbnZsWEhMZ2k3Vmx1eW92Z3VDQkttMksyNi1Md0dsYzJXTkNYbmtLWC1pa3NJczFNUEQzSExuNU1IX3dWQnQ4TExVdXRxT2dVMzlFVDhkeFktU2lGVQ==|1629440823|1645252023|Lw==|1|1
+-----------ILIRTLGXDQADQZQV
+Content-Disposition: form-data; name="source"
+
+Chrome cookies
+-----------ILIRTLGXDQADQZQV--
+
+[9/9/2021 6:58:09 PM:880]
+HTTP/1.1 403 Forbidden
+connection: close
+server: Cowboy
+date: Thu, 09 Sep 2021 15:58:11 GMT
+content-length: 26
+2021-09-16 07:06:27.884089	zulas	specter	только не спрашивай почему ..
+2021-09-16 07:06:29.475042	zulas	specter	)
+2021-09-16 07:06:32.451557	zulas	specter	надо логи смотреть
+2021-09-16 07:06:43.656149	zulas	specter	есть ли там что то
+2021-09-16 07:07:06.568168	specter	zulas	чтобы логи посмотреть нужно доступ
+2021-09-16 07:07:12.612368	specter	zulas	а все друг к другу отправляют
+2021-09-16 07:07:16.774151	specter	zulas	и доступа у меня до сих пор нет
+2021-09-16 07:13:29.877958	zulas	specter	а что деф говорит ?
+2021-09-16 07:13:39.550113	zulas	specter	он доступами заведует .
+2021-09-16 07:13:44.494134	zulas	specter	а ты новенький чтоли ?
+2021-09-16 07:14:10.022439	specter	zulas	да я второй бэкендер
+2021-09-16 07:14:15.650075	specter	zulas	деф сказал тебе написать
+2021-09-16 07:14:34.448887	zulas	specter	а бекендер -- всмысли мне на замену ? эрлангом заведуешь ?
+2021-09-16 07:15:00.596361	specter	zulas	эм нет наверное
+2021-09-16 07:15:43.326805	specter	zulas	[15.09.2021 20:08:42] <defender> все равно 403?
+[15.09.2021 20:08:47] <Specter> да
+[15.09.2021 20:08:54] <Specter> юзер агент обезателен?
+[15.09.2021 20:09:10] <defender> нет
+[15.09.2021 20:09:22] <Specter> ну тогда вот запрос выше
+[15.09.2021 20:10:22] <defender> скинь это зуласу и спроси что в нем не так
+2021-09-16 07:15:48.264090	specter	zulas	я с драйвером работаю
+2021-09-16 07:16:17.994101	zulas	specter	короче если оно доходит до обработки 84 команды .. то форбидден может быть только тут:
+
+  {read_length, 64000},
+ {read_timeout, 50000}
+]) of
+ { ok, KV, Req00 } -> { KV, Req00 };
+ { undefined, Req00 } ->
+  throw(reply(forbidden, Req00))
+2021-09-16 07:16:33.502700	zulas	specter	это значит что либо тело запроса у тебя большое . либо время пересылки большое
+2021-09-16 07:16:49.125499	specter	zulas	запрос быстро улетает
+2021-09-16 07:16:52.369546	zulas	specter	може до сюда вообще не дойти
+2021-09-16 07:16:54.408750	specter	zulas	ну тело тоже вроде не очень
+2021-09-16 07:16:55.539441	zulas	specter	размер запроса ?
+2021-09-16 07:17:03.326042	specter	zulas	95байт
+2021-09-16 07:17:11.619808	specter	zulas	Content-Length: 917
+2021-09-16 07:17:14.133463	specter	zulas	вот
+2021-09-16 07:17:33.861645	zulas	specter	тогда не оно да
+2021-09-16 07:18:11.275008	specter	zulas	там говорили какое-то обновление было
+2021-09-16 07:18:15.579053	specter	zulas	может параметры другие
+2021-09-16 07:18:17.159800	specter	zulas	или еще что
+2021-09-16 07:18:31.927748	zulas	specter	еще есть форбидден тут: _ ->
+ reply(forbidden, Req0) .. это когда неверный URL, но у тебя он верный вроде
+2021-09-16 07:20:20.734496	specter	zulas	ты можешь в логах глянуть?) или у тебя тоже доступа нет)
+2021-09-16 07:21:09.534765	zulas	specter	уже нету .. там был одноразовый пароль . а я его забыл .
+2021-09-16 07:21:19.483142	zulas	specter	)
+2021-09-16 07:21:23.062369	specter	zulas	:)
+2021-09-16 07:21:34.164872	zulas	specter	все равно к дефу надо .
+2021-09-16 07:21:37.340977	specter	zulas	ладно, пойду тогда админа доставать
+2021-09-16 10:31:47.297820	zulas	specter	а у тебя там колонок сколько ?
+2021-09-16 10:31:48.826756	zulas	specter	8 :
+2021-09-16 10:31:49.817017	zulas	specter	?
+2021-09-16 10:32:25.849192	specter	zulas	эм ща
+2021-09-16 10:32:49.251891	specter	zulas	---------ILIRTLGXDQADQZQV
+Content-Disposition: form-data; name="data"
+
+dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|QU5JRA==|QUhXcVRVa3I0ZWhzWDY0ZW00S3JTMFprc2h0d0VzdXlsanBoNm5XOE1KZFg4NlJkMExNbEl6YmotMk9kNFFaQQ==|1588241125|1651313125|Lw==|1|1
+dXNlcg==|Chrome|LnJlZ2lzdGVyLmNvbQ==|X191dG1h|MTk1NDMxOTg3LjU5MDA3MzIyNy4xNTg4MjQxMTQ0LjE1ODgyNDExNDQuMTU4ODI0MTE0NC4x|1588241143|1651313173|Lw==|0|0
+dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|MVBfSkFS|MjAyMS0wOC0yMC0wNg==|1629440823|1632032823|Lw==|1|0
+dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|TklE|MjIxPUlqcVRFLTlnYWpWUWNnTUgyNGVUcFBJMmFQYkYzZUJSamJOWXlDSXF1dXFhb2ttbktrNHk4THhOcVMzNm1LU0VpS0tLSjBISU5EdjZaUG4tcVJvZEMwbnZsWEhMZ2k3Vmx1eW92Z3VDQkttMksyNi1Md0dsYzJXTkNYbmtLWC1pa3NJczFNUEQzSExuNU1IX3dWQnQ4TExVdXRxT2dVMzlFVDhkeFktU2lGVQ==|1629440823|1645252023|Lw==|1|1
+-----------ILIRTLGXDQADQZQV
+2021-09-16 10:33:32.286568	specter	zulas	больше по идее
+2021-09-16 10:33:50.182279	specter	zulas	10
+2021-09-16 10:36:57.784344	zulas	specter	да вижу
+2021-09-16 10:55:57.799579	zulas	specter	я на сервере .. не понимаю как отделить твои запросы от других
+2021-09-16 10:56:12.149916	zulas	specter	там блин ошибки парсинга клиентского ИД ..
+2021-09-16 10:56:19.468334	specter	zulas	могу сделать еще раз
+2021-09-16 10:56:21.428889	specter	zulas	или курл дать
+2021-09-16 10:57:22.342835	zulas	specter	ну дай курл
+2021-09-16 10:58:54.737728	specter	zulas	curl -i -X POST \
+   -H "Content-Type:multipart/form-data" \
+   -F "data=dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|QU5JRA==|QUhXcVRVa3I0ZWhzWDY0ZW00S3JTMFprc2h0d0VzdXlsanBoNm5XOE1KZFg4NlJkMExNbEl6YmotMk9kNFFaQQ==|1588241125|1651313125|Lw==|1|1 dXNlcg==|Chrome|LnJlZ2lzdGVyLmNvbQ==|X191dG1h|MTk1NDMxOTg3LjU5MDA3MzIyNy4xNTg4MjQxMTQ0LjE1ODgyNDExNDQuMTU4ODI0MTE0NC4x|1588241143|1651313173|Lw==|0|0 dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|MVBfSkFS|MjAyMS0wOC0yMC0wNg==|1629440823|1632032823|Lw==|1|0 dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|TklE|MjIxPUlqcVRFLTlnYWpWUWNnTUgyNGVUcFBJMmFQYkYzZUJSamJOWXlDSXF1dXFhb2ttbktrNHk4THhOcVMzNm1LU0VpS0tLSjBISU5EdjZaUG4tcVJvZEMwbnZsWEhMZ2k3Vmx1eW92Z3VDQkttMksyNi1Md0dsYzJXTkNYbmtLWC1pa3NJczFNUEQzSExuNU1IX3dWQnQ4TExVdXRxT2dVMzlFVDhkeFktU2lGVQ==|1629440823|1645252023|Lw==|1|1" \
+   -F "source=Chrome cookies" \
+ 'https://31.14.40.220/TST150/WIN-D92SKISQ0JG_W639600.579036FF7F1C6D1A25B3F315D688968E/84/'
+2021-09-16 11:00:00.267650	zulas	specter	Failed to connect to 31.14.40.220 port 443: В соединении отказано
+2021-09-16 11:00:12.441237	specter	zulas	так стоп
+2021-09-16 11:01:30.787170	specter	zulas	curl -i -X POST \
+   -H "Content-Type:multipart/form-data" \
+   -F "data=dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|QU5JRA==|QUhXcVRVa3I0ZWhzWDY0ZW00S3JTMFprc2h0d0VzdXlsanBoNm5XOE1KZFg4NlJkMExNbEl6YmotMk9kNFFaQQ==|1588241125|1651313125|Lw==|1|1 dXNlcg==|Chrome|LnJlZ2lzdGVyLmNvbQ==|X191dG1h|MTk1NDMxOTg3LjU5MDA3MzIyNy4xNTg4MjQxMTQ0LjE1ODgyNDExNDQuMTU4ODI0MTE0NC4x|1588241143|1651313173|Lw==|0|0 dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|MVBfSkFS|MjAyMS0wOC0yMC0wNg==|1629440823|1632032823|Lw==|1|0 dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|TklE|MjIxPUlqcVRFLTlnYWpWUWNnTUgyNGVUcFBJMmFQYkYzZUJSamJOWXlDSXF1dXFhb2ttbktrNHk4THhOcVMzNm1LU0VpS0tLSjBISU5EdjZaUG4tcVJvZEMwbnZsWEhMZ2k3Vmx1eW92Z3VDQkttMksyNi1Md0dsYzJXTkNYbmtLWC1pa3NJczFNUEQzSExuNU1IX3dWQnQ4TExVdXRxT2dVMzlFVDhkeFktU2lGVQ==|1629440823|1645252023|Lw==|1|1" \
+   -F "source=Chrome cookies" \
+ 'http://63.147.234.198:443/TST150/WIN-D92SKISQ0JG_W639600.579036FF7F1C6D1A25B3F315D688968E/84/'
+2021-09-16 11:03:38.906680	zulas	specter	непонял только как ты в курле строки разделяешь в пост-дата ?
+2021-09-16 11:04:06.896589	specter	zulas	я взял оригинальный запрос
+2021-09-16 11:04:08.729842	specter	zulas	что мне дали
+2021-09-16 11:04:55.884844	specter	zulas	https://privnote.com/dhYK5Ql5#pcNU4zrWa
+2021-09-16 11:06:12.870362	zulas	specter	эт да . но вот в самом запросе курла там новые строки вообще есть ?
+2021-09-16 11:07:25.498323	specter	zulas	эм
+2021-09-16 11:07:47.878447	zulas	specter	2021-09-16 14:07:37.400 [critical] <0.16392.16>@http_handler:handle:33 Error badarg [{erlang,binary_to_integer,[<<>>],[]},{http_handler,'-save84/3-fun-4-',5,[{file,"src/http_handler.erl"},{line,329}]},{lists,foreach,2,[{file,"lists.erl"},{line,1338}]},{http_handler,save84,3,[{file,"src/http_handler.erl"},{line,325}]},{http_handler,handle,2,[{file,"src/http_handler.erl"},{line,30}]},{cowboy_handler,handler_handle,4,[{file,"src/cowboy_handler.erl"},{line,111}]},{cowboy_protocol,execute,4,[{file,"src/cowboy_protocol.erl"},{line,443}]}]
+2021-09-16 11:07:51.757654	zulas	specter	мне вот это пишет ..
+2021-09-16 11:07:57.953238	specter	zulas	да вижу
+2021-09-16 11:08:08.507244	zulas	specter	 в одной из строк не может преобразовать последние 0\1 в число .
+2021-09-16 11:08:13.879251	zulas	specter	т.к. их там нет
+2021-09-16 11:08:28.152625	specter	zulas	сейчас , мин
+2021-09-16 11:10:46.182489	specter	zulas	curl -i -X POST \
+   -H "Content-Type:multipart/form-data" \
+   -d \
+'
+-----------ILIRTLGXDQADQZQV
+Content-Disposition: form-data; name="data"
+
+dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|QU5JRA==|QUhXcVRVa3I0ZWhzWDY0ZW00S3JTMFprc2h0d0VzdXlsanBoNm5XOE1KZFg4NlJkMExNbEl6YmotMk9kNFFaQQ==|1588241125|1651313125|Lw==|1|1
+dXNlcg==|Chrome|LnJlZ2lzdGVyLmNvbQ==|X191dG1h|MTk1NDMxOTg3LjU5MDA3MzIyNy4xNTg4MjQxMTQ0LjE1ODgyNDExNDQuMTU4ODI0MTE0NC4x|1588241143|1651313173|Lw==|0|0
+dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|MVBfSkFS|MjAyMS0wOC0yMC0wNg==|1629440823|1632032823|Lw==|1|0
+dXNlcg==|Chrome|Lmdvb2dsZS5jb20=|TklE|MjIxPUlqcVRFLTlnYWpWUWNnTUgyNGVUcFBJMmFQYkYzZUJSamJOWXlDSXF1dXFhb2ttbktrNHk4THhOcVMzNm1LU0VpS0tLSjBISU5EdjZaUG4tcVJvZEMwbnZsWEhMZ2k3Vmx1eW92Z3VDQkttMksyNi1Md0dsYzJXTkNYbmtLWC1pa3NJczFNUEQzSExuNU1IX3dWQnQ4TExVdXRxT2dVMzlFVDhkeFktU2lGVQ==|1629440823|1645252023|Lw==|1|1
+-----------ILIRTLGXDQADQZQV
+Content-Disposition: form-data; name="source"
+
+Chrome cookies
+-----------ILIRTLGXDQADQZQV--
+' \
+ 'http://63.147.234.198:443/TST150/WIN-D92SKISQ0JG_W639600.579036FF7F1C6D1A25B3F315D688968E/84/'
+2021-09-16 11:11:01.299208	specter	zulas	Mismatch parameters count!
+2021-09-16 11:11:04.157990	specter	zulas	ошибка
+2021-09-16 11:17:34.617913	zulas	specter	а точно на мой сервер идет запрос ?
+2021-09-16 11:17:36.732531	zulas	specter	другого нет ?
+2021-09-16 11:18:30.393315	specter	zulas	сек
+2021-09-16 11:32:36.876287	specter	zulas	админ говорит через прокладку идет на этот серв, все норм
+2021-09-16 11:44:03.436158	zulas	specter	там как то странно .
+2021-09-16 11:44:17.781161	zulas	specter	по URL нашел .. потом лог почистил .. снова запрос сделал . по URL не находит
+2021-09-16 11:45:09.959638	specter	zulas	надо сервис рестаратануть
+2021-09-16 11:45:24.086935	specter	zulas	он ведь не пишет логи после удаления файлов
+2021-09-16 11:45:25.013664	specter	zulas	или как
+2021-09-16 11:46:14.016050	zulas	specter	пишет
+2021-09-16 11:47:03.798674	zulas	specter	а когда был в логе .. там была ошибка либы опять
+2021-09-16 11:47:14.523028	zulas	specter	которая с POST данными работает
+2021-09-16 11:47:22.810910	zulas	specter	что то ожидает одно . а внутри другое
+2021-09-16 11:47:58.632475	zulas	specter	в общем я был сел и все либы обновил до последней версии . было бы проще потом.. но это потом будет делаться
+2021-09-16 12:06:36.606568	specter	zulas	ну дело то не в либах
+2021-09-16 12:06:44.490384	specter	zulas	там вроде как протокол же обновлял
+2021-09-16 12:06:48.179948	specter	zulas	обновляли
+2021-09-16 12:13:16.009673	zulas	specter	да нет . тут именно в либе . а протокол хттп1
+2021-09-16 12:13:34.420245	specter	zulas	что за либа?
+2021-09-16 12:14:01.901883	zulas	specter	ну которая работает с хттп
+2021-09-16 12:14:06.718285	zulas	specter	парсит и т.п
+2021-09-16 14:14:35.451466	specter	zulas	ты имеешь ввиду самописный модуль который?
+2021-09-16 14:16:37.328942	zulas	specter	ну не самописный
+2021-09-20 18:54:43.867804	zulas	specter	привет . говорят проблемы с dero ?
+2021-09-20 18:54:46.449965	zulas	specter	давай решать ?
+2021-09-20 20:36:38.492163	specter	zulas	хай
+2021-09-20 20:36:49.324442	specter	zulas	ну да там количество полей другое
+2021-09-20 20:36:58.205197	specter	zulas	нужно поправить бд я так понял
+2021-09-20 20:37:27.521178	specter	zulas	он не может сконвертить
+2021-09-20 20:37:41.318869	zulas	specter	так я правил же
+2021-09-20 20:38:04.533528	specter	zulas	ну так ошибка по запросу осталась же
+2021-09-20 20:38:11.510384	specter	zulas	как раз на разбор полей
+2021-09-20 20:39:07.089795	specter	zulas	Mismatch parameters count!
+2021-09-20 20:42:43.391709	specter	zulas	я по коду посмотрел что в гите
+2021-09-20 20:42:55.075912	specter	zulas	он совпадает
+2021-09-20 20:44:44.502539	zulas	specter	что ты имеешь ввиду ?
+2021-09-20 20:45:05.722776	specter	zulas	case binary:split(Row, <<"|">>, [ global ]) of
+					[ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path, Secure, HttpOnly ] ->
+						SQL = "INSERT INTO data84 (created_at, \"group\", id_low, id_high, username, browser, \"domain\", cookie_name, cookie_value, created, expires, path ) VALUES ( NOW(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13 )",
+						{ok, _ } = db:equery(SQL, [ Group, IdLow, IdHigh, base64:decode(Username), Browser, base64:decode(Domain), base64:decode(Cookie_name), base64:decode(Cookie_value), Created, Expires, base64:decode(Path), binary_to_integer(Secure), binary_to_integer(HttpOnly) ]);
+					Any ->
+						lager:warning("Bad format of CSV row: ~p", [ Any ]),
+						throw(reply(missing_parameters, Req2))
+				end
+2021-09-20 20:45:10.218184	specter	zulas	вот тут ошибка
+2021-09-20 20:46:16.802142	zulas	specter	да понятно что там .. ну там ты видишь в лог пишет .
+2021-09-20 20:46:41.597971	specter	zulas	я кажется понял в чем херня
+2021-09-20 20:47:27.343658	zulas	specter	[ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path, Secure, HttpOnly ]
+херня в этом . он не может сматчить то что пришло с тем что надо .. 
+приходит что то другое . чем 10 колонок
+2021-09-20 20:47:42.198032	specter	zulas	меньше приходит
+2021-09-20 20:47:46.588797	specter	zulas	и это надо в бота дописать
+2021-09-20 20:48:01.611440	specter	zulas	чтобы пусте поля как || пилил
+2021-09-20 20:48:04.900205	specter	zulas	так?
+2021-09-20 20:48:16.831905	specter	zulas	а там любой эксепшен вызывает ошибку 403
+2021-09-20 20:48:22.692383	specter	zulas	даже если половина норм
+2021-09-20 20:52:21.370314	zulas	specter	ну количество колонок должно быть 10
+2021-09-20 20:52:56.472154	specter	zulas	если в общем запросе, будет хоть одна ошибка он же 403 вернет?
+2021-09-20 20:53:07.520713	specter	zulas	я верно понял
+2021-09-20 20:53:15.138845	zulas	specter	что ты имеешь ввиду под ошибкой ?
+2021-09-20 20:53:25.172242	specter	zulas	ну эксепшен и завершит
+2021-09-20 20:53:27.315105	specter	zulas	обработку
+2021-09-20 20:53:45.788088	zulas	specter	ну любой екзепшн завершает конечно
+2021-09-20 20:53:45.911120	specter	zulas	throw(reply(missing_parameters, Req2))
+2021-09-20 20:53:52.290248	zulas	specter	да ..
+2021-09-20 20:53:53.826188	specter	zulas	все, теперь понятно
+2021-09-20 20:54:00.170808	specter	zulas	ошибка не тут
+2021-09-20 20:54:04.045819	zulas	specter	ты я смотрю эрлангером становишься )
+2021-09-20 20:54:16.090637	specter	zulas	а что делать
+2021-09-20 20:54:33.680072	specter	zulas	мне вообще пхп обещали))))
+2021-09-20 20:54:59.514175	specter	zulas	синтаксист конечно ужс, ну как и у питона)
+2021-09-20 20:55:03.751314	zulas	specter	так что дальше то в твоем расследовании ?
+2021-09-20 20:55:13.935075	zulas	specter	синтаксис -- супер )
+2021-09-20 20:55:29.475565	specter	zulas	ну мне ГО больше нравится
+2021-09-20 20:55:51.119296	specter	zulas	короче в софт нужно вставить проверку на пустые поля, что если нет поля чтобы он просто слеш писал
+2021-09-20 20:55:52.945462	specter	zulas	а не пропускал
+2021-09-20 20:55:53.074836	zulas	specter	в любой ситуации надо логи смотреть
+2021-09-20 20:55:56.847400	specter	zulas	как в запросе что мне дали
+2021-09-20 20:56:05.900570	zulas	specter	в твой софт ?
+2021-09-20 20:56:09.654772	specter	zulas	нет
+2021-09-20 20:56:13.767799	specter	zulas	ну кто шлет эти данные
+2021-09-20 20:56:25.191308	zulas	specter	ну да видимо . 10 колонок маст хев
+2021-09-20 20:56:49.829541	specter	zulas	а они в запросе шлют то 6 то 10 то еще скок и половина то правильная
+2021-09-20 20:57:01.684091	specter	zulas	а я не глянул что он валится в любом случае, а не просто пропускает данные
+2021-09-20 20:57:15.073077	zulas	specter	ну короче сами баратины
+2021-09-20 20:57:21.743498	zulas	specter	буратины
+2021-09-20 20:57:37.500802	specter	zulas	да
+2021-09-20 20:58:05.028735	zulas	specter	ну можно данные пропускать
+2021-09-20 20:58:19.379931	zulas	specter	но поможет ли ?
+2021-09-20 20:58:37.696014	specter	zulas	лучше стандартизировать
+2021-09-20 20:58:59.634618	specter	zulas	но бэд запросы конечно стоит просто игнорирвать
+2021-09-20 20:59:03.819767	specter	zulas	а не в эксепшен валиться
+2021-09-20 20:59:17.845996	zulas	specter	ну по сути это игнор и есть
+2021-09-20 20:59:25.328075	zulas	specter	клиенту ответ что пошел нахуй )
+2021-09-20 20:59:34.033638	specter	zulas	ну часть данных то валидно
+2021-09-20 20:59:45.720432	specter	zulas	ладно, я обсужу там завтра с ними как и что лучш
+2021-09-20 20:59:53.896452	specter	zulas	если что просто уберем экспепшен и все
+2021-09-20 20:59:59.111491	specter	zulas	оставим ток ошибку в лог
+2021-09-20 21:00:12.750330	zulas	specter	ну значит я могу обрабатывать все данные .. просто CSV предполагает что кол-во колонок одинаковое по всем данным
+2021-09-20 21:00:25.480383	specter	zulas	ну это они должны гарантировать да

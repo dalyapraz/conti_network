@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-08-13 19:20:59.126341	mango	baron	привет отпиши как будешь на месте

@@ -1,0 +1,80 @@
+Timestamp	From	To	Message
+2021-09-20 15:29:24.406469	dollar	tom	sorry ne tebe
+2021-09-25 15:54:30.933242	tom	dollar	дак надо ждать в рабочее время )
+2021-09-25 15:54:34.913000	tom	dollar	а не ночь
+2021-09-26 13:06:42.965649	tom	dollar	дак надо ждать в рабочее время )
+2021-09-26 13:06:42.966355	tom	dollar	а не ночь
+2021-10-14 13:39:58.795383	dollar	tom	hey
+2021-10-14 13:39:58.795842	dollar	tom	brodi
+2021-10-14 13:39:58.796598	dollar	tom	tyt?
+2021-10-26 11:42:28.294019	tom	dollar	привет
+2021-10-26 11:43:05.106407	tom	dollar	я тут в небольшом отпуске ...
+2021-10-26 11:43:15.799593	tom	dollar	пока там для меня мат подготавливают из-за того не на связи
+2021-10-26 11:43:48.822392	tom	dollar	очень жаль что в итоге не моя потому что я ее уже попилил со всеми кто учавствует в добыче траффа ... ладно из своих закину
+2021-10-26 11:43:52.318161	tom	dollar	скажи куда закидывать
+2021-10-26 12:05:34.705931	tom	dollar	я забегу сегодня еще кошель оставь
+2021-10-26 12:05:35.787051	tom	dollar	у меня жаба всегда в сети а я не всегда за компом
+2021-10-26 14:40:03.370983	tom	dollar	ало ало
+2021-10-26 14:40:05.783604	tom	dollar	прием прием
+2021-11-01 09:41:14.614564	dollar	tom	hi
+2021-11-01 09:41:21.021121	dollar	tom	man
+2021-11-01 09:41:21.022351	dollar	tom	otpisohi mne
+2021-11-02 17:49:15.764827	dollar	tom	hi
+2021-11-02 17:49:15.765789	dollar	tom	man
+2021-11-02 17:49:15.766907	dollar	tom	otpisohi mne
+2021-11-02 18:04:11.712892	tom	dollar	привет
+2021-11-02 18:05:01.007546	dollar	tom	привет
+2021-11-12 09:58:26.896904	tom	dollar	ghbdtn
+2021-11-12 09:58:29.511598	tom	dollar	привет
+2021-11-12 10:02:17.151430	tom	dollar	ghbdtn
+2021-11-12 10:02:17.158696	tom	dollar	привет
+2021-11-12 14:55:42.848452	tom	dollar	мне тенет говорил что есть сетки в работе .... плохо что могу сказать
+2021-11-16 14:26:50.102283	tom	dollar	[10:07:07] <beliesergei tenet> сетки и остались хорошие в работе
+[10:07:12] <beliesergei tenet> они до сих пор в работе
+[10:07:25] <beliesergei tenet> много мелких правда
+[11:45:00] <beliesergei tenet> https://www.zoominfo.com/c/gearbox-software-llc/15728764
+[11:46:43] <beliesergei tenet> https://www.zoominfo.com/c/streamline-enterprises-inc/348764717
+[11:47:14] <beliesergei tenet> https://www.zoominfo.com/c/busch-llc/9570332
+[11:49:02] <beliesergei tenet> calcenter in wirk
+[11:49:27] <beliesergei tenet> » [11:48:59] <beliesergei> calcenter in wirk не стали лочить , потому что инфо у них хорошее , будут на связь с емайлов вводить в локер
+[11:49:30] <beliesergei tenet> в чат локера*
+[11:49:39] <beliesergei tenet> » [11:47:11] <beliesergei> https://www.zoominfo.com/c/busch-llc/9570332 » тоже самое , чувствительная дата
+[11:49:57] <beliesergei tenet> LiveNation.com in work - ломают пока
+[11:50:23] <beliesergei tenet> ssl.local шт цщкл
+[11:50:42] <beliesergei tenet> ssl.local  in work 
+[11:51:01] <beliesergei tenet> HARPERCO  in work
+[11:51:10] <beliesergei tenet> вот тебе и нет в работе)))
+2021-11-16 14:31:07.984104	tom	dollar	[10:07:07] <beliesergei tenet> сетки и остались хорошие в работе
+[10:07:12] <beliesergei tenet> они до сих пор в работе
+[10:07:25] <beliesergei tenet> много мелких правда
+[11:45:00] <beliesergei tenet> https://www.zoominfo.com/c/gearbox-software-llc/15728764
+[11:46:43] <beliesergei tenet> https://www.zoominfo.com/c/streamline-enterprises-inc/348764717
+[11:47:14] <beliesergei tenet> https://www.zoominfo.com/c/busch-llc/9570332
+[11:49:02] <beliesergei tenet> calcenter in wirk
+[11:49:27] <beliesergei tenet> » [11:48:59] <beliesergei> calcenter in wirk не стали лочить , потому что инфо у них хорошее , будут на связь с емайлов вводить в локер
+[11:49:30] <beliesergei tenet> в чат локера*
+[11:49:39] <beliesergei tenet> » [11:47:11] <beliesergei> https://www.zoominfo.com/c/busch-llc/9570332 » тоже самое , чувствительная дата
+[11:49:57] <beliesergei tenet> LiveNation.com in work - ломают пока
+[11:50:23] <beliesergei tenet> ssl.local шт цщкл
+[11:50:42] <beliesergei tenet> ssl.local  in work 
+[11:51:01] <beliesergei tenet> HARPERCO  in work
+[11:51:10] <beliesergei tenet> вот тебе и нет в работе)))
+2021-11-22 21:16:34.737668	dollar	tom	hey
+2021-11-26 12:35:35.010647	tom	dollar	привет я норм ты как ?
+2021-12-06 14:48:27.520513	tom	dollar	ты где там ?
+2021-12-07 11:34:56.451810	tom	dollar	привет я норм ты как ?
+2021-12-07 11:34:56.470260	tom	dollar	ты где там ?
+2021-12-07 11:38:13.252289	dollar	tom	hey
+2021-12-07 11:38:13.749075	dollar	tom	yo
+2021-12-10 12:30:01.993209	tom	dollar	привет дак я уже уснул вчера
+2021-12-15 17:30:42.166009	tom	dollar	тут да
+2021-12-16 14:40:05.528658	tom	dollar	тут да
+2021-12-22 16:09:40.218515	dollar	tom	privet-privet
+2021-12-23 18:59:48.621382	tom	dollar	будешь маякни
+2021-12-23 18:59:50.332136	tom	dollar	только подошел
+2021-12-24 09:16:20.433212	tom	dollar	будешь маякни
+2021-12-24 09:16:20.434781	tom	dollar	только подошел
+2021-12-25 10:45:45.244321	tom	dollar	давай берем
+2021-12-25 10:47:14.355215	tom	dollar	спасибо за 10к
+2021-12-27 10:20:24.244582	tom	dollar	давай берем
+2021-12-27 10:20:24.245711	tom	dollar	спасибо за 10к

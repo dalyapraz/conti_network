@@ -1,0 +1,253 @@
+Timestamp	From	To	Message
+2020-07-09 14:41:24.534113	target	talar	привет
+2020-07-09 14:41:41.794075	target	talar	нужен экспорт всех данных из БК за все время
+2020-07-09 14:41:53.588152	target	talar	антивирусов
+2020-07-09 14:41:55.195760	target	talar	у кого какие
+2020-07-09 14:42:02.159627	target	talar	тоесть бот ид --  какой у него ав
+2020-07-09 14:42:07.549930	target	talar	и хостейнов их
+2020-07-10 17:18:18.450666	target	talar	при заходе в бота
+2020-07-10 17:18:23.489712	target	talar	в бк
+2020-07-10 17:18:41.396438	target	talar	такое вылетет
+2020-07-10 17:18:41.397850	target	talar	Creating default object from empty value
+
+    1. in /var/www/html/backdoor/backend/controllers/BotsController.php at line 317
+    308309310311312313314315316317318319320321322323324325326
+
+                                    if($commandParsed[1]=='4'){
+                                        $c = 2; // 4 subcommand
+                                    }
+                                }else{
+                                    $c = 2; // 11 command
+                                }
+     
+                                // set  bot group to file
+                                $f = Files::findOne(['storedfilename' => $commandParsed[$c]]);
+                                $f->group = $model->group;
+                                $f->save(false);
+     
+                                $filepath = Yii::getAlias('@absPath').$commandParsed[$c];
+                                $sourcepath = $commandParsed[$c];
+     
+                                //$commandParsed[$c] = str_replace(Yii::$app->params['backend'],'',Url::base(true)).'/'.$filedest;
+     
+                                $commandParsed[$c] = Url::base(true).'/'.$filedest;
+     
+
+    2. in /var/www/html/backdoor/backend/controllers/BotsController.php at line 317 – yii\base\ErrorHandler::handleError(2, 'Creating default object from emp...', '/var/www/html/backdoor/backend/c...', 317, ...)
+    311312313314315316317318319320321322323
+
+                                }else{
+                                    $c = 2; // 11 command
+                                }
+     
+                                // set  bot group to file
+                                $f = Files::findOne(['storedfilename' => $commandParsed[$c]]);
+                                $f->group = $model->group;
+                                $f->save(false);
+     
+                                $filepath = Yii::getAlias('@absPath').$commandParsed[$c];
+                                $sourcepath = $commandParsed[$c];
+     
+                                //$commandParsed[$c] = str_replace(Yii::$app->params['backend'],'',Url::base(true)).'/'.$filedest;
+
+    3. backend\controllers\BotsController::actionCommand('8ad507ffa8edbc73ab96a933a085783a')
+    4. in /var/www/html/backdoor/vendor/yiisoft/yii2/base/InlineAction.php at line 57 – call_user_func_array([backend\controllers\BotsController, 'actionCommand'], ['8ad507ffa8edbc73ab96a933a085783a'])
+    5. in /var/www/html/backdoor/vendor/yiisoft/yii2/base/Controller.php at line 157 – yii\base\InlineAction::runWithParams(['id' => '8ad507ffa8edbc73ab96a933a085783a'])
+    6. in /var/www/html/backdoor/vendor/yiisoft/yii2/base/Module.php at line 528 – yii\base\Controller::runAction('command', ['id' => '8ad507ffa8edbc73ab96a933a085783a'])
+    7. in /var/www/html/backdoor/vendor/yiisoft/yii2/web/Application.php at line 103 – yii\base\Module::runAction('bots/command', ['id' => '8ad507ffa8edbc73ab96a933a085783a'])
+    8. in /var/www/html/backdoor/vendor/yiisoft/yii2/base/Application.php at line 386 – yii\web\Application::handleRequest(yii\web\Request)
+    9. in /var/www/html/backdoor/backend/web/index.php at line 17 – yii\base\Application::run()
+    11121314151617
+
+        require __DIR__ . '/../../common/config/main.php',
+        require __DIR__ . '/../../common/config/main-local.php',
+        require __DIR__ . '/../config/main.php',
+        require __DIR__ . '/../config/main-local.php'
+    );
+     
+    (new yii\web\Application($config))->run();
+
+$_GET = [
+    'id' => '8ad507ffa8edbc73ab96a933a085783a',
+];
+
+$_POST = [
+    '_csrf-backend' => 'yxcf7TRDj7NxQ-ilFBf_S4he-7yD6-ycEASR8-C-SAylWFuqfne91zAXmdJjYJp88Cq6j_PSm9VSUdi3zeQJQA==',
+    'Bots' => [
+        'busy' => '1',
+        'field0' => 'runexe',
+        'field1' => 'hollowing',
+        'field2' => '0',
+        'field3' => 'explorer',
+        'field4' => 'nofile',
+        'field5' => '',
+        'field6' => '',
+        'field7' => '...',
+    ],
+];
+
+$_COOKIE = [
+    'advanced-backend' => '0lgatvickt94mkh7k0tkmgbdo0',
+    '_csrf-backend' => '458b538599ddcac89c8ed56dbb1688826f79d9a035a850c4c4f41d77aa03c3cba:2:{i:0;s:13:"_csrf-backend";i:1;s:32:"nODGJ42dATqwwwe7xtA3p9wIBUID-ZAL";}',
+    '_identity-backend' => '78109be8d2a8c3df18424e9a67f338d07be24ad6014228a6dc3d5297d9835448a:2:{i:0;s:17:"_identity-backend";i:1;s:16:"[1,null,2592000]";}',
+];
+
+$_SESSION = [
+    '__flash' => [],
+    '__returnUrl' => 'https://scrytnuuszglaugg.onion/',
+    '__id' => 1,
+];
+
+Yii Framework
+
+2020-07-10, 16:58:24
+
+nginx/1.10.3
+
+Yii Framework/2.0.27
+2020-07-10 20:50:55.959119	talar	target	1) делал ли перед этим повтор команды 10 или 11 ?
+2020-07-10 20:51:11.377691	talar	target	2) удалял ли какие-то файлы?
+2020-07-10 20:51:30.496758	talar	target	...странно. думал это место уже вылизано за полгода
+2020-07-11 19:28:14.997410	talar	target	1) делал ли перед этим повтор команды 10 или 11 ?
+2020-07-11 19:28:14.998387	talar	target	2) удалял ли какие-то файлы?
+2020-07-11 19:28:14.999230	talar	target	...странно. думал это место уже вылизано за полгода
+2020-07-12 08:54:51.747929	target	talar	привет
+2020-07-12 08:54:53.961400	target	talar	спасибо
+2020-07-13 09:19:39.202719	target	talar	привет
+2020-07-13 09:19:39.204697	target	talar	спасибо
+2020-07-15 14:34:35.880955	target	talar	привет
+2020-07-15 14:34:37.689429	target	talar	сделай плз в админке
+2020-07-15 14:34:41.038016	target	talar	настраиваемый авторефреш
+2020-07-15 14:34:56.014067	target	talar	и задача 2
+выделить несколько ботов и перенести их куда то
+ханипотов заматыает руками переносить по одному
+2020-07-15 14:34:56.752350	target	talar	спс
+2020-07-21 08:54:55.752577	talar	target	Всем привет. Кто знает БЕСПЛАТНЫЙ API DNSBL? Именно API
+2020-07-21 13:33:12.060457	talar	target	Всем привет. Кто знает БЕСПЛАТНЫЙ API DNSBL? Именно API
+2020-07-21 18:34:21.362886	target	talar	привет
+2020-07-21 18:34:26.597755	target	talar	blcheck
+2020-07-21 18:34:28.218825	target	talar	api
+2020-07-21 18:34:30.296958	target	talar	есть в динчеке
+2020-07-21 18:34:31.551953	target	talar	и авчек
+2020-07-21 18:34:32.216833	target	talar	вроде
+2020-07-21 18:34:34.801522	target	talar	у бентли уточни
+2020-07-21 20:12:20.072639	target	talar	у меня слетела система
+2020-07-21 20:12:21.738026	target	talar	можешь АВ
+2020-07-21 20:12:23.778520	target	talar	продублировать
+2020-07-21 20:12:26.261004	target	talar	еще раз
+2020-07-21 20:12:35.045279	target	talar	из лога
+2020-07-21 20:12:35.643142	target	talar	плз
+2020-07-21 20:19:00.831268	target	talar	[16:13:44] <target> у меня слетела система 
+[16:13:46] <target> можешь АВ 
+[16:13:47] <target> продублировать 
+[16:13:50] <target> еще раз 
+[16:13:59] <target> из лога 
+[16:13:59] <target> плз
+2020-07-21 20:20:50.143908	talar	target	свежий
+2020-07-21 20:20:51.539150	talar	target	root@10751-18883:/var/www/html/backdoor# php yii avir
+Array
+(
+    [Windows Defender] => 623
+    [] => 147
+    [Sophos Anti-Virus] => 29
+    [Symantec Endpoint Protection] => 20
+    [Avast Antivirus] => 15
+    [McAfee Endpoint Security] => 12
+    [Norton 360] => 12
+    [CrowdStrike Falcon Sensor] => 11
+    [Trend Micro Apex One Antivirus] => 11
+    [Trend Micro Security Agent] => 10
+    [Webroot SecureAnywhere] => 7
+    [Trend Micro OfficeScan Antivirus] => 7
+    [CbDefense] => 6
+    [Traps™ Advanced Endpoint Protection] => 6
+    [Norton Security] => 6
+    [Sentinel Agent] => 5
+    [Bitdefender Endpoint Security Tools Antimalware] => 5
+    [Kaspersky Endpoint Security 10 for Windows] => 4
+    [Cybereason NGAV] => 4
+    [Microsoft Security Essentials] => 4
+    [Security Manager AV Defender Antimalware] => 3
+    [McAfee VirusScan Enterprise] => 3
+    [Norton AntiVirus] => 3
+    [Ivanti Antivirus Antimalware] => 2
+    [Malwarebytes] => 2
+    [Avira Antivirus] => 2
+    [Norton Internet Security] => 2
+    [Check Point Anti-Malware] => 2
+    [火绒安全软件] => 2
+    [Kaspersky Endpoint Security for Windows] => 2
+    [System Center Endpoint Protection] => 2
+    [Quick Heal Total Security] => 2
+    [Norton AntiVirus Online] => 1
+    [Managed Antivirus Antimalware] => 1
+    [McAfee Endpoint Security (anti-virus)] => 1
+    [Norton Security Ultra] => 1
+    [Sophos Home] => 1
+    [Trend Micro Internet Security] => 1
+    [F-Secure Computer Protection] => 1
+    [Norton Security Online] => 1
+    [Endpoint Security by Bitdefender Antimalware] => 1
+    [System Center 2012 Endpoint Protection] => 1
+    [ThreatTrack Security VIPRE Business Agent] => 1
+    [360????] => 1
+    [Cisco AMP for Endpoints] => 1
+    [ESET Security] => 1
+    [Symantec Endpoint Protection Cloud] => 1
+    [Norton Security Suite] => 1
+    [ESET Endpoint Antivirus] => 1
+    [Kaspersky Anti-Virus] => 1
+    [AVG Antivirus] => 1
+    [Total AV] => 1
+    [SonicWall Enforced Client-AntiVirus] => 1
+    [FireEye Endpoint Security] => 1
+    [Emsisoft Anti-Malware] => 1
+    [ESET Endpoint Security] => 1
+)
+root@10751-18883:/var/www/html/backdoor#
+2020-07-22 14:13:15.733990	talar	target	привет
+2020-07-22 14:13:36.320815	talar	target	отчёт надо какой-то сделать?
+2020-07-23 12:32:37.877339	target	talar	[08:46:32] <target> талару 
+[08:46:35] <target> спасибо передай
+2020-07-23 12:33:22.036608	talar	target	привет. норм? а то ты вчера вроде онлайн был, я всё скинул
+2020-07-23 12:33:27.834560	target	talar	привет
+2020-07-23 12:33:32.984646	target	talar	HQ           IT58-QJQ                  Defender                     Sophos             
+
+[10:24:16] <target> типо такого 
+[08:46:42] *** Contact has been switched: talar@q3mcco35auwcstmt.onion/Psi+
+[08:46:42] *** talar is now Online [50]
+*** 2020-07-23
+[08:46:43] <target> [08:46:32] <target> талару
+2020-07-23 12:33:36.816971	target	talar	не получал
+2020-07-23 12:33:39.597031	target	talar	вчера
+2020-07-23 12:33:45.272914	target	talar	ток в админке буза сказал скачать
+2020-07-23 12:33:54.304447	target	talar	то что нужно
+2020-07-23 12:33:55.666367	target	talar	спасибо
+2020-08-07 13:57:47.425890	target	talar	привет
+2020-08-07 13:57:48.138035	target	talar	ponetre@q3mcco35auwcstmt.onion
+2020-08-07 13:57:49.951838	target	talar	твой верно?
+2020-08-07 13:57:53.443782	target	talar	по взлому
+2020-08-07 13:57:59.557075	target	talar	он у нас кто до этого был
+2020-08-07 13:58:02.600144	target	talar	твой помощник?
+2020-08-17 14:23:32.113570	talar	target	Нужна симка не СНГ. Надо зарегать телегу. Либо подсказать мне как это сделать иначе
+2020-08-17 17:37:04.145033	talar	target	Нужна симка не СНГ. Надо зарегать телегу. Либо подсказать мне как это сделать иначе
+2020-09-01 14:15:11.127613	target	talar	талар
+2020-09-01 14:15:11.841677	target	talar	привет
+2020-09-01 14:15:13.591290	target	talar	плз
+2020-09-01 14:15:18.895810	target	talar	ускорьтесь
+2020-09-01 14:15:21.003489	target	talar	с бентли
+2020-09-01 14:15:26.880515	target	talar	спасибо
+2020-09-15 13:15:43.496897	talar	target	Народ, у кого я одалживал 35 баксов в битках? Историю потерял...
+2020-09-15 13:16:22.005492	target	talar	> Народ, у кого я одалживал 35 баксов в битках? Историю
+> потерял...
+> 
+
+я сначала прочел как 35 битков и забыл у кого)
+2020-09-22 19:34:35.910173	target	talar	ааааааааааааааааааааааааааааа
+2020-09-22 19:34:36.994717	target	talar	привет
+2020-09-22 19:34:37.032992	target	talar	1
+2020-09-22 19:34:39.098996	target	talar	1
+2020-09-22 19:34:40.019913	target	talar	тут?
+2020-09-22 19:34:41.123769	target	talar	срочно
+2020-09-22 19:35:03.955568	talar	target	&
+2020-11-01 09:49:56.313186	target	talar	привет

@@ -1,0 +1,10 @@
+Timestamp	From	To	Message
+2022-02-09 12:51:26.192740	dollar	bash	hey
+2022-02-09 12:51:27.926597	dollar	bash	yo
+2022-02-09 12:51:33.324472	dollar	bash	otposhi mne kak bydehs' online
+2022-02-21 16:31:17.508029	dollar	bash	hey
+2022-02-21 16:31:17.512314	dollar	bash	yo
+2022-02-21 16:31:17.513670	dollar	bash	otposhi mne kak bydehs' online
+2022-02-21 16:31:45.677090	bash	dollar	ghbdtn
+2022-02-21 16:31:51.526316	bash	dollar	privet
+2022-02-21 16:32:00.269684	bash	dollar	na svazy

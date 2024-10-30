@@ -1,0 +1,43 @@
+Timestamp	From	To	Message
+2021-04-05 16:40:29.471799	grant	derek	привет бро, как дела?
+2021-12-17 16:03:59.745464	grant	derek	не напомнишь какой тайм аут у бк?
+2021-12-17 16:04:22.899798	derek	grant	я не знаю
+2021-12-17 16:04:35.745681	grant	derek	по линку скачивания дока пошли
+2021-12-17 16:04:39.572991	grant	derek	пока отстука нету
+2021-12-17 16:04:44.163640	grant	derek	подождем 20-30 минут
+2021-12-17 16:04:58.704559	derek	grant	10 минут и стукнет
+2021-12-17 16:06:46.414330	grant	derek	aaramburu@celgene.com	Aramburu
+alicia.chua@santen.com	Alicia Chua
+diane.macier@abbott.com	Diane
+admissions@cobleskill.edu	
+antonis.myrsaliotis@ppdi.com	
+anthony.church@wwctrials.com	
+akihiro.ohashi@takeda.com	Akihiro
+alim@unither.com	A. Lim
+admissions@hws.edu	Admissions@Hws
+alison.hart@premier-research.com	Alison Hart
+anna.minkkinen@quintile.com	
+amy.garson@sanofi.com	Amy
+allen.salerno@regeneron.com	allen salerno
+admissions@ucu.ac.ug	
+admissions@ul.ie	
+alumni@nuigalway.ie	
+brian.lubelczyk@alkermes.com	
+christian_herget@europe.bd.com	christian herget
+admissions@astate.edu	
+amanda.convento@pfizer.com	Amanda
+admissions@seminolestate.edu	
+candice.cantellimeklis@alkermes.com	
+amit.gupta@glenmarkpharma.com	Amit Gupta
+acecargo@acecargo.cl	acecargo
+admissions@wearesquared.com	admissions
+chantal@edmvandyck.be	chantal
+2021-12-17 16:06:50.431940	grant	derek	база вот такая
+2021-12-17 16:06:50.912940	grant	derek	_
+2021-12-17 17:20:30.418435	grant	derek	жду чтобы лов проверил файл
+2021-12-22 09:00:59.560402	grant	derek	привет
+2021-12-22 09:01:03.112516	grant	derek	*привет
+2021-12-22 09:18:26.654590	derek	grant	привет
+2021-12-22 09:18:26.655355	derek	grant	*привет
+2021-12-22 13:56:33.440727	grant	derek	реально 86.217.170.116 - - [22/Dec/2021:13:51:09 +0000] "GET /apis/journal.jpg HTTP/1.1" 200 488561 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.19041.1320"
+2021-12-22 16:14:07.370218	grant	derek	реально 86.217.170.116 - - [22/Dec/2021:13:51:09 +0000] "GET /apis/journal.jpg HTTP/1.1" 200 488561 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; fr-FR) WindowsPowerShell/5.1.19041.1320"

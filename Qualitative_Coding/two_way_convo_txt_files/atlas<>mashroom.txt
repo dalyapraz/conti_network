@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-06-16 13:05:02.967167	atlas	mashroom	привет
+2021-06-16 13:05:02.969905	mashroom	atlas	привет

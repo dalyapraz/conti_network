@@ -1,0 +1,8 @@
+Timestamp	From	To	Message
+2021-08-10 11:14:28.379790	buza	derekson	+
+2021-08-17 15:33:37.234818	buza	derekson	+
+2021-10-04 12:55:07.417608	derekson	buza	Привет
+2021-10-04 12:55:09.073359	derekson	buza	тут?
+2021-10-15 07:16:30.248329	derekson	buza	Привет
+2021-10-15 07:16:32.358960	derekson	buza	тут?)
+2021-12-22 08:20:35.132513	derekson	buza	пинг

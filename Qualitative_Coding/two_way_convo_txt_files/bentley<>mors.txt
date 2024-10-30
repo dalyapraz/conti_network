@@ -1,0 +1,520 @@
+Timestamp	From	To	Message
+2020-06-30 14:20:44.197773	bentley	mors	Привет
+2020-06-30 14:20:49.016910	bentley	mors	Стерн просил стукнуть
+2020-06-30 14:33:06.043796	bentley	mors	Просит прогрузить us, ca, uk
+2020-07-01 13:44:49.313227	bentley	mors	Привет. Есть новости по нашему вопросу?
+2020-07-14 12:39:08.781102	bentley	mors	Привет. Когда сможешь прогрузить нам ботов?
+2020-07-14 14:54:58.350919	mors	bentley	привет, тестово ? или уже в работу ?
+2020-07-14 14:55:23.996199	mors	bentley	вообщем жду только Док когда почистят мне, думаю еще 3 дня, а так спам готов к работе - все
+2020-07-14 14:55:55.144595	mors	bentley	если у вас есть док, в принципе можно настроить на мои ссылки, и начать
+2020-07-14 15:00:00.044942	mors	bentley	[17:57:09] <01> К нонедельнику точно успею  
+[17:57:31] <01> Возможно к пятнице сделаю уже 
+
+
+ориентируемся уже на эти числа - НУ ЭТО 100% СЛОВО МОЕ ) ЕСЛИ ДОКЕР НЕ ПОДВЕДЕТ 17 ИЛИ 20 ИЮЛЯ ПОЛУЧАЕТСЯ
+2020-07-14 15:06:42.213471	bentley	mors	Хорошо .Спасибо
+2020-07-20 10:30:09.032845	mors	bentley	привет, напиши как будешь
+2020-07-20 10:42:11.557034	bentley	mors	Привет. Я тут.
+2020-07-20 10:42:17.521967	bentley	mors	Делаем файл?
+2020-07-20 10:42:42.056349	mors	bentley	привет
+2020-07-20 10:42:45.265078	mors	bentley	да
+2020-07-20 10:42:55.715878	bentley	mors	длл или ехе?
+2020-07-20 10:44:16.894655	bentley	mors	можем и то и то
+2020-07-20 10:44:23.762810	bentley	mors	что лучше сделать?
+2020-07-20 10:45:33.461629	mors	bentley	длл или ехе?
+2020-07-20 10:45:33.466547	mors	bentley	что лучше сделать?
+2020-07-20 10:45:33.467300	mors	bentley	можем и то и то
+2020-07-20 10:46:33.530298	bentley	mors	Можем и ехе и длл. Что лучше?
+2020-07-20 10:53:59.719611	mors	bentley	ехе
+2020-07-20 10:58:34.502380	bentley	mors	ok
+2020-07-20 11:41:39.844215	bentley	mors	Готов ехе
+2020-07-20 11:41:40.487203	bentley	mors	(&$HYrisduhg897
+2020-07-20 11:41:46.819878	bentley	mors	
+    Download: https://qaz.im/load/HebsRi/dD767Z   
+    Delete: https://qaz.im/index.php?a=delete&q=896806393
+2020-07-20 11:43:11.742651	mors	bentley	правильно понял, любые страны ?
+2020-07-20 11:43:53.574818	bentley	mors	Стерн просил прогрузить us, ca, uk
+2020-07-20 11:44:13.123200	mors	bentley	стартану в 16.00 примерно. напишу
+
+ок понял
+2020-07-20 11:44:37.921196	bentley	mors	Ок. К какому времени сделать новый файл?
+2020-07-20 11:45:03.397283	mors	bentley	думаю  к 18-19
+2020-07-20 11:45:20.758951	bentley	mors	Хорошо
+2020-07-20 14:06:44.505041	mors	bentley	запустил, напиши как новые стучать будут
+2020-07-20 14:24:22.292123	bentley	mors	Стучат
+2020-07-20 16:23:16.119397	bentley	mors	(*$FRPHnudskjnglkj
+2020-07-20 16:23:20.172721	bentley	mors	
+    Download: https://qaz.im/load/sQa6dA/6KZHsD   
+    Delete: https://qaz.im/index.php?a=delete&q=1957336485
+2020-07-20 16:23:24.709684	bentley	mors	Свежий крипт
+2020-07-20 16:23:42.515190	mors	bentley	+
+2020-07-20 18:57:52.196846	bentley	mors	RQ#dkhsjbjkshd
+2020-07-20 18:57:56.024382	bentley	mors	
+    Download: https://qaz.im/load/4NTNnQ/5zyZk5   
+    Delete: https://qaz.im/index.php?a=delete&q=769602651
+2020-07-20 18:58:03.413970	bentley	mors	Еще 1 крипт напоследок
+2020-07-21 09:57:52.700219	bentley	mors	Привет. Делать сегодня файлы?
+2020-07-21 09:58:29.432958	mors	bentley	привет, я думаю для теста вам хватит
+2020-07-21 09:58:38.423497	bentley	mors	Хорошо
+2020-07-21 09:58:51.353612	mors	bentley	а так уже когда работать начнем
+2020-07-21 09:59:07.160798	bentley	mors	Да вот скоро.
+2020-07-21 09:59:13.953281	mors	bentley	как тест?
+2020-07-21 10:00:35.096804	bentley	mors	Пока не знаю. Другие занимаются. Но по админке вижу нормально ботов пришло.
+2020-08-23 14:07:41.287258	bentley	mors	Привет.
+2020-08-23 14:07:56.192057	bentley	mors	Стерн говорил сделать тебе файлы. Какие нужны?
+2020-08-23 14:17:09.321802	mors	bentley	привет
+2020-08-23 14:17:20.960709	mors	bentley	мне на прогруз файл нужен. завтра
+2020-08-23 14:17:27.456530	mors	bentley	к 13.00
+2020-08-23 14:17:33.323207	mors	bentley	по мск
+2020-08-23 14:17:46.397663	bentley	mors	А на воскресенье делать?
+2020-08-23 14:17:46.904665	mors	bentley	хотя нет к 9.00 по мске
+2020-08-23 14:18:00.079793	mors	bentley	в воскресенье не надо
+2020-08-23 14:18:05.690067	mors	bentley	завтра к 9.00
+2020-08-23 14:22:07.665069	bentley	mors	Хорошо завтра к 9 выдадим
+2020-08-24 05:57:57.234973	bentley	mors	Доброе утро
+2020-08-24 05:58:31.467679	bentley	mors	(*^&DTGFkshjdgf876wegrmhsfjhasknajdf
+2020-08-24 05:58:38.793034	bentley	mors	
+    Download: https://qaz.im/load/TR5G83/GiezSn   
+    Delete: https://qaz.im/index.php?a=delete&q=454324870
+2020-08-24 13:40:23.417109	bentley	mors	Сделать новую версию?
+2020-08-24 14:23:05.907700	bentley	mors	Приходило?
+2020-08-25 08:17:51.928814	mors	bentley	привет
+2020-08-25 08:17:53.954754	mors	bentley	жду ехе
+2020-08-25 08:18:03.992771	bentley	mors	Привет. Ок
+2020-08-25 09:37:18.359770	mors	bentley	ку
+2020-08-25 09:37:31.623697	bentley	mors	Делаем
+2020-08-25 10:41:09.936674	mors	bentley	писал?
+2020-08-25 10:41:20.393883	bentley	mors	Тестирую.
+2020-08-25 10:41:23.227390	bentley	mors	Скоро выдам
+2020-08-25 11:01:41.370966	bentley	mors	*DYFhbkjsdhlkgjh
+2020-08-25 11:01:45.147313	bentley	mors	
+    Download: https://qaz.im/load/tHah6z/dZ4HSY   
+    Delete: https://qaz.im/index.php?a=delete&q=268245740
+2020-08-25 11:01:49.695025	mors	bentley	+
+2020-08-25 11:01:53.029395	bentley	mors	mor114
+2020-08-25 14:19:42.040686	mors	bentley	боты идут? файл чистый?
+2020-08-25 14:20:10.390769	bentley	mors	Ща гляну
+2020-08-25 14:20:10.422261	mors	bentley	мне на ночь нужен чистый файл, перед твоим уходом
+2020-08-25 14:20:36.008935	bentley	mors	Сделаю
+2020-08-25 14:20:51.584310	bentley	mors	220 есть идудт вроде
+2020-08-25 14:20:57.777967	mors	bentley	ок
+2020-08-25 14:21:10.372974	mors	bentley	ты не в курсе отрабатывать начали сразу. коменты есть на ботах?
+2020-08-25 14:21:40.404745	bentley	mors	Нет не в курсе.
+2020-08-25 14:38:26.618024	bentley	mors	Файл чистый
+2020-08-25 14:39:18.551145	mors	bentley	оке
+2020-08-25 18:17:45.711286	bentley	mors	Готово
+2020-08-25 18:17:47.197101	bentley	mors	*EFGYBdkjshdbgkjhbdhg
+2020-08-25 18:17:52.116848	bentley	mors	
+    Download: https://qaz.im/load/bbEafh/Htht89   
+    Delete: https://qaz.im/index.php?a=delete&q=863818119
+2020-08-25 18:17:59.842869	bentley	mors	2 крипта с запасом
+2020-08-25 18:18:15.955872	mors	bentley	ага, спс
+2020-08-25 18:18:20.165913	mors	bentley	все боты идут?
+2020-08-25 18:18:33.159254	bentley	mors	Да идут
+2020-08-25 18:18:50.795797	bentley	mors	916 тотал
+2020-08-25 18:18:54.518050	mors	bentley	предыдущий чист?
+2020-08-25 18:19:05.597022	bentley	mors	Сейчас гляну
+2020-08-25 18:28:39.671779	bentley	mors	Статика чистая, но в рантайме Деф уже сносит.
+2020-08-25 18:28:50.067617	mors	bentley	ага ща заменю быстро
+2020-08-26 06:25:53.408418	bentley	mors	Привет. Делаем сегодня файл?
+2020-08-26 06:28:41.045776	mors	bentley	конечно
+2020-08-26 06:29:05.347157	mors	bentley	уже наверное палит и второй файл, только снчало deploy мне делает плиз
+2020-08-26 06:29:19.291124	bentley	mors	Хорошо.
+2020-08-26 06:33:37.698274	bentley	mors	Да палятся оба файла. Сделаем новый, как Деплоя освободится
+2020-08-26 06:33:49.223231	mors	bentley	оке
+2020-08-26 09:04:42.085542	bentley	mors	Готов файл
+2020-08-26 09:04:43.353769	bentley	mors	*ADFhbnkjsdngskjdn
+2020-08-26 09:04:50.834404	bentley	mors	
+    Download: https://qaz.im/load/2kB7zb/BYnBE6   
+    Delete: https://qaz.im/index.php?a=delete&q=688090136
+2020-08-26 09:05:27.884181	mors	bentley	ага
+2020-08-26 09:05:52.904097	mors	bentley	нагружаются боты ?
+2020-08-26 09:06:50.872585	bentley	mors	НА вчерашний - нет
+2020-08-26 09:07:38.810749	mors	bentley	почему ?
+2020-08-26 09:07:48.068371	mors	bentley	ну сегодня шли боты?
+2020-08-26 09:08:09.124592	bentley	mors	Который сейчас дал?
+2020-08-26 09:08:19.677176	bentley	mors	Или еще вчерашний?
+2020-08-26 09:08:21.960906	mors	bentley	я же грузил на ночной файл, были боты с ночи?
+2020-08-26 09:08:28.728214	bentley	mors	Да были
+2020-08-26 09:08:31.462477	mors	bentley	ок
+2020-08-26 12:06:11.072391	mors	bentley	просьба плиз, следи за файлом - за чистотой
+2020-08-26 12:06:19.935269	bentley	mors	Хорошо
+2020-08-26 13:29:58.841900	bentley	mors	Свежий файл
+2020-08-26 13:29:59.471266	bentley	mors	GDSAjchdgskjhfgo87dfyu
+2020-08-26 13:30:10.117641	bentley	mors	
+    Download: https://qaz.im/load/KKdeSe/EK7hTz   
+    Delete: https://qaz.im/index.php?a=delete&q=581866186
+2020-08-26 14:52:45.987401	mors	bentley	ага
+2020-08-26 18:41:56.270898	bentley	mors	ijdshbafkJDHSKJGHKJDH
+2020-08-26 18:42:00.351004	bentley	mors	
+    Download: https://qaz.im/load/AaHb4s/5Q8EZD   
+    Delete: https://qaz.im/index.php?a=delete&q=640300586
+2020-08-26 18:42:12.365297	bentley	mors	Еще 2 файла
+2020-08-26 18:42:43.647102	mors	bentley	+
+2020-08-27 08:14:51.044777	bentley	mors	Привет. Делаем свежий файл?
+2020-08-27 08:16:28.358184	mors	bentley	конечно каждый день
+2020-08-27 08:16:31.013124	mors	bentley	привет
+2020-08-27 08:16:39.867687	bentley	mors	Замечательно!
+2020-08-27 09:13:11.336912	bentley	mors	*YIDFBN ksdnkjnhkjndfh
+2020-08-27 09:13:17.825098	bentley	mors	
+    Download: https://qaz.im/load/5D8RRf/KeDA38   
+    Delete: https://qaz.im/index.php?a=delete&q=1975888770
+2020-08-27 09:14:06.179966	mors	bentley	принял
+2020-08-27 13:09:30.650870	bentley	mors	Свежий файл
+2020-08-27 13:09:31.445224	bentley	mors	UYGBFDcjkdBKDJHsbskjdhbg
+2020-08-27 13:09:35.705035	bentley	mors	
+    Download: https://qaz.im/load/G2i6aZ/EdNrRH   
+    Delete: https://qaz.im/index.php?a=delete&q=1286055335
+2020-08-27 13:10:40.749928	bentley	mors	Свежий файл
+2020-08-27 13:10:40.751285	bentley	mors	UYGBFDcjkdBKDJHsbskjdhbg
+2020-08-27 13:10:40.752490	bentley	mors	
+    Download: https://qaz.im/load/G2i6aZ/EdNrRH   
+    Delete: https://qaz.im/index.php?a=delete&q=1286055335
+2020-08-27 14:07:00.517842	mors	bentley	ок
+2020-08-27 17:19:47.336571	bentley	mors	Свежие файлы на ночь
+2020-08-27 17:19:47.941124	bentley	mors	&AUYFDGbsdnhbskjghbgjk
+2020-08-27 17:19:52.876981	bentley	mors	
+    Download: https://qaz.im/load/tQkNQA/4F6SHK   
+    Delete: https://qaz.im/index.php?a=delete&q=640240913
+2020-08-27 17:20:05.350152	mors	bentley	ок
+2020-08-28 09:32:48.155202	bentley	mors	Привет. Готов свежий файл
+2020-08-28 09:33:20.815167	bentley	mors	&^FETGUBsdbkgsjhbdgljkbdf
+2020-08-28 09:33:27.216389	bentley	mors	
+    Download: https://qaz.im/load/bQt26G/dR22Yy   
+    Delete: https://qaz.im/index.php?a=delete&q=467119657
+2020-08-28 10:22:39.179504	bentley	mors	Привет. Готов свежий файл
+2020-08-28 10:22:39.183035	bentley	mors	&^FETGUBsdbkgsjhbdgljkbdf
+2020-08-28 10:22:39.184295	bentley	mors	
+    Download: https://qaz.im/load/bQt26G/dR22Yy   
+    Delete: https://qaz.im/index.php?a=delete&q=467119657
+2020-08-28 10:22:45.471435	mors	bentley	привет
+2020-08-28 10:22:46.659400	mors	bentley	+
+2020-08-28 13:16:41.039183	bentley	mors	ICundvdkfjbnskfjgnb.jgkn
+2020-08-28 13:16:44.957520	bentley	mors	
+    Download: https://qaz.im/load/Q26Tad/d8FH3Y   
+    Delete: https://qaz.im/index.php?a=delete&q=1039249552
+2020-08-28 13:16:51.686083	bentley	mors	Свежий файл.
+2020-08-28 14:15:03.381643	mors	bentley	ага
+2020-08-28 17:51:47.310649	bentley	mors	Свежие файлы
+2020-08-28 17:51:49.248363	bentley	mors	*^DFGbsjdhbgkjhdbgkjh
+2020-08-28 17:51:59.802556	bentley	mors	
+    Download: https://qaz.im/load/Qt6Qrb/KF8z76   
+    Delete: https://qaz.im/index.php?a=delete&q=1950534033
+2020-08-28 17:52:03.069855	mors	bentley	ага
+2020-08-28 17:52:28.143567	mors	bentley	в понедельник к 9.00 надо файл, или в всокресенье к ночи, чтобы с утра включить
+2020-08-28 18:08:49.536705	mors	bentley	это послдений файл нас егодня ?
+2020-08-28 18:09:02.859590	bentley	mors	Да. ТАм 2 файла
+2020-08-28 18:09:07.157230	mors	bentley	ок
+2020-08-28 18:09:14.918244	mors	bentley	предыдущий спалился ?
+2020-08-28 18:11:36.941072	bentley	mors	еще не палится
+2020-08-28 18:11:54.210073	mors	bentley	новый поставил
+2020-08-28 18:12:13.119606	bentley	mors	хорошо
+2020-08-31 08:10:19.036310	mors	bentley	привет, что с ехе ?
+2020-08-31 08:11:22.638063	bentley	mors	привет, что с ехе ?
+2020-08-31 08:12:24.720861	mors	bentley	привет, что с ехе ?
+2020-08-31 08:12:58.028586	bentley	mors	Привет. Делаем еще
+2020-08-31 08:44:16.650668	bentley	mors	Готов файл
+2020-08-31 08:44:17.139145	bentley	mors	HDBFnmsbdigybfmsbdfnmh
+2020-08-31 08:44:21.644283	bentley	mors	
+    Download: https://qaz.im/load/7QDhks/RH6s98   
+    Delete: https://qaz.im/index.php?a=delete&q=445072114
+2020-08-31 08:46:37.365832	mors	bentley	+
+2020-08-31 17:33:39.299152	bentley	mors	Свежие файлы
+2020-08-31 17:33:39.905830	bentley	mors	^IFCYADGBchjksabgkjhbfdg
+2020-08-31 17:33:45.800643	bentley	mors	
+    Download: https://qaz.im/load/S3T3t4/fN942Z   
+    Delete: https://qaz.im/index.php?a=delete&q=1981918945
+2020-08-31 18:39:38.845952	mors	bentley	+
+2020-09-01 09:53:42.293102	mors	bentley	привет. где файл?
+2020-09-01 09:54:06.477151	bentley	mors	Привет. Делаем еще
+2020-09-01 09:54:12.693671	mors	bentley	долго (
+2020-09-01 09:55:09.078354	bentley	mors	Ага вот только отстучало. Гружу.
+2020-09-01 09:55:46.144559	bentley	mors	*DYFbhnskdjhglkjlhdfkjhg
+2020-09-01 09:55:51.092265	bentley	mors	
+    Download: https://qaz.im/load/4BKhhn/SQTYtt   
+    Delete: https://qaz.im/index.php?a=delete&q=1894943134
+2020-09-01 09:56:00.319317	mors	bentley	+
+2020-09-01 20:42:28.276787	bentley	mors	Сегодня исходник грязный. Новый файл только завтра как почистят
+2020-09-01 20:42:43.974477	mors	bentley	ок
+2020-09-02 09:20:02.612894	mors	bentley	привет, ехе нужен
+2020-09-02 09:21:16.937939	bentley	mors	Привет. Сегодня чистим. Пока не выдам.
+2020-09-02 09:23:48.564193	mors	bentley	весь день?
+2020-09-02 09:23:58.110583	bentley	mors	Дас корее всего
+2020-09-02 09:24:02.961927	mors	bentley	(
+2020-09-02 15:48:04.717888	mors	bentley	что-то крипторы не справялются да ?
+2020-09-02 15:49:21.571553	bentley	mors	Хоф  чистит бота. Да тяжело крипторам приходится. Особенно Деплою.
+2020-09-02 15:50:07.782458	mors	bentley	с моим файлом так же, я им вроде вычищаю, а они не могут (
+2020-09-02 16:11:52.789849	mors	bentley	а деплой будет еще сегодня. что-то отключился (
+2020-09-02 16:12:43.761547	bentley	mors	Да похоже что у него интеренет или эжэлектричество отключили
+2020-09-02 16:13:15.592236	mors	bentley	а есть еще крипторы в команде кроме marsel &
+2020-09-02 16:13:18.151871	mors	bentley	?
+2020-09-02 16:13:55.969641	bentley	mors	Нет
+2020-09-02 16:14:05.058603	bentley	mors	еще Мани но он больше по докам
+2020-09-03 08:01:10.880533	mors	bentley	привет
+2020-09-03 08:01:15.124220	mors	bentley	где все крипторы ???
+2020-09-03 08:01:31.734186	mors	bentley	наругайтесь на них, рабобта стоит из-за них (
+2020-09-03 08:01:33.997090	bentley	mors	Привет
+2020-09-03 08:01:40.267571	bentley	mors	Нет никого
+2020-09-03 08:01:43.463921	bentley	mors	Ага
+2020-09-03 09:25:31.272439	bentley	mors	Напиши, пожалуйста, Мени, он криптанет
+2020-09-03 09:25:32.478463	bentley	mors	many@q3mcco35auwcstmt.onion
+2020-09-03 09:30:17.607410	mors	bentley	ок сейчас
+2020-09-03 09:43:25.619393	bentley	mors	Еще Марсель появился.
+2020-09-03 09:43:41.973533	mors	bentley	всем написал
+2020-09-03 09:43:50.201471	bentley	mors	Хорошо
+2020-09-03 09:45:02.242037	bentley	mors	https://qaz.im/load/rBS2BA/d79HD8
+2020-09-03 09:45:03.857689	bentley	mors	123
+2020-09-03 09:45:17.465616	bentley	mors	Это крипт лоадера БК с простой иконкой
+2020-09-03 09:48:18.165009	mors	bentley	ваш ?
+2020-09-03 10:07:50.694351	bentley	mors	сорри не тебе нет
+2020-09-03 18:42:09.950854	mors	bentley	что делать будем с ехе ?
+2020-09-03 18:42:20.456732	mors	bentley	с вашим и моим, что решили ?
+2020-09-03 18:44:51.509894	bentley	mors	Наш еще чистят. Марсель криптует твой ехе?
+2020-09-03 18:44:59.520718	bentley	mors	Деплоя не было целый день.
+2020-09-03 18:45:20.095420	mors	bentley	марсель детект вылазит на дефе, у деплоя такого не было
+2020-09-03 18:45:45.922377	mors	bentley	вообщем разбираемся ) сюрпириз от крипторов
+2020-09-03 18:45:54.891852	bentley	mors	Да.
+2020-09-07 16:59:47.515707	bentley	mors	Привет. Пока не выдаем файл. Чистим дальше.
+2020-09-07 18:03:38.642209	bentley	mors	У Деплоя получилось закриптовать mor120
+2020-09-07 18:03:40.994961	bentley	mors	UFDYbjhsbkgjhbghjkb
+2020-09-07 18:03:46.144197	bentley	mors	
+    Download: https://qaz.im/load/4da52S/yh8dr3   
+    Delete: https://qaz.im/index.php?a=delete&q=2002995939
+2020-09-08 12:03:24.106573	bentley	mors	Доброго дня. Готов файл
+2020-09-08 12:03:25.970008	bentley	mors	IUBDSNV<mns.dngm,mngdljsn
+2020-09-08 12:03:30.474110	bentley	mors	
+    Download: https://qaz.im/load/zh66AQ/yYNdhZ   
+    Delete: https://qaz.im/index.php?a=delete&q=1187055275
+2020-09-08 19:35:28.001641	bentley	mors	Готов свежий файл
+2020-09-08 19:35:43.887271	mors	bentley	я пока не гружу до завтра. чистку делаю
+2020-09-08 19:35:58.098183	bentley	mors	Ок тогда завтра новый выдам
+2020-09-08 19:36:04.068771	mors	bentley	ок
+2020-09-09 14:50:17.291969	bentley	mors	Добрый день. готов файл
+2020-09-09 14:50:19.907137	bentley	mors	*O&^FGDS*Bkmsnsbfkjhdbg
+2020-09-09 14:50:24.717848	bentley	mors	
+    Download: https://qaz.im/load/sRiG5z/iKKaZD   
+    Delete: https://qaz.im/index.php?a=delete&q=695551884
+2020-09-09 14:52:58.562723	mors	bentley	привет. до понедельника можешь не давать)
+2020-09-09 14:53:04.744778	mors	bentley	с понедельника начну грузить
+2020-09-09 14:54:48.678136	bentley	mors	Понял сок
+2020-09-09 14:54:53.219126	bentley	mors	ок
+2020-09-14 07:23:03.351315	mors	bentley	привет
+2020-09-14 07:23:05.464200	mors	bentley	жду файл
+2020-09-14 07:38:47.978642	mors	bentley	ку
+2020-09-14 07:53:20.733079	mors	bentley	[10:23:01] <mors> привет 
+[10:23:04] <mors> жду файл
+2020-09-14 07:59:52.780745	bentley	mors	привет. делаем
+2020-09-14 10:43:04.071407	mors	bentley	когда файл ожидается?
+2020-09-14 10:43:26.050326	bentley	mors	10-20 минут уже тестирую
+2020-09-14 10:43:29.261615	mors	bentley	ок
+2020-09-14 11:07:45.914347	bentley	mors	123edSNJDKFgnkdfjnkjn
+2020-09-14 11:07:51.218812	bentley	mors	
+    Download: https://qaz.im/load/BR7zSz/tnB4R9   
+    Delete: https://qaz.im/index.php?a=delete&q=470925428
+2020-09-14 11:12:14.525587	mors	bentley	ага
+2020-09-14 17:37:58.207015	bentley	mors	Еще 2 крипта
+2020-09-14 17:37:59.011851	bentley	mors	*AODSGFCbjhsbfgkjhbg
+2020-09-14 17:38:05.786135	bentley	mors	
+    Download: https://qaz.im/load/7GkDdE/R4Az7G   
+    Delete: https://qaz.im/index.php?a=delete&q=1537725285
+2020-09-14 17:38:25.828963	mors	bentley	ага
+2020-09-15 09:25:15.122266	bentley	mors	Добрый день. Готов файл
+2020-09-15 09:25:15.683174	bentley	mors	(FDHUNlsdkngksldnhlkjn
+2020-09-15 09:25:19.921035	bentley	mors	
+    Download: https://qaz.im/load/eH42bk/zBt3T6   
+    Delete: https://qaz.im/index.php?a=delete&q=30197912
+2020-09-15 09:28:58.158793	mors	bentley	ок
+2020-09-15 18:18:15.851513	bentley	mors	Готовы еще файлы
+2020-09-15 18:18:17.343546	bentley	mors	A&^FGYbcchdskjbgkjhb
+2020-09-15 18:22:42.081665	bentley	mors	
+    Download: https://qaz.im/load/tbSDZz/EshehZ   
+    Delete: https://qaz.im/index.php?a=delete&q=1707976384
+2020-09-15 18:27:14.956220	mors	bentley	ага
+2020-09-16 13:22:12.640302	mors	bentley	ку
+2020-09-16 13:22:45.431226	bentley	mors	Привет
+2020-09-16 13:23:47.976915	bentley	mors	Еще делаем
+2020-09-16 17:00:08.560073	bentley	mors	UYFHBjnkdsbjkhgfbgjhb
+2020-09-16 17:00:12.534948	bentley	mors	
+    Download: https://qaz.im/load/S9kYfB/Yr6HHF   
+    Delete: https://qaz.im/index.php?a=delete&q=1055645191
+2020-09-16 17:00:14.937910	bentley	mors	ujnjd afqk
+2020-09-16 17:00:17.945327	bentley	mors	Готов файл
+2020-09-16 17:06:10.610198	mors	bentley	+
+2020-09-17 10:51:15.238432	bentley	mors	Добрый день
+2020-09-17 10:51:18.156254	bentley	mors	Готов файл
+2020-09-17 10:51:19.550539	bentley	mors	(DUFNsmnd;ljkfnhkjfnh
+2020-09-17 10:51:29.967567	bentley	mors	
+    Download: https://qaz.im/load/iTkhHs/zR5ibY   
+    Delete: https://qaz.im/index.php?a=delete&q=1023266685
+2020-09-17 10:53:32.981916	mors	bentley	ок
+2020-09-18 13:58:20.132590	bentley	mors	Добрый день
+2020-09-18 13:58:22.249607	bentley	mors	Готов файл
+2020-09-18 13:58:22.692578	bentley	mors	DNF,smdnkjndfg,nf,fhmoifkg
+2020-09-18 13:58:27.273594	bentley	mors	
+    Download: https://qaz.im/load/tQinRz/8atiy9   
+    Delete: https://qaz.im/index.php?a=delete&q=568581930
+2020-09-18 14:06:28.117521	mors	bentley	+
+2020-09-18 19:01:34.675712	bentley	mors	Еще 1 файл
+2020-09-18 19:01:35.442467	bentley	mors	*FDnbkdjhslnkgjnlkhjnkjnJASDKJ
+2020-09-18 19:01:40.008523	bentley	mors	
+    Download: https://qaz.im/load/kTHQtz/i6Hf9h   
+    Delete: https://qaz.im/index.php?a=delete&q=913365692
+2020-09-18 21:08:59.672099	bentley	mors	Еще 1 файл
+2020-09-18 21:08:59.673825	bentley	mors	*FDnbkdjhslnkgjnlkhjnkjnJASDKJ
+2020-09-18 21:08:59.674868	bentley	mors	
+    Download: https://qaz.im/load/kTHQtz/i6Hf9h   
+    Delete: https://qaz.im/index.php?a=delete&q=913365692
+2020-09-21 07:12:51.176948	mors	bentley	привет, файл ?
+2020-09-21 07:13:00.403676	bentley	mors	Привет
+2020-09-21 07:13:04.271478	bentley	mors	Еще нет Деплоя
+2020-09-21 07:13:07.574107	bentley	mors	Сделаем
+2020-09-21 11:08:17.219750	bentley	mors	Готов файл
+2020-09-21 11:09:00.705357	bentley	mors	YBHDNAkjfbjkshbakjgfbjfm,g
+2020-09-21 11:09:05.473604	bentley	mors	
+    Download: https://qaz.im/load/kREDN6/65DZT7   
+    Delete: https://qaz.im/index.php?a=delete&q=960143111
+2020-09-21 11:18:26.177555	mors	bentley	ок
+2020-09-22 12:39:08.950409	mors	bentley	привет, когда файл будет?
+2020-09-22 12:55:50.890162	bentley	mors	Првиет делаем
+2020-09-22 13:58:01.850141	mors	bentley	с ориентируй по времени плиз
+2020-09-22 14:00:08.583716	bentley	mors	не меньше часа. Тяжело все идет с Марселем
+2020-09-23 08:38:56.087152	mors	bentley	привет
+
+что-то надо делать с крипторами
+2020-09-23 08:39:05.050712	mors	bentley	deploy вернут может?
+2020-09-23 08:39:05.931005	bentley	mors	Привет
+2020-09-23 08:39:10.335493	mors	bentley	вы искади новых?
+2020-09-23 08:39:25.523439	bentley	mors	Ищем новых 1 на тесте
+2020-09-23 08:39:32.348436	bentley	mors	делает крипты
+2020-09-23 08:39:49.819660	bentley	mors	По Деплою - это к Стерну.
+2020-09-23 08:40:03.343199	mors	bentley	ок
+2020-09-23 08:40:13.524729	bentley	mors	Мани у нас еще есть
+2020-09-23 08:40:23.353707	bentley	mors	Как поднимут все админки попробуем его крипт
+2020-09-23 08:40:30.590672	mors	bentley	он что-то все борется с дефом ))
+2020-09-23 08:40:37.811879	bentley	mors	Да
+2020-09-23 08:40:45.734599	mors	bentley	3 неделю )
+2020-09-23 08:41:01.835902	bentley	mors	Серьезная война у них.
+2020-09-23 08:41:03.683088	mors	bentley	вы хотябы с дефом выдавайте ехе
+2020-09-23 08:41:14.602755	mors	bentley	я ведь гружу, от други чист
+2020-09-23 08:41:23.430614	bentley	mors	Хорошо
+2020-09-24 12:35:41.351135	bentley	mors	Добрый день. Готов файл
+2020-09-24 12:35:41.890411	bentley	mors	&HDUFNJKDSflkjsdhglkjh
+2020-09-24 12:35:46.422079	bentley	mors	
+    Download: https://qaz.im/load/93GeHz/RZYeNY   
+    Delete: https://qaz.im/index.php?a=delete&q=1785148217
+2020-09-24 12:35:50.080111	bentley	mors	Крипт от Мени
+2020-09-24 12:35:53.588746	bentley	mors	Деф не палит
+2020-09-24 13:18:33.790326	mors	bentley	+
+2020-09-24 18:13:10.814479	bentley	mors	Готов свежий файл
+2020-09-24 18:13:13.233548	bentley	mors	A&^DFUYG&G&GGGGGHYBysdjkhbgkj
+2020-09-24 18:13:16.940147	bentley	mors	
+    Download: https://qaz.im/load/T26t94/e9E9sF   
+    Delete: https://qaz.im/index.php?a=delete&q=293154950
+2020-09-24 18:38:49.942479	mors	bentley	+
+2020-09-24 18:48:17.331816	bentley	mors	Сейчас тебе стукнет love@q3mcco35auwcstmt.onion
+2020-09-24 18:48:28.836518	bentley	mors	Будет твоим тестировщиком с завтрашнего дня
+2020-09-24 18:49:19.831112	mors	bentley	а что он будет делать?
+2020-09-24 18:49:27.617509	mors	bentley	более конкретно
+2020-09-24 18:49:59.229116	bentley	mors	Готовить крипты для тебя. Крипты трика. Организовывать криптование, тестировать и выдавать.
+2020-09-24 18:50:17.406002	mors	bentley	т.е. ты мне больше не будешь?
+2020-09-24 18:50:52.345307	bentley	mors	Ага пора освобождать место свежему поколению )
+2020-09-24 18:50:59.510550	bentley	mors	Я всегда на связи если что
+2020-09-24 18:51:41.769406	mors	bentley	ок )
+2020-09-24 18:52:03.342568	bentley	mors	Пну если надо кого )
+2020-09-24 18:52:30.330803	bentley	mors	Завтра ко скольки сделать первый крипт?
+2020-09-24 18:54:21.273265	mors	bentley	ну можно к 10-11
+2020-09-24 18:55:08.553927	bentley	mors	Хорошо постораемся к 11 выдать.
+2020-10-01 19:44:13.236620	bentley	mors	Привет. Готов крипт
+2020-10-01 19:44:42.404286	bentley	mors	F&HUndsjklghkdjhglkjh
+2020-10-01 19:44:50.895763	bentley	mors	
+    Download: https://qaz.im/load/Q27SBk/bidD4G   
+    Delete: https://qaz.im/index.php?a=delete&q=200301429
+2020-10-01 19:47:22.298220	mors	bentley	+
+2020-10-01 19:47:44.658987	mors	bentley	это точно мне, а почему не love скинул?
+2020-10-01 19:49:01.862048	bentley	mors	Он тоже пришлет
+2020-10-01 19:49:07.243378	bentley	mors	Как кстати он?
+2020-10-01 19:49:10.246533	bentley	mors	справляется?
+2020-10-01 19:49:29.811515	bentley	mors	mor127
+2020-10-01 19:50:15.614918	mors	bentley	вроде скидывает все ок
+2020-10-01 19:50:23.475511	bentley	mors	Хорошо.
+2020-10-06 16:51:04.431428	bentley	mors	Привет. Будешь сегодня грузить?
+2020-10-06 17:21:16.052246	bentley	mors	Привет. Будешь сегодня грузить?
+2020-10-12 15:42:03.814272	bentley	mors	Привет
+2020-10-12 15:42:17.482144	bentley	mors	Там лов дописаться до тебя не может
+2020-10-12 15:42:37.753635	mors	bentley	привет
+2020-10-12 15:42:45.083354	mors	bentley	я ему пишу пишу )
+2020-10-12 15:42:53.701251	bentley	mors	Ща разберемся
+2020-10-13 10:41:20.963163	bentley	mors	Привет
+2020-10-13 10:41:26.736992	bentley	mors	У нас новый криптер
+2020-10-13 10:41:35.139541	bentley	mors	Стерн сказал его тебе выделить
+2020-10-13 10:41:39.583739	bentley	mors	Проверь что он и как
+2020-10-13 10:41:40.907231	bentley	mors	kran@q3mcco35auwcstmt.onion
+2020-10-13 10:43:54.658349	bentley	mors	crunch@exploit.im - это его паблик жаба
+2020-10-13 11:13:26.384974	mors	bentley	привет
+2020-10-13 11:13:33.755051	mors	bentley	принял. стукну сегодня к нему проверю
+2020-10-13 11:13:44.341561	bentley	mors	Хорошо
+2020-10-13 20:31:25.375670	bentley	mors	Скажи получается у него?
+2020-10-13 20:31:39.386241	bentley	mors	kran@q3mcco35auwcstmt.onion
+2020-10-13 20:32:08.312972	mors	bentley	я завтра к нему напишу. не проверял на своем
+
+так как завтра только будет чистый
+2020-10-13 20:32:21.302508	bentley	mors	Понял
+2020-10-14 08:28:01.065945	mors	bentley	привет
+2020-10-14 08:28:08.299188	mors	bentley	посмотри плиз, боты идут?
+2020-10-14 08:29:45.732821	bentley	mors	Привет
+2020-10-14 08:29:48.024189	bentley	mors	Ок
+2020-10-14 08:30:18.814670	mors	bentley	прямо сейчас плиз
+2020-10-14 08:31:15.813544	bentley	mors	Смотрю
+2020-10-14 08:33:50.497782	bentley	mors	Так группа mor130 - 1184 mor131 - 4
+2020-10-14 08:33:58.183084	bentley	mors	Rfrjq uheggjq hf,jnftim&
+2020-10-14 08:34:06.000308	bentley	mors	Какой группой работаешь?
+2020-10-14 08:34:22.998563	mors	bentley	я не знаю
+2020-10-14 08:34:35.875129	mors	bentley	где всех ботов больше наверное ))))
+2020-10-14 08:34:49.100727	bentley	mors	ппонял
+2020-10-14 08:34:52.578216	bentley	mors	Сделаем тсату
+2020-10-14 09:25:55.993992	mors	bentley	идут боты ?
+2020-10-14 09:28:35.317521	bentley	mors	Да 1726
+2020-10-14 09:28:43.963316	mors	bentley	ок
+2020-10-14 20:24:10.177743	bentley	mors	Доступ к стате:
+2020-10-14 20:24:12.307377	bentley	mors	https://kwwka7ark3ynr7k7.onion/groups/statistics/9ceb4095e6c9cb941fa9ef20d4fb564b64968fc37e73a089522d793c2869bad3dab7242c1230a2d6366a7cd8fb9e5a940b49
+2020-10-14 20:24:35.822292	bentley	mors	pass: p41L9D9aVO6JWBTUTZmV
+2020-10-15 10:45:36.343696	bentley	mors	Привет.
+2020-10-15 10:45:45.770932	bentley	mors	Ну как новый критор? Справляется?
+2020-10-15 10:49:01.744028	mors	bentley	нет. он не выдал даже ничего
+2020-10-15 10:49:38.524490	bentley	mors	Что говрит? Просто потерялся?
+2020-10-15 10:51:43.786159	mors	bentley	чищу деф. как почищу напишу )))
+2020-10-15 10:51:46.219887	mors	bentley	сутки уже
+2020-10-15 10:52:21.438441	bentley	mors	Понятно. Разберемся
+2020-10-15 10:54:39.007846	bentley	mors	Сейчас кран напишет тебе
+2020-10-15 18:28:59.489978	bentley	mors	Кран не вывозит
+2020-10-15 18:29:06.048344	bentley	mors	Остается Марсель
+2020-10-15 18:29:59.814256	mors	bentley	((
+2020-10-19 07:10:43.774638	mors	bentley	привет, файл нужен
+2020-10-19 07:10:48.042799	mors	bentley	love нет
+2020-10-19 07:10:54.999869	bentley	mors	Привет
+2020-10-19 07:11:02.052141	mors	bentley	но марсель писал, мне в пятницу что он залил файл на админку, love небыло
+2020-10-19 07:11:08.473961	mors	bentley	посомтри может он чист?
+2020-10-19 07:11:14.211593	bentley	mors	Хорошо
+2020-10-19 07:36:09.412034	bentley	mors	Выдал лов?
+2020-10-19 07:37:00.979611	mors	bentley	принял
+2020-10-19 07:37:12.078229	bentley	mors	Хорошо
+2020-10-26 07:37:51.812195	mors	bentley	привет
+2020-10-26 07:38:05.851094	mors	bentley	почему love так поздно выходит и  файл выдает (( ?
+2020-10-26 07:38:12.294042	bentley	mors	Привет
+2020-10-26 07:38:13.866274	mors	bentley	может криптанешь ехе
+2020-10-26 07:38:15.913235	mors	bentley	?
+2020-10-26 07:38:28.016715	bentley	mors	Сейчас разберемся
+2020-10-27 13:33:44.842232	mors	bentley	привет, что с файлом ехе ? почему не криптуют ?
+2020-10-27 13:34:08.734346	bentley	mors	Привет
+2020-10-27 13:35:54.595059	bentley	mors	Криптует Мани. Марселя еще нет
+2020-10-27 13:36:57.906209	mors	bentley	с утра нет файла, со вчерашнего (((
+2020-10-27 13:37:07.113086	mors	bentley	у вас проблемы может какие ?
+2020-10-27 13:37:12.364046	mors	bentley	может стопнуть вообще ?
+2020-10-27 13:37:20.650018	mors	bentley	стерна нет просто, не знаю у кого спросить )
+2020-10-27 13:37:26.288543	bentley	mors	У меня.
+2020-10-27 13:37:41.787430	bentley	mors	Марсель тебе ничего не делает?
+2020-10-27 13:38:23.658744	mors	bentley	делает, очень мало, и редко
+2020-10-27 13:38:33.161470	mors	bentley	а вы как ему платите?
+2020-10-27 13:38:55.564181	bentley	mors	Я не знаю про это. Это к Стерну.
+2020-11-09 17:29:51.794619	bentley	mors	Ты тут?
+2020-11-09 18:49:24.092714	bentley	mors	Привет

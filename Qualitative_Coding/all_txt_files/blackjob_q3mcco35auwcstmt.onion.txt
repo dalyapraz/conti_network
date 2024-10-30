@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-03-23 19:33:08.844793	q3mcco35auwcstmt.onion	blackjob	Hi.
+Welcome to this XMPP server.

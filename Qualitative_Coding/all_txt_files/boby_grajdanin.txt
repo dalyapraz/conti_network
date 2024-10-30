@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2020-10-07 16:23:16.339544	grajdanin	boby	Hi!
+2021-01-29 22:13:22.382307	boby	grajdanin	ok
+2021-02-01 12:37:23.879075	boby	grajdanin	ok
+2021-02-09 18:42:33.280821	boby	grajdanin	hi
+2021-02-09 18:42:34.883390	boby	grajdanin	tyt?
+2021-02-09 18:42:57.798292	grajdanin	boby	hi
+2021-02-09 18:42:57.799640	grajdanin	boby	tyt?
+2021-04-21 15:38:06.982480	grajdanin	boby	Ne poluchil 2 soobscheniya

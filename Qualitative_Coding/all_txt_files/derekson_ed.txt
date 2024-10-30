@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2022-02-15 18:08:52.934475	derekson	ed	привет
+2022-02-15 18:08:52.935308	ed	derekson	привет
+2022-02-15 18:09:48.682397	derekson	ed	q
+2022-02-15 18:09:48.683737	ed	derekson	q
+2022-02-16 13:34:39.308145	derekson	ed	привет
+2022-02-16 13:34:39.308692	ed	derekson	привет

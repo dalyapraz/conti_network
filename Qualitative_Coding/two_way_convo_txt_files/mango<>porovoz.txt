@@ -1,0 +1,11 @@
+Timestamp	From	To	Message
+2021-10-06 10:02:57.569630	porovoz	mango	Привет
+2021-12-02 17:58:14.795139	porovoz	mango	спасбо
+2021-12-02 17:58:23.859384	mango	porovoz	во
+2021-12-08 15:10:59.002937	mango	porovoz	хай
+2021-12-08 15:11:00.311057	mango	porovoz	тут?
+2021-12-29 17:31:08.107064	porovoz	mango	тут?
+2021-12-29 19:41:09.093586	mango	porovoz	хай! да
+2021-12-30 15:12:24.254150	mango	porovoz	хай! да
+2022-02-18 05:38:03.265380	mango	porovoz	так точно
+2022-02-18 08:58:51.072344	mango	porovoz	так точно

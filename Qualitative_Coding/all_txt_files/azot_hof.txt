@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-10-08 13:27:02.208367	hof	azot	писал в чат?

@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-09-30 18:05:32.149478	buran	bentley	привет криптанешь?
+2021-10-08 13:08:02.804794	buran	bentley	привет

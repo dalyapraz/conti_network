@@ -1,0 +1,95 @@
+Timestamp	From	To	Message
+2020-06-27 10:30:04.052205	buri	poll	https://logdog.pw/?BEc3tU
+2020-06-29 10:46:23.474070	buri	poll	https://logdog.pw/?BEc3tU
+2020-06-29 16:09:47.176645	buri	poll	https://logdog.pw/?chz67g
+2020-06-29 16:14:30.703066	buri	poll	https://logdog.pw/?chz67g
+2020-06-30 13:22:18.767171	buri	poll	https://logdog.pw/?XXLOM6
+2020-06-30 13:34:25.703875	buri	poll	https://logdog.pw/?WnAmKP
+2020-06-30 13:41:14.379613	buri	poll	https://logdog.pw/?XXLOM6
+2020-06-30 13:41:14.380729	buri	poll	https://logdog.pw/?WnAmKP
+2020-07-06 18:09:58.568934	buri	poll	odin tip zainteresovalsya. Drugih ne bilo
+2020-07-06 18:15:53.025347	buri	poll	odin tip zainteresovalsya. Drugih ne bilo
+2020-07-14 12:40:19.904251	buri	poll	https://logdog.pw/?wk_eSr
+2020-07-14 12:41:47.387226	buri	poll	https://logdog.pw/?wk_eSr
+2020-07-31 23:06:08.541278	poll	buri	vot na vtoroi koshel probuu poslat?
+2020-07-31 23:06:18.354982	buri	poll	Davai ya zanovo sozdam
+2020-07-31 23:06:19.062112	poll	buri	193UjvwxxvqbZJopaALERyaCXN4Ep1ZKRb
+2020-07-31 23:06:21.061037	buri	poll	na vsyakii sluchai
+2020-07-31 23:06:26.721113	poll	buri	oke davai
+2020-07-31 23:11:08.158388	buri	poll	...Z4J
+https://logdog.pw/?YRtwN8
+2020-07-31 23:11:16.412366	buri	poll	Sdelai High Priority
+2020-07-31 23:11:19.619942	buri	poll	ne zabud;
+2020-07-31 23:12:01.853444	poll	buri	blya jdem
+2020-07-31 23:12:07.326525	poll	buri	ya poslal ehe 1 trazny
+2020-07-31 23:12:10.799629	poll	buri	moi ostalis
+2020-07-31 23:12:50.608697	buri	poll	zasilai na etot koshelek, vse ok budet
+2020-07-31 23:13:06.522015	buri	poll	no ya podozhdu davai na vsyakii sluchai
+2020-07-31 23:20:01.549719	poll	buri	yshli na posled
+2020-07-31 23:24:34.033837	poll	buri	3.75
+2020-07-31 23:26:19.404415	buri	poll	aga, zashli, no poka net confirmation
+2020-07-31 23:26:50.784754	buri	poll	Vse ok, tam esche zaderzhka 1 chas, vse ok budet. Davai togda do zavtra?
+2020-07-31 23:27:40.659358	buri	poll	ya utrom tebe napishu status
+2020-07-31 23:28:44.835749	poll	buri	ok
+2020-07-31 23:33:34.284139	buri	poll	Tam moi est'?
+2020-07-31 23:34:17.341229	poll	buri	da ya skajy skoolko
+2020-07-31 23:34:27.593899	buri	poll	ok
+2020-07-31 23:35:12.766487	poll	buri	0.75 tvoi
+2020-08-07 10:14:09.942236	buri	poll	https://logdog.pw/?AZnxug
+2020-08-07 12:13:49.761694	buri	poll	https://logdog.pw/?AZnxug
+2020-08-07 13:03:57.909091	buri	poll	[05:14:09] <buri> https://logdog.pw/?AZnxug
+2020-08-07 13:05:44.872632	buri	poll	[05:14:09] <buri> https://logdog.pw/?AZnxug
+2020-08-07 14:24:22.305297	buri	poll	https://privnote.com/bVkGJ1rF#s5M25AL7I
+2020-08-15 13:18:18.850296	buri	poll	https://privnote.com/B8VILfxq#DZGU5u5dD
+2020-08-17 08:08:46.276763	buri	poll	https://privnote.com/B8VILfxq#DZGU5u5dD
+2020-08-17 12:23:23.927635	poll	buri	takie ne doljni bili pisat ot tebya? 
+
+lesnik
+codd.nexus
+2020-08-17 12:54:47.419556	poll	buri	takie ne doljni bili pisat ot tebya? 
+
+lesnik
+codd.nexus
+2020-08-18 21:09:50.133205	buri	poll	https://privnote.com/jCcn6YkE#jj8eaVM0v
+2020-08-18 21:40:30.488557	buri	poll	https://privnote.com/jCcn6YkE#jj8eaVM0v
+2020-08-20 20:59:31.398248	buri	poll	https://privnote.com/9QyIWaVC#63EBzSUge
+2020-08-20 21:04:26.188928	buri	poll	https://privnote.com/9QyIWaVC#63EBzSUge
+2020-09-01 18:50:21.693744	buri	poll	Mne nuzhno opisivat' na kakih usloviyah vi dogovarivalis i napishi emu, chto ti sobiraeshsya black nakatat'
+2020-09-06 17:15:00.534370	buri	poll	vse ok
+2020-09-07 06:51:02.699875	buri	poll	vse ok
+2020-09-18 17:40:31.393435	buri	poll	-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+=eQVv
+-----END PGP PUBLIC KEY BLOCK-----

@@ -1,0 +1,11 @@
+Timestamp	From	To	Message
+2020-09-28 13:33:58.866484	ramon	jumbo	ky
+2020-09-28 13:33:59.183221	ramon	jumbo	man
+2020-09-28 13:33:59.499293	ramon	jumbo	eto ya
+2020-09-28 13:34:03.038960	ramon	jumbo	otr
+2020-09-28 13:34:05.183579	ramon	jumbo	sdelauy
+2020-09-28 13:34:45.671667	ramon	jumbo	ky
+2020-09-28 13:34:46.247445	ramon	jumbo	man
+2020-09-28 13:34:48.487065	ramon	jumbo	dpoxodit?
+2020-09-29 13:14:59.651635	jumbo	ramon	бро ,что то не могу достучаться до боба
+2020-09-30 12:54:56.425640	ramon	jumbo	hi

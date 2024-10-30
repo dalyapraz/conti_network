@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-05-10 05:55:24.766288	reshaev	kagas	как зайдешь отпиши
+2021-05-10 09:32:27.692816	reshaev	kagas	как зайдешь отпиши
+2021-05-10 09:32:48.081696	kagas	reshaev	Привет, тут

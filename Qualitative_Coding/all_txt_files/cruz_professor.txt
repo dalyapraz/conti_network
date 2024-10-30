@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2020-09-01 21:40:50.015037	cruz	professor	профессор
+2020-09-01 21:40:51.008542	cruz	professor	куку
+2020-09-16 22:40:04.865136	cruz	professor	ооооо
+2020-09-16 22:40:06.567025	cruz	professor	какие люди
+2020-10-12 16:43:50.014544	cruz	professor	куку
+2020-10-12 16:43:53.210607	cruz	professor	профессор

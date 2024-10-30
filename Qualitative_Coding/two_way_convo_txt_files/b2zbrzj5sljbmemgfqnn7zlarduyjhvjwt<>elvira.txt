@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2021-12-13 12:57:34.641850	elvira	b2zbrzj5sljbmemgfqnn7zlarduyjhvjwt	привет..
+2021-12-13 12:57:34.652054	b2zbrzj5sljbmemgfqnn7zlarduyjhvjwt	elvira	привет..
+2021-12-13 12:59:44.460649	elvira	b2zbrzj5sljbmemgfqnn7zlarduyjhvjwt	завтра возьмешь на собес. одного С++ с ТЗ готовым?
+2021-12-13 12:59:44.476211	b2zbrzj5sljbmemgfqnn7zlarduyjhvjwt	elvira	завтра возьмешь на собес. одного С++ с ТЗ готовым?
+2022-01-13 07:38:15.319324	elvira	b2zbrzj5sljbmemgfqnn7zlarduyjhvjwt	привет
+2022-01-13 07:38:15.343441	b2zbrzj5sljbmemgfqnn7zlarduyjhvjwt	elvira	привет

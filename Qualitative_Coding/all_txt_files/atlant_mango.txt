@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-11-04 19:34:14.207987	mango	atlant	привет, отпиши как будешь

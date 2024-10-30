@@ -1,0 +1,6 @@
+Timestamp	From	To	Message
+2020-07-13 13:48:51.611035	ahtyng	poll	ку
+2020-07-22 06:28:36.226340	ahtyng	poll	ъ
+2020-07-22 09:01:45.779675	ahtyng	poll	ъ
+2020-07-23 17:22:50.886347	ahtyng	poll	jjj
+2020-08-26 17:01:25.465572	ahtyng	poll	привет

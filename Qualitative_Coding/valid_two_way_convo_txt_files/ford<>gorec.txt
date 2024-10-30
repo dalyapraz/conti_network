@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-07-21 12:35:58.098838	ford	gorec	3+3=?
+2021-07-21 12:36:07.025121	gorec	ford	6
+2021-07-21 12:36:07.846942	ford	gorec	Congratulations! Now you can chat!
+2021-07-21 12:36:12.231750	gorec	ford	привет

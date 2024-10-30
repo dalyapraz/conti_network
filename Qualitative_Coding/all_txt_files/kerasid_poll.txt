@@ -1,0 +1,24 @@
+Timestamp	From	To	Message
+2020-06-26 12:08:44.714597	kerasid	poll	привет
+2020-06-26 12:08:45.706549	kerasid	poll	вопрос
+2020-08-12 03:43:03.997315	kerasid	poll	забыл ты про меня
+2020-08-12 03:43:08.931328	kerasid	poll	:'-(
+2020-08-12 09:04:22.176843	kerasid	poll	забыл ты про меня
+2020-08-12 09:04:22.180266	kerasid	poll	:'-(
+2020-08-12 09:05:03.319677	poll	kerasid	hi man
+2020-08-14 01:33:35.045468	poll	kerasid	hi man
+2020-09-01 12:41:26.653062	kerasid	poll	привет
+2020-09-03 08:35:26.054547	kerasid	poll	158ugoZoH5NQiwDR6WmC37pFAF1kqCauGC
+2020-09-16 09:29:56.253361	poll	kerasid	bro
+2020-09-16 09:29:58.105884	poll	kerasid	tyta?
+2020-09-16 10:20:20.813689	poll	kerasid	bro
+2020-09-16 10:20:20.818726	poll	kerasid	tyta?
+2020-09-16 10:21:00.355387	kerasid	poll	да
+2020-09-17 10:59:22.274349	poll	kerasid	man napishi
+2020-09-17 19:03:34.728488	poll	kerasid	man napishi
+2020-09-18 09:49:19.590011	poll	kerasid	idet delo bro?
+2020-09-18 10:48:52.160683	poll	kerasid	idet delo bro?
+2020-09-18 10:57:12.086132	kerasid	poll	я еще вчера написал картеру
+2020-09-18 10:57:27.978554	kerasid	poll	ща еще поебу голову
+2020-09-21 09:04:16.558582	poll	kerasid	bro?
+2020-09-21 09:51:30.699507	poll	kerasid	bro?

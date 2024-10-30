@@ -1,0 +1,117 @@
+Timestamp	From	To	Message
+2021-07-12 20:09:04.451928	modnik	sepvilk	5+5=?
+2021-07-12 20:09:09.962694	sepvilk	modnik	10
+2021-07-12 20:10:15.903501	modnik	sepvilk	5+5=?
+2021-07-12 20:10:18.290531	modnik	sepvilk	5+5=?
+2021-07-12 20:10:22.036369	sepvilk	modnik	10
+2021-07-12 20:10:23.402364	modnik	sepvilk	Congratulations! Now you can chat!
+2021-09-08 15:11:46.513667	sepvilk	modnik	v yacheiku D45 nuzhno dobavit' formulu =B45/E45
+2021-10-04 13:48:17.148362	modnik	sepvilk	Hi.
+2021-10-04 20:26:36.894119	sepvilk	modnik	Ya viletel. Esli chto-to pisal, povtori
+2021-10-11 16:05:50.051225	modnik	sepvilk	[20:53:37] <modnik> Pro diego pometil sebe, drugoi chelovek dolzhen napisat, mozhet on v drugoi jabber stuknul, prover plz 2, kotorii skidival mne dlya kontakta. 
+[20:55:16] <modnik> ikr kotorii, kazhetsya 
+[20:55:33] <modnik> Esli on u tebya eshe aktiven 
+[20:58:34] <modnik> Etot pentester otvetil na forume chto ot tebya ne prihodilo soobshenii, ya uzhe skidival ego kontakt, svyazhis s nim plz eshe raz
+
+https://privnote.com/bwNjT93W#bXb68n7mC 
+[21:00:00] <modnik> Napishi plz kak smozhesh svyazatsya, ya emu soobshu na forume
+2021-10-11 16:06:22.375033	sepvilk	modnik	Ikr - takogo nikogda ne bilo
+2021-10-26 20:31:20.422714	sepvilk	modnik	https://privnote.com/uMZq1bRL#JCwlWKVgU
+2021-10-27 12:38:38.570393	sepvilk	modnik	https://privnote.com/uMZq1bRL#JCwlWKVgU
+2021-10-27 12:39:52.807243	modnik	sepvilk	https://privnote.com/2JZXw5yc#bO3O4pysI
+2021-10-27 16:25:12.825281	modnik	sepvilk	https://privnote.com/2JZXw5yc#bO3O4pysI
+2021-11-01 15:28:28.996552	modnik	sepvilk	https://privnote.com/fp7NsJYc#Mgcg6qwDz
+2021-11-01 17:16:15.814621	modnik	sepvilk	https://privnote.com/fp7NsJYc#Mgcg6qwDz
+2021-11-18 13:57:30.677816	modnik	sepvilk	https://privnote.com/NLIQ0IXO#HRTSwMRL8
+2021-11-19 09:23:30.743343	modnik	sepvilk	https://privnote.com/4mSBAubR#I7vLAS0y6
+2021-11-21 15:47:16.453324	modnik	sepvilk	https://privnote.com/6u8WJ4un#FRZmoXvHj
+2021-11-22 11:57:35.016985	modnik	sepvilk	https://privnote.com/RrD1IJ05#A7FeAoNTK
+2021-11-22 13:46:57.274977	modnik	sepvilk	https://privnote.com/NLIQ0IXO#HRTSwMRL8
+2021-11-22 13:46:57.276643	modnik	sepvilk	https://privnote.com/4mSBAubR#I7vLAS0y6
+2021-11-22 13:46:57.277942	modnik	sepvilk	https://privnote.com/6u8WJ4un#FRZmoXvHj
+2021-11-22 13:46:57.278420	modnik	sepvilk	https://privnote.com/RrD1IJ05#A7FeAoNTK
+2021-11-23 10:00:39.226055	modnik	sepvilk	https://privnote.com/1vd3XkNV#L2cbdKAvx
+2021-11-23 14:43:51.031943	modnik	sepvilk	https://privnote.com/1vd3XkNV#L2cbdKAvx
+2021-12-06 12:27:58.771746	modnik	sepvilk	https://privnote.com/I7uSIX1b#wjg0HLSyl
+2021-12-07 09:56:49.722671	modnik	sepvilk	https://privnote.com/I7uSIX1b#wjg0HLSyl
+2021-12-07 11:40:15.236910	sepvilk	modnik	https://privnote.com/6WtFwT4U#CysOE7Qld
+2021-12-07 15:53:11.627974	sepvilk	modnik	https://privnote.com/6WtFwT4U#CysOE7Qld
+2021-12-07 15:53:41.654180	modnik	sepvilk	https://privnote.com/Pvb00gsV#8V9Goriwy
+2021-12-08 11:53:32.317636	modnik	sepvilk	https://privnote.com/VQ60RZlG#OCszXBQvS
+2021-12-08 19:15:54.440131	modnik	sepvilk	https://privnote.com/Pvb00gsV#8V9Goriwy
+2021-12-08 19:15:54.440652	modnik	sepvilk	https://privnote.com/VQ60RZlG#OCszXBQvS
+2021-12-13 19:37:27.745289	modnik	sepvilk	https://privnote.com/R8grjnHg#nO1UPf1nX
+2021-12-15 14:09:25.969581	modnik	sepvilk	https://privnote.com/gDaRc7hr#68XDn8ejU
+2021-12-16 18:28:26.714438	modnik	sepvilk	https://privnote.com/USv6HD0W#cPRI007ft
+2021-12-17 22:29:48.434344	modnik	sepvilk	https://privnote.com/R8grjnHg#nO1UPf1nX
+2021-12-17 22:29:48.435491	modnik	sepvilk	https://privnote.com/USv6HD0W#cPRI007ft
+2021-12-21 12:35:15.113679	modnik	sepvilk	https://privnote.com/dy6UOARa#luQSv9tFb
+2022-01-10 18:17:34.030733	modnik	sepvilk	https://privnote.com/Vjwbx92s#FH2O7dGpG
+2022-01-11 10:20:48.427584	modnik	sepvilk	https://privnote.com/8EVwSZAn#RPPHstSo9
+2022-01-12 08:58:00.451551	modnik	sepvilk	https://privnote.com/OL3gP00H#O4qepyH1G
+2022-01-13 19:24:14.335358	modnik	sepvilk	https://privnote.com/bHoPj0QF#1lNBQyn7S
+2022-01-14 11:32:20.247820	modnik	sepvilk	https://privnote.com/wwfL5hqi#VDwSioAuG
+2022-01-17 12:12:19.337210	modnik	sepvilk	https://privnote.com/Sx9JhDbY#IeYKHC2qK
+2022-01-18 09:26:37.217421	modnik	sepvilk	https://privnote.com/OZJZlqGN#tl47uuFhV
+2022-01-19 09:13:02.854075	modnik	sepvilk	https://privnote.com/fVEYdYMc#4GeQCjj0f
+2022-01-19 13:30:53.635103	modnik	sepvilk	https://privnote.com/dy6UOARa#luQSv9tFb
+2022-01-19 13:30:53.636995	modnik	sepvilk	https://privnote.com/Vjwbx92s#FH2O7dGpG
+2022-01-19 13:30:53.638752	modnik	sepvilk	https://privnote.com/8EVwSZAn#RPPHstSo9
+2022-01-19 13:30:53.640038	modnik	sepvilk	https://privnote.com/OL3gP00H#O4qepyH1G
+2022-01-19 13:30:53.641327	modnik	sepvilk	https://privnote.com/bHoPj0QF#1lNBQyn7S
+2022-01-19 13:30:53.642533	modnik	sepvilk	https://privnote.com/wwfL5hqi#VDwSioAuG
+2022-01-19 13:30:53.643821	modnik	sepvilk	https://privnote.com/Sx9JhDbY#IeYKHC2qK
+2022-01-19 13:30:53.645299	modnik	sepvilk	https://privnote.com/OZJZlqGN#tl47uuFhV
+2022-01-19 13:30:53.646708	modnik	sepvilk	https://privnote.com/fVEYdYMc#4GeQCjj0f
+2022-01-19 14:35:06.034864	modnik	sepvilk	<Sep> A pochemu imenno do konca fevralya? 
+
+Ты просил предупредить заранее, если я захочу заниматься чем-то другим.
+
+=========
+
+<Sep> "Со временем я стал изучать сколько может стоит работа, которую я выполняю и разочаровался в том, сколько я за это получаю. "
+
+Ne sovsem ponyal. Imenno v temnoi sfere ili kak?
+
+Да, в тёмной сфере.
+2022-01-20 16:52:18.917503	modnik	sepvilk	https://privnote.com/VTqiiOWT#CwLCkHE0W
+2022-01-21 09:43:51.410052	modnik	sepvilk	https://privnote.com/Li2biVpY#tMJRMDBZr
+2022-01-21 14:13:57.137531	modnik	sepvilk	https://privnote.com/VTqiiOWT#CwLCkHE0W
+2022-01-21 14:13:57.140664	modnik	sepvilk	https://privnote.com/Li2biVpY#tMJRMDBZr
+2022-01-24 09:03:14.902134	modnik	sepvilk	https://privnote.com/7FJEYlXD#rjF97tMuy
+2022-01-25 08:39:19.622717	modnik	sepvilk	https://privnote.com/RfnzhFGv#614cWd05t
+2022-01-25 10:14:33.736780	modnik	sepvilk	https://privnote.com/7FJEYlXD#rjF97tMuy
+2022-01-25 10:14:33.738426	modnik	sepvilk	https://privnote.com/RfnzhFGv#614cWd05t
+2022-01-26 10:18:04.764341	modnik	sepvilk	https://privnote.com/quV53dYa#XB73hLNga
+2022-01-26 11:58:51.164128	modnik	sepvilk	https://privnote.com/quV53dYa#XB73hLNga
+2022-01-28 10:51:46.737697	modnik	sepvilk	https://privnote.com/oH2nIhXo#nNqnANGYG
+2022-01-29 23:32:21.694042	modnik	sepvilk	https://privnote.com/KSF76hNQ#pQqGCVboU
+2022-01-31 10:11:16.830688	modnik	sepvilk	https://privnote.com/PVP6qDCd#WdmoHiD5K
+2022-02-01 10:27:15.007755	modnik	sepvilk	https://privnote.com/hnf9n8GS#cZbRoKnaE
+2022-02-02 10:09:32.006586	modnik	sepvilk	https://privnote.com/2pqyblSX#CEBxN46tK
+2022-02-03 15:12:05.677468	modnik	sepvilk	https://privnote.com/oH2nIhXo#nNqnANGYG
+2022-02-03 15:12:05.680844	modnik	sepvilk	https://privnote.com/KSF76hNQ#pQqGCVboU
+2022-02-03 15:12:05.684464	modnik	sepvilk	https://privnote.com/hnf9n8GS#cZbRoKnaE
+2022-02-03 15:12:05.685042	modnik	sepvilk	https://privnote.com/PVP6qDCd#WdmoHiD5K
+2022-02-03 15:12:05.686563	modnik	sepvilk	https://privnote.com/2pqyblSX#CEBxN46tK
+2022-02-04 12:43:18.598870	modnik	sepvilk	https://privnote.com/lGK0PzdV#8N7ThKB3U
+2022-02-06 21:45:44.418710	modnik	sepvilk	https://privnote.com/qo35DvSo#l7ok2OyMt
+2022-02-07 13:58:01.499623	modnik	sepvilk	https://privnote.com/lGK0PzdV#8N7ThKB3U
+2022-02-07 13:58:01.502869	modnik	sepvilk	https://privnote.com/qo35DvSo#l7ok2OyMt
+2022-02-08 10:56:13.475421	modnik	sepvilk	https://privnote.com/Ntkgr0KE#BgZKCLOfr
+2022-02-08 15:21:51.443143	modnik	sepvilk	https://privnote.com/Ntkgr0KE#BgZKCLOfr
+2022-02-10 13:10:44.078740	modnik	sepvilk	https://privnote.com/NeTtNXKZ#k17kWV32J
+2022-02-11 10:21:43.187218	modnik	sepvilk	https://privnote.com/e4WAMXrE#DnIpZLQum
+2022-02-11 10:25:32.842169	modnik	sepvilk	https://privnote.com/NeTtNXKZ#k17kWV32J
+2022-02-11 10:25:32.844208	modnik	sepvilk	https://privnote.com/e4WAMXrE#DnIpZLQum
+2022-02-14 10:22:55.044962	modnik	sepvilk	https://privnote.com/GUiqX11m#XZ1iBpODP
+2022-02-14 15:53:59.381463	modnik	sepvilk	https://privnote.com/GUiqX11m#XZ1iBpODP
+2022-02-15 11:41:36.023943	modnik	sepvilk	https://privnote.com/iCCyoLmb#FBnt14rsP
+2022-02-15 14:06:34.221969	modnik	sepvilk	https://privnote.com/iCCyoLmb#FBnt14rsP
+2022-02-16 09:21:41.623460	modnik	sepvilk	https://privnote.com/vucTt7LM#auSH3HBCm
+2022-02-16 10:41:26.713164	modnik	sepvilk	https://privnote.com/vucTt7LM#auSH3HBCm
+2022-02-18 13:18:12.319764	modnik	sepvilk	https://privnote.com/o7hCAu0o#KLnXW3wgO
+2022-02-21 14:22:26.633390	modnik	sepvilk	https://privnote.com/KIrjo7tc#96p20yEXB
+2022-02-22 14:37:34.259381	modnik	sepvilk	https://privnote.com/4n8PxDZz#0GqNmZhjF
+2022-02-23 14:38:38.383701	modnik	sepvilk	https://privnote.com/RhQhlmev#crlkvxl7O
+2022-02-24 10:39:41.455524	modnik	sepvilk	https://privnote.com/twFpyJ0b#QhoigRLEo

@@ -1,0 +1,11 @@
+Timestamp	From	To	Message
+2020-07-20 11:02:03.816188	tilar	poll	hi
+2020-07-20 11:02:03.877776	tilar	poll	bro
+2020-07-20 11:02:06.155918	tilar	poll	urban tyt?
+2020-07-20 11:02:13.052296	tilar	poll	on suka opayt' ydalilcay
+2020-08-24 15:48:05.856870	tilar	poll	ky
+2020-08-24 18:29:05.248645	tilar	poll	ky
+2020-08-27 14:49:06.616810	tilar	poll	exel nety eshe?
+2020-08-28 11:24:51.427128	tilar	poll	hey
+2020-09-22 19:13:09.907445	tilar	poll	16V75dAXysYmz8dQXJeZMdJrK5NQ8XPLVy
+280$

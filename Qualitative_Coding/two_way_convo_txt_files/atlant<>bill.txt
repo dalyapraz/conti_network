@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2020-09-10 05:12:16.633397	atlant	bill	доброе
+2020-09-10 05:12:19.210399	atlant	bill	док нужен?
+2020-09-10 05:12:30.194256	bill	atlant	привет

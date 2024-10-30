@@ -1,0 +1,12 @@
+Timestamp	From	To	Message
+2020-09-22 09:21:16.461703	skywalker	green	Привет
+2020-09-22 09:21:39.798032	skywalker	green	Буза говорит, что у тебя можно спросить помощи. Не могу заставить работать джумлу +iis на win10
+2020-09-22 09:23:06.536993	skywalker	green	Ок
+2020-09-22 09:52:05.465938	skywalker	green	Поставил иис, поставил мускул, загрузил джумлу в wwwroot, пишет ошибку какую-то, не понимаю... На серверной системе все из коробки заработало. Я просто не очень в этом разбираюсь) Могу дать логины пароли - посмотришь
+2020-09-22 09:55:43.193780	skywalker	green	176.9.91.106:32301
+2020-09-22 09:56:11.911662	skywalker	green	testlab\jschimke 			sSTCXX7va9
+2020-09-22 09:56:17.808993	skywalker	green	Это рдп
+2020-09-22 09:56:40.262919	skywalker	green	Сейчас я только отключусь
+2020-09-22 09:57:25.708597	skywalker	green	Отключился
+2020-09-22 10:14:58.894165	skywalker	green	Удалось подключиться?
+2020-09-22 10:15:58.199189	skywalker	green	I sent you an OMEMO encrypted message but your client doesn’t seem to support that. Find more information on https://conversations.im/omemo

@@ -1,0 +1,14 @@
+Timestamp	From	To	Message
+2020-09-10 09:19:17.440913	atlant	tilar	бро
+2020-09-10 09:19:20.031127	atlant	tilar	делаем док?
+2020-09-10 10:01:53.159935	atlant	tilar	бро
+2020-09-10 10:01:53.161501	atlant	tilar	делаем док?
+2020-09-15 11:21:01.532663	atlant	tilar	док делаем?
+2020-09-15 11:21:22.350819	tilar	atlant	ne-a
+2020-09-15 11:21:24.070590	tilar	atlant	poka net
+2020-09-15 11:21:25.534904	tilar	atlant	ne nado
+2020-09-15 11:21:26.545934	tilar	atlant	bro
+2020-09-15 11:21:27.265754	tilar	atlant	sps)
+2020-09-25 10:40:48.118479	atlant	tilar	привет бро
+2020-09-25 10:40:51.076586	atlant	tilar	док делаем?
+2020-09-25 18:09:03.965823	atlant	tilar	бро

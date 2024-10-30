@@ -1,0 +1,11 @@
+Timestamp	From	To	Message
+2020-08-17 13:19:16.794988	kerasid	talar	чето у меня шифрование не шифрует
+2020-08-17 13:19:16.871414	kerasid	talar	ку
+2020-08-17 13:20:13.459723	kerasid	talar	куку
+2020-08-17 13:40:58.087642	kerasid	talar	куку
+2020-08-17 13:41:07.047163	kerasid	talar	ты мне чет писал или не писал?
+2020-10-16 12:55:13.172630	kerasid	talar	хай
+2020-10-19 19:00:48.433768	kerasid	talar	наши победили?
+2020-10-21 13:59:22.760765	kerasid	talar	You are not allowed to push code to protected branches on this project.
+2020-10-26 12:46:29.081197	kerasid	talar	куку
+2020-10-28 19:23:02.535084	kerasid	talar	51.195.192.115 пиздец?

@@ -1,0 +1,14 @@
+Timestamp	From	To	Message
+2021-09-28 11:18:20.170973	specter	mango	привет
+2021-10-15 09:44:48.543443	specter	mango	привет бро, сегодня же аванс?
+2021-10-19 08:19:16.446369	mango	specter	привет
+2021-12-16 19:21:56.043309	specter	mango	я не получал)
+2021-12-16 19:23:18.392983	mango	specter	давай исправим
+2021-12-16 19:23:25.738609	mango	specter	давай кош
+2021-12-16 19:23:26.430200	specter	mango	bc1q9l9zx5ct4apdweyxfdwq8tdza93gefvl7v766r
+2021-12-16 19:24:55.198850	mango	specter	готово бро
+2021-12-16 19:24:55.200998	mango	specter	на связи :)
+2021-12-16 19:25:32.594338	specter	mango	спасибо)
+2021-12-27 22:22:48.597163	mango	specter	прием
+2022-02-15 12:01:54.192228	specter	mango	хай, зп не давали?
+2022-02-17 13:33:39.300858	specter	mango	хай

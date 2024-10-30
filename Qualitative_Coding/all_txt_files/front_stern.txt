@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-08-27 13:55:23.384806	stern	front	привет
+2021-08-27 13:55:23.386931	stern	front	1
+2021-08-27 15:04:57.623088	stern	front	привет
+2021-08-27 15:04:57.624133	stern	front	1

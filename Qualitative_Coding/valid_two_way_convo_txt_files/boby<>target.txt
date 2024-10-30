@@ -1,0 +1,103 @@
+Timestamp	From	To	Message
+2020-09-04 15:21:08.939640	target	boby	10 плюс 10 ровно
+2020-09-08 23:12:46.064428	target	boby	10 плюс 10 ровно
+2020-09-08 23:20:17.038701	boby	target	20
+2020-09-08 23:20:18.104454	target	boby	Congratulations! Now you can chat!
+2020-09-24 11:04:36.476683	target	boby	10 плюс 10 ровно
+2020-09-24 11:04:40.743191	boby	target	20
+2020-09-24 11:04:42.081794	target	boby	Congratulations! Now you can chat!
+2020-09-25 09:08:27.295899	target	boby	тут все делай
+2020-09-25 09:08:27.555030	target	boby	https://docs.google.com/spreadsheets/d/1TnV7UNwOorTWjqtpPVgd-zmYKsltUDCCaLyYbP_rAB4/edit?usp=sharing
+2020-09-25 09:08:37.763625	target	boby	там как файлы получат
+2020-09-25 09:08:41.244511	target	boby	начнут перегружать
+2020-09-25 09:08:44.397038	target	boby	и писать все
+2020-09-25 09:08:47.731982	target	boby	и там же ответы давай ок не ок
+2020-09-25 09:08:52.706161	target	boby	меня не будет
+2020-09-25 09:08:57.105306	target	boby	все взаимодействие с суппортами через эксель
+2020-09-25 09:08:57.432015	target	boby	https://docs.google.com/spreadsheets/d/1TnV7UNwOorTWjqtpPVgd-zmYKsltUDCCaLyYbP_rAB4/edit?usp=sharing
+2020-09-25 11:02:25.851693	target	boby	тут все делай
+2020-09-25 11:02:25.853317	target	boby	https://docs.google.com/spreadsheets/d/1TnV7UNwOorTWjqtpPVgd-zmYKsltUDCCaLyYbP_rAB4/edit?usp=sharing
+2020-09-25 11:02:25.854338	target	boby	там как файлы получат
+2020-09-25 11:02:25.855257	target	boby	начнут перегружать
+2020-09-25 11:02:25.856471	target	boby	и писать все
+2020-09-25 11:02:25.857523	target	boby	и там же ответы давай ок не ок
+2020-09-25 11:02:25.858274	target	boby	меня не будет
+2020-09-25 11:02:25.859156	target	boby	все взаимодействие с суппортами через эксель
+2020-09-27 11:53:12.309127	target	boby	привет
+2020-09-27 11:53:16.202938	target	boby	мы со среды
+2020-09-27 12:14:40.564954	target	boby	вы 1 или 2
+2020-09-27 12:14:41.550933	target	boby	поставили
+2020-09-27 12:14:42.240540	target	boby	на лок
+2020-09-30 16:29:45.418931	target	boby	так
+2020-09-30 16:29:46.571089	target	boby	я вылетал
+2020-09-30 16:30:00.167923	target	boby	[19:27:11] <target> конкртено за ЛЛ 
+[19:27:13] <target> я извиняюсь 
+[19:27:18] <target> за то что 
+[19:27:19] <target> не увидел 
+[19:27:25] <target> что сетка достучалась к тебе кобу 
+[19:27:52] <target> если ко мне еще какие топ ритензии - можно смело идти нахуй и у меня нет вопросов за проебы твои 
+[19:27:57] <target> и на этом закончим сотрудничество 
+[19:28:07] <target> не считая тех кто должен выплатить
+2020-09-30 16:31:01.016956	target	boby	если с ЛЛ что то выплатят - ты получишь с нее
+за то что я не заметил что она к тебе перегрузилась
+2020-10-01 09:52:31.753728	target	boby	давай кобу
+2020-10-02 13:06:47.345525	target	boby	хай
+2020-10-02 13:06:48.516713	target	boby	PBSALESME-2898	PROLACTA
+2020-10-02 13:06:51.354570	target	boby	поставили
+2020-10-02 13:06:57.240990	target	boby	PBSALESME-2898	PROLACTA		"Revenue:
+$95 Million"
+2020-10-02 18:40:57.320428	target	boby	[21:34:18] <bob> sam proveril.. boti idy, pri skachke file ne detectisya 
+[21:37:09] <target> 
+      Run_EXE      02.10.2020 18:30      done      runexe hollowing 0 explorer https_x64.exe 
+[21:37:45] <target> Download: https://qaz.im/load/sGydQD/6hznk8 
+[21:42:55] <target> боб 
+[21:42:56] <target> ты тут
+2020-10-02 18:41:35.576998	target	boby	[21:34:18] <bob> sam proveril.. boti idy, pri skachke file ne detectisya 
+[21:37:09] <target> 
+      Run_EXE      02.10.2020 18:30      done      runexe hollowing 0 explorer https_x64.exe 
+[21:37:45] <target> Download: https://qaz.im/load/sGydQD/6hznk8 
+[21:42:55] <target> боб 
+[21:42:56] <target> ты тут
+2020-10-05 19:47:56.145829	target	boby	боб
+укажи там в экселе
+2020-10-05 19:47:57.173969	target	boby	длл файл
+2020-10-05 19:48:06.730303	target	boby	пусть его ставит х 64
+2020-10-15 16:11:08.215828	target	boby	да
+2020-10-15 16:11:09.013087	target	boby	уже
+2020-10-15 16:11:10.520946	target	boby	200+ сеток
+2020-10-15 16:11:11.602537	target	boby	лол))))))
+2020-10-15 16:11:13.414611	target	boby	огромных
+2020-10-15 16:11:15.161279	target	boby	но
+2020-10-15 16:11:19.251342	target	boby	я боюсь чтобы тебе что то сгружали
+2020-10-15 16:11:21.448580	target	boby	потому что вдруг
+2020-10-15 16:11:22.464137	target	boby	там будет
+2020-10-15 16:11:24.107528	target	boby	дубль какой
+2020-10-15 16:11:26.720569	target	boby	другая точка выхода
+2020-10-15 16:11:27.960052	target	boby	входа
+2020-10-15 16:11:35.463779	target	boby	а операторы админки не увидят этого
+2020-10-15 16:12:52.144634	target	boby	поэтмоу приду сам посмотрю что то сгружу под конец дня
+2020-10-16 15:40:59.935337	target	boby	хай
+2020-10-16 15:41:00.580431	target	boby	+
+2020-10-16 15:41:07.518373	target	boby	нет сегодяня без атак
+2020-10-16 15:41:13.997530	target	boby	поэтмоу серт нет
+2020-10-16 15:48:37.896628	boby	target	aha
+2020-10-16 15:48:44.175682	boby	target	a botov net mojet svobodnih jivih?
+2020-10-16 15:55:01.153306	target	boby	нет, все распределили
+2020-10-16 15:55:05.982439	target	boby	всех завалили работой
+2020-10-16 15:55:46.543839	boby	target	ok jdem togda mi)
+2020-10-22 03:24:56.064749	target	boby	сегодня атакуем
+2020-10-22 03:24:59.787042	target	boby	к вечеру в районе 22 00
+2020-10-22 03:25:00.588969	target	boby	отпишу
+2020-10-22 03:25:09.446827	target	boby	привет
+2020-10-22 08:35:36.026008	target	boby	сегодня атакуем
+2020-10-22 08:35:36.182397	target	boby	к вечеру в районе 22 00
+2020-10-22 08:35:36.183510	target	boby	отпишу
+2020-10-22 08:35:36.184283	target	boby	привет
+2020-10-24 07:59:25.161662	target	boby	слушай
+2020-10-24 07:59:26.899654	target	boby	вызвони грина
+2020-10-24 07:59:27.627477	target	boby	срочно
+2020-10-24 12:06:01.182490	target	boby	слушай
+2020-10-24 12:06:01.291890	target	boby	вызвони грина
+2020-10-24 12:06:01.292539	target	boby	срочно
+2020-10-29 21:51:24.341239	target	boby	тут?
+2020-10-29 21:51:25.231633	target	boby	привет

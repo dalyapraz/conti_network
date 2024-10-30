@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-12-06 18:47:30.677094	revers	bezdar	здарова

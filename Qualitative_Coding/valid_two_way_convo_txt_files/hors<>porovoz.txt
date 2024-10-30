@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-10-04 15:08:59.943335	porovoz	hors	Привет
+2021-10-06 18:41:21.435188	hors	porovoz	минут 30
+2021-10-07 16:34:56.853128	porovoz	hors	спасибо большое
+2021-10-07 16:35:00.889691	porovoz	hors	ой

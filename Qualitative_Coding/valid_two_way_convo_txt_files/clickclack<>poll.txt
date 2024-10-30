@@ -1,0 +1,36 @@
+Timestamp	From	To	Message
+2020-06-29 15:38:31.964303	clickclack	poll	по аккам получил инфо?
+2020-06-30 10:29:19.338981	clickclack	poll	900268619858 <https://stuff.community/no-ref.php?url=http%3A%2F%2Fwww.fedex.com%2Ffedextrack%2F%3Faction%3Dtrack%26cntry_code%3Den%26tracknumbers%3D900268619858> тут пустой пришел?
+2020-06-30 13:41:14.374655	clickclack	poll	900268619858 <https://stuff.community/no-ref.php?url=http%3A%2F%2Fwww.fedex.com%2Ffedextrack%2F%3Faction%3Dtrack%26cntry_code%3Den%26tracknumbers%3D900268619858> тут пустой пришел?
+2020-07-03 10:40:20.193653	poll	clickclack	This room is not anonymous
+2020-07-07 15:08:16.125509	clickclack	poll	привет я на месте
+2020-07-09 16:51:43.960525	clickclack	poll	бро а палку еу выделишь? начнем с нее с типом постепенно
+2020-07-15 16:09:47.800770	clickclack	poll	 я на месте
+2020-07-16 16:14:57.901217	clickclack	poll	сейчас курьеров добавлю
+2020-07-16 16:23:48.832027	clickclack	poll	сейчас курьеров добавлю
+2020-07-17 10:40:44.739804	clickclack	poll	привет бро !
+2020-07-29 08:58:26.728289	clickclack	poll	привет как дела?
+2020-07-31 10:29:25.147517	clickclack	poll	привет если что я на месте
+2020-08-13 07:06:45.877449	clickclack	poll	https://logdog.pw/?NrL8NVFGkwkQUU79kmnc#oWjYQMt1GvImn3sWVHKfo006J70DRVRhP7bEcswFZphTyIPErMzGGcBzrYQPhC0L
+2020-08-13 07:41:45.503769	poll	clickclack	This room is not anonymous
+2020-08-13 09:29:49.811490	clickclack	poll	https://logdog.pw/?NrL8NVFGkwkQUU79kmnc#oWjYQMt1GvImn3sWVHKfo006J70DRVRhP7bEcswFZphTyIPErMzGGcBzrYQPhC0L
+2020-08-14 13:54:40.902249	poll	clickclack	This room is not anonymous
+2020-08-21 07:16:39.067654	poll	clickclack	This room is not anonymous
+2020-08-21 16:59:20.884509	clickclack	poll	https://logdog.pw/?L6t34vw5+7LvlbOJGx0f#koHnsygGhOqEQoi_cusBjU_L4m9i75zs2WQZphywRMCXiVIE7I4BmwiZ+UEUF8sa
+2020-08-21 16:59:39.444556	clickclack	poll	https://logdog.pw/?L6t34vw5+7LvlbOJGx0f#koHnsygGhOqEQoi_cusBjU_L4m9i75zs2WQZphywRMCXiVIE7I4BmwiZ+UEUF8sa
+2020-08-24 06:30:39.515610	poll	clickclack	hi man
+v doroge sednya. budu chut pozje
+2020-08-24 10:31:25.664184	poll	clickclack	hi man
+v doroge sednya. budu chut pozje
+2020-08-24 10:31:38.928580	clickclack	poll	привет я тоже был) поймал звонки?
+2020-08-24 18:29:05.232617	clickclack	poll	привет я тоже был) поймал звонки?
+2020-08-25 13:40:14.289457	clickclack	poll	случайно чат закрыл
+2020-08-27 15:36:53.936542	clickclack	poll	в дррое был инета не было
+2020-08-29 12:45:40.164973	poll	clickclack	da proverayt ne nujno bro... eto ego delo. prava smotret cherez cobalt & eto ne tak prosto)
+2020-08-29 12:46:36.881011	poll	clickclack	dostypi nam ne nujni eto ego rabota je. da pyst kacahet min 10gb, dalee mi daem emu locker & on lokaet. lockeri y menay uje est na rykah kriptovaniy.
+2020-08-29 14:02:21.654187	poll	clickclack	da proverayt ne nujno bro... eto ego delo. prava smotret cherez cobalt & eto ne tak prosto)
+2020-08-29 14:02:21.656230	poll	clickclack	dostypi nam ne nujni eto ego rabota je. da pyst kacahet min 10gb, dalee mi daem emu locker & on lokaet. lockeri y menay uje est na rykah kriptovaniy.
+2020-09-08 21:28:37.492976	poll	clickclack	https://privnote.com/eCjuWhX6#eFIzS73nI
+2020-09-09 08:54:02.597534	poll	clickclack	https://privnote.com/eCjuWhX6#eFIzS73nI
+2020-09-23 09:32:41.840523	poll	clickclack	hi man
+2020-09-23 19:54:28.965107	poll	clickclack	obgovorili man?

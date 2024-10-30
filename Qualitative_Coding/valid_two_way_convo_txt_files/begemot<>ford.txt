@@ -1,0 +1,6 @@
+Timestamp	From	To	Message
+2021-12-27 13:10:44.748240	ford	begemot	3+3=?
+2021-12-27 13:11:01.716426	begemot	ford	6
+2021-12-27 13:11:02.813813	ford	begemot	3+3=?
+2021-12-27 13:11:07.243990	begemot	ford	6
+2021-12-27 13:11:28.134057	begemot	ford	Привет я от green

@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2020-07-06 10:13:05.008898	braun	keykey	Привет
+2020-07-06 10:13:05.011016	keykey	braun	Привет
+2020-07-06 10:15:52.434161	braun	keykey	тут?
+2020-07-06 10:15:52.435636	keykey	braun	тут?
+2020-07-06 10:16:23.894529	braun	keykey	тут?
+2020-07-06 10:16:23.895754	keykey	braun	тут?
+2020-07-06 10:32:28.305604	braun	keykey	nnnn
+2020-07-06 10:32:28.307016	keykey	braun	nnnn

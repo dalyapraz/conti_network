@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2020-09-28 12:00:16.510545	ramon	green	ti
+2020-09-28 12:01:19.325160	ramon	green	da
+2020-09-28 12:01:19.657170	ramon	green	tol;ko
+2020-09-28 12:01:27.861299	ramon	green	mojno bilo ine pisat'))

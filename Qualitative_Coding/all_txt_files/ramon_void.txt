@@ -1,0 +1,70 @@
+Timestamp	From	To	Message
+2021-02-24 16:22:42.136897	void	ramon	Ку ку
+2021-02-24 16:22:43.292355	void	ramon	я тута
+2021-03-09 10:26:42.904462	ramon	void	ky
+2021-03-09 10:34:53.484296	ramon	void	ky
+2021-03-11 10:39:21.333495	void	ramon	))))
+2021-03-19 10:14:18.811916	ramon	void	hi
+2021-03-19 19:50:56.516780	void	ramon	что такое ?
+2021-03-22 12:16:11.851949	void	ramon	бро
+2021-03-22 12:16:14.089916	void	ramon	перекинь плиз мне файл
+2021-03-22 12:16:21.615098	void	ramon	ехе
+2021-03-23 09:42:24.965237	ramon	void	otpishi mne
+2021-03-23 09:42:27.697399	ramon	void	kak bydesh'
+2021-03-23 10:02:42.886744	ramon	void	otpishi mne
+2021-03-23 10:02:42.887474	ramon	void	kak bydesh'
+2021-04-16 11:09:24.601427	ramon	void	ay
+2021-04-16 11:09:25.747809	ramon	void	man
+2021-04-16 11:09:28.219243	ramon	void	ti gde poeraylcay?
+2021-04-16 11:25:59.353207	ramon	void	ay
+2021-04-16 11:25:59.354840	ramon	void	man
+2021-04-16 11:25:59.357852	ramon	void	ti gde poeraylcay?
+2021-05-03 09:55:31.363683	ramon	void	ky
+2021-05-03 11:57:03.566111	ramon	void	ky
+2021-05-03 11:57:12.967805	void	ramon	Ку
+2021-05-13 09:44:56.430124	void	ramon	буду в 15
+2021-05-13 12:49:41.758672	void	ramon	буду в 15
+2021-05-24 09:44:05.984719	ramon	void	ky-ky
+2021-05-24 11:11:22.127697	ramon	void	ky-ky
+2021-05-24 11:19:38.046688	void	ramon	буду в 15:30
+2021-05-24 15:24:21.916329	void	ramon	буду в 15:30
+2021-05-25 17:11:56.489706	ramon	void	otpishi mne
+2021-05-25 17:11:56.490477	ramon	void	kak nydesh' tyt
+2021-05-27 15:52:31.720244	ramon	void	ti kuda svalil?
+2021-05-27 18:22:45.406543	ramon	void	man
+2021-05-28 09:40:45.745716	ramon	void	ti kuda svalil?
+2021-05-28 09:40:45.746129	ramon	void	man
+2021-05-28 09:40:54.557445	void	ramon	yo
+2021-05-28 09:41:00.198144	void	ramon	инет отвалился
+2021-05-28 11:05:59.365723	void	ramon	yo
+2021-05-28 11:05:59.370585	void	ramon	инет отвалился
+2021-05-28 11:15:33.617635	ramon	void	i gde to togda?)
+2021-05-28 11:15:37.828970	ramon	void	esli on otvalilcay
+2021-05-28 11:15:47.788876	ramon	void	menay ne ystraivaet rabota
+2021-05-28 11:15:53.118341	ramon	void	tvoya
+2021-05-28 11:15:55.390462	ramon	void	kogda tebay net
+2021-05-28 11:15:58.675908	ramon	void	i faila toje net
+2021-05-28 12:34:22.088891	ramon	void	i gde to togda?)
+2021-05-28 12:34:22.089459	ramon	void	esli on otvalilcay
+2021-05-28 12:34:22.089721	ramon	void	menay ne ystraivaet rabota
+2021-05-28 12:34:22.090092	ramon	void	tvoya
+2021-05-28 12:34:22.090563	ramon	void	kogda tebay net
+2021-05-28 12:34:22.091234	ramon	void	i faila toje net
+2021-05-28 12:34:33.560786	void	ramon	здаровь
+2021-05-28 16:13:12.093069	void	ramon	ну отстучались мы наконец )
+2021-06-03 09:29:17.702420	ramon	void	ky
+2021-06-03 09:29:19.442789	ramon	void	man
+2021-06-03 09:29:20.318070	ramon	void	ti gde?
+2021-06-03 10:13:26.522305	ramon	void	ky
+2021-06-03 10:13:26.523405	ramon	void	man
+2021-06-03 10:13:26.524561	ramon	void	ti gde?
+2021-06-03 10:13:32.903993	void	ramon	здарова
+2021-06-03 10:13:34.376290	void	ramon	тут
+2021-06-04 10:53:28.110545	void	ramon	бро тут ?
+2021-06-04 13:29:36.146551	ramon	void	ti kuda propal?
+2021-06-04 13:46:46.023296	ramon	void	ti kuda propal?
+2021-06-04 13:46:52.697561	void	ramon	тут я
+2021-06-07 09:15:36.836503	void	ramon	почему авторизация слетела ?
+2021-06-07 09:15:45.788970	void	ramon	ты у меня неавторизован
+2021-06-07 09:19:33.337761	void	ramon	ты у меня неавторизован
+2021-06-07 09:19:33.381836	void	ramon	почему авторизация слетела ?

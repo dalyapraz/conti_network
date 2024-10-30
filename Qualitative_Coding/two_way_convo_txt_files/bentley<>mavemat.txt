@@ -1,0 +1,192 @@
+Timestamp	From	To	Message
+2020-06-23 08:22:23.803628	bentley	mavemat	Привет.
+2020-06-23 08:22:28.061750	bentley	mavemat	Помоги пожалуйста.
+2020-06-23 08:23:18.688987	bentley	mavemat	В криптопанеле нажимаю на тест статику. И в ответ ошибка: Test mode not selected
+2020-06-23 08:24:12.168199	mavemat	bentley	Привет
+2020-06-23 08:24:14.647362	mavemat	bentley	сейчас поправлю
+2020-06-23 08:25:20.124098	bentley	mavemat	Ок. Еще вопрос, при выборе вм для тестов вот такое сообщение
+2020-06-23 08:25:21.900450	bentley	mavemat	Regular tests are disabled because Lero proxy https://173.232.146.72 is down.
+Please call system administrator.
+2020-06-23 08:25:28.735378	bentley	mavemat	Это кому писать?
+2020-06-23 08:26:41.137219	mavemat	bentley	Обнови страницу и попробуй статику
+2020-06-23 08:26:56.540179	mavemat	bentley	А про прокси к бузе наверное или к дефендеру
+2020-06-23 08:27:14.431476	bentley	mavemat	Ага все ожило. Спс )
+2020-06-23 08:27:18.701358	bentley	mavemat	Напишу Дефу.
+2020-06-23 08:34:59.283565	bentley	mavemat	Все работает. Спасибо )
+2020-06-30 07:44:30.389864	bentley	mavemat	Привет.
+2020-06-30 07:44:39.474073	bentley	mavemat	Не работает криптопанель. https://xtlw5nzrv7qenweepw65cczadna52rg2r6yk6w6ifwegsscieaolz4qd.onion/crpanel/
+2020-06-30 07:44:44.556622	bentley	mavemat	Onionsite Not Found
+2020-06-30 07:44:44.557839	bentley	mavemat	Onionsite Not Found
+2020-06-30 07:44:49.635265	bentley	mavemat	Можешь помочь?
+2020-06-30 07:44:59.234909	mavemat	bentley	Привет
+2020-06-30 07:46:47.584816	mavemat	bentley	Сервак или не оплачен или совсем рухнул, написал дефу
+2020-06-30 07:47:14.438061	bentley	mavemat	ОК
+2020-06-30 07:53:16.362996	mavemat	bentley	Подняли
+2020-06-30 07:54:05.716784	bentley	mavemat	Отлично! Спс )
+2020-06-30 11:41:38.627457	bentley	mavemat	Деф сказал тебе написать по криптопанеле
+2020-06-30 11:41:39.737819	bentley	mavemat	Regular tests are disabled because Lero proxy https://173.232.146.72 is down.
+Please call system administrator.
+2020-06-30 11:41:49.402036	bentley	mavemat	Вот такая ошибка при запуске автотестов
+2020-06-30 11:45:12.585015	mavemat	bentley	сейчас поправлю.
+2020-06-30 11:48:05.364525	mavemat	bentley	готово
+2020-07-02 07:51:49.748161	bentley	mavemat	Привет. не работает криптопанель.
+2020-07-02 07:51:58.562651	bentley	mavemat	https://xtlw5nzrv7qenweepw65cczadna52rg2r6yk6w6ifwegsscieaolz4qd.onion/crpanel/
+2020-07-02 07:52:03.270886	bentley	mavemat	Поможешь?
+2020-07-02 07:55:09.561605	mavemat	bentley	Привет
+2020-07-02 07:55:43.417687	mavemat	bentley	У меня норм открылось
+2020-07-02 07:56:17.833471	mavemat	bentley	Хотя чуть подлагивает, но это может быть мой vpn
+2020-07-02 07:57:21.451221	bentley	mavemat	фу меня тоже с утра работала а сейчас нет
+2020-07-02 07:58:06.697924	bentley	mavemat	а все прогрузилась
+2020-07-06 07:25:01.631807	bentley	mavemat	Привет.
+2020-07-06 07:25:22.670758	bentley	mavemat	Не работает криптопанель
+2020-07-06 07:25:23.385606	bentley	mavemat	https://xtlw5nzrv7qenweepw65cczadna52rg2r6yk6w6ifwegsscieaolz4qd.onion/crpanel/
+2020-07-06 07:25:29.722455	bentley	mavemat	Можешь помочь?
+2020-07-06 07:31:32.613638	mavemat	bentley	Привет, сейчас посмотплю
+2020-07-06 07:48:00.519634	mavemat	bentley	Так, она не оплачена, пнул ответственных
+2020-07-06 07:48:14.666156	bentley	mavemat	Ок ) Спс )
+2020-07-06 12:44:08.731889	bentley	mavemat	Заработала криптопанель. Спасибо )
+2020-07-06 12:44:43.747171	mavemat	bentley	Всегда пожалуйста))
+2020-07-09 07:36:39.863412	bentley	mavemat	Привет.
+2020-07-09 07:36:47.956157	bentley	mavemat	Можешь помочь с криптопанелью?
+2020-07-09 07:36:49.335160	bentley	mavemat	Regular tests are disabled because Lero proxy https://173.232.146.72 is down.
+Please call system administrator.
+2020-07-09 07:37:35.774048	mavemat	bentley	Привет
+2020-07-09 07:38:28.949610	mavemat	bentley	Сейчас узнаю что к чему :)
+2020-07-09 09:33:11.542036	mavemat	bentley	починили
+2020-07-09 09:35:24.453973	bentley	mavemat	Спасибо
+2020-07-10 11:03:13.780892	bentley	mavemat	Привет. Крипотпанель перестала запускать тесты NEwBK. Просто машины не стартуют на сервере виртуалок. Можешь помочь?
+2020-07-10 11:06:25.750839	mavemat	bentley	Привет, сейчас перезапущу все, может поможет
+2020-07-10 11:06:48.389729	bentley	mavemat	Ага спс
+2020-07-10 11:11:14.728699	mavemat	bentley	попробуй сейчас
+2020-07-13 09:43:25.678022	bentley	mavemat	Привет
+2020-07-13 09:43:35.679947	bentley	mavemat	Сегодня такое сообщение в криптопанеле
+2020-07-13 09:43:36.307867	bentley	mavemat	New BK tests are disabled because BK proxy https://185.189.151.142 is down.
+Please call system administrator.
+2020-07-13 09:43:41.681509	bentley	mavemat	Можешь помочь?
+2020-07-13 09:46:10.491241	mavemat	bentley	ПРивет
+2020-07-13 09:46:13.018473	mavemat	bentley	Сейчас гляну
+2020-07-13 12:57:18.108426	bentley	mavemat	Получается поднять?
+2020-07-13 13:00:53.970048	mavemat	bentley	Привет, деф молчит
+2020-07-13 13:01:04.362205	mavemat	bentley	скинул бузе еще., может что то придумает
+2020-07-13 13:01:09.044861	bentley	mavemat	Ясно. Ждем.
+2020-07-17 06:26:03.552307	bentley	mavemat	Привет ))
+2020-07-17 06:26:47.018755	bentley	mavemat	В криптопанеле со вчера не работает проверка статики на динчек. Просто безконечно криптит колесико статуса и все
+2020-07-17 06:26:52.030931	bentley	mavemat	Можешь помочь?
+2020-07-17 06:29:44.189333	bentley	mavemat	И вчера еще через раз запускались автотесты
+2020-07-17 06:45:45.177069	mavemat	bentley	Привет, пофиксил
+2020-07-17 06:46:30.276752	bentley	mavemat	Спасибо ))
+2020-08-04 10:34:48.627633	bentley	mavemat	Привет
+2020-08-04 10:34:54.644801	bentley	mavemat	автотетсы ругаются
+2020-08-04 10:35:08.945424	bentley	mavemat	ATTENTION!
+Git proxy is down, so the auto test scripts will not update!
+Please notify system administrator!
+2020-08-04 10:35:13.361348	bentley	mavemat	Можешь помочь?
+2020-08-04 10:37:41.937637	mavemat	bentley	Привет, сейчас разберемся
+2020-08-04 10:37:53.568712	bentley	mavemat	Дефу тоже написал
+2020-08-04 10:39:11.851770	mavemat	bentley	поправили
+2020-08-04 10:40:50.439625	bentley	mavemat	Работает. Спасибо.
+2020-08-10 11:35:51.942963	bentley	mavemat	Привет
+2020-08-10 11:36:09.576212	mavemat	bentley	Привет
+2020-08-10 11:36:09.596766	bentley	mavemat	Неработает криптопанель https://xtlw5nzrv7qenweepw65cczadna52rg2r6yk6w6ifwegsscieaolz4qd.onion/crpanel/
+2020-08-10 11:36:13.594660	bentley	mavemat	Можешь помочь?
+2020-08-10 11:37:26.594721	mavemat	bentley	Ага, он не оплачен,сейчас пну кого нибуть
+2020-08-10 11:37:34.129673	bentley	mavemat	Ок
+2020-08-10 11:37:51.992165	mavemat	bentley	Слушай, а жаббер нормально работал сегодня?
+2020-08-10 11:38:05.010820	bentley	mavemat	Да вот только заработал как  минут назад
+2020-08-10 11:38:08.969968	bentley	mavemat	5 минут
+2020-08-10 11:38:29.006732	mavemat	bentley	Аа, норм, а то думал у меня что то случилось)
+2020-08-10 11:38:41.181053	bentley	mavemat	Ага
+2020-08-10 14:01:28.311996	bentley	mavemat	Подожило но теперь другая ошибка
+2020-08-10 14:01:28.837937	bentley	mavemat	An error occurred.
+2020-08-10 14:02:23.620786	mavemat	bentley	ага, сейчас запущу все
+2020-08-10 14:03:33.425112	mavemat	bentley	готово
+2020-08-12 12:05:14.838629	bentley	mavemat	Привет.
+2020-08-12 12:05:28.532475	bentley	mavemat	Автотесты ругаются
+2020-08-12 12:05:29.790455	bentley	mavemat	Regular tests are disabled because Lero proxy https://173.232.146.72 is down.
+Please call system administrator.
+2020-08-12 12:05:35.664363	bentley	mavemat	поможешь?
+2020-08-12 12:07:58.013892	mavemat	bentley	Привет, отписал дефую Прокладка опять фигней маится
+2020-08-12 12:08:09.159351	bentley	mavemat	спс
+2020-08-13 11:29:19.716592	bentley	mavemat	Привет.
+2020-08-13 11:29:26.367094	bentley	mavemat	Все равно ругается автотест
+2020-08-13 11:29:31.359491	bentley	mavemat	Regular tests are disabled because Lero proxy https://173.232.146.72 is down.
+Please call system administrator.
+2020-08-13 11:29:34.265355	bentley	mavemat	Поможешь?
+2020-08-13 11:52:27.014058	mavemat	bentley	Готово
+2020-08-14 11:37:53.200602	bentley	mavemat	Привет. В криптопанели теперь ругань на другой прокси
+2020-08-14 11:37:54.450059	bentley	mavemat	New BK tests are disabled because BK proxy https://185.189.151.142 is down.
+Please call system administrator.
+2020-08-14 11:37:59.665096	bentley	mavemat	Помоги, пожалуйста
+2020-08-14 11:39:28.562059	mavemat	bentley	Привет, описал дефу7 Сейчас сделаем
+2020-08-14 11:39:39.699093	bentley	mavemat	Спс )
+2020-08-14 12:53:53.037009	bentley	mavemat	Все работает. СПС
+2020-09-09 07:21:33.488003	bentley	mavemat	Привет.
+2020-09-09 07:21:39.284143	bentley	mavemat	Починишь криптопанель?
+2020-09-09 07:21:42.933148	bentley	mavemat	Прилегла
+2020-09-09 07:25:27.100675	bentley	mavemat	https://xtlw5nzrv7qenweepw65cczadna52rg2r6yk6w6ifwegsscieaolz4qd.onion/crpanel/
+2020-09-09 07:25:29.909185	mavemat	bentley	Привет, опятя оплату проспали :(
+2020-09-09 07:25:37.600088	bentley	mavemat	эхх
+2020-09-09 07:27:23.059957	mavemat	bentley	пнул ответсенного, ждем пока оплатят
+2020-09-09 11:15:54.821407	bentley	mavemat	Есть прогресс с криптопанелью?
+2020-09-09 11:18:16.917772	mavemat	bentley	оплатили, но сервак еще не доступен
+2020-09-09 11:18:57.964525	bentley	mavemat	Ок. Ждем
+2020-09-09 13:43:37.765310	bentley	mavemat	Ну как тма панель? Оживет?
+2020-09-09 13:43:43.804427	bentley	mavemat	А то как без рук без нее
+2020-09-09 13:47:36.206225	mavemat	bentley	Defender
+слушай, там дц у хостера лежит
+2020-09-09 13:47:53.314404	bentley	mavemat	Аа понятно
+2020-09-09 13:47:55.059208	mavemat	bentley	видимо все плохо
+2020-09-09 13:48:08.982181	bentley	mavemat	Было такое пару дней ждали
+2020-09-11 06:40:43.191548	mavemat	bentley	https://ncdzrppa5xl3vw57lk6x3prcj5p63y3m46t4giq6rvdsa3woed3hicid.onion/crpanel/
+
+
+лог пасс теже, надо проверить что по виртуалкам, дамп базы не свежий
+2020-09-11 07:01:25.518877	mavemat	bentley	https://ncdzrppa5xl3vw57lk6x3prcj5p63y3m46t4giq6rvdsa3woed3hicid.onion/crpanel/
+
+
+лог пасс теже, надо проверить что по виртуалкам, дамп базы не свежий
+2020-09-11 07:02:47.603746	bentley	mavemat	Привет ок
+2020-09-11 11:59:39.642414	mavemat	bentley	там баг был. надо файлы дял проверки заного закачать
+2020-09-11 12:10:30.554043	bentley	mavemat	ок
+2020-09-11 12:21:34.870269	bentley	mavemat	все ок
+2020-09-15 06:46:58.424977	bentley	mavemat	Привет
+2020-09-15 06:47:13.008301	bentley	mavemat	помоги, пожалуйста. В криптопанеле походу сдохли прокалдки
+2020-09-15 06:47:13.733534	bentley	mavemat	 Regular tests are disabled because Lero proxy https://173.232.146.72 is down.
+Please call system administrator.
+New BK tests are disabled because BK proxy https://185.189.151.142 is down.
+Please call system administrator.
+2020-09-15 06:47:44.038908	mavemat	bentley	Привет, сейчас гляну
+2020-09-21 13:26:08.795282	bentley	mavemat	Привет
+2020-09-21 13:26:15.321561	bentley	mavemat	криптопанель ругается
+2020-09-21 13:26:16.433800	bentley	mavemat	ATTENTION!
+Git proxy is down, so the auto test scripts will not update!
+Please notify system administrator!
+2020-09-21 13:26:23.386364	bentley	mavemat	Помоги, пожалуйста
+2020-09-21 13:27:00.103615	mavemat	bentley	привет
+2020-09-21 13:27:04.597361	mavemat	bentley	сейчас
+2020-09-21 14:12:27.679673	mavemat	bentley	подняли
+2020-09-21 14:13:25.077724	bentley	mavemat	Ага. СПС
+2020-09-24 08:02:15.891597	bentley	mavemat	Привет
+2020-09-24 08:02:19.776648	bentley	mavemat	Криптопанель лежит
+2020-09-24 08:02:25.335545	bentley	mavemat	https://ncdzrppa5xl3vw57lk6x3prcj5p63y3m46t4giq6rvdsa3woed3hicid.onion/crpanel/
+2020-09-24 08:02:29.796623	bentley	mavemat	An error occurred.
+2020-09-24 08:02:35.090336	bentley	mavemat	Помоги, пожалуйста
+2020-09-24 08:09:06.617295	mavemat	bentley	привет
+2020-09-24 08:09:11.422328	mavemat	bentley	запустил
+2020-09-24 08:09:21.835802	bentley	mavemat	Спасибо )
+2020-10-07 13:33:15.891137	bentley	mavemat	Привет
+2020-10-07 13:33:26.359174	mavemat	bentley	привет
+2020-10-07 13:33:28.672594	bentley	mavemat	Помоги, пожалуйста, криатопанель зависла на странице входа
+2020-10-07 13:36:50.980016	bentley	mavemat	ага все работате
+2020-10-07 13:38:38.144480	mavemat	bentley	перезапустил ее
+2020-10-07 13:38:46.492910	bentley	mavemat	Спс))
+2020-10-12 12:56:10.478304	bentley	mavemat	Привет.
+2020-10-12 12:56:25.202984	bentley	mavemat	Криптопанель прилегла. https://ncdzrppa5xl3vw57lk6x3prcj5p63y3m46t4giq6rvdsa3woed3hicid.onion/crpanel/ Помоги, пожалуйста
+2020-10-26 08:45:53.618929	bentley	mavemat	Привет
+2020-10-26 08:46:03.950854	bentley	mavemat	Не работает криптопанель https://ncdzrppa5xl3vw57lk6x3prcj5p63y3m46t4giq6rvdsa3woed3hicid.onion/crpanel/
+2020-10-26 08:46:11.138507	bentley	mavemat	Cannot GET /crpanel/
+2020-10-26 08:46:18.618015	bentley	mavemat	Такая ошибка
+2020-10-26 08:48:25.562702	mavemat	bentley	Привет
+2020-10-26 08:48:29.134223	mavemat	bentley	Сейчас разберусь
+2020-10-26 13:10:37.991281	mavemat	bentley	Через 2-3 часа только заработает :(
+2020-10-26 13:12:06.644194	bentley	mavemat	Понятно

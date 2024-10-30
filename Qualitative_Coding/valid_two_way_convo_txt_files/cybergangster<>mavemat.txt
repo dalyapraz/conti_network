@@ -1,0 +1,117 @@
+Timestamp	From	To	Message
+2021-11-22 17:28:31.903185	cybergangster	mavemat	(17:27:53) pin@q3mcco35auwcstmt.onion: Cannot execute SCP to start transfer. Please make sure that SCP is installed on the server and path to it is included in PATH. You may also try SFTP instead of SCP.
+Command failed with return code 127.
+2021-11-22 17:28:45.648319	cybergangster	mavemat	Eto kogda na blog gruzit files
+2021-11-22 17:37:13.322734	cybergangster	mavemat	(17:27:53) pin@q3mcco35auwcstmt.onion: Cannot execute SCP to start transfer. Please make sure that SCP is installed on the server and path to it is included in PATH. You may also try SFTP instead of SCP.
+Command failed with return code 127.
+2021-11-22 17:37:13.324726	cybergangster	mavemat	Eto kogda na blog gruzit files
+2021-11-23 21:01:56.636486	cybergangster	mavemat	Zdarova kak tam dela segodnya podnimem new adminku?
+2021-11-23 21:26:44.133891	cybergangster	mavemat	All of your files are currently encrypted by CONTI strain. 
+
+As you know (if you don't - just "google it"), all of the data that has been encrypted by our software cannot be recovered by any means without contacting our team directly. 
+If you try to use any additional recovery software - the files might be damaged, so if you are willing to try - try it on the data of the lowest value.
+
+To make sure that we REALLY CAN get your data back - we offer you to decrypt 2 random files completely free of charge.
+
+You can contact our team directly for further instructions through our website :
+
+TOR VERSION :
+(you should download and install TOR browser first https://torproject.org)
+
+http://contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion/
+
+HTTPS VERSION :
+https://contirecovery.ws
+
+YOU SHOULD BE AWARE!
+Just in case, if you try to ignore us. We've downloaded a pack of your internal data and are ready to publish it on out news website if you do not respond. So it will be better for both sides if you contact us as soon as possible.
+
+---BEGIN ID---
+UZeMXpgTHd6cxJuArkXwHbRhLfAcC6hyiZh70jFwZuoqf14EvbfhDZETNIM8mu8H
+---END ID---
+2021-11-23 21:27:16.988609	cybergangster	mavemat	zagrujau etot tekstovik kak client i pitaus v  etot chat napisat no soobsheniya ne otpravlyautsya
+2021-11-23 21:27:27.687270	cybergangster	mavemat	pofixi please srazu kak zaidesh
+2021-11-23 21:37:56.274248	cybergangster	mavemat	i voobshe zagrujau vot etot 
+All of your files are currently encrypted by CONTI strain. 
+
+As you know (if you don't - just "google it"), all of the data that has been encrypted by our software cannot be recovered by any means without contacting our team directly. 
+If you try to use any additional recovery software - the files might be damaged, so if you are willing to try - try it on the data of the lowest value.
+
+To make sure that we REALLY CAN get your data back - we offer you to decrypt 2 random files completely free of charge.
+
+You can contact our team directly for further instructions through our website :
+
+TOR VERSION :
+(you should download and install TOR browser first https://torproject.org)
+
+http://contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion/
+
+HTTPS VERSION :
+https://contirecovery.ws
+
+YOU SHOULD BE AWARE!
+Just in case, if you try to ignore us. We've downloaded a pack of your internal data and are ready to publish it on out news website if you do not respond. So it will be better for both sides if you contact us as soon as possible.
+
+---BEGIN ID---
+J6MvrozUkgPbVRjG0XQs5FhQ4mB6hOX6FmgmF5vB1oXb0gKJmQozIdnmiOZP8AeS
+---END ID---
+2021-11-23 21:38:04.687020	cybergangster	mavemat	i popadau vot suda UZeMXpgTHd6cxJuArkXwHbRhLfAcC6hyiZh70jFwZuoqf14EvbfhDZETNIM8mu8H
+2021-11-23 21:38:14.375417	cybergangster	mavemat	kakaya to huynya proishodit
+2021-11-24 08:10:15.961020	cybergangster	mavemat	Zdarova kak tam dela segodnya podnimem new adminku?
+2021-11-24 08:10:15.964136	cybergangster	mavemat	All of your files are currently encrypted by CONTI strain. 
+
+As you know (if you don't - just "google it"), all of the data that has been encrypted by our software cannot be recovered by any means without contacting our team directly. 
+If you try to use any additional recovery software - the files might be damaged, so if you are willing to try - try it on the data of the lowest value.
+
+To make sure that we REALLY CAN get your data back - we offer you to decrypt 2 random files completely free of charge.
+
+You can contact our team directly for further instructions through our website :
+
+TOR VERSION :
+(you should download and install TOR browser first https://torproject.org)
+
+http://contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion/
+
+HTTPS VERSION :
+https://contirecovery.ws
+
+YOU SHOULD BE AWARE!
+Just in case, if you try to ignore us. We've downloaded a pack of your internal data and are ready to publish it on out news website if you do not respond. So it will be better for both sides if you contact us as soon as possible.
+
+---BEGIN ID---
+UZeMXpgTHd6cxJuArkXwHbRhLfAcC6hyiZh70jFwZuoqf14EvbfhDZETNIM8mu8H
+---END ID---
+2021-11-24 08:10:15.968430	cybergangster	mavemat	zagrujau etot tekstovik kak client i pitaus v  etot chat napisat no soobsheniya ne otpravlyautsya
+2021-11-24 08:10:15.969748	cybergangster	mavemat	pofixi please srazu kak zaidesh
+2021-11-24 08:10:15.975282	cybergangster	mavemat	i voobshe zagrujau vot etot 
+All of your files are currently encrypted by CONTI strain. 
+
+As you know (if you don't - just "google it"), all of the data that has been encrypted by our software cannot be recovered by any means without contacting our team directly. 
+If you try to use any additional recovery software - the files might be damaged, so if you are willing to try - try it on the data of the lowest value.
+
+To make sure that we REALLY CAN get your data back - we offer you to decrypt 2 random files completely free of charge.
+
+You can contact our team directly for further instructions through our website :
+
+TOR VERSION :
+(you should download and install TOR browser first https://torproject.org)
+
+http://contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion/
+
+HTTPS VERSION :
+https://contirecovery.ws
+
+YOU SHOULD BE AWARE!
+Just in case, if you try to ignore us. We've downloaded a pack of your internal data and are ready to publish it on out news website if you do not respond. So it will be better for both sides if you contact us as soon as possible.
+
+---BEGIN ID---
+J6MvrozUkgPbVRjG0XQs5FhQ4mB6hOX6FmgmF5vB1oXb0gKJmQozIdnmiOZP8AeS
+---END ID---
+2021-11-24 08:10:15.976470	cybergangster	mavemat	i popadau vot suda UZeMXpgTHd6cxJuArkXwHbRhLfAcC6hyiZh70jFwZuoqf14EvbfhDZETNIM8mu8H
+2021-11-24 08:10:15.977638	cybergangster	mavemat	kakaya to huynya proishodit
+2021-11-24 20:01:04.988560	cybergangster	mavemat	А у нас сейчас onion v2 домены?
+2021-11-25 07:48:14.808829	cybergangster	mavemat	А у нас сейчас onion v2 домены?
+2021-11-25 07:48:27.518757	mavemat	cybergangster	v3
+2021-11-25 13:06:44.860220	mavemat	cybergangster	v3
+2021-11-26 11:52:39.614032	cybergangster	mavemat	Как там с панелью новой?
+2021-11-29 09:48:16.752344	cybergangster	mavemat	Как там с панелью новой?

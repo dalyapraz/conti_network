@@ -1,0 +1,18 @@
+Timestamp	From	To	Message
+2020-06-26 09:12:11.523574	poll	hof	bro zalei fails pleasee !!!
+2020-06-26 09:12:13.417781	poll	hof	chil48
+2020-06-26 09:12:43.873621	poll	hof	srochno bro
+2020-07-15 08:39:42.162977	poll	hof	hi
+2020-07-15 08:39:43.448766	poll	hof	tyt?
+2020-07-22 11:09:06.307009	hof	poll	заменил файл на каресельке
+2020-07-22 11:09:18.702056	hof	poll	привет
+2020-08-07 11:15:37.188088	hof	poll	залил
+/images/viewerdll.dll	chil92
+/images/moduleocx.exe chil93
+2020-08-07 11:15:47.473118	hof	poll	скинулу урбану в офф
+2020-08-07 12:13:49.763345	hof	poll	залил
+/images/viewerdll.dll	chil92
+/images/moduleocx.exe chil93
+2020-08-07 12:13:49.765192	hof	poll	скинулу урбану в офф
+2020-08-21 11:47:48.702027	hof	poll	dll заменил на свежую, линк тот же
+2021-08-27 10:27:04.530890	poll	hof	Эта комната не анонимная

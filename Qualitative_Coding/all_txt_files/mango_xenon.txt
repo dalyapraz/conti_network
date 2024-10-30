@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-10-06 11:26:13.809600	mango	xenon	привет

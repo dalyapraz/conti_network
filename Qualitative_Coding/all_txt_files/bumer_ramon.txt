@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-05-04 11:17:27.250982	ramon	bumer	ti kogda v sety bivaesh'?

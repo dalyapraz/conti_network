@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-07-21 15:30:46.011216	professor	hors	qq?
+2021-07-21 18:29:26.621565	hors	professor	от ебеться конкретно
+2021-07-21 18:29:33.417775	hors	professor	отр*

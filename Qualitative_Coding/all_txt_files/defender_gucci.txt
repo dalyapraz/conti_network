@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-12-14 10:30:58.650244	defender	gucci	тут?
+2021-12-14 10:31:02.064809	defender	gucci	добавь меня
+2021-12-14 13:17:36.733072	defender	gucci	авторизуй меня
+2021-12-14 15:26:41.631447	defender	gucci	авторизуй меня

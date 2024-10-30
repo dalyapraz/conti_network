@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2020-09-10 03:36:04.034096	atlant	poll	привет
+2020-09-10 03:36:05.926568	atlant	poll	работаем?
+2020-09-23 06:12:33.958124	atlant	poll	ghbdtn
+2020-09-24 15:05:03.669862	poll	atlant	nu che ti pizdabol vihodit?
+2020-09-24 15:05:12.079096	poll	atlant	gde doc dyrachok?
+2020-09-24 15:55:32.297761	atlant	poll	бро
+2020-09-24 15:55:36.955226	atlant	poll	не выдумывай
+2020-09-24 15:55:42.746144	atlant	poll	жду крипт длл от бентли

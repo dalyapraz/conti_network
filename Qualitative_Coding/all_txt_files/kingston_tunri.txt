@@ -1,0 +1,33 @@
+Timestamp	From	To	Message
+2020-06-26 06:59:28.284330	tunri	kingston	привет. нужно содержимое этих каталогов. (постарайся скопировать, а не переносить)
+C:\Users\user\AppData\Local\Microsoft\Windows\INetCookies\
+C:\Users\user\AppData\Local\Packages\microsoft.microsoftedge_8wekyb3d8bbwe\AC\#!001\MicrosoftEdge\Cookies\
+C:\Users\user\AppData\Local\Packages\microsoft.microsoftedge_8wekyb3d8bbwe\AC\#!002\MicrosoftEdge\Cookies\
+C:\Users\user\AppData\Local\Packages\microsoft.microsoftedge_8wekyb3d8bbwe\AC\#!121\MicrosoftEdge\Cookies\
+2020-06-26 07:01:27.840726	tunri	kingston	скидывай в офф. я позже буду
+2020-06-26 07:04:08.003974	tunri	kingston	и к слову провентелируй вопрос передачи мне доступа на виртуалку на время тестирования
+2020-06-26 07:04:56.761063	tunri	kingston	с сетью проблемы. продублирую на всякий
+2020-06-26 07:05:03.371417	tunri	kingston	(03:58:55 PM) tunri: привет. нужно содержимое этих каталогов. (постарайся скопировать, а не переносить)
+C:\Users\user\AppData\Local\Microsoft\Windows\INetCookies\
+C:\Users\user\AppData\Local\Packages\microsoft.microsoftedge_8wekyb3d8bbwe\AC\#!001\MicrosoftEdge\Cookies\
+C:\Users\user\AppData\Local\Packages\microsoft.microsoftedge_8wekyb3d8bbwe\AC\#!002\MicrosoftEdge\Cookies\
+C:\Users\user\AppData\Local\Packages\microsoft.microsoftedge_8wekyb3d8bbwe\AC\#!121\MicrosoftEdge\Cookies\
+
+(04:00:54 PM) tunri: скидывай в офф. я позже буду
+(04:02:06 PM) tunri: и к слову провентелируй вопрос передачи мне доступа на виртуалку на время тестирования
+2020-06-26 07:22:46.572596	tunri	kingston	привет. нужно содержимое этих каталогов. (постарайся скопировать, а не переносить)
+C:\Users\user\AppData\Local\Microsoft\Windows\INetCookies\
+C:\Users\user\AppData\Local\Packages\microsoft.microsoftedge_8wekyb3d8bbwe\AC\#!001\MicrosoftEdge\Cookies\
+C:\Users\user\AppData\Local\Packages\microsoft.microsoftedge_8wekyb3d8bbwe\AC\#!002\MicrosoftEdge\Cookies\
+C:\Users\user\AppData\Local\Packages\microsoft.microsoftedge_8wekyb3d8bbwe\AC\#!121\MicrosoftEdge\Cookies\
+2020-06-26 07:22:46.575199	tunri	kingston	скидывай в офф. я позже буду
+2020-06-26 07:22:46.579459	tunri	kingston	и к слову провентелируй вопрос передачи мне доступа на виртуалку на время тестирования
+2020-06-26 07:22:46.585986	tunri	kingston	с сетью проблемы. продублирую на всякий
+2020-06-26 07:22:46.589416	tunri	kingston	(03:58:55 PM) tunri: привет. нужно содержимое этих каталогов. (постарайся скопировать, а не переносить)
+C:\Users\user\AppData\Local\Microsoft\Windows\INetCookies\
+C:\Users\user\AppData\Local\Packages\microsoft.microsoftedge_8wekyb3d8bbwe\AC\#!001\MicrosoftEdge\Cookies\
+C:\Users\user\AppData\Local\Packages\microsoft.microsoftedge_8wekyb3d8bbwe\AC\#!002\MicrosoftEdge\Cookies\
+C:\Users\user\AppData\Local\Packages\microsoft.microsoftedge_8wekyb3d8bbwe\AC\#!121\MicrosoftEdge\Cookies\
+
+(04:00:54 PM) tunri: скидывай в офф. я позже буду
+(04:02:06 PM) tunri: и к слову провентелируй вопрос передачи мне доступа на виртуалку на время тестирования

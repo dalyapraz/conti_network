@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-11-23 18:02:42.317368	veron	love	привет
+2021-12-08 23:48:01.723639	veron	love	повтори

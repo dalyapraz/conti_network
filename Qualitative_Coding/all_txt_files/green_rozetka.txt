@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-10-18 08:08:24.600534	green	rozetka	привет
+2021-10-18 08:08:24.611465	rozetka	green	привет

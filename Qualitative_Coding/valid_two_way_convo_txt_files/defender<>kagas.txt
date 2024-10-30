@@ -1,0 +1,74 @@
+Timestamp	From	To	Message
+2020-06-22 09:39:29.510310	defender	kagas	Привет, нужно зарегать на какой нибудь другой внешней жабе акк и скинуть мне сюда, это нужно в случае потери этой жабы
+2020-06-22 16:57:08.854748	kagas	defender	Привет
+root 188.227.59.21 OjLfBr9A9W            |Netherlands
+root 93.189.42.83 0JXpBXZjTM3w           |Bulgaria
+root 62.113.119.119 V57TL2mj892aXG79     |Finland
+root 46.4.167.227 rlB9z1PB1mbJ           |Germany
+
+36.90.69.221 system OkwKcECs8qJP2Z
+36.90.69.228 system OkwKcECs8qJP2Z
+180.242.167.189 admin 0l0ctyQh243O63uD
+36.68.95.228 admin 0l0ctyQh243O63uD
+182.253.123.52 system OkwKcECs8qJP2Z
+36.69.136.238 system OkwKcECs8qJP2Z
+36.84.103.88 admin q1w2e3r4t5y6
+125.165.227.51 admin 0l0ctyQh243O63uD
+182.253.88.153 admin 0l0ctyQh243O63uD
+36.79.218.135 admin 0l0ctyQh243O63uD
+103.209.143.70 system OkwKcECs8qJP2Z
+117.254.62.253 system OkwKcECs8qJP2Z
+117.200.182.231 admin 0l0ctyQh243O63uD
+117.212.94.124 admin 0l0ctyQh243O63uD
+110.136.146.54 system OkwKcECs8qJP2Z
+125.163.175.91 admin 0l0ctyQh243O63uD
+180.252.185.217 system OkwKcECs8qJP2Z
+2020-06-22 17:04:36.640502	defender	kagas	привет ок
+2020-06-22 17:04:48.882608	defender	kagas	ты мне скинь вторую жабу свою
+2020-06-22 17:05:15.322235	defender	kagas	не получал рассылку?
+2020-06-22 17:05:25.585909	kagas	defender	да, щас дам
+2020-06-22 17:05:28.882141	kagas	defender	в курсе
+2020-06-22 17:12:18.239582	kagas	defender	maxhalikus@xmpp.ru
+2020-06-22 17:12:33.221496	defender	kagas	ок
+2020-06-23 09:16:23.649830	kagas	defender	Привет, админка с удаленками не пашет чёт
+2020-06-23 09:18:11.348865	defender	kagas	привет, поднял
+2020-06-24 12:37:27.056469	defender	kagas	ЕЩЕ РАЗ ВСЕМ кто не скинул мне свою резервную жабу, скиньте сейчас! Чтобы с вами был контакт если эта жаба накроется. Она сейчас не стабильная. Если аккаунта нет, регайте на любой сервисе exploit.im, xmpp.jp, jabb.im, jabber.ru и других
+2020-06-25 18:48:12.975279	kagas	defender	Привет
+root 185.172.129.178 8m0086EzS53d        |United States
+root 81.177.141.219 XUVmhNfS4EZ          |Romania
+root 188.120.255.249 T2VGFJzFc9I3        |Bulgaria
+root 5.188.168.190 30t36SBP2z0W          |Turkey
+
+186.216.125.178 system OkwKcECs8qJP2Z
+177.190.69.162 admin 0l0ctyQh243O63uD
+45.235.6.161 system OkwKcECs8qJP2Z
+191.241.180.55 admin 0l0ctyQh243O63uD
+170.84.78.86 system OkwKcECs8qJP2Z
+170.247.15.165 system OkwKcECs8qJP2Z
+189.126.77.143 admin q1w2e3r4t5y6
+189.126.77.158 admin q1w2e3r4t5y6
+191.37.212.123 admin 0l0ctyQh243O63uD
+179.180.217.159 admin 0l0ctyQh243O63uD
+168.228.14.207 system OkwKcECs8qJP2Z
+179.211.238.56 admin 0l0ctyQh243O63uD
+177.40.37.103 admin 0l0ctyQh243O63uD
+2020-06-26 14:13:09.479687	kagas	defender	Привет, тебе билл не писал?
+2020-07-08 18:29:28.528766	defender	kagas	стерн сказал что ты крепить теперь будешь, есть у тебя проблемы с этим?
+2020-07-08 20:04:30.028794	defender	kagas	стерн сказал что ты крепить теперь будешь, есть у тебя проблемы с этим?
+2020-09-15 16:29:03.183123	defender	kagas	привет, роутеры последние хреновые
+2020-09-15 16:29:11.027750	defender	kagas	95% не рабочие
+2020-09-21 13:56:41.250777	defender	kagas	привет, роутеры последние хреновые
+2020-09-21 13:56:41.251913	defender	kagas	95% не рабочие
+2021-10-22 14:15:17.690944	defender	kagas	ЭТО НАДО СДЕЛАТЬ ВСЕМ, иначе жаба перестанет у вас работать
+
+новый домен жабы версии 3
+odw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion
+
+его прописываем в настройках аккаунта - соединение - сервер
+перед этим на это вкладке ставим галку Вручную указать адрес сервера и порт
+
+порт стандартный 5222 
+
+ВАЖНО, все остальное остается, аккаунт отстается со старым доменом... прописывается только домен для соединения 
+
+!!! Как сделаете, отпишите мне что все ОК

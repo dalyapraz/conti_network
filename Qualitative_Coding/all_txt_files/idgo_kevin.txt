@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2021-04-06 11:57:29.265525	idgo	kevin	Привет!
+7 группа исходник
+https://dyncheck.com/scan/id/f86983e6e755782ff64092850108de12
+Download: https://qaz.im/load/fA9H3r/QRESNr
+Delete: https://qaz.im/index.php?a=delete&q=1446105628
+H!K@WKzMFr%u5zM*
+точка входа для криптора void PluginInit()
+Запуск rundll32.exe dl2,PluginInit

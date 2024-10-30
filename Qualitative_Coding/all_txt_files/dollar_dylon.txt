@@ -1,0 +1,25 @@
+Timestamp	From	To	Message
+2021-07-08 11:07:51.487273	dollar	dylon	otpdihi
+2021-07-08 11:07:54.425793	dollar	dylon	kak bydesh'
+2021-07-08 12:26:48.071395	dollar	dylon	otpdihi
+2021-07-08 12:26:48.072131	dollar	dylon	kak bydesh'
+2021-07-09 20:18:12.955492	dollar	dylon	bro
+2021-07-09 20:18:15.135197	dollar	dylon	ti gde?
+2021-07-09 20:18:24.273632	dollar	dylon	govoril jee posle 21 idet
+2021-07-09 20:46:18.458190	dollar	dylon	bro
+2021-07-09 20:46:18.458616	dollar	dylon	ti gde?
+2021-07-09 20:46:18.459307	dollar	dylon	govoril jee posle 21 idet
+2021-10-22 14:49:24.672480	dollar	dylon	ky
+2021-10-22 14:49:31.577182	dollar	dylon	kak bydesh' tyt
+2021-10-22 14:49:31.578418	dollar	dylon	otpishi mne
+2021-10-22 15:04:30.441228	dollar	dylon	ky
+2021-10-22 15:04:30.442129	dollar	dylon	otpishi mne
+2021-10-22 15:04:30.442640	dollar	dylon	kak bydesh' tyt
+2021-10-23 23:26:36.071151	dollar	dylon	Hello, the demand is 40 btc ($2.440.000) , the answer must be received within 24 hours
+2021-10-23 23:26:41.676132	dollar	dylon	napsihi im soobjenie
+2021-10-23 23:27:00.532308	dollar	dylon	nado srocno otvetit' bro!!!!!!!!!!!!!!
+2021-10-24 11:10:40.381650	dollar	dylon	napsihi im soobjenie
+2021-10-24 11:10:40.381956	dollar	dylon	Hello, the demand is 40 btc ($2.440.000) , the answer must be received within 24 hours
+2021-10-24 11:10:40.382820	dollar	dylon	nado srocno otvetit' bro!!!!!!!!!!!!!!
+2021-12-22 14:53:32.026708	dollar	dylon	ky
+2021-12-22 15:11:39.181162	dollar	dylon	ky

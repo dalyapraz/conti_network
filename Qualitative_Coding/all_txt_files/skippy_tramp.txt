@@ -1,0 +1,338 @@
+Timestamp	From	To	Message
+2021-11-03 14:58:54.850282	skippy	tramp	привет
+2021-11-03 14:59:07.519906	skippy	tramp	антиспам написал что от тебя сообщение пыталось пройти
+2021-11-03 14:59:59.953985	tramp	skippy	да
+2021-11-03 15:00:18.453590	skippy	tramp	слушаю)
+2021-11-03 15:00:37.710406	skippy	tramp	я так понял к тебе отправили моего новеького на чат?
+2021-11-03 15:00:58.878904	tramp	skippy	тебя должны были предупредить
+2021-11-03 15:00:59.749067	tramp	skippy	да
+2021-11-04 18:16:52.080474	tramp	skippy	вижу 123
+2021-11-04 18:16:52.083218	tramp	skippy	без шифрования
+2021-11-04 18:16:56.256190	tramp	skippy	видишь ?
+2021-11-04 18:18:03.932219	skippy	tramp	есть в рокете?
+2021-11-04 18:20:30.576085	tramp	skippy	включи и выключи шифрование
+2021-11-04 18:25:01.142560	tramp	skippy	видишь сообщения ?
+2021-11-04 18:26:35.493524	tramp	skippy	?
+2021-11-04 18:26:37.746763	tramp	skippy	видишь ?
+2021-11-04 18:26:39.884225	tramp	skippy	123123
+2021-11-04 18:26:42.100222	tramp	skippy	Ю
+2021-11-04 18:26:43.993776	tramp	skippy	1
+2021-11-04 18:28:58.087587	tramp	skippy	?
+2021-11-04 18:39:34.799055	skippy	tramp	включи и выключи шифрование
+2021-11-04 18:39:34.810692	skippy	tramp	видишь сообщения ?
+2021-11-04 18:39:34.813550	skippy	tramp	?
+2021-11-04 18:39:34.815069	skippy	tramp	видишь ?
+2021-11-04 18:39:34.817316	skippy	tramp	123123
+2021-11-04 18:39:34.820527	skippy	tramp	Ю
+2021-11-04 18:39:34.822439	skippy	tramp	1
+2021-11-06 11:28:02.267373	tramp	skippy	I did not mean to step on your toes seems I did not get my message over to you. We do understand the consequences of the situation. That is why we want to negotiate a solution with you! All I was trying to deliver is the message that we are in a tough economic situation and simply cannot pay your demand. I have spoken to my management. They understand the situation and are willing to pay. The money we can afford is 500.000,00 USD. This is a huge amount for us. Please let us fix a deal.
+2021-11-06 11:28:19.202666	tramp	skippy	вот напили вчерашние ребята которым ты большее письмо составил
+2021-11-06 11:28:40.724324	tramp	skippy	he Price to unlock is $2,000,000.
+2021-11-06 11:29:02.278040	tramp	skippy	нужно поднимать их в цене до 1.5kk хотя бы
+2021-11-07 12:29:06.693976	tramp	skippy	I did not mean to step on your toes seems I did not get my message over to you. We do understand the consequences of the situation. That is why we want to negotiate a solution with you! All I was trying to deliver is the message that we are in a tough economic situation and simply cannot pay your demand. I have spoken to my management. They understand the situation and are willing to pay. The money we can afford is 500.000,00 USD. This is a huge amount for us. Please let us fix a deal.
+2021-11-07 12:29:06.697031	tramp	skippy	вот напили вчерашние ребята которым ты большее письмо составил
+2021-11-07 12:29:06.700493	tramp	skippy	he Price to unlock is $2,000,000.
+2021-11-07 12:29:06.703993	tramp	skippy	нужно поднимать их в цене до 1.5kk хотя бы
+2021-11-07 12:33:02.841803	skippy	tramp	привет
+2021-11-07 22:13:01.219479	tramp	skippy	hello - we are going through the process of the committees required to make a decision in this case. as you know we are a government public transport agency and there is not a single person who can make a decision here. can you allow us a couple of extra days beyond the original 6 days you mention? also is there any more discount you can offer on the price because it changes how many decision makers need to approve.
+2021-11-07 22:13:09.141195	tramp	skippy	что т им нужно составить
+2021-11-08 12:27:06.535414	tramp	skippy	hello - we are going through the process of the committees required to make a decision in this case. as you know we are a government public transport agency and there is not a single person who can make a decision here. can you allow us a couple of extra days beyond the original 6 days you mention? also is there any more discount you can offer on the price because it changes how many decision makers need to approve.
+2021-11-08 12:27:06.537523	tramp	skippy	что т им нужно составить
+2021-11-08 12:32:42.169284	skippy	tramp	ща придумаю
+2021-11-08 12:32:53.344572	skippy	tramp	можешь дать им 1 день к примеру
+2021-11-08 12:35:04.692958	skippy	tramp	I think 1 more extra day will be enough. We think you are a people in a stressful situation, not a turtles.
+We are ready to give you a small discount, if you'll be conscious in your behavior. Small discount - don't wait for a serious price reduction.
+2021-11-08 12:47:23.432185	tramp	skippy	мы отписали уже
+2021-11-08 12:47:24.644363	tramp	skippy	привет
+2021-11-08 12:54:51.549050	skippy	tramp	хоршшо
+2021-11-08 15:21:13.731912	tramp	skippy	тут ?
+2021-11-12 14:57:56.271629	skippy	tramp	ура, работает!
+2021-11-12 18:23:30.681149	skippy	tramp	ща мы с био составим для hdp
+2021-11-15 13:27:49.913336	skippy	tramp	привет)
+2021-11-15 19:47:52.994278	skippy	tramp	там комиксоиды предлагают 1485к)
+2021-11-17 12:56:57.654617	skippy	tramp	привет
+2021-11-17 12:57:04.220432	skippy	tramp	короче с прозвоном тяжело
+2021-11-17 12:57:19.317099	skippy	tramp	он через сигналхайр работает, телефонов по еу почти нет
+2021-11-18 17:42:49.593909	tramp	skippy	ты тут ?
+2021-12-03 16:08:05.868146	tramp	skippy	ого
+2021-12-03 16:08:07.993790	tramp	skippy	ты тут /
+2021-12-03 18:38:04.122837	skippy	tramp	посмотрел привнот у укулеле?
+2021-12-03 19:06:13.291880	skippy	tramp	отр не пустило
+2021-12-06 13:53:24.522413	skippy	tramp	привет
+2021-12-06 13:53:26.523485	skippy	tramp	тут?
+2021-12-06 13:56:17.272435	skippy	tramp	по сдгс вопрос
+2021-12-06 14:01:09.543232	tramp	skippy	давай
+2021-12-06 14:01:46.764652	skippy	tramp	смотри
+2021-12-06 14:02:18.172296	tramp	skippy	ну
+2021-12-06 14:02:42.708253	skippy	tramp	там переговорщик заебал
+2021-12-06 14:02:48.213151	skippy	tramp	думаю послать подобное
+2021-12-06 14:03:17.684592	skippy	tramp	So, you won't raise your offer anymore?
+If it is too hard for you, I will ask in other way: can we already publish ALL your data?
+
+P.S. for the company top management:
+Your negotiator looks like a low-class bot. He says the same words and don't do anything to solve the situation. We advise you to fire him, he is useless at all. We both know that you wouldn't restore the data, no one did it yet. We both understand consequences of the data publication. Hope you understand that we offer much more easy solution.
+
+So, our word is next:
+LAST PRICE is 2,600,000. We warn ahead - there will be no more discounts.
+Any attempt to decrease the price will result in a price increasing.
+We are tired of this useless time spending. Think several times now.
+2021-12-06 14:03:26.987640	skippy	tramp	дай им последнюю цену
+2021-12-06 14:03:54.551365	tramp	skippy	сейчас
+2021-12-06 14:03:56.698077	tramp	skippy	прочитаю
+2021-12-06 14:05:03.384109	tramp	skippy	давай сделаем $3,000,000
+2021-12-06 14:05:17.713854	skippy	tramp	давай попробуем
+2021-12-06 14:05:30.044651	skippy	tramp	но это прям финалка получается
+2021-12-06 14:05:30.905076	tramp	skippy	давай
+2021-12-06 14:05:34.965777	tramp	skippy	да
+2021-12-06 14:05:42.134690	tramp	skippy	я готов
+2021-12-06 14:05:47.286184	tramp	skippy	либо да либо нет
+2021-12-06 14:09:43.280521	skippy	tramp	+++
+2021-12-06 14:09:48.435945	skippy	tramp	ушло
+2021-12-06 14:18:34.248850	tramp	skippy	да вижу
+2021-12-06 14:18:35.372061	tramp	skippy	гудд
+2021-12-06 14:18:42.947110	tramp	skippy	ну что ты готов перейти в новую панель ?
+2021-12-06 14:19:37.336287	tramp	skippy	E1031F252E4137CFFEF16E40CF
+2021-12-06 14:19:37.750111	tramp	skippy	skippy
+2021-12-06 14:29:22.235904	skippy	tramp	так
+2021-12-06 14:29:28.280039	skippy	tramp	и что это?)
+2021-12-06 14:30:14.737690	tramp	skippy	перое пасс
+2021-12-06 14:30:18.098355	tramp	skippy	второе логин
+2021-12-06 14:30:20.198697	tramp	skippy	линк ща дам
+2021-12-06 14:30:40.767479	tramp	skippy	http://l66orrehfw4hovqme625bavlpz7m2achabov3iyqy76cai44oao6neqd.onion/zeh7dkwfdxw99tdk/
+2021-12-06 14:32:01.124174	skippy	tramp	во, линк другой)
+2021-12-06 14:32:06.023248	skippy	tramp	очень хоррошо
+2021-12-06 14:33:39.452154	tramp	skippy	+
+2021-12-06 14:33:51.720608	skippy	tramp	зашёл
+2021-12-06 14:33:57.246718	skippy	tramp	ща сек раскидаюсь
+2021-12-06 14:33:57.962506	tramp	skippy	да
+2021-12-06 14:34:00.332132	tramp	skippy	удобно
+2021-12-06 14:34:03.708784	skippy	tramp	а то хорс в сеть зашёл)
+2021-12-06 14:34:06.755653	skippy	tramp	работа пошла
+2021-12-06 14:34:35.182277	tramp	skippy	а то хорс в сеть зашёл) - это кто ?
+2021-12-06 14:34:48.098334	tramp	skippy	тимлидер вашей команды ?
+2021-12-06 14:37:54.884718	skippy	tramp	тимлидер вашей команды ?
+2021-12-06 16:31:45.942624	tramp	skippy	давай сделаем новые письма еще с рандомизачией
+2021-12-06 16:46:05.501043	skippy	tramp	не сегодня точно)
+2021-12-06 16:47:13.569111	tramp	skippy	а что такое ?
+2021-12-06 16:47:18.899289	tramp	skippy	много работы ?
+2021-12-06 16:47:27.025225	tramp	skippy	мне надо к утро
+2021-12-06 16:47:36.477770	skippy	tramp	ага, неделю молчали считай там
+2021-12-06 16:47:40.230687	tramp	skippy	5 писем свежих хотя бы
+2021-12-06 16:47:58.414574	skippy	tramp	5 постараюсь накинутб
+2021-12-06 16:48:13.518861	tramp	skippy	да очень нужно
+2021-12-06 16:48:17.240331	tramp	skippy	надо больше таргетов
+2021-12-06 16:48:21.305199	tramp	skippy	что то сегодня мало пришло
+2021-12-06 16:48:26.360880	tramp	skippy	нужны письма новые
+2021-12-06 16:48:45.679257	tramp	skippy	просто простых писем
+которые подойдут и для ответов, и просто для отавки без ответа
+2021-12-06 18:16:45.219491	tramp	skippy	SGIDC
+2021-12-06 18:16:47.334480	tramp	skippy	пиши им
+2021-12-06 18:20:41.774850	tramp	skippy	дави их
+2021-12-06 18:20:50.951494	tramp	skippy	меньше цена не будет
+2021-12-06 18:28:07.360735	skippy	tramp	++
+2021-12-06 18:28:30.330593	tramp	skippy	я сам уже
+2021-12-06 18:28:44.512697	skippy	tramp	подвисает админка
+2021-12-06 18:28:51.001727	skippy	tramp	бесконечное обновление
+2021-12-06 18:30:41.825712	skippy	tramp	над было 2 забирать)
+2021-12-06 18:30:48.270947	skippy	tramp	боюсь сольются)
+2021-12-06 18:31:02.093082	tramp	skippy	Again, An attempt to decrease the price will result in a price increasing.
+Once again you will ask for a discount, I will raise the price by $1,000,000 and so it will be every time.
+2021-12-06 18:31:09.350412	tramp	skippy	похуй
+2021-12-06 18:31:10.980624	tramp	skippy	пускай
+2021-12-06 18:31:13.896298	skippy	tramp	ахах
+2021-12-06 18:31:15.584603	skippy	tramp	ну да
+2021-12-06 18:31:18.272851	tramp	skippy	я с ними сидел 8 часов
+2021-12-06 18:31:21.335514	tramp	skippy	меньше не возьму
+2021-12-06 18:31:28.309967	skippy	tramp	если честно я бы с удовольствием вообще уничтожил их
+2021-12-06 18:31:30.025355	tramp	skippy	с других возьмем значит
+2021-12-06 18:31:30.791447	skippy	tramp	заебали
+2021-12-06 18:31:36.050526	tramp	skippy	да да
+2021-12-06 18:31:39.689799	tramp	skippy	это и сделаем сейчас
+2021-12-06 18:31:44.691205	skippy	tramp	+++
+2021-12-06 18:32:00.197483	tramp	skippy	отправь им выше текст который я написад а то у меня тоже грузиться
+2021-12-06 18:32:12.259265	tramp	skippy	если еще просить будут скидку сразу сатвим им ценни 4м
+2021-12-06 18:32:17.976568	tramp	skippy	еще раз 5м
+2021-12-06 18:32:20.962222	tramp	skippy	и заватра публикуем
+2021-12-06 18:32:23.315631	tramp	skippy	все
+2021-12-06 18:32:24.759182	skippy	tramp	ахах
+2021-12-06 18:32:27.672140	skippy	tramp	да!
+2021-12-06 18:32:46.842459	tramp	skippy	и написать еще мы устали от этого человека который ведет переговоры он не ршает проблему он только все портит!
+2021-12-06 18:32:54.797241	tramp	skippy	что бы ему пизды дали
+2021-12-06 18:32:58.296597	skippy	tramp	я уже писал
+2021-12-06 18:33:02.282132	skippy	tramp	в прошлом письме
+2021-12-06 18:33:05.767978	tramp	skippy	добавишь!/
+2021-12-06 18:33:13.410088	tramp	skippy	еще раз добавь
+2021-12-06 18:33:18.689250	skippy	tramp	ну попозже
+2021-12-06 18:33:26.208871	skippy	tramp	они щас либо сломаются и оплатят
+2021-12-06 18:33:30.998966	skippy	tramp	либо сольются
+2021-12-06 18:33:40.405737	tramp	skippy	мы устали от этого человека который ведет переговоры он все портит, заватра ваша компания будет получать иски из-за него
+2021-12-06 18:33:41.147415	skippy	tramp	и можно написать что это вина переговорщика
+2021-12-06 18:33:46.016540	tramp	skippy	да да
+2021-12-06 18:33:50.063879	skippy	tramp	да, я про то же
+2021-12-06 18:33:50.569271	tramp	skippy	именно!
+2021-12-06 18:33:52.650538	tramp	skippy	давай
+2021-12-06 18:33:53.970199	tramp	skippy	пиши!
+2021-12-06 18:33:54.387643	skippy	tramp	чуть позже)
+2021-12-06 18:34:01.636026	tramp	skippy	сейчас пиши!)
+2021-12-06 18:34:06.728571	tramp	skippy	разебем их
+2021-12-06 18:34:09.983834	skippy	tramp	ахах
+2021-12-06 18:34:13.134368	tramp	skippy	меньше 3 не возьмем
+2021-12-06 18:36:26.840747	tramp	skippy	пишешь ?
+2021-12-06 18:38:40.628308	skippy	tramp	e;t yfgbcfk
+2021-12-06 18:38:45.233875	skippy	tramp	uzhe napisal
+2021-12-06 19:20:53.347909	tramp	skippy	SGIDC
+2021-12-06 19:20:57.371853	tramp	skippy	пишу
+2021-12-06 19:21:28.696487	tramp	skippy	напиши что сейчас мой бос придет и начнет вам увиличивать прайс
+2021-12-06 19:21:41.344490	tramp	skippy	а во
+2021-12-06 19:21:44.676000	tramp	skippy	вижу выше уже )
+2021-12-06 19:22:29.737374	tramp	skippy	We asked 3kk and warned you about the further negotiations. You are killing you yourself.
+2021-12-06 19:22:31.394947	tramp	skippy	супер )
+2021-12-06 19:27:48.878729	skippy	tramp	да)
+2021-12-06 19:29:07.901770	tramp	skippy	I get it. You want a payment. We also want to make a payment. Let&#39;s agree so we can pay. What is it going to take?
+2021-12-06 19:29:11.560167	tramp	skippy	ну все
+2021-12-06 19:29:21.814977	tramp	skippy	уебали этого паршивого переговрщика
+2021-12-06 19:29:28.962728	skippy	tramp	пишу уже
+2021-12-06 19:29:32.864742	tramp	skippy	++
+2021-12-06 19:29:38.670555	skippy	tramp	плюхи им всякие
+2021-12-06 19:33:00.085765	skippy	tramp	может и поломали, да
+2021-12-06 20:42:01.410591	tramp	skippy	TuuRyumSlMNfPwdMx6OS3uD2TibuFfLFFlQ2xTx2cTooS1ta8cnfBIsO5lDGahbW
+2021-12-06 20:42:06.078844	tramp	skippy	напиши им брат
+2021-12-06 20:42:33.263347	skippy	tramp	ужк
+2021-12-06 20:42:42.900356	skippy	tramp	дважды пытаюсь отправить
+2021-12-06 20:42:46.568958	skippy	tramp	админка глючит
+2021-12-06 20:44:24.672273	skippy	tramp	What do you mean on more reasonable?
+We said already, full price is 5,5 million dollars. Yep, we can offer you a 20% discount, but in this case you must pay as fast as possible.
+2021-12-06 20:44:44.313814	skippy	tramp	ушло)
+2021-12-06 20:45:38.764551	skippy	tramp	чот решаева нет)
+2021-12-06 20:45:47.602846	skippy	tramp	там сделок закрылось на 640к)
+2021-12-06 20:45:58.263869	skippy	tramp	в воскр чаты читал
+2021-12-06 20:46:01.956945	tramp	skippy	так
+2021-12-06 20:46:16.270055	tramp	skippy	да
+2021-12-06 20:46:20.639102	tramp	skippy	что то нету его
+2021-12-06 20:46:47.811119	tramp	skippy	если что бабки все у меня
+2021-12-06 20:46:58.919428	tramp	skippy	я могу вас расчитать в крайнем слчае
+2021-12-06 20:47:01.978390	tramp	skippy	но лучше он
+2021-12-06 20:47:11.770847	skippy	tramp	да я не спешу)
+2021-12-06 20:47:13.703478	skippy	tramp	ахах
+2021-12-06 20:47:19.181094	skippy	tramp	сука я накопил на дом)
+2021-12-06 20:47:32.785639	tramp	skippy	поздравляю
+2021-12-06 20:47:35.079982	tramp	skippy	быстро!)
+2021-12-06 20:47:42.699147	skippy	tramp	 в выходные поеду выбирать
+2021-12-06 20:47:45.832119	tramp	skippy	купишь скоро ?
+2021-12-06 20:47:49.461436	skippy	tramp	да, оченьбыстро
+2021-12-06 20:47:50.882425	tramp	skippy	давай
+2021-12-06 20:47:52.593879	skippy	tramp	да
+2021-12-06 20:47:57.533973	tramp	skippy	письма мне сделай только к утру
+2021-12-06 20:48:02.603060	skippy	tramp	я помню
+2021-12-06 20:48:06.530833	tramp	skippy	++
+2021-12-06 20:48:09.775150	tramp	skippy	жду
+2021-12-06 20:48:18.572581	skippy	tramp	ты в сети же будешь?
+2021-12-06 20:48:24.783096	skippy	tramp	чуть позже зашлю
+2021-12-06 20:48:45.507072	tramp	skippy	да
+2021-12-06 20:49:04.355717	tramp	skippy	если что био передай
+2021-12-06 20:50:16.207709	skippy	tramp	хорошо
+2021-12-06 20:58:38.652048	tramp	skippy	я ушел в офф
+2021-12-06 20:58:42.457272	tramp	skippy	на 2ч
+2021-12-06 20:58:48.687023	tramp	skippy	буду отпишу
+2021-12-06 20:58:52.014898	tramp	skippy	текста био залей
+2021-12-06 20:58:54.806218	skippy	tramp	+++
+2021-12-08 13:24:06.674536	skippy	tramp	привет)
+2021-12-09 08:53:43.590554	tramp	skippy	да да, по красоте все сделали
+2021-12-09 08:53:47.681697	tramp	skippy	так и должно быть
+2021-12-09 12:46:46.680579	tramp	skippy	да да, по красоте все сделали
+2021-12-09 12:46:46.684351	tramp	skippy	так и должно быть
+2021-12-09 12:51:52.751097	skippy	tramp	++++
+2021-12-10 14:15:30.522478	skippy	tramp	привет друг
+2021-12-10 14:16:08.651583	skippy	tramp	я щас выйду из сети часа на полтора
+2021-12-10 14:16:11.690874	skippy	tramp	в дороге пока
+2021-12-10 14:16:20.154421	skippy	tramp	ноут садится
+2021-12-10 14:16:30.491573	skippy	tramp	итам пока отвечать некому, и био в сети
+2021-12-10 16:11:08.409052	skippy	tramp	n7fsW0zDZVIj0wxxe7G7qpFDcxJI1TQfNJLYXCLPU1G5zQtwXCVTRNGF3xrDvx51
+2021-12-10 16:11:12.848788	skippy	tramp	новый чат)
+2021-12-10 18:06:58.228043	tramp	skippy	ауф
+2021-12-13 15:25:30.936403	skippy	tramp	Привет)
+2021-12-13 15:25:35.943776	skippy	tramp	ты тоже в сети что ли)
+2021-12-13 15:25:43.873984	skippy	tramp	смотрю ответ 5 минут)
+2021-12-13 18:24:45.629470	skippy	tramp	123
+2021-12-13 18:25:01.559967	skippy	tramp	tam chel 1,5 predlagaet pryam schas
+2021-12-14 13:55:02.352664	skippy	tramp	123
+2021-12-17 13:51:16.531430	skippy	tramp	привет
+2021-12-17 13:51:18.940454	skippy	tramp	gTjxyxTONxNDga1H8qPdnj1szs2Mkfa3KEIcVlDN6SyDb6oflRJIaReXQrVTff4U
+2021-12-17 13:51:22.127559	skippy	tramp	новый чат
+2021-12-20 21:23:33.350955	tramp	skippy	ты тут ?
+2021-12-20 21:25:05.475514	skippy	tramp	ты тут ?
+2022-01-26 20:51:00.906557	tramp	skippy	74066e28cfed92b06ead14059fcab65e825a302cc036096a31869bf5e8b8a1c0
+2022-01-28 15:08:15.338543	skippy	tramp	привет
+чо там не наладилось?
+2022-01-28 15:11:13.439193	tramp	skippy	привет
+2022-01-28 15:11:14.712381	tramp	skippy	нет пока
+2022-01-28 15:14:06.252420	skippy	tramp	эх(
+2022-01-31 15:38:16.602897	skippy	tramp	привет
+2022-02-01 16:53:15.845508	skippy	tramp	мощный способ поторопить)
+2022-02-01 17:33:04.240427	tramp	skippy	нужно их пинать
+2022-02-01 17:42:39.704643	skippy	tramp	да, учёл
+2022-02-01 17:42:45.597790	skippy	tramp	буду подгонять
+2022-02-01 19:58:43.381534	skippy	tramp	мейлфлай чат восстановили)
+2022-02-01 20:25:55.118443	tramp	skippy	да уже не первый раз
+2022-02-01 20:26:19.093212	skippy	tramp	зачем они интересно
+2022-02-01 20:27:10.490136	tramp	skippy	не они возможно
+2022-02-01 20:27:12.214306	tramp	skippy	спецы
+2022-02-01 20:27:22.687629	skippy	tramp	ну да, тоже верно
+2022-02-01 20:27:58.474036	tramp	skippy	шерман уперлись в 550к
+2022-02-01 20:28:06.027890	tramp	skippy	пускай таймер тикает
+2022-02-01 20:28:08.139862	tramp	skippy	дадут больше
+2022-02-01 20:29:43.506404	skippy	tramp	да, тоже так думаю
+2022-02-01 20:29:48.958998	skippy	tramp	я так и сказал им
+2022-02-01 20:29:58.001215	tramp	skippy	лоеры
+2022-02-01 20:30:02.069259	tramp	skippy	с них можно норм взять
+2022-02-01 20:30:05.204318	tramp	skippy	там дата хорошая
+2022-02-01 20:30:20.907486	skippy	tramp	лоеры?
+2022-02-01 20:32:40.459431	tramp	skippy	ну адвокаты
+2022-02-01 20:32:49.393959	skippy	tramp	а
+2022-02-01 20:32:57.998760	skippy	tramp	тогда да, это интересно
+2022-02-01 20:33:20.314187	skippy	tramp	слушай а у тебя никто акк не может сделать на этот жабер?
+2022-02-01 20:34:47.497258	tramp	skippy	q3mcco35auwcstmt.onion
+2022-02-01 20:34:50.999767	tramp	skippy	на этом ?
+2022-02-01 20:34:55.505568	tramp	skippy	нет на другом можно
+2022-02-01 20:35:31.038297	skippy	tramp	два тогда сделайте плиз
+2022-02-01 20:35:39.200123	skippy	tramp	а то у нас админ не в сети в рокете
+2022-02-01 20:35:49.391661	skippy	tramp	чтоб мы с юристом на связи были
+2022-02-01 20:42:18.185386	tramp	skippy	я в этом домене не могу сделать у меня панели нет
+2022-02-01 20:42:25.643188	tramp	skippy	дождемся решаева лучше он вам в торе сделает
+2022-02-01 20:43:21.692990	skippy	tramp	хорошо, спасибо
+2022-02-04 16:13:55.619193	skippy	tramp	привет
+2022-02-08 15:40:57.473954	skippy	tramp	фгх нихрена дерзкие типы
+2022-02-09 12:41:53.215433	skippy	tramp	привет)
+2022-02-14 17:33:24.317364	skippy	tramp	ghbdtn)
+2022-02-14 17:33:27.085347	skippy	tramp	привет)
+2022-02-15 16:20:25.351614	tramp	skippy	HELMSBRISCOE - хорошо пишешь им
+2022-02-15 16:20:35.182131	tramp	skippy	с них по сути 200к забрать уже хорошо будет
+2022-02-15 16:20:37.277328	tramp	skippy	ок ?
+2022-02-16 12:54:17.871175	skippy	tramp	ghbdtn
+2022-02-16 12:54:20.784473	skippy	tramp	привет
+2022-02-16 14:03:14.124861	skippy	tramp	drug
+2022-02-16 14:03:23.448162	skippy	tramp	HsAzjo350pMuaJXylATI4JlJxk9MjkN1Pr8IJs8j8YZJSQocON74A50X7omq0m3Y novii
+2022-02-16 17:28:58.387493	skippy	tramp	согласились оба
+2022-02-16 20:24:24.450750	skippy	tramp	поздравляю)
+2022-02-16 20:24:27.891619	skippy	tramp	2 выплаты)
+2022-02-16 20:25:55.350908	skippy	tramp	и от тебя куча шифра пришла
+2022-02-16 20:25:56.943215	skippy	tramp	щас
+2022-02-17 07:43:37.453168	skippy	tramp	и от тебя куча шифра пришла
+2022-02-17 07:43:37.458312	skippy	tramp	щас
+2022-02-21 19:18:43.729926	skippy	tramp	bc1qxxe0uz8dp820mnl7q5w3a2z9y4zgq9cr6smlf6
+2022-02-22 07:28:40.335567	skippy	tramp	bc1qxxe0uz8dp820mnl7q5w3a2z9y4zgq9cr6smlf6
+2022-02-22 07:29:15.016435	tramp	skippy	принял
+2022-02-22 07:30:36.579666	skippy	tramp	хорошо)
+2022-02-22 07:30:41.000731	skippy	tramp	доброе утро)
+2022-02-22 07:34:53.898541	tramp	skippy	ранно ты сегодня
+2022-02-22 07:35:09.887574	skippy	tramp	дома нет дел особо)
+2022-02-22 07:36:35.625265	skippy	tramp	устал
+2022-02-22 07:36:47.274675	tramp	skippy	++
+2022-02-22 19:04:00.883447	skippy	tramp	бро привет
+2022-02-24 15:53:08.808477	tramp	skippy	IAL-EXECAIRE
+2022-02-24 15:53:15.391816	tramp	skippy	сильно прилипли
+2022-02-24 15:53:20.842010	tramp	skippy	давай давить их
+2022-02-24 15:53:28.624878	tramp	skippy	но не передавить бы
+2022-02-25 12:40:47.730256	skippy	tramp	листинг нужен
+2022-02-25 12:40:54.245045	skippy	tramp	у кого взять?
+2022-02-25 12:41:07.070776	skippy	tramp	у тинилеса?

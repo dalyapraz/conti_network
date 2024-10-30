@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2021-12-09 14:06:51.809031	buza	cybergangster	ку
+2021-12-09 17:28:47.564106	buza	cybergangster	ку
+2021-12-09 17:29:01.381703	cybergangster	buza	привет
+2021-12-09 23:44:39.159468	cybergangster	buza	Я щас вечером встаю
+2021-12-10 07:43:01.395327	cybergangster	buza	привет
+2021-12-10 07:43:01.419460	cybergangster	buza	Я щас вечером встаю

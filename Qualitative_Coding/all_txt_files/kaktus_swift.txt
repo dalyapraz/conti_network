@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-10-23 07:49:55.076507	kaktus	swift	Привет!
+2020-10-23 07:49:55.205177	kaktus	swift	адреса на сегодня не меняются

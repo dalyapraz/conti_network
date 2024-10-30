@@ -1,0 +1,8 @@
+Timestamp	From	To	Message
+2021-11-19 19:14:00.093868	revers	cybergangster	привет
+2021-11-25 18:08:50.575384	cybergangster	revers	Сервер файловый исправили пробуй
+2021-11-25 18:08:56.962000	cybergangster	revers	И сделай мне метасплоит
+2021-11-25 18:08:58.452552	cybergangster	revers	сервер
+2021-11-25 18:46:20.808243	cybergangster	revers	Сервер файловый исправили пробуй
+2021-11-25 18:46:20.821054	cybergangster	revers	И сделай мне метасплоит
+2021-11-25 18:46:20.824848	cybergangster	revers	сервер

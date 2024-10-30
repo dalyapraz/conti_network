@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-08-26 16:01:00.066317	kerasid	hof	ку

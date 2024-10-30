@@ -1,0 +1,16 @@
+Timestamp	From	To	Message
+2021-12-01 01:10:19.031912	cybergangster	sentinel	тут
+2021-12-01 01:10:20.829134	cybergangster	sentinel	все ок
+2021-12-01 01:10:30.013562	cybergangster	sentinel	маякни как будешь
+2021-12-01 12:19:56.725661	cybergangster	sentinel	тут
+2021-12-01 12:19:56.727840	cybergangster	sentinel	все ок
+2021-12-01 12:19:56.729802	cybergangster	sentinel	маякни как будешь
+2021-12-14 05:00:54.567970	cybergangster	sentinel	(15:39:47) Starfall: Если критично то завтра, если нет до конца недели
+2021-12-14 05:01:02.885335	cybergangster	sentinel	Это по серверу на 24 тб
+2021-12-14 05:01:12.987913	cybergangster	sentinel	Тебе критично?
+2021-12-16 10:44:27.201779	cybergangster	sentinel	(15:39:47) Starfall: Если критично то завтра, если нет до конца недели
+2021-12-16 10:44:27.208670	cybergangster	sentinel	Это по серверу на 24 тб
+2021-12-16 10:44:27.209981	cybergangster	sentinel	Тебе критично?
+2022-01-02 03:59:01.949516	cybergangster	sentinel	принял
+2022-01-12 14:44:35.247560	cybergangster	sentinel	принял
+2022-02-07 11:19:09.915206	cybergangster	sentinel	Надумал работать? там тебя сетки ждут

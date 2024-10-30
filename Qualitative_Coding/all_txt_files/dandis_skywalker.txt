@@ -1,0 +1,48 @@
+Timestamp	From	To	Message
+2020-10-04 09:14:23.461460	skywalker	dandis	Привет
+2020-10-04 09:14:40.250575	dandis	skywalker	Привет
+2020-10-04 09:14:47.448542	skywalker	dandis	А там на машинке с 10й в лабе поменялся логин пасс?
+2020-10-04 09:15:03.690584	skywalker	dandis	Был такой: testlab\jschimke 			sSTCXX7va9
+2020-10-04 09:15:04.118133	dandis	skywalker	Нет
+2020-10-04 09:16:36.705600	skywalker	dandis	Странно, не могу зайти. Пишет: "Enter RDP authentification credential". Возможно такое из-за скорости соединения с инетом?
+2020-10-04 09:16:54.022003	skywalker	dandis	Я просто через мобилку
+2020-10-04 09:27:04.066257	skywalker	dandis	Скорее всего из-за скорости соединения. Пинги по 557мс.
+2020-10-04 09:27:24.624087	dandis	skywalker	Через мобилку?
+2020-10-04 09:29:17.477839	skywalker	dandis	Да. Сеть оператора сотовой связи.
+2020-10-06 14:30:42.810391	skywalker	dandis	Привет
+2020-10-06 14:30:54.988005	dandis	skywalker	Привет
+2020-10-06 14:35:14.890486	skywalker	dandis	Слушай, можешь как-то на своей стороне посмотреть, почему я не могу к лабе подключиться?
+2020-10-06 14:35:31.988504	dandis	skywalker	Давай
+2020-10-06 14:35:51.532746	skywalker	dandis	Чего делать?
+2020-10-06 14:36:36.972552	dandis	skywalker	Пока не двигайся)
+2020-10-06 14:36:49.456304	skywalker	dandis	Ок)
+2020-10-06 14:36:59.354791	dandis	skywalker	Зашел
+2020-10-06 14:37:20.024220	dandis	skywalker	 <doomsday> testlab\jschimke                   sSTCXX7va9
+ <doomsday> 176.9.91.106:32301
+2020-10-06 14:38:52.695928	skywalker	dandis	Да. Именно. У меня есть доступ до 176.9.91.106:32301, но не подходит пароль. Но только тогда, когда я пытаюсь зайти используя мобильный интернет.
+2020-10-06 14:39:25.857081	dandis	skywalker	Ну я только что зашел под доступами выше
+2020-10-06 14:39:48.629068	skywalker	dandis	Сейчас ещё разок попробую
+2020-10-06 14:54:04.165376	skywalker	dandis	Блин магия. Из винды работает
+2020-10-06 16:13:08.986264	skywalker	dandis	А как касперыча отключить на тестовой 10ке? Он какой-то пароль просит
+2020-10-06 16:13:28.730540	dandis	skywalker	Брр
+2020-10-06 16:13:36.163284	dandis	skywalker	Сек
+2020-10-06 16:13:53.040843	dandis	skywalker	KasperskyKey1!
+2020-10-06 16:13:55.197264	dandis	skywalker	KasperskyKey2!
+2020-10-06 16:13:57.492402	dandis	skywalker	KasperskyKey3!
+2020-10-06 16:14:02.470283	dandis	skywalker	Какой то из
+2020-10-06 16:17:09.754714	skywalker	dandis	Ок. Первый подошел
+2020-10-07 07:09:10.181403	skywalker	dandis	Привет. У меня что то лаба не пингуется (
+2020-10-07 12:21:38.343041	skywalker	dandis	> Привет. У меня что то лаба не пингуется (
+2020-10-07 12:25:37.162410	skywalker	dandis	Пропинговал соседние ип, все ок
+2020-10-07 12:26:34.780963	skywalker	dandis	Привет. У меня что то лаба не пингуется (
+2020-10-07 12:26:34.788591	skywalker	dandis	> Привет. У меня что то лаба не пингуется (
+2020-10-07 12:26:34.789755	skywalker	dandis	Пропинговал соседние ип, все ок
+2020-10-07 12:27:01.623597	dandis	skywalker	Привет
+2020-10-07 17:35:08.458527	skywalker	dandis	Привет. Ты тут?
+2020-10-07 18:06:15.131993	skywalker	dandis	 Из месседжера вырезали отр черти
+2020-10-07 18:06:30.533377	dandis	skywalker	Привет
+2020-10-07 18:06:34.725799	skywalker	dandis	Привет
+2020-10-07 18:06:40.767535	skywalker	dandis	:)
+2020-10-07 18:07:34.162157	skywalker	dandis	А там 10ка в лабе живая? Не пингуется у меня по внешнему адресу
+2020-10-09 15:55:13.459489	skywalker	dandis	Какая-то фигня пришла
+2020-10-09 15:55:25.339776	skywalker	dandis	> ?OTR:AAMCIK+rzQAAAAAAAADE1sHE5HXzRYNBiXEOi/ALwXffJIbxTsLLZMghXxCJ+mexQvyrOP81vps15CRc8hUySeDjlMH+QNhgw0ulvYG/za1UgH4Kr9GfPxzxN9xkqOvQKhULEDIGBCyecEr6QKSLLzFGEb6dzCkdxx098PA/CO4lWdY2jjVXUwOBj5fu4A3CZ3Ge7PAIsx1w7O7+pL0dpM8KOmp3yIVMsGlwKKC/sA2+0mk7Zz0M0YC02UN9FypwWB7xEm2izmtUc4VVsNsuRRUG1gAAACAxjcufws+9EtJK34icyP5F4r3ZzKRqyn5y9hKTREBaBg==.

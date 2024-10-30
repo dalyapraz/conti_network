@@ -1,0 +1,122 @@
+Timestamp	From	To	Message
+2020-06-22 12:07:02.224188	defender	professor	[15:05:21] <defender> да сейчас поднеимаем
+[15:05:47] <defender> я сделал рассылку всем чтобы скинули резервные жабы
+[15:05:49] <defender> скинь тоже
+[15:05:56] <defender> на тот случай если эта накроется
+2020-06-22 12:07:05.630317	defender	professor	пришло сообщение?
+2020-06-22 12:08:31.354025	defender	professor	...48.166 поднял
+2020-06-24 12:37:54.005041	defender	professor	ЕЩЕ РАЗ ВСЕМ кто не скинул мне свою резервную жабу, скиньте сейчас! Чтобы с вами был контакт если эта жаба накроется. Она сейчас не стабильная. Если аккаунта нет, регайте на любой сервисе exploit.im, xmpp.jp, jabb.im, jabber.ru и других
+2020-06-24 16:14:19.352515	defender	professor	ЕЩЕ РАЗ ВСЕМ кто не скинул мне свою резервную жабу, скиньте сейчас! Чтобы с вами был контакт если эта жаба накроется. Она сейчас не стабильная. Если аккаунта нет, регайте на любой сервисе exploit.im, xmpp.jp, jabb.im, jabber.ru и других
+2020-06-30 11:35:43.052220	professor	defender	привет
+2020-06-30 14:40:41.797515	defender	professor	проверь поднял
+2020-07-08 18:26:53.849170	defender	professor	привет, стерн говорит есть какие то у тебя проблемы с закрепами?
+2020-07-08 22:48:25.512189	defender	professor	привет, стерн говорит есть какие то у тебя проблемы с закрепами?
+2020-07-08 22:50:11.237196	professor	defender	не забирает таски, реверс писал уже наверное, да ?
+2020-07-28 11:43:17.313602	professor	defender	привет
+https://185.25.48.19/ - лежит
+2020-08-27 10:24:47.485957	defender	professor	подняли
+2020-08-27 16:29:05.509262	defender	professor	подняли
+2020-08-27 19:03:59.288196	defender	professor	у тебя явно что то с жабой
+2020-08-27 19:04:01.652640	defender	professor	Service unavailable.
+The server or recipient does not currently provide the requested service.
+------
+?OTR:AAMDatZJj6RrWokAAAAACAAAAAkAAADAry3xrSPMsLZMX26b/uFmwrNumqybniIr4zAl86GVmWpyrLPIxXQ1UhayDJ9lZ/9cBNSNJQaqyU9YLgY3pgkrXnSm3QLTpSopG7GOtmEzrDGUFzMEYUqdBz14PrmmQAZPyHaq1B5ALUJ2SIttulmekKMUsPDadM8PQkOBLDslL6TeSGxrkWOq1SlYxXhy+QCx0zHSN60yTMd4/ucjuJT+Cf0IF7qBqhE6kdYxsNWKTORqhCRLiSRScoOvVutaq7PnAAAAAAAAAAMAAAAfVWiqvC9xlFjRqdVkt3fqgP1tAlC2GZhbGVqR8kGS/wEKBd6o6kGUY35YwUTVxmRByQFHAAAAAA==.
+2020-08-27 19:10:16.587812	defender	professor	у тебя явно что то с жабой
+2020-08-27 19:10:16.589098	defender	professor	Service unavailable.
+The server or recipient does not currently provide the requested service.
+------
+?OTR:AAMDatZJj6RrWokAAAAACAAAAAkAAADAry3xrSPMsLZMX26b/uFmwrNumqybniIr4zAl86GVmWpyrLPIxXQ1UhayDJ9lZ/9cBNSNJQaqyU9YLgY3pgkrXnSm3QLTpSopG7GOtmEzrDGUFzMEYUqdBz14PrmmQAZPyHaq1B5ALUJ2SIttulmekKMUsPDadM8PQkOBLDslL6TeSGxrkWOq1SlYxXhy+QCx0zHSN60yTMd4/ucjuJT+Cf0IF7qBqhE6kdYxsNWKTORqhCRLiSRScoOvVutaq7PnAAAAAAAAAAMAAAAfVWiqvC9xlFjRqdVkt3fqgP1tAlC2GZhbGVqR8kGS/wEKBd6o6kGUY35YwUTVxmRByQFHAAAAAA==.
+2020-09-15 11:51:18.345839	defender	professor	разобрался - поднял
+2020-09-15 13:47:48.407283	defender	professor	разобрался - поднял
+2020-09-15 13:48:24.343924	professor	defender	спасибо
+2020-09-21 15:21:55.231447	professor	defender	глянул?
+2020-09-21 15:25:17.322422	professor	defender	а то мы работать не можем...
+2020-09-23 04:09:02.925095	professor	defender	как будет минутка отпиши пожалуйста регистратору что мол малварь удалили итд может разрешат продлить....
+2020-09-23 13:50:28.573847	professor	defender	привет
+2020-09-28 11:02:18.112723	professor	defender	привет
+на http://185.25.48.19/ оставшиеся 4 живых бота тоже отвалились, которые на старый какой-то домен были
+2020-09-28 11:09:59.474983	professor	defender	This message is a reminder regarding the expiration date of your domain name kostunivo.com in accordance with the ICANN Expired Registration Recovery Policy (http://www.icann.org/en/resources/registrars/consensus-policies/errp).
+
+According to our records, the domain name is currently expired:
+
+2020-09-20 15:15:23
+
+
+видимо потому что вот этот домен тоже не продлили....
+2020-09-28 12:17:53.108139	defender	professor	kostunivo давно заабузили
+2020-09-28 12:17:57.037616	defender	professor	в апреле еще
+2020-09-28 12:17:58.794557	defender	professor	привет
+2020-09-28 12:18:08.507215	defender	professor	какие там домены еще были не помнишь?
+2020-09-28 12:18:39.212115	professor	defender	не помню(
+2020-09-28 17:24:24.433963	professor	defender	нашелся домен?
+2020-09-28 17:26:19.923130	defender	professor	еще разбираюсь
+2020-09-28 19:47:41.322554	defender	professor	в общем еще поднимаем, домен также закончился. жду картера, пасс не подходит к панели
+2020-09-28 19:48:04.865991	defender	professor	и еще впску кто то удалил, восстанавливали
+2020-09-29 09:06:43.732603	defender	professor	onixcellent этот домен похоже потеряли
+2020-09-29 09:06:45.358181	defender	professor	привет
+2020-09-29 09:07:03.155284	defender	professor	как будешь напиши какие домены будете указывать в будущих закрепах, перепроверю все
+2020-09-29 11:24:06.061571	professor	defender	а что пишут? что не восстановят?
+2020-09-29 11:24:19.507387	professor	defender	там кстати вчерашний домен "старый" который восстановили тоже отвалился
+2020-10-01 13:39:02.101356	professor	defender	okx@keemail.me      Asdqwe123!!!
+не могу попасть... что там ответили?
+2020-10-04 11:50:27.607481	professor	defender	http://185.25.48.166/
+отвалились коннекты, подними пожалуйста
+2020-10-05 07:51:09.103894	professor	defender	ку?
+2020-10-05 08:29:00.563481	defender	professor	привет сейчас
+2020-10-05 08:29:17.463619	professor	defender	спасибо
+2020-10-05 09:40:56.495503	professor	defender	маякни пожалуйста как поднимешь, ждем очень... стоит работа(
+2020-10-05 09:41:28.504171	defender	professor	да сек
+2020-10-05 09:58:35.594185	defender	professor	посмотри сейчас
+2020-10-05 10:00:27.371022	professor	defender	есть контакт
+2020-10-05 10:00:28.154612	professor	defender	спасибо
+2020-10-05 20:11:29.390226	professor	defender	подскажи какие сейчас актуальные домены на .19 анкор
+2020-10-05 20:11:49.095033	professor	defender	билл завтра как раз нвоый билд выдаст...
+2020-10-15 10:20:18.759437	professor	defender	упал днс походу сервак, подними пожалуйста
+2020-10-15 10:20:25.904965	professor	defender	оба анкора офф
+2020-10-16 13:59:06.115025	professor	defender	нет по прокладкам новостей?
+2020-10-20 10:40:23.273409	professor	defender	привет
+сможешь поднять отдельную третью админку анкора с 2 доменами?
+2021-06-28 15:14:22.347360	defender	professor	привет
+2021-06-28 15:14:22.350368	defender	professor	тут?
+2021-06-28 15:25:44.129650	defender	professor	напиши как будешь
+2021-06-28 16:02:17.770350	defender	professor	привет
+2021-06-28 16:02:17.771362	defender	professor	тут?
+2021-06-28 16:02:17.772259	defender	professor	напиши как будешь
+2021-07-03 09:01:47.833784	professor	defender	да, поймал, спасибо
+2021-07-05 14:25:26.096741	defender	professor	привет
+2021-07-05 14:25:31.195814	defender	professor	бицепс красный слева
+2021-07-05 14:25:33.557223	defender	professor	доавбили
+2021-07-06 12:40:51.067477	defender	professor	привет
+2021-07-06 12:40:51.067843	defender	professor	бицепс красный слева
+2021-07-06 12:40:51.068532	defender	professor	доавбили
+2021-07-06 12:42:32.069941	professor	defender	спасибо
+2021-07-15 10:50:15.996348	professor	defender	привет
+а че трик то лежит?
+2021-10-22 14:16:42.125848	defender	professor	ЭТО НАДО СДЕЛАТЬ ВСЕМ, иначе жаба перестанет у вас работать
+
+новый домен жабы версии 3
+odw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion
+
+его прописываем в настройках аккаунта - соединение - сервер
+перед этим на это вкладке ставим галку Вручную указать адрес сервера и порт
+
+порт стандартный 5222 
+
+ВАЖНО, все остальное остается, аккаунт отстается со старым доменом... прописывается только домен для соединения 
+
+!!! Как сделаете, отпишите мне что все ОК
+2021-11-15 17:02:51.252900	defender	professor	ЭТО НАДО СДЕЛАТЬ ВСЕМ, иначе жаба перестанет у вас работать
+
+новый домен жабы версии 3
+odw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion
+
+его прописываем в настройках аккаунта - соединение - сервер
+перед этим на это вкладке ставим галку Вручную указать адрес сервера и порт
+
+порт стандартный 5222 
+
+ВАЖНО, все остальное остается, аккаунт отстается со старым доменом... прописывается только домен для соединения 
+
+!!! Как сделаете, отпишите мне что все ОК
+2022-01-17 17:45:44.664197	defender	professor	привет
+2022-01-17 17:45:49.226364	defender	professor	напиши как будешь

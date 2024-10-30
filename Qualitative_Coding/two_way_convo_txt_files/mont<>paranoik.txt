@@ -1,0 +1,6 @@
+Timestamp	From	To	Message
+2021-09-09 20:12:11.239421	mont	paranoik	ку
+2021-09-09 20:12:23.965732	mont	paranoik	ку
+2021-10-07 17:42:45.306975	mont	paranoik	привет нужен билд
+2021-10-22 20:36:13.821078	mont	paranoik	привет бро, нужно пару билдов tteam
+2021-10-22 20:38:12.190079	paranoik	mont	привет

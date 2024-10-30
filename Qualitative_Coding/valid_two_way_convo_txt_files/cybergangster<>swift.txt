@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2021-11-21 19:18:55.421568	cybergangster	swift	privet
+2021-11-21 19:18:55.976068	cybergangster	swift	ne
+2021-11-21 19:19:11.984170	cybergangster	swift	eto reshaev, contact pomenyal dobavil tebya na vsyakiy
+2021-11-22 13:49:10.809994	cybergangster	swift	privet
+2021-11-22 13:49:10.813400	cybergangster	swift	ne
+2021-11-22 13:49:10.817475	cybergangster	swift	eto reshaev, contact pomenyal dobavil tebya na vsyakiy
+2021-11-22 13:49:25.016894	swift	cybergangster	jr
+2021-11-22 13:49:26.747835	swift	cybergangster	ok

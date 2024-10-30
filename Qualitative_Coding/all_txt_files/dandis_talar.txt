@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-09-07 13:44:26.691794	dandis	talar	Привет

@@ -1,0 +1,192 @@
+Timestamp	From	To	Message
+2021-09-07 18:08:56.262272	mango	dandis	?
+2021-09-09 09:48:32.083952	mango	dandis	Привет, ты с пульсами работаешь?
+2021-09-09 17:13:42.555614	mango	dandis	Привет, ты с пульсами работаешь?
+2021-09-09 17:14:06.187682	dandis	mango	Привет, что это?
+2021-09-11 17:29:57.421336	mango	dandis	че там сессия не отвалилась все нормас?
+2021-09-11 22:08:23.975055	mango	dandis	<mango> dandis добавь тоже, ему можно мелкие кейсы что ты говорил
+[00:58:30] <wowddoz> в работке
+[00:58:31] <mango> 5-15кк
+[00:58:35] <wowddoz> окс
+[00:58:43] <wowddoz> чет я запарился от такого темпа)
+[00:58:56] <wowddoz> щас выхи пока выдохну, сетей еще наберу
+[00:59:00] <wowddoz> и с пн начну еще давать
+2021-09-13 17:05:30.446654	mango	dandis	че там сессия не отвалилась все нормас?
+2021-09-13 17:05:30.450018	mango	dandis	<mango> dandis добавь тоже, ему можно мелкие кейсы что ты говорил
+[00:58:30] <wowddoz> в работке
+[00:58:31] <mango> 5-15кк
+[00:58:35] <wowddoz> окс
+[00:58:43] <wowddoz> чет я запарился от такого темпа)
+[00:58:56] <wowddoz> щас выхи пока выдохну, сетей еще наберу
+[00:59:00] <wowddoz> и с пн начну еще давать
+2021-09-13 17:09:20.756522	dandis	mango	Привет
+2021-09-17 08:29:43.559453	mango	dandis	привет бро в процессе
+2021-09-17 10:19:11.412306	mango	dandis	привет бро в процессе
+2021-09-18 10:09:26.450858	mango	dandis	ку да
+2021-09-19 02:20:30.838860	mango	dandis	ку да
+2021-09-19 06:49:18.998297	mango	dandis	бро выходные, завтра буду на связи
+2021-09-19 10:02:39.257451	mango	dandis	бро выходные, завтра буду на связи
+2021-09-19 10:03:07.530939	dandis	mango	Ага, давай
+2021-09-19 11:05:55.871350	mango	dandis	блин а впны вы не делаете да?
+2021-09-19 11:06:38.601257	dandis	mango	Впны?
+2021-09-19 11:07:20.248507	mango	dandis	да
+2021-09-19 11:07:28.459092	mango	dandis	пульсы ситрикы и тд
+2021-09-19 11:07:46.926410	dandis	mango	Ты имеешь введу когда кейс выдают доступами к впну?
+2021-09-19 11:08:07.671835	mango	dandis	да
+2021-09-19 11:08:25.188794	mango	dandis	тут просто кто то делает, а кто то нет, чисто по ботам
+2021-09-19 11:08:35.225667	mango	dandis	вот щас есть пачка впнов
+2021-09-19 11:09:05.069964	dandis	mango	Не вижу проблемы работать с впнами
+2021-09-19 11:10:29.198463	mango	dandis	Host: https://citrix.crocs.com/logon/logonpoint/index.html
+Login: vganesan
+Password: @Kani@09062020#
+https://www.zoominfo.com/c/crocs-retail-llc/23563143
+
+Host: http://pjtsmartsuite.skec.com/citrix/storeweb/
+Login: krphec01
+Password: !hec3456
+
+Host: https://estaciobr.cloud.com/citrix/storeweb/
+Login: 202002739584@alunos.estacio.br
+Password: 456278@Li123
+
+Host: https://citrix-test.medicardphils.com/vpn/index.html
+Login: krtamaca
+Password: krtamaca88
+
+Host: https://citrix.nampak.com/logon/logonpoint/index.html
+Login: dmak057
+Password: Nampak10
+https://www.zoominfo.com/c/nampak-ltd/191382240
+
+Host: https://dpaschoal.cloud.com/citrix/storeweb/
+Login: cal\6411
+Password: 726982as
+
+Host: https://ctx.escocitrix.com/vpn/index.html
+Login: servicedesk
+Password: +2.Loc0sMonk3y$
+
+Host: https://protransport.cloud.com/citrix/storeweb/
+Login: aravancargo1@proloads.com
+Password: Spring20
+
+Host: https://gw.vsone.lk/vpn/index.html
+Login: vsone\charithk
+Password: 1qaz@WSX
+
+Host: https://emsonline.tritech.com/vpn/index.html
+Login: oh045-19
+Password: Rams045
+
+Host: https://portal.ponsse.com/vpn/index.html
+Login: FI8847
+Password: Vitudarnik-05
+
+Host: https://cloud.qu.edu.qa/vpn/index.html
+Login: fh1703034
+Password: F@T@121198
+
+Host: https://ctx.escocitrix.com/vpn/index.html
+Login: servicedesk
+Password: +2.Loc0sMonk3y$
+
+Host: https://anaten.net:8443/vpn/index.html
+Login: lucas.g
+Password: anaten
+
+Host: https://ctx.macsteel.co.za/vpn/index.html
+Login: sidney.pienaar
+Password: Robin123@s
+
+Host: https://vlab.uidaho.edu/logon/logonpoint/index.html
+Login: nawa5715
+Password: Mce20133025023@
+
+Host: https://citrix.nampak.com/logon/logonpoint/index.html
+Login: dmak057
+Password: Nampak10
+
+Host: https://bcncloud.uhy-fay.com/logon/logonpoint/index.html
+Login: adeaconu
+Password: Danut2007
+
+
+Host: https://portal.bavaria.com/dana-na/auth/url_default/welcome.cgi
+Login: SupportE&K
+Password: Nelwyj09
+
+Host: https://extranet.uj.edu.pl/dana-na/auth/url_default/welcome.cgi
+Login: michal.olbrychtowicz@student.uj.edu.pl
+Password: aANDRZEJOL2008
+
+Host: https://correoweb.guardiacivil.es/dana-na/auth/url_16/welcome.cgi
+Login: lupascual
+Password: 12356861
+2021-09-19 11:10:38.163983	mango	dandis	ой ебана
+2021-09-19 11:10:40.786167	mango	dandis	отр забыли)))
+2021-09-19 11:11:01.449813	mango	dandis	хорошего вечера :)
+2021-09-20 18:18:49.383565	mango	dandis	[21:18:40] <mango> есть чел с сетками от 5 до 9кк - возьмете?
+2021-09-20 20:57:00.865765	mango	dandis	[21:18:40] <mango> есть чел с сетками от 5 до 9кк - возьмете?
+2021-09-28 13:29:11.528582	mango	dandis	[16:22:43] <gpbit@thesecure.biz> привет
+[16:22:48] <gpbit@thesecure.biz> залочили ? или все в работе 
+[16:24:32] <Sooeta55> привет
+[16:24:39] <Sooeta55> а он тебе так и не отписал ниче?
+[16:24:47] <Sooeta55> вчера должен был с тобой связаться еще 
+[16:24:56] <gpbit@thesecure.biz> вообще тишина 
+[16:25:02] <gpbit@thesecure.biz> ничо не кто не писал 
+[16:25:19] <Sooeta55> он писал что надо перепнуть сессии но не помню на каких тачках
+[16:25:38] <Sooeta55> щас еще раз напомню ему чтоб связалсяс тобой хотя вчера по этому поводу уже была беседа..
+[16:26:27] <gpbit@thesecure.biz> ок. сколько залочили из всех ? 
+[16:26:51] <Sooeta55> отпишет ща как будет, уточним все
+[16:27:02] <gpbit@thesecure.biz> ок
+2021-09-28 13:46:21.408419	mango	dandis	[16:22:43] <gpbit@thesecure.biz> привет
+[16:22:48] <gpbit@thesecure.biz> залочили ? или все в работе 
+[16:24:32] <Sooeta55> привет
+[16:24:39] <Sooeta55> а он тебе так и не отписал ниче?
+[16:24:47] <Sooeta55> вчера должен был с тобой связаться еще 
+[16:24:56] <gpbit@thesecure.biz> вообще тишина 
+[16:25:02] <gpbit@thesecure.biz> ничо не кто не писал 
+[16:25:19] <Sooeta55> он писал что надо перепнуть сессии но не помню на каких тачках
+[16:25:38] <Sooeta55> щас еще раз напомню ему чтоб связалсяс тобой хотя вчера по этому поводу уже была беседа..
+[16:26:27] <gpbit@thesecure.biz> ок. сколько залочили из всех ? 
+[16:26:51] <Sooeta55> отпишет ща как будет, уточним все
+[16:27:02] <gpbit@thesecure.biz> ок
+2021-10-07 05:47:53.830503	mango	dandis	здарвоа бро
+2021-10-07 05:48:03.957316	mango	dandis	он перегружает ботов с трика со спама по хакерам
+2021-10-07 05:48:12.933149	mango	dandis	отпишу ему сам сегодня
+2021-10-07 10:28:25.054586	mango	dandis	здарвоа бро
+2021-10-07 10:28:25.055612	mango	dandis	он перегружает ботов с трика со спама по хакерам
+2021-10-07 10:28:25.056361	mango	dandis	отпишу ему сам сегодня
+2021-10-07 10:28:47.608663	dandis	mango	Привет уже списались с ним ага
+2021-10-09 08:51:19.688440	mango	dandis	а вы выкладываете данные если переговоры заходят в тупик? вот все старые чаты что у тебя висят в панели - их выкладывали?
+2021-10-09 13:15:31.618937	mango	dandis	а вы выкладываете данные если переговоры заходят в тупик? вот все старые чаты что у тебя висят в панели - их выкладывали?
+2021-10-09 13:16:11.219183	dandis	mango	Привет
+2021-10-09 13:16:17.292993	dandis	mango	Честно не помню
+2021-10-15 06:06:05.957081	mango	dandis	спросил еще раз у чела кто его давал - говорит он адекватный и работать настроен, занят видимо..
+2021-10-15 11:35:36.341010	mango	dandis	спросил еще раз у чела кто его давал - говорит он адекватный и работать настроен, занят видимо..
+2021-10-19 09:20:02.350470	mango	dandis	бро спал, вчера рано лег
+2021-10-19 09:20:05.359610	mango	dandis	пиши как будешь
+2021-10-19 15:17:50.401108	mango	dandis	бро спал, вчера рано лег
+2021-10-19 15:17:50.405067	mango	dandis	пиши как будешь
+2021-10-19 15:21:02.663257	dandis	mango	Ты бы хоть жабу тушил когда тебя нет)
+2021-10-24 00:20:59.090941	dandis	mango	1
+2021-10-24 00:21:03.802030	dandis	mango	11
+2021-10-24 00:21:03.804231	dandis	mango	1
+2021-10-24 00:21:06.025115	dandis	mango	111
+2021-10-24 00:21:06.025948	dandis	mango	1
+2021-10-24 00:21:06.797613	dandis	mango	11
+2021-11-03 14:59:24.742115	mango	dandis	привет как будешь добавь tramp@
+2021-11-03 16:42:31.956738	mango	dandis	привет как будешь добавь tramp@
+2021-11-03 16:42:46.626611	dandis	mango	Привет
+2021-11-03 16:42:52.181209	dandis	mango	Это кто?
+2021-11-30 13:18:07.375407	mango	dandis	тю ебана\
+2021-11-30 13:18:12.175679	mango	dandis	отошел пообедать..
+2021-11-30 13:25:40.813199	mango	dandis	тю ебана\
+2021-11-30 13:25:40.821959	mango	dandis	отошел пообедать..
+2021-12-09 18:35:26.106573	mango	dandis	paranoik@q3mcco35auwcstmt.onion  по билдам
+2021-12-10 06:32:38.335838	mango	dandis	paranoik@q3mcco35auwcstmt.onion  по билдам
+2021-12-16 16:05:56.042486	dandis	mango	Привет, ведешь переговоры по конти?
+2021-12-27 09:22:31.565552	mango	dandis	Хай! соряныч уезжал на выхи
+2021-12-27 10:36:31.252327	mango	dandis	Хай! соряныч уезжал на выхи
+2022-01-31 15:54:12.412753	mango	dandis	думс!
+2022-01-31 15:54:14.297180	mango	dandis	хай!

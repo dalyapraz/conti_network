@@ -1,0 +1,18 @@
+Timestamp	From	To	Message
+2020-09-17 08:03:48.316812	bentley	kingston	Првиет
+2020-09-17 08:04:02.695518	bentley	kingston	Как у тебя тест бк группы 56?
+2020-09-18 09:24:12.877174	bentley	kingston	Привет
+2020-09-22 09:33:50.913533	bentley	kingston	Приветю
+2020-09-22 09:34:10.945039	bentley	kingston	Теперь тройку для Стерна будет готовить другой тестер
+2020-09-22 09:34:19.060449	bentley	kingston	terry@q3mcco35auwcstmt.onion
+2020-09-25 09:05:09.699692	bentley	kingston	Привет.
+2020-09-25 09:05:27.646700	bentley	kingston	Слушай, а куктус делает группы 54 и 6 ?
+2020-09-28 09:39:58.406294	bentley	kingston	Привет
+2020-10-01 08:33:47.156902	bentley	kingston	привет
+2020-10-01 08:33:47.835950	bentley	kingston	boby@q3mcco35auwcstmt.onion
+2020-10-01 08:33:57.575445	bentley	kingston	Добавь его будет у тебя заказывать БК
+2020-10-08 11:13:30.526890	bentley	kingston	Првиет
+2020-10-08 11:13:31.958029	bentley	kingston	ramon@q3mcco35auwcstmt.onion
+2020-10-08 11:13:35.626268	bentley	kingston	Он напишет по 56
+2022-02-02 14:11:06.943761	bentley	kingston	Првиет. У меня вопрос
+2022-02-02 14:11:14.448382	kingston	bentley	Првиет. У меня вопрос

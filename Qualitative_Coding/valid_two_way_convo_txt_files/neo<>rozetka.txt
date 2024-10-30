@@ -1,0 +1,15 @@
+Timestamp	From	To	Message
+2021-08-20 17:13:04.854748	neo	rozetka	приветствую
+2021-08-20 17:13:06.144729	neo	rozetka	тут?
+2021-08-20 17:22:53.391548	neo	rozetka	не получается личную переписку начать
+2021-08-20 17:23:17.924199	neo	rozetka	в общем держи, выдаю  rundll32 файл,StartW 50 криптов
+2021-08-20 17:23:33.969131	neo	rozetka	https://privatlab.com/s/v/72nYrlz3OYsNm35lBY0y
+kKLep2g(s8>ssK6]
+2021-08-20 17:23:35.512279	neo	rozetka	первые 10
+2021-08-20 17:23:41.083087	rozetka	neo	приветствую
+2021-08-20 17:23:41.083908	rozetka	neo	тут?
+2021-08-20 17:23:41.087795	rozetka	neo	не получается личную переписку начать
+2021-08-20 17:23:41.088277	rozetka	neo	в общем держи, выдаю  rundll32 файл,StartW 50 криптов
+2021-08-20 17:23:41.088858	rozetka	neo	https://privatlab.com/s/v/72nYrlz3OYsNm35lBY0y
+kKLep2g(s8>ssK6]
+2021-08-20 17:23:41.089715	rozetka	neo	первые 10

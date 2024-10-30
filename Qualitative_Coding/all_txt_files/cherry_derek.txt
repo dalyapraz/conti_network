@@ -1,0 +1,6 @@
+Timestamp	From	To	Message
+2021-12-06 08:45:12.661176	cherry	derek	2+2+3=?
+2021-12-06 08:46:04.359928	derek	cherry	7
+2021-12-06 08:46:05.382712	cherry	derek	2+2+3=?
+2021-12-17 11:30:56.116876	derek	cherry	есть что ?
+2021-12-17 15:41:01.316866	derek	cherry	есть что ?

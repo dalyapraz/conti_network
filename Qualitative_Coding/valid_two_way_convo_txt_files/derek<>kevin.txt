@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-01-29 17:26:56.576139	kevin	derek	приветствую. от стерна. дайл твой контакт
+2021-02-08 16:19:28.599078	kevin	derek	Hi Olaf. Tried reaching you last week on  +16469928525. I was unable to get in touch. Let me know!
+2021-02-08 16:23:55.862245	derek	kevin	Hi Olaf. Tried reaching you last week on  +16469928525. I was unable to get in touch. Let me know!

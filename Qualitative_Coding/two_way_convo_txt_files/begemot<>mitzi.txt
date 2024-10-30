@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-10-01 13:33:15.298789	begemot	mitzi	ping
+2021-10-01 13:33:15.311244	mitzi	begemot	ping
+2021-10-01 13:38:39.648529	begemot	mitzi	ping
+2021-10-01 13:38:39.669438	mitzi	begemot	ping

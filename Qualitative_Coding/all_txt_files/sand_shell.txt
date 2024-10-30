@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-07-07 14:31:43.680652	sand	shell	бро привет)

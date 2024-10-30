@@ -1,0 +1,10 @@
+Timestamp	From	To	Message
+2020-07-03 12:45:11.534574	dorirus	staff	Привет
+2020-07-07 10:06:42.581579	dorirus	staff	Привет
+2020-07-10 10:28:46.804039	dorirus	staff	съездили?
+2020-07-15 11:10:05.248299	dorirus	staff	сегодня пиздюли будут
+2020-07-21 12:40:36.182982	dorirus	staff	https://www.youtube.com/watch?v=TNtC1ied8Dw
+2020-07-22 12:46:56.912146	dorirus	staff	Привет
+2020-07-31 14:38:12.075833	dorirus	staff	так ты за ней куда поедешь?
+2020-07-31 16:59:08.760657	dorirus	staff	тут?
+2020-09-10 14:09:27.858906	dorirus	staff	Привет

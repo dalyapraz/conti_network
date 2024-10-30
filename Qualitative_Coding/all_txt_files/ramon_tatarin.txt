@@ -1,0 +1,14 @@
+Timestamp	From	To	Message
+2020-09-25 18:26:37.304772	ramon	tatarin	hey
+2020-09-25 18:26:39.078091	ramon	tatarin	yo
+2020-09-25 18:26:39.685936	ramon	tatarin	tyt?
+2021-02-25 10:38:54.209322	ramon	tatarin	otpsihi
+2021-02-25 12:55:43.564849	ramon	tatarin	otpsihi
+2021-04-22 20:16:46.898518	ramon	tatarin	нужен шваб сити или чейз
+и чтобы оператор был веризон
+2021-04-23 15:17:50.481733	ramon	tatarin	нужен шваб сити или чейз
+и чтобы оператор был веризон
+2021-05-14 11:17:54.869638	ramon	tatarin	hey
+2021-05-14 11:17:55.301840	ramon	tatarin	yo
+2021-05-19 14:49:10.022432	ramon	tatarin	hey
+2021-05-19 14:49:10.026341	ramon	tatarin	yo

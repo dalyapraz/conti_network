@@ -1,0 +1,18 @@
+Timestamp	From	To	Message
+2021-07-14 07:35:00.375032	serp	dollar	hi
+2021-07-14 10:57:13.429003	serp	dollar	hi
+2021-07-14 10:59:23.030978	dollar	serp	hey
+2021-07-14 10:59:28.809960	dollar	serp	otr?)
+2021-07-14 11:54:11.981969	serp	dollar	hi
+2021-07-14 11:54:12.632160	serp	dollar	da
+2021-07-15 11:39:04.706391	serp	dollar	orpisal v tu jabbu
+2021-07-19 11:46:13.626330	serp	dollar	hi
+2021-07-19 11:46:19.359868	serp	dollar	ta jabba ne rabotaet?
+2021-07-19 11:46:23.173153	serp	dollar	net connecta u menya
+2021-07-19 11:46:26.755528	serp	dollar	ya s tenet spisivalsya
+2021-07-19 11:46:32.868454	serp	dollar	a shas ne mogu zaiti tuda v jabb
+2021-07-19 11:50:52.482814	dollar	serp	hi
+2021-07-19 11:50:52.485951	dollar	serp	ta jabba ne rabotaet?
+2021-07-19 11:50:52.487385	dollar	serp	net connecta u menya
+2021-07-19 11:50:52.488803	dollar	serp	ya s tenet spisivalsya
+2021-07-19 11:50:52.489585	dollar	serp	a shas ne mogu zaiti tuda v jabb

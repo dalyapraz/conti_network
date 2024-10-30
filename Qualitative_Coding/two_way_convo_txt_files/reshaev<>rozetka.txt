@@ -1,0 +1,118 @@
+Timestamp	From	To	Message
+2020-08-19 19:18:11.064487	reshaev	rozetka	pass: 0AtopvR4ezfrehnwXEEM42ZB6tJiak6m
+Download: https://qaz.im/load/Kz46Gd/EyiR97
+Delete: https://qaz.im/index.php?a=delete&q=1079173500
+
+pass: 59OBTRTbFNmgcTubrcoKGbQhyVxDskqn
+Download: https://qaz.im/load/BtF8t6/AZ7Q2y
+Delete: https://qaz.im/index.php?a=delete&q=1663725458
+
+pass: I8vuFrWywH4TV6Vs7Z1omWl4XYGWWbiZ
+Download: https://qaz.im/load/YR4A6t/nRe26d
+Delete: https://qaz.im/index.php?a=delete&q=1115980315
+
+pass: JmowoJEytdKhLPIhWGqp1GiBNFN7ceLW
+Download: https://qaz.im/load/GAnrze/Sd45Ei
+Delete: https://qaz.im/index.php?a=delete&q=2119924191
+
+pass: uHBmCwPjBL7aWlmHdLeZOqg2eJ0PWkZF
+Download: https://qaz.im/load/GBe7d9/76TZHR
+Delete: https://qaz.im/index.php?a=delete&q=1599263596
+
+pass: 9fxXaEFpl7abuR464lG918az3yKJcvZK
+Download: https://qaz.im/load/5GzfsG/YZ8GeR
+Delete: https://qaz.im/index.php?a=delete&q=2007496541
+
+pass: UWjMkblzC4rKw4sw7hGHEyZA4TYWBIqP
+Download: https://qaz.im/load/8NFDHZ/6faH5z
+Delete: https://qaz.im/index.php?a=delete&q=1203572732
+
+pass: Gl0SYxBhGOQ6Bn5Dq7XVMJeBBwoRsOyA
+Download: https://qaz.im/load/STFSbG/k438rF
+Delete: https://qaz.im/index.php?a=delete&q=1556360380
+
+pass: 7fnkcIsLVwAw1U1nIwFpyqc07CgrTtZz
+Download: https://qaz.im/load/is6bb8/d22K2r
+Delete: https://qaz.im/index.php?a=delete&q=371411688
+
+pass: O6XBrIhttbUZebrD6raISRI4owVERJmf
+Download: https://qaz.im/load/Yyhez8/iar3bt
+Delete: https://qaz.im/index.php?a=delete&q=745204330
+2020-08-19 19:18:20.890728	reshaev	rozetka	почищенные от дефендера билды
+2020-08-20 18:20:15.659314	reshaev	rozetka	pass: 0AtopvR4ezfrehnwXEEM42ZB6tJiak6m
+Download: https://qaz.im/load/Kz46Gd/EyiR97
+Delete: https://qaz.im/index.php?a=delete&q=1079173500
+
+pass: 59OBTRTbFNmgcTubrcoKGbQhyVxDskqn
+Download: https://qaz.im/load/BtF8t6/AZ7Q2y
+Delete: https://qaz.im/index.php?a=delete&q=1663725458
+
+pass: I8vuFrWywH4TV6Vs7Z1omWl4XYGWWbiZ
+Download: https://qaz.im/load/YR4A6t/nRe26d
+Delete: https://qaz.im/index.php?a=delete&q=1115980315
+
+pass: JmowoJEytdKhLPIhWGqp1GiBNFN7ceLW
+Download: https://qaz.im/load/GAnrze/Sd45Ei
+Delete: https://qaz.im/index.php?a=delete&q=2119924191
+
+pass: uHBmCwPjBL7aWlmHdLeZOqg2eJ0PWkZF
+Download: https://qaz.im/load/GBe7d9/76TZHR
+Delete: https://qaz.im/index.php?a=delete&q=1599263596
+
+pass: 9fxXaEFpl7abuR464lG918az3yKJcvZK
+Download: https://qaz.im/load/5GzfsG/YZ8GeR
+Delete: https://qaz.im/index.php?a=delete&q=2007496541
+
+pass: UWjMkblzC4rKw4sw7hGHEyZA4TYWBIqP
+Download: https://qaz.im/load/8NFDHZ/6faH5z
+Delete: https://qaz.im/index.php?a=delete&q=1203572732
+
+pass: Gl0SYxBhGOQ6Bn5Dq7XVMJeBBwoRsOyA
+Download: https://qaz.im/load/STFSbG/k438rF
+Delete: https://qaz.im/index.php?a=delete&q=1556360380
+
+pass: 7fnkcIsLVwAw1U1nIwFpyqc07CgrTtZz
+Download: https://qaz.im/load/is6bb8/d22K2r
+Delete: https://qaz.im/index.php?a=delete&q=371411688
+
+pass: O6XBrIhttbUZebrD6raISRI4owVERJmf
+Download: https://qaz.im/load/Yyhez8/iar3bt
+Delete: https://qaz.im/index.php?a=delete&q=745204330
+2020-08-20 18:20:15.660815	reshaev	rozetka	почищенные от дефендера билды
+2020-08-20 18:27:32.294315	reshaev	rozetka	билды принял?
+2020-08-20 18:27:50.648796	reshaev	rozetka	от дефендера почистил и тебе в оффлайн кидал вчера
+2020-08-27 21:25:23.969139	rozetka	reshaev	Привет
+2020-08-27 21:25:34.532331	rozetka	reshaev	скажи плз - последние билды что ты сбросил - всё стабильно хорошо?
+2020-10-05 17:26:15.266976	rozetka	reshaev	да
+2021-05-18 18:50:01.850840	rozetka	reshaev	build user02 please
+2021-05-18 23:21:19.909214	rozetka	reshaev	еще один билд плиз
+2021-05-19 22:32:13.600957	rozetka	reshaev	еще один билд плиз
+2021-05-21 13:20:35.704230	rozetka	reshaev	билд дай пожалуйста
+2021-05-21 13:20:43.685960	reshaev	rozetka	+
+2021-06-24 16:19:25.437486	rozetka	reshaev	Мне бы 10 билдов ateam...
+2021-07-26 10:28:31.651054	reshaev	rozetka	Тут?
+2021-07-26 10:39:55.006902	rozetka	reshaev	Тут?
+2021-07-26 11:19:41.107995	reshaev	rozetka	Маякни как будешь
+2021-07-26 23:49:07.786054	reshaev	rozetka	Маякни как будешь
+2021-07-30 18:54:24.136627	rozetka	reshaev	7Le5IwxZozIIlODjb0ZC0Tr6g6qqLJRRmkG3ZoTVyOPzhh2F6n9r4dAH47XiB3hH decr pl
+2021-07-30 18:54:25.162034	rozetka	reshaev	z
+2021-07-31 13:00:22.409005	rozetka	reshaev	7Le5IwxZozIIlODjb0ZC0Tr6g6qqLJRRmkG3ZoTVyOPzhh2F6n9r4dAH47XiB3hH decr pl
+2021-07-31 13:00:22.411996	rozetka	reshaev	z
+2021-07-31 16:18:55.997572	rozetka	reshaev	тут?
+2021-09-10 03:12:52.306508	rozetka	reshaev	ateam
+10
+dll+exe
+2021-09-11 03:46:14.706038	rozetka	reshaev	ateam
+10
+dll+exe
+2021-09-17 08:21:09.953149	rozetka	reshaev	jEzhwip5S3iPxXSBF4HsmpQFh4eAatdwPeu124dpToSEo5opQk0fiGVDE495khUX
+check please
+2021-10-04 22:23:23.899582	reshaev	rozetka	Kakie tam problemi u tebya eshe?
+2021-10-04 22:49:00.090311	reshaev	rozetka	?
+2021-10-06 10:37:58.808394	reshaev	rozetka	Привет сегодня после 12 ни чего не публикуем в блоге, переезжаем в новую админку
+2021-10-11 18:20:00.045831	reshaev	rozetka	This account has been suspended, please contact our support team.
+2021-10-11 18:20:12.285696	reshaev	rozetka	Нам сервер по непонятной причине увдалил
+2021-10-11 18:20:26.397637	reshaev	rozetka	Новый завтра будет и скину
+2021-11-01 10:56:53.248790	rozetka	reshaev	привет
+а у тебя есть билд под никсы? или только под ESXI он работает?
+2021-11-01 10:57:28.200454	reshaev	rozetka	Привет

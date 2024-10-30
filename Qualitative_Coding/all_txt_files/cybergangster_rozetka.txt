@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2022-01-15 20:22:45.629209	cybergangster	rozetka	да ни че поговорить хотел?
+2022-01-15 20:22:56.942519	cybergangster	rozetka	че думаешь?
+2022-01-15 20:23:11.541794	cybergangster	rozetka	мы тоже на прицеле если это не фейк
+2022-01-15 20:29:03.446305	cybergangster	rozetka	но на постанову не похоже
+2022-01-16 11:28:38.421221	cybergangster	rozetka	да ни че поговорить хотел?
+2022-01-16 11:28:38.430105	cybergangster	rozetka	че думаешь?
+2022-01-16 11:28:38.435702	cybergangster	rozetka	мы тоже на прицеле если это не фейк
+2022-01-16 11:28:38.441310	cybergangster	rozetka	но на постанову не похоже

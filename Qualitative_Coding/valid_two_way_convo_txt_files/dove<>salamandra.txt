@@ -1,0 +1,11 @@
+Timestamp	From	To	Message
+2020-08-31 13:38:14.610026	salamandra	dove	привет
+2020-08-31 18:39:52.078011	salamandra	dove	привет
+2020-09-01 06:33:30.176096	salamandra	dove	привет
+2020-09-01 07:57:11.398175	salamandra	dove	привет
+2020-09-01 07:57:34.977248	dove	salamandra	привет
+2020-09-01 08:07:47.259005	salamandra	dove	stern@q3mcco35auwcstmt.onion
+2020-09-01 08:07:50.440024	salamandra	dove	пиши ему
+2020-09-01 08:12:41.245257	dove	salamandra	ок
+2020-09-03 14:20:16.052688	salamandra	dove	buza@q3mcco35auwcstmt.onion/Psi+
+2020-09-03 14:20:17.673356	salamandra	dove	пиши ему

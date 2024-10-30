@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-09-02 17:47:37.609134	ceram	vjud.q3mcco35auwcstmt.onion	Привет, помогите найти stern
+2020-09-02 17:47:37.610419	vjud.q3mcco35auwcstmt.onion	ceram	Привет, помогите найти stern

@@ -1,0 +1,26 @@
+Timestamp	From	To	Message
+2020-09-24 11:37:50.097973	marsel	boby	Файл на проверку скидывать тебе или bently?
+2020-09-24 11:39:22.107581	marsel	boby	Файл на проверку скидывать тебе или bently?
+2020-09-24 14:08:54.573447	marsel	boby	Принял?
+2020-10-02 16:35:34.322074	boby	marsel	sdelaesh pary lockerov?
+2020-10-16 11:54:38.046769	marsel	boby	Download: https://qaz.im/load/88Znb5/sT6nY2
+Delete: https://qaz.im/index.php?a=delete&q=443083462
+2020-10-16 11:54:42.809946	marsel	boby	Пас 123
+2020-10-16 12:45:24.371003	marsel	boby	Download: https://qaz.im/load/88Znb5/sT6nY2
+Delete: https://qaz.im/index.php?a=delete&q=443083462
+2020-10-16 12:45:24.371633	marsel	boby	Пас 123
+2020-10-16 15:13:40.525643	marsel	boby	Ок
+2020-10-26 19:38:56.228709	marsel	boby	Download: https://qaz.im/load/ZY29br/8YZ9Et
+Delete: https://qaz.im/index.php?a=delete&q=1477164005
+2020-10-26 19:39:04.976331	marsel	boby	Пас 123
+2020-10-26 19:39:19.367930	marsel	boby	Комплект 444
+2020-10-28 16:14:53.501087	boby	marsel	hi man
+2020-10-28 16:14:56.125676	boby	marsel	tyt?
+2020-10-28 16:15:24.620492	marsel	boby	Привет
+2020-11-12 19:44:44.898897	marsel	boby	Download: https://qaz.im/load/274FB5/Z597e8
+Delete: https://qaz.im/index.php?a=delete&q=2048832154
+2020-11-12 19:44:52.272011	marsel	boby	Пас 123
+2020-11-12 19:55:20.205882	marsel	boby	Download: https://qaz.im/load/274FB5/Z597e8
+Delete: https://qaz.im/index.php?a=delete&q=2048832154
+2020-11-12 19:55:20.357686	marsel	boby	Пас 123
+2020-11-13 15:00:50.608694	boby	marsel	tyt?

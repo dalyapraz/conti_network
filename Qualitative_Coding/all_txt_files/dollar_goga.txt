@@ -1,0 +1,9 @@
+Timestamp	From	To	Message
+2021-07-19 12:02:48.821819	dollar	goga	hey\
+2021-07-19 12:02:50.328569	dollar	goga	yo
+2021-07-19 14:33:10.200165	dollar	goga	hey\
+2021-07-19 14:33:10.200677	dollar	goga	yo
+2022-01-31 13:06:23.153969	dollar	goga	hey
+2022-01-31 13:06:23.902389	dollar	goga	yo
+2022-01-31 13:06:25.421344	dollar	goga	otypihi mne
+2022-01-31 13:06:28.067649	dollar	goga	kak nbdyesh' tyt\

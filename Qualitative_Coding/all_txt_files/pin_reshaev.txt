@@ -1,0 +1,396 @@
+Timestamp	From	To	Message
+2021-03-05 06:03:26.462565	pin	reshaev	тут?
+2021-03-05 06:03:31.202635	pin	reshaev	нужен билд
+2021-03-05 07:06:43.304175	reshaev	pin	Да тут
+2021-03-05 07:06:46.440077	reshaev	pin	Актуально еще?
+2021-03-05 07:13:05.777501	pin	reshaev	а от битдефендера почистить можете локер?
+2021-03-05 07:23:37.193288	reshaev	pin	А че вы через dll не работаете?
+2021-03-05 07:23:56.386486	reshaev	pin	Через инжектор для кобальта
+2021-03-05 07:25:59.582462	reshaev	pin	тебе боб скидывал?
+2021-03-05 07:26:02.993217	reshaev	pin	массовый инжектор
+2021-03-05 07:27:29.331854	pin	reshaev	блять как через кобальт локнуть 3к хостов ?
+2021-03-05 07:27:38.657288	pin	reshaev	вот расскажи мне ))
+2021-03-05 07:28:11.426113	reshaev	pin	3к сессий не потянет?
+2021-03-05 07:28:20.210365	pin	reshaev	попробуй ))
+2021-03-05 07:28:26.358464	pin	reshaev	сервер ляжет
+2021-03-05 07:29:46.686197	reshaev	pin	Ладно потом поговорим, мне отойти на час надо, тебе билд нужен?
+2021-03-05 07:29:56.809395	pin	reshaev	нет
+2021-03-05 07:30:02.766394	pin	reshaev	старым делаю
+2021-03-05 07:30:09.144130	reshaev	pin	ок
+2021-03-05 09:47:51.664273	pin	reshaev	кто декрипты выдает?
+2021-03-05 09:48:06.119806	pin	reshaev	сетка оплатила нада выдать декрипт
+2021-03-10 14:03:07.062266	pin	reshaev	привет
+2021-03-31 11:42:20.962677	pin	reshaev	привет
+2021-03-31 11:42:28.683671	pin	reshaev	а ты разобрался с длл?
+2021-03-31 17:17:29.483634	pin	reshaev	ID: jIRtM3Ao6GLMwNHJ45srWoLRUsXnny1vWyePvdGWcqUSZZiL2XfFZMp3ttrwp547
+2021-03-31 17:17:42.325129	pin	reshaev	сейчас загрузят на тест
+2021-03-31 17:17:53.080926	pin	reshaev	следи плиз за чатом
+2021-03-31 17:17:54.048256	pin	reshaev	ок?
+2021-04-09 06:44:03.440903	pin	reshaev	re
+2021-04-13 11:57:30.552731	pin	reshaev	тут?
+2021-04-15 12:05:59.572873	pin	reshaev	привет
+2021-04-16 12:21:35.305642	pin	reshaev	https://www.sendspace.com/filegroup/1ZaWkFxPaUJ5CflmqSuXTlNOPqzyncUb
+2021-04-26 13:04:35.776207	pin	reshaev	OP: pin2
+ID: HR6aBxNwHs0PKr8fQcnYOJD07g3QFUOBO72UC03qYyCeaHjhj5mZYfCfcUC0h7Uu
+Updated: 2 days ago
+2021-04-30 10:17:46.197691	pin	reshaev	привет
+2021-04-30 10:17:47.665274	pin	reshaev	тут?
+2021-05-06 11:58:55.664733	pin	reshaev	привет
+2021-05-13 13:05:40.611913	pin	reshaev	ghbdtn
+2021-05-13 13:05:43.253429	pin	reshaev	привет
+2021-05-18 16:31:01.414432	pin	reshaev	привет
+2021-05-22 15:35:22.056012	pin	reshaev	привет
+2021-05-29 17:07:04.229657	pin	reshaev	OP: pin
+ID: QzAFFW0rAGFfks1k4yuVLxuhsvFJNqpoda5VwWN5PqZ9v2wE2A3SdWF0Gw17bp6j
+скинь мне плиз декриптор в жабу
+2021-05-29 17:07:17.746716	pin	reshaev	[12:39:39] <pin> мне нада скл базу их декриптануть 
+[12:40:29] <pin> а то докачивали  уже  когда начали криптовать и криптовыанную скачали
+2021-05-29 17:07:19.663642	pin	reshaev	ghbdtn
+2021-05-29 17:07:21.580763	pin	reshaev	привет
+2021-05-29 17:07:24.022659	reshaev	pin	пРИВЕТ
+2021-05-29 17:07:25.788671	reshaev	pin	Привет
+2021-05-29 17:07:31.406090	reshaev	pin	Щас тебе скинут
+2021-05-29 17:07:36.022814	pin	reshaev	ага
+2021-05-29 17:07:54.361893	pin	reshaev	просто тебя нада поставить в курс параноик сказал
+2021-05-30 19:06:21.257536	pin	reshaev	привет
+2021-05-30 19:06:37.036177	pin	reshaev	можешь сделать билд ПИН2 сейчас и скинуть ?
+2021-05-30 19:09:12.890847	reshaev	pin	Привет
+2021-05-30 19:09:16.441111	reshaev	pin	Подожди минут 15
+2021-05-30 19:09:37.753883	pin	reshaev	да не проблема
+2021-05-30 19:09:42.304405	pin	reshaev	сегодня скинешь?
+2021-05-30 19:11:04.752097	reshaev	pin	да
+2021-05-30 19:13:11.369046	reshaev	pin	1 build?
+2021-05-30 19:19:11.388365	pin	reshaev	+
+2021-06-03 14:54:00.719980	pin	reshaev	ghbdtn
+2021-06-03 16:47:26.150988	pin	reshaev	поговорил с бобом?
+2021-06-06 11:27:31.904644	pin	reshaev	привет
+2021-06-06 11:27:35.305128	pin	reshaev	[07:23:39] <pin> https://continews.icu/ 
+[07:23:45] <pin> что то не работает
+2021-06-07 19:31:20.216303	pin	reshaev	кто у вас ведет переговоры 
+Koons Automotive.   72541u3IlXGbvB6EV04z1SXuMffnV62L2KDVkMoqG086Bqnfnuldzjw88GsCUV8i
+2021-06-07 19:32:21.197177	reshaev	pin	professor@
+2021-06-07 19:33:55.708290	pin	reshaev	пусть стукнет мне сейчас ок?
+2021-06-07 19:34:13.752297	reshaev	pin	Он не в сети
+2021-06-07 19:34:23.637355	reshaev	pin	Щас попробую через его команду попросить зайти
+2021-06-07 19:54:47.414257	reshaev	pin	Щас стукнет
+2021-06-07 19:59:15.255816	pin	reshaev	походу мои мессаги не доходят до него
+2021-06-08 15:47:53.042400	pin	reshaev	попроси плиз професора выйти
+2021-06-08 15:48:13.552798	reshaev	pin	Ок
+2021-06-08 15:48:22.614017	reshaev	pin	На чем сошлись вчера?
+2021-06-08 15:48:30.275579	pin	reshaev	все отлично
+2021-06-08 15:48:40.494283	pin	reshaev	он понимает что я предложил
+2021-06-08 15:48:46.909608	reshaev	pin	гуд
+2021-06-08 15:48:51.592690	pin	reshaev	у него такая же тема есть по другим странам
+2021-06-08 15:49:01.661407	pin	reshaev	видно сразу что профи
+2021-06-08 15:49:12.316884	pin	reshaev	а тот хуй ничего не получит
+2021-06-08 15:49:35.869035	pin	reshaev	из за своей жадности и недоверчивости
+2021-06-08 15:50:03.239911	reshaev	pin	Он сказал про тебя так то можно было бы поработать, но 250к им и так уже дают
+2021-06-08 15:50:17.411655	pin	reshaev	так это я сказал
+2021-06-08 15:50:18.950855	reshaev	pin	Если бы та больше договорился то он бы согласился
+2021-06-08 15:50:27.406793	pin	reshaev	что это максимум на то что они пойдут
+2021-06-08 15:50:49.059765	reshaev	pin	Професор не в сети
+2021-06-08 15:50:54.674286	reshaev	pin	Я передал его людям что ты его ищешь
+2021-06-08 15:51:11.457753	pin	reshaev	в переговорщике то и дело что он сразу говорит максимальную сумму что ему сказала компания
+2021-06-09 13:57:09.291788	pin	reshaev	привет
+2021-06-09 13:57:32.794616	pin	reshaev	пин билд плиз
+2021-06-13 15:13:59.955533	pin	reshaev	HI
+2021-06-13 15:14:30.402678	pin	reshaev	4EI TARGET https://www.jpnoonan.com/
+2021-06-13 15:14:37.621250	pin	reshaev	KTO PEREGOVORI VEDET
+2021-06-16 10:51:15.966783	pin	reshaev	привет
+2021-06-16 10:51:32.432091	pin	reshaev	вы этим я надеюсь не отдавали бесплатно декрипторы?
+2021-06-16 10:51:33.455760	pin	reshaev	ID: SNpgHQePW8LvvL6M68USP8YFR7PdaYu1fi3zPpdOWNi20RyTWxVVBrfvWf8H6fPo
+Updated: 2 days ago
+2021-06-16 10:52:51.037127	reshaev	pin	Привет
+2021-06-16 10:53:15.461137	reshaev	pin	Нет
+2021-06-16 10:53:33.574139	reshaev	pin	Так как ты не знал про запрет не выдали
+2021-06-16 10:53:39.466565	reshaev	pin	В следующий раз буду выдавать
+2021-06-16 10:53:48.831011	pin	reshaev	ок
+2021-06-16 10:54:03.879298	pin	reshaev	но это не больницка
+2021-06-16 10:54:11.484170	reshaev	pin	А что э
+2021-06-16 10:54:14.278231	pin	reshaev	я посмотрел сто раз
+2021-06-16 10:54:18.694651	reshaev	pin	По сайту вроде больница
+2021-06-16 10:54:28.063632	pin	reshaev	у них нету реанимации и тд
+2021-06-16 10:54:53.671094	pin	reshaev	они в основном лечат спортивные травмы
+2021-06-16 10:55:17.002615	pin	reshaev	у них страховка на 3кк есть
+2021-06-16 10:55:21.853616	pin	reshaev	изза этого и локнули
+2021-06-16 10:55:29.206593	pin	reshaev	хорошо их изучили
+2021-06-16 10:55:35.975722	pin	reshaev	я все подряд не локаю
+2021-06-16 10:57:05.683589	reshaev	pin	Ок
+2021-06-16 10:57:49.755306	reshaev	pin	Но мы решили сектор здравоохранения не трогать вообще даже типа этого, так что давай теперь обходить их стороной
+2021-06-16 10:58:13.720694	pin	reshaev	+
+2021-06-16 11:06:05.068395	pin	reshaev	http://i5rxdyozq7uyotqtmcj4hxq7modmxklejqysurqsf5ixhzw444jynvyd.onion/adminjx1p8zu25dr4ae7o.php?go=news
+2021-06-16 11:06:13.464673	pin	reshaev	я не могу добавить новых
+2021-06-16 11:06:38.464609	pin	reshaev	делаю сейв и тупо белый экран и не появляются конторы
+2021-06-16 11:06:50.909527	pin	reshaev	креды юзер2
+2021-06-16 11:07:01.624448	pin	reshaev	посмотришь сейчас?
+2021-06-16 11:07:04.671515	reshaev	pin	Да
+2021-06-16 11:08:00.550100	reshaev	pin	Передал ответсвенному за админку
+2021-06-16 11:08:02.649930	reshaev	pin	Ща глянет
+2021-06-16 11:18:20.877619	reshaev	pin	Пробуй
+2021-06-16 12:27:02.838446	reshaev	pin	&
+2021-06-16 12:27:03.683215	reshaev	pin	?
+2021-06-16 12:42:44.121483	pin	reshaev	dct uel
+2021-06-16 12:42:50.452084	pin	reshaev	все гуд
+2021-06-16 18:14:45.923034	pin	reshaev	алтера можешь вызвонить?
+2021-06-16 18:14:50.958807	pin	reshaev	пусть выйдет
+2021-06-16 18:15:00.466870	reshaev	pin	Попробу
+2021-06-16 18:15:16.148172	pin	reshaev	спасибо
+2021-06-16 18:15:26.562429	pin	reshaev	и вопрос когда линукс локер будет готов?
+2021-06-16 18:16:48.547156	reshaev	pin	Он не в сети
+2021-06-16 18:17:10.998710	reshaev	pin	По линуксу под некоторые системы надо пересобрать
+2021-06-16 18:17:16.999994	reshaev	pin	А так уже готово и протестили
+2021-06-16 18:17:39.539962	reshaev	pin	Например esxi ниже 6.7 не запускается надо со старыми билиотеками собирать
+2021-06-16 18:18:40.884092	pin	reshaev	а еще можешь вставить что на рабочий стол ставилась картинка которую я дам и что бы она не локалась при локе?
+2021-06-16 18:19:12.746726	reshaev	pin	Да
+2021-06-18 08:26:25.369017	pin	reshaev	ghbdtn
+2021-06-18 08:26:35.532021	reshaev	pin	Привет
+2021-06-18 08:26:37.332868	pin	reshaev	привет
+2021-06-18 08:26:47.251104	pin	reshaev	а можешь мне дать под линукс ?
+2021-06-18 08:27:04.279511	pin	reshaev	параноик мне выдал вчера
+2021-06-18 08:27:11.008038	pin	reshaev	пин билдер
+2021-06-18 08:27:34.737102	reshaev	pin	Что он выдал тебе?
+2021-06-18 08:28:00.420177	pin	reshaev	YJaSholYVyutPPmyHu1jkidZ2xceLUHCW7WzIzQQK1Gs21y5y6bqil2j0EQGGRDv
+2021-06-18 08:28:46.254564	reshaev	pin	а можешь мне дать под линукс ? - пока не могу там последние пару моментов остались
+2021-06-18 08:28:52.058484	reshaev	pin	билдер
+2021-06-18 08:29:04.409573	pin	reshaev	да хоть какой нибудь
+2021-06-18 08:29:19.955339	pin	reshaev	или он тупо не работает?
+2021-06-18 08:30:50.776133	reshaev	pin	Сегодня билдер доделаю и дам, в таком виде не могу выдать
+2021-06-18 08:30:57.074997	reshaev	pin	У тебя там не крупная сетка?
+2021-06-18 08:31:16.553520	reshaev	pin	Желательно еще в бою протестить а не сразу крупняк ставить
+2021-06-18 08:31:23.079533	pin	reshaev	как раз крупная
+2021-06-18 08:31:30.855063	pin	reshaev	я е сейчасуже почти сдлеал
+2021-06-18 08:31:33.948100	reshaev	pin	Тогда тем более
+2021-06-18 08:31:43.602205	pin	reshaev	хуже не будет
+2021-06-18 08:31:48.280486	reshaev	pin	Это первый запуск будет
+2021-06-18 08:31:51.088602	pin	reshaev	это казино ))
+2021-06-18 08:32:29.751433	reshaev	pin	:-)
+2021-06-18 08:32:39.077263	reshaev	pin	Ладно сегодня к ночи доделаю все
+2021-06-18 08:32:51.603577	pin	reshaev	к ночи они уже их отключат ((
+2021-06-22 13:00:22.557231	pin	reshaev	привет
+2021-06-22 18:38:37.516798	pin	reshaev	jhmW6WXkvsAwheK2P5XiR8Cm7k6dYgnFAcD8y6ONiZBZbEQIUFk1gVjdnpSwqHDq
+2021-06-22 18:38:42.062557	pin	reshaev	чей таргет
+2021-06-23 06:56:56.441762	reshaev	pin	Это альтера таргет
+2021-06-23 10:41:16.347038	reshaev	pin	Это альтера таргет
+2021-06-23 10:43:33.125964	pin	reshaev	f ult jy
+2021-06-23 10:43:39.024779	pin	reshaev	а где он
+2021-06-23 10:43:54.199559	pin	reshaev	скажи нада по этому таргету решить срочно
+2021-06-23 10:43:57.550426	pin	reshaev	готовы платить
+2021-06-23 19:07:01.124579	pin	reshaev	тут?
+2021-06-23 19:07:08.968811	pin	reshaev	посмотрел функцию?
+2021-06-23 19:07:09.610393	reshaev	pin	Да
+2021-06-23 19:07:13.730899	pin	reshaev	мне на завтра билд нужен
+2021-06-23 19:07:18.285191	pin	reshaev	сделал?
+2021-06-23 19:07:35.688196	reshaev	pin	Разбираюсь еще понять не могу
+2021-06-23 19:09:29.386565	pin	reshaev	сделай плиз ПИН билд
+2021-06-23 19:09:32.821764	pin	reshaev	сейчас
+2021-06-23 19:09:37.313332	reshaev	pin	ок
+2021-06-23 19:11:26.111966	reshaev	pin	https://file.io/JAxWhDC9dBsF
+2021-06-23 19:12:00.153730	reshaev	pin	IASJDKXVNLASKDQIWEIUGAH
+2021-06-23 19:16:29.632779	pin	reshaev	https://www.file.io/download/JAxWhDC9dBsF
+2021-06-23 19:16:37.186412	pin	reshaev	success	false
+status	429
+code	"TOO_MANY_REQUESTS"
+message	"Too many requests"
+help	"https://file.io/help/api/errors/TOO_MANY_REQUESTS"
+key	null
+2021-06-23 19:17:19.537554	reshaev	pin	Download: https://qaz.im/load/N4KaQF/2YiQSa
+Delete: https://qaz.im/index.php?a=delete&q=1665950173
+2021-06-24 15:50:28.517056	pin	reshaev	привет
+2021-06-24 15:50:28.518437	pin	reshaev	а новостник опять упал?
+2021-06-29 09:26:42.086661	pin	reshaev	привет
+2021-07-08 06:23:47.768384	pin	reshaev	Client ID  
+twjsnbxTMcFxvz2tGAwcKMUsk6OknIfmnrfDiDDj1HvIJtNdq7v5madQQ3nlX6lH
+
+Please let me know specifics.   Ready to move.
+2021-07-08 09:17:11.908040	pin	reshaev	Client ID  
+twjsnbxTMcFxvz2tGAwcKMUsk6OknIfmnrfDiDDj1HvIJtNdq7v5madQQ3nlX6lH
+
+Please let me know specifics.   Ready to move.
+2021-07-08 20:50:59.521985	pin	reshaev	тут?
+2021-07-10 07:24:42.398820	pin	reshaev	gривет
+2021-07-10 07:24:59.101110	pin	reshaev	с хорсом договорились
+2021-07-10 07:25:06.989633	pin	reshaev	там должны сегодня выплалитить
+2021-07-16 11:35:43.398768	pin	reshaev	привет
+2021-07-16 11:35:51.511787	reshaev	pin	привет
+2021-07-16 11:35:51.727120	pin	reshaev	мне на завтра билд нужен
+2021-07-16 11:36:01.267354	pin	reshaev	но что бы работала функция
+2021-07-16 11:36:14.730697	pin	reshaev	-size 10
+2021-07-16 11:36:28.381316	pin	reshaev	сможешьт проверить все?
+2021-07-16 11:36:31.916999	reshaev	pin	А я тебе не скидывал пофикшеный?
+2021-07-16 11:36:37.812456	pin	reshaev	нет
+2021-07-16 11:36:48.293012	pin	reshaev	сделай плиз мне новые ЦНА
+2021-07-22 13:49:22.480000	pin	reshaev	hwYWKQSDK4NxUSQZGAOloTX7ZblcE5XWOr8gFmDoLHnjqFpocNKYBHlLK4wxznCN
+2021-07-24 20:04:44.468574	pin	reshaev	hi
+2021-07-27 14:01:05.849438	pin	reshaev	ghbdtn
+2021-07-27 14:01:12.859820	pin	reshaev	привет
+2021-07-27 14:01:17.911515	pin	reshaev	есть кто
+2021-07-27 14:01:30.650412	reshaev	pin	Привет
+2021-07-27 14:01:34.313682	reshaev	pin	Ты получил сообщения?
+2021-07-27 14:01:39.569768	reshaev	pin	В офф я тебе писал
+2021-07-27 14:01:40.142355	pin	reshaev	нет
+2021-07-27 14:01:46.268096	reshaev	pin	Загружается на мегу
+2021-07-27 14:02:13.841588	pin	reshaev	+
+2021-07-27 14:07:01.073931	pin	reshaev	нужен секьюрети репорт\
+2021-07-27 14:41:53.600163	reshaev	pin	запросил
+2021-08-02 15:34:41.139518	pin	reshaev	привет
+2021-08-02 15:34:46.917503	reshaev	pin	Privet
+2021-08-02 15:35:05.866768	pin	reshaev	[31.07.2021 15:02:35] <pin> Key is as follows:
+
+hwYWKQSDK4NxUSQZGAOloTX7ZblcE5XWOr8gFmDoLHnjqFpocNKYBHlLK4wxznCN
+[31.07.2021 15:02:49] <pin> мы им дали декрипторы
+[31.07.2021 15:03:13] <pin> они говорят что много файлов разархивировалось но расширение не поменялось
+[31.07.2021 15:03:16] <pin> что делать?
+2021-08-02 15:35:57.399279	reshaev	pin	Eshe raz puskai zapustat
+2021-08-02 15:36:18.728329	pin	reshaev	пробовали
+2021-08-02 15:36:43.571352	reshaev	pin	Znachit oni rashifrovani prosto puskai rashireniya uberut rukami
+2021-08-02 15:36:48.336363	reshaev	pin	Takoe bilo uje
+2021-08-02 15:36:48.500340	pin	reshaev	может заново нада сделать декриптор сам файл?
+2021-08-02 15:36:58.173435	reshaev	pin	Net
+2021-08-02 15:37:02.480207	pin	reshaev	так да они расшифрованы
+2021-08-02 15:37:16.735552	pin	reshaev	но просто файло файлов хуева гора говорят
+2021-08-02 15:38:17.231469	reshaev	pin	Mogu peresobrat decryptor noviy on sam rashireniya uberet
+2021-08-02 15:38:31.935270	pin	reshaev	давай
+2021-08-02 15:38:37.971150	reshaev	pin	kk
+2021-08-02 15:38:54.103225	pin	reshaev	спасибо
+2021-08-02 15:39:10.430271	pin	reshaev	OP: pin
+ID: oVY63Bk2PR0YyKuyXSQYsBR9ISdAzDp1SRFlKlgAJ4z4v2CF9a21p4naJSfdTfq4
+Updated: 12 minutes ago
+2021-08-02 15:39:21.740602	pin	reshaev	в этом чате скинут на тест декрипт
+2021-08-02 15:39:27.433648	pin	reshaev	посмотри плиз
+2021-08-02 15:39:31.839956	pin	reshaev	а то я отьеду
+2021-08-02 15:39:39.537018	pin	reshaev	что бы сразу декриптнуть им
+2021-08-02 15:39:44.453146	reshaev	pin	kk sapurtu peredal
+2021-08-02 15:40:00.633111	reshaev	pin	Ya zavtra v budu v seti
+2021-08-02 15:40:36.151049	pin	reshaev	декрипторы сегодня пересоберешь мили завтра?
+2021-08-02 15:40:45.762778	reshaev	pin	Seichas
+2021-08-02 15:40:51.790664	reshaev	pin	Cherez min 30
+2021-08-02 15:40:56.170157	pin	reshaev	ок
+2021-08-02 16:31:09.521345	reshaev	pin	Download: https://qaz.im/load/GnDn7a/z92dry
+Delete: https://qaz.im/index.php?a=delete&q=2011930910
+2021-08-02 16:31:25.286741	reshaev	pin	pass: IASHDHXKKOQJASJHUSYY18872
+2021-08-02 16:37:46.621088	reshaev	pin	prinyal?
+2021-08-02 19:40:35.562721	pin	reshaev	+
+2021-08-04 01:29:38.298232	pin	reshaev	+
+2021-08-05 20:40:28.261505	pin	reshaev	ты тут?
+2021-08-06 18:10:31.604631	reshaev	pin	Restrict access to servers for regular users
+- use DIFFERENT passwords
+- Check admins' activity on servers 1 times a week
+- install  EDR on every computer( for exmaple : Sentinel , Cylance , Crowd Strike, Carbon) 
+- set up a more complex storage system
+- Protect lsas dump on all computers
+- have only 1 active accounts DA
+- install last security updates
+- install firewall on all network
+2021-08-06 18:17:18.036827	reshaev	pin	(06:12:39 PM) professor@q3mcco35auwcstmt.onion: https://file.io/1dFQMcTQZVnm
+(06:12:41 PM) professor@q3mcco35auwcstmt.onion: листинг
+2021-08-08 08:03:17.079470	reshaev	pin	Restrict access to servers for regular users
+- use DIFFERENT passwords
+- Check admins' activity on servers 1 times a week
+- install  EDR on every computer( for exmaple : Sentinel , Cylance , Crowd Strike, Carbon) 
+- set up a more complex storage system
+- Protect lsas dump on all computers
+- have only 1 active accounts DA
+- install last security updates
+- install firewall on all network
+2021-08-08 08:03:17.082352	reshaev	pin	(06:12:39 PM) professor@q3mcco35auwcstmt.onion: https://file.io/1dFQMcTQZVnm
+(06:12:41 PM) professor@q3mcco35auwcstmt.onion: листинг
+2021-08-08 08:05:22.425773	pin	reshaev	The file you requested has been deleted
+2021-08-08 12:38:22.717544	reshaev	pin	(06:10:07 PM) professor@q3mcco35auwcstmt.onion:  Restrict access to servers for regular users
+- use DIFFERENT passwords
+- Check admins' activity on servers 1 times a week
+- install  EDR on every computer( for exmaple : Sentinel , Cylance , Crowd Strike, Carbon) 
+- set up a more complex storage system
+- Protect lsas dump on all computers
+- have only 1 active accounts DA
+- install last security updates
+- install firewall on all network
+(06:10:15 PM) professor@q3mcco35auwcstmt.onion: залью листинг сек
+(06:12:39 PM) professor@q3mcco35auwcstmt.onion: https://file.io/1dFQMcTQZVnm
+(06:12:41 PM) professor@q3mcco35auwcstmt.onion: листинг
+
+pass file: wpas
+https://www.sendspace.com/file/8cet2q
+https://www.sendspace.com/delete/8cet2q/e9d8b875a079647d0df335ddbf14158f
+
+лог удаления WPAS INC
+2021-08-08 14:35:39.936292	pin	reshaev	+
+2021-08-09 07:31:13.368845	pin	reshaev	привет
+2021-08-13 10:30:07.504167	pin	reshaev	привет
+2021-08-13 10:30:13.010241	pin	reshaev	а новостник какой щас?
+2021-08-13 10:30:39.649161	reshaev	pin	Привет
+2021-08-13 10:31:00.722786	reshaev	pin	Видимо домен умер
+2021-08-13 10:31:22.382895	reshaev	pin	Сделаем новый
+2021-08-13 10:31:25.257849	reshaev	pin	ВОт тор пока http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion/
+2021-08-13 10:32:06.884971	reshaev	pin	А нет
+2021-08-13 10:32:20.893691	reshaev	pin	Прокладка тупит
+2021-08-13 10:32:24.249684	reshaev	pin	Кодер зайдет перезагрузит
+2021-08-13 10:32:32.509785	reshaev	pin	домен тот же continews.click
+2021-08-13 10:32:41.081045	pin	reshaev	+
+2021-08-13 10:33:02.663566	pin	reshaev	новый локер когда будет?
+2021-08-13 10:33:23.022375	reshaev	pin	На следующей неделе
+2021-08-13 10:33:28.494695	reshaev	pin	На выходных тестить начинаекм
+2021-08-13 10:33:37.820475	pin	reshaev	что хорошего там будет?
+2021-08-13 10:34:57.408139	reshaev	pin	Overlapped I/O
+2021-08-13 10:35:13.885747	pin	reshaev	это что ?
+2021-08-13 10:35:33.187085	reshaev	pin	Максимальная производительность если в двух словах
+2021-08-31 11:00:49.976954	pin	reshaev	привет
+2021-09-21 15:31:49.891328	pin	reshaev	привет
+2021-09-21 19:25:12.529975	pin	reshaev	какой новостной  сайт сейчас?
+2021-09-22 15:17:40.097317	pin	reshaev	hi
+2021-09-26 09:35:50.021380	pin	reshaev	4ei target
+2021-09-27 08:53:34.101484	pin	reshaev	[05:56:54] <pin> tolko poka ne davai nikuda ia skazhu kogda 
+[05:57:51] <pin> i have a client that the TA went dark and need a decryptor.   I have attached a file for you to review.  The address provided by the TA was conti.cont@yandex.ru    Client has paid $5K already.  However, they will pay for the decryptor.   
+[05:58:02] <pin> fail s rashireniem babyk 
+[05:58:27] <pin> email conti.cont@yandex.ru ne vash?
+2021-09-29 15:38:47.251048	pin	reshaev	привет
+2021-10-03 06:41:08.263358	pin	reshaev	привет
+2021-10-06 10:38:15.214931	reshaev	pin	Привет сегодня после 12 ни чего не публикуем в блоге, переезжаем в новую админку
+2021-10-06 11:36:51.927231	reshaev	pin	Привет сегодня после 12 ни чего не публикуем в блоге, переезжаем в новую админку
+2021-10-12 08:06:01.986965	pin	reshaev	ghbdtn
+2021-10-25 19:04:28.287842	pin	reshaev	привет
+2021-10-25 19:04:44.839493	reshaev	pin	привет
+2021-10-25 19:04:54.933032	pin	reshaev	0YoIfDuzJevjw4DWKoAAmz00QR6Smww9VGvzMt9kbCXWbe7HdMuK6AuBEH3D11Xv
+2021-10-25 19:04:59.662653	pin	reshaev	чей таргет
+2021-10-25 19:05:45.332019	reshaev	pin	mont@q3mcco35auwcstmt.onion
+2021-10-25 19:06:32.657263	pin	reshaev	250к предел
+2021-10-25 19:07:27.321531	pin	reshaev	могу поспособствовать
+2021-10-25 19:10:28.557388	reshaev	pin	Отпиши ему там решайте
+2021-10-25 19:24:31.305788	pin	reshaev	да не ты ж знаешь он не слушает меня
+2021-10-25 19:24:49.869182	pin	reshaev	ну просто если вам 250к не нужны то ок
+2021-10-27 19:30:29.032678	pin	reshaev	пhbdtn
+2021-10-27 19:30:32.254235	pin	reshaev	привет
+2021-10-27 19:30:34.627093	reshaev	pin	Привет
+2021-10-27 19:30:49.721789	pin	reshaev	через новую админку заливать файлы вообще не реал
+2021-10-27 19:30:58.488795	pin	reshaev	скорости нет
+2021-10-27 19:30:59.288272	reshaev	pin	Почему?
+2021-10-27 19:31:15.212208	pin	reshaev	очень медленно
+2021-10-27 19:31:57.746807	pin	reshaev	может можно как то через ssh
+2021-10-27 19:32:05.204839	reshaev	pin	Да можно
+2021-10-27 19:32:15.422145	reshaev	pin	Какой у тебя username?
+2021-10-27 19:32:21.481994	pin	reshaev	nip
+2021-10-27 19:36:38.778345	reshaev	pin	sgf_22
+GTM7f4Vp97yCcB8wnj9nEJ3e
+2021-10-27 19:36:43.945656	reshaev	pin	185.25.48.4
+2021-10-27 19:38:22.748764	reshaev	pin	твоя папка там будет /files/22
+2021-10-27 19:38:50.834884	reshaev	pin	Находишь там папку с id новости допустим iEJZz19l и заливаешь туда
+2021-10-27 19:38:56.549605	reshaev	pin	Если ее нету сам создаешь
+2021-10-27 19:40:09.120103	reshaev	pin	Потом во вкладке  files выбираешь файловый сервер f2
+2021-10-27 19:41:55.286111	reshaev	pin	Саппорту если че пиши
+2021-10-27 19:41:59.784172	reshaev	pin	Я отойду на пару часов
+2021-11-01 10:58:00.135986	pin	reshaev	nen&
+2021-11-01 10:58:02.972364	pin	reshaev	тут?
+2021-11-01 10:58:03.919396	pin	reshaev	привет
+2021-11-01 10:58:22.327736	reshaev	pin	Да
+2021-11-01 10:58:35.860955	reshaev	pin	Привет
+2021-11-04 05:15:19.474731	pin	reshaev	gривет
+2021-11-04 05:15:21.742874	pin	reshaev	тут?
+2021-11-07 07:11:04.016803	pin	reshaev	https://continews.click/
+2021-11-07 07:11:08.526600	pin	reshaev	502 Bad Gateway
+2021-11-07 07:14:55.116890	reshaev	pin	http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion/
+2021-11-07 07:15:43.332752	reshaev	pin	https://continews.click/ - завтра починимм
+2021-11-28 09:08:35.909188	pin	reshaev	тут?
+2021-11-28 09:08:45.738842	reshaev	pin	tut
+2021-11-28 09:08:51.485911	pin	reshaev	привет
+2021-11-28 09:08:58.136160	pin	reshaev	не починили заливалку?
+2021-11-28 09:09:03.097244	reshaev	pin	privet
+2021-11-28 09:09:27.310621	reshaev	pin	Net admina netu

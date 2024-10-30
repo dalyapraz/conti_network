@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2020-10-14 10:51:14.540863	kaktus	ramon	Привет!
+2020-10-14 10:51:31.758567	kaktus	ramon	мне Бентли писал - у тебя проблема с БК?
+2021-04-07 16:59:25.345377	ramon	kaktus	otpishi kak bydesh' tyt
+2021-04-08 05:30:44.610014	ramon	kaktus	otpishi kak bydesh' tyt
+2021-04-08 18:24:37.770736	ramon	kaktus	hi
+2021-04-08 18:24:38.375931	ramon	kaktus	man
+2021-04-08 18:24:39.220117	ramon	kaktus	tyt>?
+2021-04-08 18:26:33.136264	kaktus	ramon	hi
+2021-04-08 18:26:33.137035	kaktus	ramon	man
+2021-04-08 18:26:33.137598	kaktus	ramon	tyt>?
+2021-04-12 09:33:54.991579	ramon	kaktus	hey
+2021-04-12 09:33:59.261882	ramon	kaktus	yo

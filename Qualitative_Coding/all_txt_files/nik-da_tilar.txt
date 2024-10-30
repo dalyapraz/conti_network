@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2020-06-26 13:09:56.855925	tilar	nik-da	hi
+2020-06-26 13:09:57.484167	tilar	nik-da	man
+2020-07-06 12:58:26.377614	nik-da	tilar	po shwab vse takje - ne prixodili bots
+2020-07-09 09:41:10.916740	tilar	nik-da	hi
+2020-07-09 09:41:12.198598	tilar	nik-da	tyt?
+2020-07-13 10:55:25.794000	tilar	nik-da	hi
+2020-07-13 10:55:25.795965	tilar	nik-da	tyt?
+2020-08-07 11:06:58.351002	nik-da	tilar	bro, mne ot'exat' nyjno srocno na 1 cas,sorr - , priedy otpishy, pp 0 bots po vcerashnim banks skiny kak priedy
+2020-08-10 11:32:17.461460	nik-da	tilar	bro, mne ot'exat' nyjno srocno na 1 cas,sorr - , priedy otpishy, pp 0 bots po vcerashnim banks skiny kak priedy
+2020-09-07 09:49:33.383304	nik-da	tilar	privet bro, svet otrybili, doljni skoro vklycit' / batareya na noyte saditsa / sorr
+2020-09-07 09:50:30.874968	nik-da	tilar	privet bro, svet otrybili, doljni skoro vklycit' / batareya na noyte saditsa / sorr
+2020-09-24 09:29:39.458043	nik-da	tilar	privet

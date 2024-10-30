@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-10-28 10:20:43.133561	viper	mavelek	привет а новых людей к тебе?
+2020-11-06 13:07:53.423122	viper	mavelek	привет!

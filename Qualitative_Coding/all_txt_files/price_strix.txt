@@ -1,0 +1,20 @@
+Timestamp	From	To	Message
+2020-11-12 19:24:12.219683	strix	price	hi
+2020-11-12 19:24:22.202656	price	strix	hi
+2020-11-12 19:24:40.253901	price	strix	мне ВПН, без них блочат
+2020-11-12 19:25:12.095676	strix	price	а какой впн надо?марс или другой?
+2020-11-12 19:25:25.354622	price	strix	я в них не разбираюсь
+2020-11-12 19:25:40.712755	price	strix	сам нашел какой-то но он японский и тоже могут заблочить
+2020-11-12 19:25:47.559956	price	strix	какой нибудь американский
+2020-11-12 19:25:48.613717	strix	price	тогда наверное, марс достаточно
+2020-11-12 19:25:53.441915	price	strix	давай
+2020-11-12 19:28:07.240617	strix	price	у тебя какая ОС, линух или венда?
+2020-11-12 19:28:57.651659	price	strix	венда
+2020-11-12 19:30:13.247281	strix	price	Download: https://qaz.im/load/yS5n8b/Y6K2aN
+Key: !e3RXUjqXhr1
+2020-11-12 19:30:20.472305	price	strix	спасибо
+2020-11-12 19:31:33.476634	price	strix	ещё раз перепошли пожалуйста, чтото заглючило
+2020-11-12 19:31:43.254991	price	strix	The file you are looking for doesn't exist anymore, or the link is wrong, please try again.
+2020-11-12 19:33:21.016528	strix	price	Download: https://qaz.im/load/YRN6A5/KdkHbd
+Key: hIX11j=uBWdz
+2020-11-12 19:33:53.973719	price	strix	ок

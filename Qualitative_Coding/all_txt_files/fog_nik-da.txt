@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2021-05-20 16:31:23.279896	fog	nik-da	hi
+2021-05-20 16:31:51.686628	fog	nik-da	budet vremya, stukani
+2021-05-20 16:32:13.711845	nik-da	fog	привет
+2021-05-20 16:32:15.720535	nik-da	fog	я тут
+2021-05-20 16:32:30.136573	fog	nik-da	ya tozhe
+2021-05-20 16:56:50.293224	nik-da	fog	 ща бро \ есть сетки
+пейлод сделают
+2021-05-20 16:56:55.502260	nik-da	fog	и начнем
+2021-05-20 16:58:54.738481	fog	nik-da	k
+2021-05-21 20:50:12.210805	fog	nik-da	Otvalilas' zhaba, ne uvidel
+2021-05-21 20:50:19.452867	fog	nik-da	123 -- eto silno
+2021-05-28 14:08:35.992416	fog	nik-da	hi

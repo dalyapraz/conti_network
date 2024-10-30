@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-10-01 09:40:35.399339	fast	bullet	Приветствую
+2021-10-07 14:27:51.417533	bullet	fast	Привет
+2021-10-07 14:27:59.757125	fast	bullet	Привет

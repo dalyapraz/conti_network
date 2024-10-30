@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2021-09-07 22:13:02.819603	paranoik	mavemat	hi pochini blog
+2021-09-07 22:13:05.833374	paranoik	mavemat	v off yshol
+2021-09-08 07:19:03.692249	paranoik	mavemat	hi pochini blog
+2021-09-08 07:19:03.704683	paranoik	mavemat	v off yshol
+2021-10-08 09:55:15.197706	mavemat	paranoik	хай
+2021-10-25 10:07:45.933483	mavemat	paranoik	Ага, сейчас проверю

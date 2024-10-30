@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2020-08-04 09:48:51.526307	poll	oldtimes	chel ti ochen ne stabilen, ety nedelu smotrim esli vse takje to prekrahem sotrydnichestvo
+2020-08-04 13:58:11.464748	poll	oldtimes	chel ti ochen ne stabilen, ety nedelu smotrim esli vse takje to prekrahem sotrydnichestvo

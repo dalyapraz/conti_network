@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2021-12-08 19:03:23.674310	dollar	andy	mango, stern
+2021-12-08 19:03:38.847130	dollar	andy	otpsihi po etim dvym setkam
+2021-12-08 19:03:48.763803	dollar	andy	ktoorie davno  net otpisok
+2021-12-08 19:03:55.399678	dollar	andy	BEEMAC-TS
+TCM-PDC-XA04
+эти пока запросил у товарщей,
+2021-12-08 22:48:40.244780	dollar	andy	mango, stern
+2021-12-08 22:48:40.246625	dollar	andy	otpsihi po etim dvym setkam
+2021-12-08 22:48:40.247526	dollar	andy	ktoorie davno  net otpisok
+2021-12-08 22:48:40.248911	dollar	andy	BEEMAC-TS
+TCM-PDC-XA04
+эти пока запросил у товарщей,

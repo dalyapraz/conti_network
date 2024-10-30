@@ -1,0 +1,1238 @@
+Timestamp	From	To	Message
+2020-06-22 08:56:40.514316	stern	reshaev	еще мейлы нужны
+2020-06-22 09:46:37.574467	stern	reshaev	еще мейлы нужны
+2020-06-22 09:58:07.115276	reshaev	stern	Привет
+2020-06-22 09:58:16.177452	stern	reshaev	?
+2020-06-22 09:58:18.899424	stern	reshaev	привет
+2020-06-22 09:58:21.118345	stern	reshaev	нужны еще мейлы ?
+2020-06-22 09:58:25.320416	reshaev	stern	Нет
+2020-06-22 09:58:25.444880	stern	reshaev	готово если что
+2020-06-22 09:58:45.005488	reshaev	stern	Я фикс делаю сегодня, разобрался в чем проблема
+2020-06-22 09:58:57.395421	reshaev	stern	Сегодгня прогоним еще на всех тачках
+2020-06-22 09:59:31.004566	stern	reshaev	ага ок
+2020-06-22 09:59:36.423373	stern	reshaev	это по шарам?
+2020-06-22 09:59:55.511439	reshaev	stern	Не только
+2020-06-22 10:01:26.370477	reshaev	stern	Выплати мне за 2 недели bc1qwdvezde03twlxssf6amv0d2gysw0r0yg5f6a3q
+2020-06-23 08:37:36.638037	stern	reshaev	Привет
+2020-06-23 08:37:37.830224	stern	reshaev	как дела
+2020-06-23 08:37:40.201300	stern	reshaev	допилили?
+2020-06-23 08:43:30.603241	reshaev	stern	Привет, поддержку windows 2003 и xp осталось сегодня доделаю
+2020-06-24 14:28:27.265780	stern	reshaev	
+[15:27:54] <revers-poll> мы выходим на обьем сейчас готово около 5 как пофиксят билд мы запустим
+2020-06-24 14:28:43.962125	stern	reshaev	как дела с фиксом?
+2020-06-24 15:27:50.391115	stern	reshaev	
+[15:27:54] <revers-poll> мы выходим на обьем сейчас готово около 5 как пофиксят билд мы запустим
+2020-06-24 15:27:50.392983	stern	reshaev	как дела с фиксом?
+2020-06-24 15:30:46.466230	reshaev	stern	Привет, завтра уже могу выдать билды, сегодня тестирую на xp и 2003
+2020-06-24 15:45:55.744687	reshaev	stern	Привет, завтра уже могу выдать билды, сегодня тестирую на xp и 2003
+2020-06-24 15:46:07.602171	stern	reshaev	ghbdtn
+2020-06-24 15:46:09.350135	stern	reshaev	привет ок
+2020-06-24 19:37:14.900453	reshaev	stern	Скинь мне мейлы на 3 билда
+2020-06-24 19:54:35.808074	stern	reshaev	ок
+2020-06-24 19:56:58.898741	stern	reshaev	SusanJMcCauley1457bvn@protonmail.com
+distmissfighster1967neydweelrie@protonmail.com
+
+TiffanyJPacheco454dfg@protonmail.com
+ungamarme1994unfiphy@protonmail.com
+
+ardenbirdie@protonmail.com
+ranorslipho1953brocored@protonmail.com
+2020-06-24 20:48:27.906859	reshaev	stern	pass: O9~%|xYhM?oT?YMQ~1gcb@vZK9zFxemR
+2020-06-24 20:48:38.878689	reshaev	stern	https://send.firefox.com/download/c17909586619d150/#760GlkMlUnsiPbmyaVZlVw
+2020-06-24 20:48:44.846635	reshaev	stern	декрипторы
+2020-06-25 11:18:23.602902	reshaev	stern	pass: O9~%|xYhM?oT?YMQ~1gcb@vZK9zFxemR
+2020-06-25 11:18:23.610924	reshaev	stern	https://send.firefox.com/download/c17909586619d150/#760GlkMlUnsiPbmyaVZlVw
+2020-06-25 11:18:23.616091	reshaev	stern	декрипторы
+2020-06-25 11:19:41.172208	reshaev	stern	Не дошло сообщение
+2020-06-25 11:20:01.938383	reshaev	stern	(15:18:05) The encrypted message received from stern@q3mcco35auwcstmt.onion is unreadable, as you are not currently communicating privately.
+2020-06-25 14:57:27.365814	reshaev	stern	Тут?
+2020-06-25 15:00:07.543101	reshaev	stern	reshaev@q3mcco35auwcstmt.onion/391664246159353833172880: Тебе полл скинул с этих мейлов ?
+daihudketa1986@protonmail.com:WNzJxKbr4V:19313002941 
+kendpracpaha1986@protonmail.com:V3H9hbbP4U:18606984478
+(15:41:44) reshaev@q3mcco35auwcstmt.onion/391664246159353833172880: 12.5 btc
+2020-06-25 17:36:09.874174	reshaev	stern	pass: Nt~8%0T|Ov2PFGU{LLbmqj%M?*cTnW#?
+2020-06-25 17:36:27.024851	reshaev	stern	https://send.firefox.com/download/a57435be23361016/#_EJO-MiAxk0TDdBnIOjc1A
+2020-06-25 17:36:30.409505	reshaev	stern	это декрипторы
+2020-06-25 17:36:36.904922	reshaev	stern	я им сегодня переделал билды
+2020-06-25 17:36:37.654752	stern	reshaev	отлично
+2020-06-25 17:36:43.234086	reshaev	stern	мелкий баг фикс
+2020-06-25 17:37:09.746362	reshaev	stern	Ты сообщения получал?
+2020-06-25 17:37:29.271759	stern	reshaev	нет
+2020-06-25 17:37:59.975914	reshaev	stern	Тебе полл скинул с этих мейлов $
+2020-06-25 17:38:00.104026	reshaev	stern	daihudketa1986@protonmail.com
+kendpracpaha1986@protonmail.com
+2020-06-25 17:38:04.716657	reshaev	stern	12.5 btc
+2020-06-25 17:38:07.243365	reshaev	stern	ему скинули
+2020-06-25 17:38:15.322008	reshaev	stern	?
+2020-06-25 17:41:45.734720	stern	reshaev	скинь кош
+2020-06-25 17:41:51.360783	stern	reshaev	да сегодня скинул
+2020-06-25 17:42:05.133071	reshaev	stern	bc1qmwvprxqaq4rakwg7dhsvk046ln8e9kjx8zha49
+2020-06-25 17:43:22.229042	stern	reshaev	crbyek
+2020-06-25 17:43:23.006603	stern	reshaev	скинул
+2020-06-26 08:51:07.945215	reshaev	stern	Привет, скинь мне мейлы на 20 билдов
+2020-06-26 13:40:43.010754	reshaev	stern	Привет, скинь мне мейлы на 20 билдов
+2020-06-26 13:43:42.547075	stern	reshaev	привет ок
+2020-06-26 17:58:54.177618	reshaev	stern	Сегодня мейлы ждать7
+2020-06-26 19:48:49.284417	reshaev	stern	pass: z$0Q?{xbCu$JcD~mW~soLNx6tacoyf9s
+2020-06-26 19:48:53.889189	reshaev	stern	https://www.sendspace.com/file/nv8l0d
+2020-06-26 19:48:58.369505	reshaev	stern	https://www.sendspace.com/delete/nv8l0d/ddf408ba60f93c505f8be774f5361fab
+2020-06-26 19:49:02.295921	reshaev	stern	пол билд запросил
+2020-06-27 07:14:17.019407	reshaev	stern	Скинь мне мейлы если зайдешь сегодня
+2020-06-27 15:48:28.799355	reshaev	stern	Скинь мне мейлы если зайдешь сегодня
+2020-06-27 19:21:10.781844	stern	reshaev	1
+2020-06-27 19:21:16.064964	stern	reshaev	мыла готовы, скоро скину
+2020-06-27 19:21:23.952697	stern	reshaev	добавим третье мыло скоро gmail
+2020-06-27 22:35:33.906895	stern	reshaev	принял мейлы?
+2020-06-29 12:24:57.283958	reshaev	stern	Привет
+2020-06-29 12:25:01.698140	reshaev	stern	pass: R9ETZDYFJqwEfsTbDZ~UNfWr*T?fSgpp
+2020-06-29 12:25:52.772778	reshaev	stern	https://www.sendspace.com/file/l5pqm9
+2020-06-29 12:25:56.560744	reshaev	stern	https://www.sendspace.com/delete/l5pqm9/d0eb992815758fb9991235dbe5df5380
+2020-06-29 12:26:05.091305	reshaev	stern	Декрипторы
+2020-06-29 14:39:26.131776	reshaev	stern	Декрипторы принял?
+2020-06-29 14:49:57.207122	stern	reshaev	принял
+2020-07-06 13:15:24.283080	reshaev	stern	Привет, перекинь еще раз мейлы которые ночью скидывал, окно чата закрылось
+2020-07-06 13:15:52.253271	reshaev	stern	И скинь мне за 2 недели bc1q0qpwpcycm2su83qfqpx3742yaqzy9lc0g2t26y
+2020-07-06 14:32:40.716094	reshaev	stern	Привет, перекинь еще раз мейлы которые ночью скидывал, окно чата закрылось
+2020-07-06 14:32:40.718926	reshaev	stern	И скинь мне за 2 недели bc1q0qpwpcycm2su83qfqpx3742yaqzy9lc0g2t26y
+2020-07-06 15:05:22.492357	reshaev	stern	Мейлы перекинешь?
+2020-07-07 16:00:12.817339	stern	reshaev	Привет
+2020-07-07 16:00:14.713578	stern	reshaev	странно
+2020-07-07 16:00:16.608555	stern	reshaev	вобще никто не пишет
+2020-07-07 16:00:22.638691	stern	reshaev	может быть такое что что-то с локером
+2020-07-07 16:00:23.215464	stern	reshaev	?
+2020-07-07 17:39:48.127013	reshaev	stern	Привет, proff сегодня писал что там какие-то файлы не залочилсь большие, пока не известно в чем проблема, я сейчас еще раз все перепороверю на реальных сетях, сделаю логирование каждой ошибки, что бы  понять на чей стороне проблема
+2020-07-07 17:40:10.198658	reshaev	stern	Но вот полл после полседнего апдейта сказал что локер отлично отрабатывает
+2020-07-07 17:47:23.244634	reshaev	stern	Единственное что он говорит по что некотрые ав блочат,  сейчас уже чистку делаю от trend micro и eset
+2020-07-08 17:17:20.750544	reshaev	stern	Привет, proff сегодня писал что там какие-то файлы не залочилсь большие, пока не известно в чем проблема, я сейчас еще раз все перепороверю на реальных сетях, сделаю логирование каждой ошибки, что бы  понять на чей стороне проблема
+2020-07-08 17:17:20.770428	reshaev	stern	Но вот полл после полседнего апдейта сказал что локер отлично отрабатывает
+2020-07-08 17:17:20.778216	reshaev	stern	Единственное что он говорит по что некотрые ав блочат,  сейчас уже чистку делаю от trend micro и eset
+2020-07-08 18:21:19.135963	stern	reshaev	привет
+2020-07-08 18:21:22.548973	stern	reshaev	надо решить все вопросы по локеру
+2020-07-08 18:26:43.197633	reshaev	stern	привет, решаю уже, до пятницы разберусь
+2020-07-09 17:31:37.377763	stern	reshaev	
+[18:11:13] <professor> сделал первый мейзом, просто рандомную сетку небольшую - отписали сразу в течении суток
+[18:30:32] <Stern> два варианта
+[18:30:34] <Stern> либо
+[18:30:42] <Stern> 1. локер
+[18:30:43] <Stern> либо
+[18:30:48] <Stern> 2. то что это ты локал
+[18:31:05] <professor> первое... 
+разница очень ощутимая, я смотрел за процессом
+[18:31:15] <professor> не пропускает хендлы
+[18:31:23] <professor> сам локер не палится аверами почти никакими
+[18:31:29] <professor> большие файлы жрет только в путь
+2020-07-09 17:31:51.177440	stern	reshaev	сделай чтобы локер работал лучше чем у maze
+2020-07-09 17:32:54.684623	reshaev	stern	Щас чекну почекаю обзоры
+2020-07-09 17:38:42.099785	reshaev	stern	А есть вариант мне билд скинуть?
+2020-07-09 17:38:45.781612	reshaev	stern	С декриптором
+2020-07-09 17:43:35.112720	stern	reshaev	декриптора нет пока
+2020-07-09 17:43:46.400707	stern	reshaev	а билд у профа спроси
+2020-07-15 15:46:29.479929	reshaev	stern	Привет, а кто у нас файлы криптует?
+2020-07-15 15:46:39.959349	stern	reshaev	Ghbdtn
+2020-07-15 15:46:40.802535	stern	reshaev	привет
+2020-07-15 15:46:49.494202	stern	reshaev	deploy, marsel и many
+2020-07-16 05:25:23.064952	reshaev	stern	Привет, по локеру поменял алгоритма на chacha20 он в разы быстрее AES, сделал шифрование пятнами что тоже дало + к скорости, буза помог с рантаймом,  вчера скан делал под криптом - https://prnt.sc/tik31l,  сегодня еще проверять буду в ручную на каждом. Короче щас тщательно крипт-декрипт проверю, если все ок можно завтра в бой пускать
+2020-07-16 13:44:18.798869	reshaev	stern	Привет, по локеру поменял алгоритма на chacha20 он в разы быстрее AES, сделал шифрование пятнами что тоже дало + к скорости, буза помог с рантаймом,  вчера скан делал под криптом - https://prnt.sc/tik31l,  сегодня еще проверять буду в ручную на каждом. Короче щас тщательно крипт-декрипт проверю, если все ок можно завтра в бой пускать
+2020-07-17 09:34:11.929919	reshaev	stern	Привет, тебе полл скинул? 20 BTC выплата была
+2020-07-17 09:34:19.662168	stern	reshaev	привет скинь кош
+2020-07-17 09:34:30.339753	stern	reshaev	вчера да
+2020-07-17 09:35:08.126594	reshaev	stern	bc1q0v6539urjxsvu5s5chph94hegjkpnckfdna4f5
+2020-07-17 09:35:44.594399	stern	reshaev	отправил
+2020-07-17 09:35:49.375461	stern	reshaev	как дела по локеру?
+2020-07-17 09:36:07.421557	reshaev	stern	А ты в офф не получал сообщение?
+2020-07-17 09:36:30.913393	stern	reshaev	
+[16.07.2020 06:25:07] <reshaev>  Привет, по локеру поменял алгоритма на chacha20 он в разы быстрее AES, сделал шифрование пятнами что тоже дало + к скорости, буза помог с рантаймом, вчера скан делал под криптом - https://prnt.sc/tik31l, сегодня еще проверять буду в ручную на каждом. Короче щас тщательно крипт-декрипт проверю, если все ок можно завтра в бой пускать
+2020-07-17 09:36:32.896213	stern	reshaev	вот это
+2020-07-17 09:36:34.613912	stern	reshaev	*
+2020-07-17 09:37:28.317370	reshaev	stern	да
+2020-07-17 09:37:49.364421	stern	reshaev	можно в бой запускать?
+2020-07-17 09:38:02.514015	stern	reshaev	а какой алгоритм у maze и ryuk?
+2020-07-17 09:38:02.558673	reshaev	stern	Вечерком
+2020-07-17 09:38:11.313476	reshaev	stern	Немного осталось
+2020-07-17 09:38:18.227153	reshaev	stern	у maze chacha20
+2020-07-17 09:38:24.476875	reshaev	stern	у ryuk AES 256
+2020-07-17 09:38:30.931766	stern	reshaev	понял
+2020-07-17 09:38:54.182489	reshaev	stern	короче сейчас скорость почти в 3 раза выросла с этим алгоритмом
+2020-07-17 09:55:03.479822	stern	reshaev	отлично
+2020-07-17 20:32:59.656436	reshaev	stern	Привет, у меня готово все
+2020-07-17 20:34:53.280015	reshaev	stern	Скинь мне мейлы в офф если завтра будешь в сети, я как зайду сделаю билды
+2020-07-18 16:18:26.166684	reshaev	stern	Привет, у меня готово все
+2020-07-18 16:18:26.171759	reshaev	stern	Скинь мне мейлы в офф если завтра будешь в сети, я как зайду сделаю билды
+2020-07-18 16:19:24.007927	stern	reshaev	привет
+2020-07-18 16:19:25.161123	stern	reshaev	скинь кош
+2020-07-18 23:31:29.378340	stern	reshaev	привет
+2020-07-18 23:31:29.379757	stern	reshaev	скинь кош
+2020-07-19 20:17:07.262411	reshaev	stern	Привет, bc1qlte8rmjn3mkjge9e6xg2le32rh5fu77uscfezp
+2020-07-20 10:53:01.959263	reshaev	stern	Привет, кошелек принял?
+2020-07-20 15:22:15.022130	reshaev	stern	Привет, сообщения мои доходят7
+2020-07-20 15:22:33.769188	reshaev	stern	2 дня связаться не отвечаешь(
+2020-07-20 15:35:21.621812	stern	reshaev	привет да
+2020-07-20 15:37:57.269902	reshaev	stern	Билды надо делать?
+2020-07-20 15:39:42.139217	reshaev	stern	И вот кошелек ты писал в субботу bc1qlte8rmjn3mkjge9e6xg2le32rh5fu77uscfezp
+2020-07-20 16:18:52.413337	reshaev	stern	Ладно отпиши если надо будет биллы, я приду часа через 2
+2020-07-20 16:39:52.143864	stern	reshaev	привет
+2020-07-20 16:39:54.633896	stern	reshaev	билды делай без остановки
+2020-07-20 16:39:59.343430	stern	reshaev	независимот от денег
+2020-07-20 20:38:58.179171	reshaev	stern	Скинь мне мейлов на несколько билдов
+2020-07-20 20:39:02.151271	reshaev	stern	Затестим апдейт
+2020-07-20 20:40:18.407875	reshaev	stern	Еще на выходных написал
+2020-07-20 20:40:40.522790	reshaev	stern	У меня в пятницу все готово уже было
+2020-07-21 10:30:26.352762	reshaev	stern	Скинь мне мейлов на несколько билдов
+2020-07-21 10:30:26.354705	reshaev	stern	Затестим апдейт
+2020-07-21 10:30:26.357109	reshaev	stern	Еще на выходных написал
+2020-07-21 10:30:26.358846	reshaev	stern	У меня в пятницу все готово уже было
+2020-07-21 10:33:38.934685	stern	reshaev	привет давай
+2020-07-21 10:33:44.474533	stern	reshaev	а ты уже новое выдаешь поллу ?
+2020-07-21 10:34:17.676596	stern	reshaev	команда профа пока другой локер использует, надо выдать ему рабочий софт
+2020-07-21 10:34:22.818516	stern	reshaev	наш
+2020-07-21 10:53:30.864652	stern	reshaev	karlmarx000@protonmail.com
+meatfcomptroznal1977@protonmail.com
+
+poseytobin777@protonmail.com
+zlatruonuchand1972@protonmail.com
+
+glennmartin876@protonmail.com
+ulocuref1983@protonmail.com
+
+woakescolin@protonmail.com
+enpresbardio1971@protonmail.com
+
+kitshaw5@protonmail.com
+bartofestge1973@protonmail.com
+
+chriswoakes851@protonmail.com
+follvipostre1974@protonmail.com
+
+danebirch9@protonmail.com
+isretela19@protonmail.com
+
+halegarrison77@protonmail.com
+beaucombcomli1987@protonmail.com
+
+danelavender268@protonmail.com
+downcanjacksec1984@protonmail.com
+
+jmax3946@protonmail.com
+fansadirfden1971@protonmail.com
+2020-07-21 11:22:19.708239	stern	reshaev	новые скину
+2020-07-21 11:22:22.488282	stern	reshaev	эти не используй
+2020-07-21 12:43:12.265610	stern	reshaev	привет давай
+2020-07-21 12:43:12.268540	stern	reshaev	а ты уже новое выдаешь поллу ?
+2020-07-21 12:43:12.271151	stern	reshaev	команда профа пока другой локер использует, надо выдать ему рабочий софт
+2020-07-21 12:43:12.278154	stern	reshaev	наш
+2020-07-21 12:43:12.288722	stern	reshaev	karlmarx000@protonmail.com
+meatfcomptroznal1977@protonmail.com
+
+poseytobin777@protonmail.com
+zlatruonuchand1972@protonmail.com
+
+glennmartin876@protonmail.com
+ulocuref1983@protonmail.com
+
+woakescolin@protonmail.com
+enpresbardio1971@protonmail.com
+
+kitshaw5@protonmail.com
+bartofestge1973@protonmail.com
+
+chriswoakes851@protonmail.com
+follvipostre1974@protonmail.com
+
+danebirch9@protonmail.com
+isretela19@protonmail.com
+
+halegarrison77@protonmail.com
+beaucombcomli1987@protonmail.com
+
+danelavender268@protonmail.com
+downcanjacksec1984@protonmail.com
+
+jmax3946@protonmail.com
+fansadirfden1971@protonmail.com
+2020-07-21 12:43:12.289856	stern	reshaev	новые скину
+2020-07-21 12:43:12.290799	stern	reshaev	эти не используй
+2020-07-21 12:43:55.506569	reshaev	stern	Привет
+2020-07-21 12:44:00.894514	reshaev	stern	Полу уже новый выдаю
+2020-07-21 12:54:35.123836	reshaev	stern	ОК жду новые
+2020-07-21 15:23:53.669791	stern	reshaev	привет  ок ща
+2020-07-21 16:58:08.877275	stern	reshaev	привет  ок ща
+2020-07-22 15:21:36.203157	stern	reshaev	dct yj
+2020-07-22 15:21:37.120243	stern	reshaev	все норм
+2020-07-22 15:21:40.621407	stern	reshaev	используй те которые скинул
+2020-07-22 17:45:44.697061	stern	reshaev	dct yj
+2020-07-22 17:45:44.698277	stern	reshaev	все норм
+2020-07-22 17:45:44.699399	stern	reshaev	используй те которые скинул
+2020-07-22 17:45:57.317563	reshaev	stern	Привет
+2020-07-22 17:46:06.408088	reshaev	stern	Перекинь я историю не веду
+2020-07-22 17:49:16.740514	stern	reshaev	karlmarx000@protonmail.com
+meatfcomptroznal1977@protonmail.com
+
+poseytobin777@protonmail.com
+zlatruonuchand1972@protonmail.com
+
+glennmartin876@protonmail.com
+ulocuref1983@protonmail.com
+
+woakescolin@protonmail.com
+enpresbardio1971@protonmail.com
+
+kitshaw5@protonmail.com
+bartofestge1973@protonmail.com
+
+chriswoakes851@protonmail.com
+follvipostre1974@protonmail.com
+
+danebirch9@protonmail.com
+isretela19@protonmail.com
+
+halegarrison77@protonmail.com
+beaucombcomli1987@protonmail.com
+
+danelavender268@protonmail.com
+downcanjacksec1984@protonmail.com
+
+jmax3946@protonmail.com
+fansadirfden1971@protonmail.com
+2020-07-22 17:49:17.890405	stern	reshaev	привет
+2020-07-22 17:49:18.360702	stern	reshaev	ок
+2020-07-22 17:49:23.712129	stern	reshaev	вот они
+2020-07-22 17:49:27.399869	stern	reshaev	билды можно выдавать
+2020-07-22 17:50:40.250379	reshaev	stern	Ок
+2020-07-22 21:32:53.525784	reshaev	stern	Да есть шифрование сетевых дисков
+2020-07-23 11:03:53.340200	reshaev	stern	Да есть шифрование сетевых дисков
+2020-07-23 11:04:14.625328	stern	reshaev	а каких протоколов ?
+2020-07-23 11:05:27.210513	reshaev	stern	smb
+2020-07-23 11:05:44.038034	stern	reshaev	webdav слышал еще?
+2020-07-23 11:06:01.705782	reshaev	stern	Да вот не давно читал про него
+2020-07-23 11:08:05.217759	reshaev	stern	Давай сейчас проверим на старые проблемы новый билд, если все к я добавлю поддержку этого протокола
+2020-07-23 11:09:09.484423	stern	reshaev	ага ок
+2020-07-25 14:49:11.453731	stern	reshaev	poll говорит что после обновления он проставил дофига сеток и даже никто не пишет
+2020-07-25 14:49:14.422975	stern	reshaev	говрит что есть баги там
+2020-07-25 20:23:19.371656	stern	reshaev	poll говорит что после обновления он проставил дофига сеток и даже никто не пишет
+2020-07-25 20:23:19.378262	stern	reshaev	говрит что есть баги там
+2020-07-25 20:23:53.473043	reshaev	stern	Привет, пообщаюсь с ним спрошу что за баги
+2020-07-27 13:44:32.664800	reshaev	stern	Привет, пообщаюсь с ним спрошу что за баги
+2020-07-27 15:36:31.648651	reshaev	stern	короче нужна неделя на переписывание ядра локера
+2020-07-27 15:49:31.332476	reshaev	stern	Сделаю максимально быструю обработку файлов за счет асинхронной работы, быстрый поиск сетевых дисков и еще под бэкапы одно решение мне подсказали, перед локом всей сети беспалево испортить бэкапы без воможности восстановления, а потом уже локать сетку
+2020-07-27 17:05:05.127002	reshaev	stern	короче нужна неделя на переписывание ядра локера
+2020-07-27 17:05:05.155023	reshaev	stern	Сделаю максимально быструю обработку файлов за счет асинхронной работы, быстрый поиск сетевых дисков и еще под бэкапы одно решение мне подсказали, перед локом всей сети беспалево испортить бэкапы без воможности восстановления, а потом уже локать сетку
+2020-07-27 21:46:36.691853	stern	reshaev	тут полл переживает
+2020-07-27 21:46:39.163641	stern	reshaev	ему нужен разлок
+2020-07-27 22:06:02.803305	stern	reshaev	,kby
+2020-07-27 22:06:08.302173	stern	reshaev	блин ты мне не скинул декприторы для полла
+2020-07-27 22:06:15.662568	stern	reshaev	ждем тебя срочно
+2020-07-28 09:19:55.242402	stern	reshaev	тут полл переживает
+2020-07-28 09:19:55.245119	stern	reshaev	ему нужен разлок
+2020-07-28 09:19:55.245961	stern	reshaev	,kby
+2020-07-28 09:19:55.248688	stern	reshaev	блин ты мне не скинул декприторы для полла
+2020-07-28 09:19:55.249434	stern	reshaev	ждем тебя срочно
+2020-07-28 09:25:02.259721	reshaev	stern	Привет, я же не круглосуточно онлайн) сейчас траблы с онлайном ночью
+2020-07-28 09:35:48.160269	reshaev	stern	Про декрипторы забыл, сорри
+2020-07-28 09:35:57.543781	reshaev	stern	Не повторится
+2020-07-28 20:06:37.730201	reshaev	stern	pass: lp2MtgmAF@psRzdMputtWzmJ~5hCUE%t
+Download: https://qaz.im/load/5FairR/s65Dyd
+Delete: https://qaz.im/index.php?a=delete&q=2135703682
+2020-07-28 20:06:46.198652	reshaev	stern	2 билда полл запросил
+2020-07-29 13:56:57.144774	reshaev	stern	Привет, я же не круглосуточно онлайн) сейчас траблы с онлайном ночью
+2020-07-29 13:56:57.147454	reshaev	stern	Про декрипторы забыл, сорри
+2020-07-29 13:56:57.150627	reshaev	stern	Не повторится
+2020-07-29 13:56:57.188780	reshaev	stern	pass: lp2MtgmAF@psRzdMputtWzmJ~5hCUE%t
+Download: https://qaz.im/load/5FairR/s65Dyd
+Delete: https://qaz.im/index.php?a=delete&q=2135703682
+2020-07-29 13:56:57.190850	reshaev	stern	2 билда полл запросил
+2020-07-29 14:29:54.993891	reshaev	stern	pass: Omh6wASac0BaqbI%A@}M|UyMQhch00Y}
+Download: https://qaz.im/load/hKkrKY/hi7k6k
+Delete: https://qaz.im/index.php?a=delete&q=2104618757
+2020-07-29 14:56:03.959153	stern	reshaev	принял
+2020-07-29 14:58:17.091698	reshaev	stern	принял
+2020-07-29 18:40:23.353291	stern	reshaev	Привет
+2020-07-29 18:40:25.544119	stern	reshaev	как продвигается ?
+2020-07-29 18:40:51.577061	reshaev	stern	Привет, в работе все ок
+2020-07-29 18:41:05.334253	reshaev	stern	К след неделе будет
+2020-07-29 18:51:39.106577	stern	reshaev	ок
+2020-07-29 18:51:45.451872	stern	reshaev	надо сделать не хуже мейза
+2020-07-29 18:51:48.095606	stern	reshaev	а то и лучше
+2020-07-29 18:52:11.723947	reshaev	stern	думаю лучше будет
+2020-07-30 12:34:14.884075	reshaev	stern	думаю лучше будет
+2020-07-30 13:04:34.276913	stern	reshaev	Привет
+2020-07-30 13:04:35.786326	stern	reshaev	скинь ко
+2020-07-30 13:04:36.480830	stern	reshaev	кош
+2020-07-30 13:32:51.310925	stern	reshaev	Привет
+2020-07-30 13:32:51.312300	stern	reshaev	кош
+2020-07-30 13:32:51.312921	stern	reshaev	скинь ко
+2020-07-30 13:57:10.422035	reshaev	stern	привет
+2020-07-30 13:57:12.216989	reshaev	stern	ща
+2020-07-30 13:58:05.647307	reshaev	stern	bc1qz3ragrtw38yuu6n5k8dqfjnp8pdsmtcfelx7xe
+2020-07-30 18:50:55.032514	reshaev	stern	кошелек принял?
+2020-07-30 18:53:26.639114	stern	reshaev	да
+2020-07-30 18:54:34.051216	stern	reshaev	отправил
+2020-07-30 19:09:21.598252	reshaev	stern	да
+2020-07-30 19:09:21.600474	reshaev	stern	отправил
+2020-07-31 17:02:26.604765	reshaev	stern	pass: r~PcjZwLM02xM3m%5~BooYfGNJ0v9gPa
+2020-07-31 17:03:15.249714	reshaev	stern	Download: https://qaz.im/load/ANDZa8/zneZi6
+Delete: https://qaz.im/index.php?a=delete&q=961068442
+2020-07-31 17:03:55.758854	reshaev	stern	4 билда
+2020-07-31 18:37:50.863937	stern	reshaev	
+[18:48:24] <poll> reshaev opayt nuje srochno 
+[18:48:31] <poll> skinul decryptor a pass ne ale 
+[18:48:33] <poll> pizdec 
+[18:48:35] <poll> on kritin 
+[18:48:47] <poll> pochemy sopruta ne posadit?
+2020-07-31 18:38:01.967879	stern	reshaev	скинь свой id телеги
+2020-07-31 19:31:33.788633	stern	reshaev	
+[20:30:52] <poll> da a che on suporta ne sdelaet?
+[20:31:11] <poll> na maze tip po 16-18 chasov online
+2020-07-31 19:31:51.399230	stern	reshaev	сделай суппорта и чтобы кто-то вместо тебя был 24 часа онлайн на неделе
+2020-07-31 19:32:01.255653	stern	reshaev	а то полл негативит
+2020-08-01 14:36:06.980498	stern	reshaev	
+[18:48:24] <poll> reshaev opayt nuje srochno 
+[18:48:31] <poll> skinul decryptor a pass ne ale 
+[18:48:33] <poll> pizdec 
+[18:48:35] <poll> on kritin 
+[18:48:47] <poll> pochemy sopruta ne posadit?
+2020-08-01 14:36:06.981396	stern	reshaev	скинь свой id телеги
+2020-08-01 14:36:06.983010	stern	reshaev	
+[20:30:52] <poll> da a che on suporta ne sdelaet?
+[20:31:11] <poll> na maze tip po 16-18 chasov online
+2020-08-01 14:36:06.983714	stern	reshaev	а то полл негативит
+2020-08-01 14:36:06.984474	stern	reshaev	сделай суппорта и чтобы кто-то вместо тебя был 24 часа онлайн на неделе
+2020-08-01 14:53:49.548553	reshaev	stern	Ок, посажу саппорта
+2020-08-01 15:22:11.575497	reshaev	stern	Как вижу он скинул декриптор, значит пасс подходит
+2020-08-02 15:00:57.385821	reshaev	stern	Ок, посажу саппорта
+2020-08-02 15:00:57.393334	reshaev	stern	Как вижу он скинул декриптор, значит пасс подходит
+2020-08-06 13:25:38.196232	reshaev	stern	Привет, скинь мне мейлов на 10 билдов, розетка попросил текующию версию для обучения молодых
+2020-08-06 20:05:11.327823	reshaev	stern	короче я ему на своих мейлах выдал билды
+2020-08-06 20:05:14.179266	reshaev	stern	мне полл делал
+2020-08-06 20:05:16.990774	reshaev	stern	niosnupicin1987@protonmail.com:n83ZgmJAmG:19033672373 
+keatenounraff1984@protonmail.com:6L3RZDbUcb:+13617521834
+
+wechlibolslen1976@protonmail.com:XeFfH4r0Is:+18728061072 
+peycetdisa1971@protonmail.com:M3EWVrB4Q9:+16026980579 
+
+tuicourcentbig1987@protonmail.com:CvFDZurVbI:+18035600468 
+pecverbchopo1977@protonmail.com:X7IqcBaQva:+17279994982 
+
+grestedrepar1989@protonmail.com:kzxurlpeh7:+12244245135 
+tastbutpchide1988@protonmail.com:vEvIMMk4fa:15019040548 
+
+siokitiphi1973@protonmail.com:KK675jHA6X:14092106244 
+leyramimu1975@protonmail.com:Bb2mjVD6BO:13614023705 
+
+liotooncobed1981@protonmail.com:SvdqwEQbW2:+13867778394 
+tradaglandisc1973@protonmail.com:oyPcd5gJda:13136662778 
+
+stamvermigo1981@protonmail.com:tVdg4uLc32:+15802642606 
+memdehate1988@protonmail.com:Jq4ME3qSNP:14069627429 
+
+guaysularigh1979@protonmail.com:fWQgw54ukP:17204416671 
+stunanitin1984@protonmail.com:QjUy0MaLGH:12146124860 
+
+kannpheforre1975@protonmail.com:vSf5hPm2h8:+12409000164 
+outucgetsi1989@protonmail.com:7dvlOD9CdA:17133220649 
+
+odintodoul1971@protonmail.com:lmwEXOUmtM:+17175844083 
+beimezemste1970@protonmail.com:pk3VA16TZa:17753254687
+2020-08-06 20:07:08.332264	reshaev	stern	pass: huY9J2LvVpQqdSMDhp8K2mKDHKxFSyCO
+Download: https://qaz.im/load/72SBT4/NFErTK
+Delete: https://qaz.im/index.php?a=delete&q=13795189
+2020-08-06 20:07:11.171420	reshaev	stern	декрипторы
+2020-08-06 20:11:43.429530	reshaev	stern	Привет, скинь мне мейлов на 10 билдов, розетка попросил текующию версию для обучения молодых
+2020-08-06 20:11:43.436835	reshaev	stern	короче я ему на своих мейлах выдал билды
+2020-08-06 20:11:43.441756	reshaev	stern	мне полл делал
+2020-08-06 20:11:43.449465	reshaev	stern	niosnupicin1987@protonmail.com:n83ZgmJAmG:19033672373 
+keatenounraff1984@protonmail.com:6L3RZDbUcb:+13617521834
+
+wechlibolslen1976@protonmail.com:XeFfH4r0Is:+18728061072 
+peycetdisa1971@protonmail.com:M3EWVrB4Q9:+16026980579 
+
+tuicourcentbig1987@protonmail.com:CvFDZurVbI:+18035600468 
+pecverbchopo1977@protonmail.com:X7IqcBaQva:+17279994982 
+
+grestedrepar1989@protonmail.com:kzxurlpeh7:+12244245135 
+tastbutpchide1988@protonmail.com:vEvIMMk4fa:15019040548 
+
+siokitiphi1973@protonmail.com:KK675jHA6X:14092106244 
+leyramimu1975@protonmail.com:Bb2mjVD6BO:13614023705 
+
+liotooncobed1981@protonmail.com:SvdqwEQbW2:+13867778394 
+tradaglandisc1973@protonmail.com:oyPcd5gJda:13136662778 
+
+stamvermigo1981@protonmail.com:tVdg4uLc32:+15802642606 
+memdehate1988@protonmail.com:Jq4ME3qSNP:14069627429 
+
+guaysularigh1979@protonmail.com:fWQgw54ukP:17204416671 
+stunanitin1984@protonmail.com:QjUy0MaLGH:12146124860 
+
+kannpheforre1975@protonmail.com:vSf5hPm2h8:+12409000164 
+outucgetsi1989@protonmail.com:7dvlOD9CdA:17133220649 
+
+odintodoul1971@protonmail.com:lmwEXOUmtM:+17175844083 
+beimezemste1970@protonmail.com:pk3VA16TZa:17753254687
+2020-08-06 20:11:43.454489	reshaev	stern	pass: huY9J2LvVpQqdSMDhp8K2mKDHKxFSyCO
+Download: https://qaz.im/load/72SBT4/NFErTK
+Delete: https://qaz.im/index.php?a=delete&q=13795189
+2020-08-06 20:11:43.456341	reshaev	stern	декрипторы
+2020-08-06 20:15:12.161834	stern	reshaev	привет ок
+2020-08-06 20:15:24.655890	stern	reshaev	ага отлично
+2020-08-06 20:15:25.555982	stern	reshaev	ок
+2020-08-10 17:47:19.636991	stern	reshaev	btcz1> какая скорость шифровки ?
+2020-08-10 18:02:47.838541	stern	reshaev	ghbd
+2020-08-10 18:02:48.661341	stern	reshaev	привет
+2020-08-10 18:02:49.295295	stern	reshaev	тут?
+2020-08-10 18:02:52.614268	stern	reshaev	как там с локером ?
+2020-08-10 18:22:30.548425	reshaev	stern	Привет, скорость зависит от диска
+2020-08-10 18:22:37.699741	reshaev	stern	На котором он работает
+2020-08-10 18:22:55.153239	reshaev	stern	Могу сделать скрины с моих дисков и их характеристик
+2020-08-10 18:23:27.098709	reshaev	stern	Завершаю уже новую версию
+2020-08-10 19:15:21.941534	reshaev	stern	Привет, скорость зависит от диска
+2020-08-10 19:15:21.944445	reshaev	stern	На котором он работает
+2020-08-10 19:15:21.947936	reshaev	stern	Могу сделать скрины с моих дисков и их характеристик
+2020-08-10 19:15:21.954130	reshaev	stern	Завершаю уже новую версию
+2020-08-12 18:57:01.633429	stern	reshaev	Привет как дела с обновлениями ?
+2020-08-12 18:57:11.161703	stern	reshaev	ориентир есть?
+2020-08-12 19:08:09.264178	reshaev	stern	Привет, на это неделе завершу, сейчас уже тестирую новую версию
+2020-08-12 19:09:06.813889	reshaev	stern	Так то он уже готов, все тщательно тестирую мелки баги убираю
+2020-08-12 19:09:24.603110	stern	reshaev	отлично
+2020-08-17 08:59:11.088441	reshaev	stern	Привет, выплати мне за 2 недели bc1qr9hvtdrf23tqcdqd7p98cpa7ys7wum4x77xvln
+2020-08-17 09:36:29.299081	reshaev	stern	А и скинь мне еще мейлов на 10 билдов розетка еще попросил
+2020-08-17 09:36:38.066111	reshaev	stern	У меня кончились
+2020-08-17 10:09:42.399223	reshaev	stern	Слушай может чат в торе сделаем для общения с жертвами? Полу 2 мыла забанили сегодня где 50 BTC должны были выплатить и вот эти 2 забанили тоже 
+niosnupicin1987@protonmail.com:n83ZgmJAmG:19033672373 
+keatenounraff1984@protonmail.com:6L3RZDbUcb:+13617521834
+
+Которые я розетке делал
+2020-08-17 10:10:00.853225	reshaev	stern	Я думаю это будет и дальше продолжаться
+2020-08-17 10:41:27.333587	stern	reshaev	привет скинул
+2020-08-17 10:43:43.392790	stern	reshaev	сделай ок
+2020-08-17 10:43:54.555886	stern	reshaev	не давай свои мыла
+2020-08-17 10:43:56.770985	stern	reshaev	мои мыла не банят
+2020-08-17 10:44:03.152574	stern	reshaev	я их месяцами прогреваю!
+2020-08-17 10:44:11.303086	stern	reshaev	это важно
+2020-08-17 10:44:15.499163	stern	reshaev	поэтому я так долго мыла выдаю
+2020-08-17 10:44:19.979643	stern	reshaev	по поллу, надо вернуть общение
+2020-08-17 10:44:23.682701	stern	reshaev	пускай напишет им с другого мыла
+2020-08-17 10:44:58.389237	reshaev	stern	Ок жду тогда мыла от тебя
+2020-08-17 12:02:25.057766	stern	reshaev	сколько надо бидов ?
+2020-08-17 12:02:26.818872	stern	reshaev	билдов
+2020-08-17 12:02:35.636354	stern	reshaev	розетке
+2020-08-17 12:02:38.201292	reshaev	stern	10
+2020-08-17 12:28:27.804137	stern	reshaev	
+
+cloverlilac7876@protonmail.com
+refitzrengold1977@protonmail.com
+
+dilanmarley6@protonmail.com
+glucicerol1970@protonmail.com
+
+milananson2@protonmail.com
+numsunoder1974@protonmail.com
+
+ginomiller804@protonmail.com
+tiicocessqua1988@protonmail.com
+
+dilanmarley8@protonmail.com
+linksibnuwil1988@protonmail.com
+
+poseylavender@protonmail.com
+tiovomofa1984@protonmail.com
+
+arescortez70@protonmail.com
+quithirsreta1978@protonmail.com
+
+halekit159@protonmail.com
+highcostnafi1978@protonmail.com
+
+forrestdane79@protonmail.com
+Andrea.Davis.1989@protonmail.com
+
+atlasjair0@protonmail.com
+clarrestpoto1976@protonmail.com
+2020-08-17 12:28:30.126629	stern	reshaev	принял?
+2020-08-17 12:28:40.035407	reshaev	stern	да
+2020-08-17 12:28:50.234782	stern	reshaev	ок
+2020-08-18 11:38:49.519725	stern	reshaev	скинь кош
+2020-08-18 17:21:04.890943	reshaev	stern	bc1q4zj94s9p3cttk8lalkp94ccupr2wgz6tu0rfec
+2020-08-19 11:34:37.151199	reshaev	stern	bc1q4zj94s9p3cttk8lalkp94ccupr2wgz6tu0rfec
+2020-08-19 13:18:25.378028	reshaev	stern	Привет, кошелек принял?
+2020-08-19 13:39:08.682335	reshaev	stern	Вот если не принял bc1q4zj94s9p3cttk8lalkp94ccupr2wgz6tu0rfec
+2020-08-19 13:49:35.532214	stern	reshaev	привет да
+2020-08-19 13:49:37.343771	stern	reshaev	сегодня закину
+2020-08-19 14:08:50.626138	stern	reshaev	Как у тебя дела с обновлениями и чистками ?
+2020-08-19 15:10:33.060148	reshaev	stern	Ну текущий билд почистил для пола
+2020-08-19 15:10:58.437209	reshaev	stern	А новую версию тестим еще, мелки баги фиксим
+2020-08-19 21:00:00.317475	reshaev	stern	Ну вроде все ок, завтра еще погоняю на больших файлах и больших пачках файлов
+2020-08-19 21:00:03.873484	reshaev	stern	На всякий
+2020-08-19 21:00:13.453555	reshaev	stern	И могу делать билды
+2020-08-19 21:02:25.679828	reshaev	stern	Крч в пятницу билды могу сделать, давай профф прочекает его на мелких сетках, что бы нормальные не убивать, я логирование сделал если че оперативно пофиксим
+2020-08-19 21:02:50.363223	reshaev	stern	Если что-то опять не так будет
+2020-08-20 12:06:10.441946	reshaev	stern	Ну текущий билд почистил для пола
+2020-08-20 12:06:10.444002	reshaev	stern	А новую версию тестим еще, мелки баги фиксим
+2020-08-20 12:06:10.452557	reshaev	stern	Ну вроде все ок, завтра еще погоняю на больших файлах и больших пачках файлов
+2020-08-20 12:06:10.454265	reshaev	stern	На всякий
+2020-08-20 12:06:10.455885	reshaev	stern	И могу делать билды
+2020-08-20 12:06:10.460229	reshaev	stern	Крч в пятницу билды могу сделать, давай профф прочекает его на мелких сетках, что бы нормальные не убивать, я логирование сделал если че оперативно пофиксим
+2020-08-20 12:06:10.461745	reshaev	stern	Если что-то опять не так будет
+2020-08-20 13:05:30.843030	reshaev	stern	Привет, ты когда скинешь $?
+2020-08-20 13:11:28.042294	stern	reshaev	[19.08.2020 14:39:08] <reshaev> Вот если не принял bc1q4zj94s9p3cttk8lalkp94ccupr2wgz6tu0rfec
+2020-08-20 13:11:29.664766	stern	reshaev	сейчас
+2020-08-20 13:11:31.245709	stern	reshaev	этот же кош ?
+2020-08-20 13:11:52.158122	reshaev	stern	Да
+2020-08-20 13:13:37.329061	stern	reshaev	11.57 бтц скинул
+2020-08-20 13:13:46.620513	stern	reshaev	Как дела с обновлениями и чистками ?
+2020-08-20 13:14:16.460445	reshaev	stern	А ты в офф не принял сообщения мои?
+2020-08-20 13:14:24.372545	reshaev	stern	ночью писал
+2020-08-20 13:14:45.814909	stern	reshaev	нет
+2020-08-20 13:14:48.107928	stern	reshaev	скинь еще раз плиз
+2020-08-20 13:15:40.692536	reshaev	stern	Ну я для пола почистил текущий от дефендера, а по новой все ок вчера тестили нормально все, сегодня еще прогоню на гигантских файлах и больших пачках файлов и завтра могу билды делать
+2020-08-20 13:16:59.277915	reshaev	stern	Я там логи встроил в новой версии если че не так будет оперативно пофиксим, но по сути все ок должно быть, а потом уже займусь webdav протоколом
+2020-08-20 15:20:50.428516	reshaev	stern	stamvermigo1981@protonmail.com:tVdg4uLc32:+15802642606 
+memdehate1988@protonmail.com:Jq4ME3qSNP:14069627429
+2020-08-20 15:20:54.617692	reshaev	stern	отписали сюда
+2020-08-20 15:24:33.674845	reshaev	stern	6 часов назад
+2020-08-20 19:57:09.916290	reshaev	stern	Тут?\
+2020-08-20 19:58:12.031622	reshaev	stern	stamvermigo1981@protonmail.com:tVdg4uLc32:+15802642606 - <Marcel.Pohlmann@brillant-holding.de>
+memdehate1988@protonmail.com:Jq4ME3qSNP:14069627429
+2020-08-20 19:58:18.674760	reshaev	stern	сюда отписали
+2020-08-28 08:41:55.024793	reshaev	stern	Привет, скинь мне мейлы я розетке дам билды новые
+2020-08-31 16:41:14.319461	reshaev	stern	Привет, скинь мне мейлы я розетке дам билды новые
+2020-08-31 17:08:24.050473	stern	reshaev	привет
+2020-08-31 17:08:24.251818	stern	reshaev	ок
+2020-08-31 17:08:25.564718	stern	reshaev	скинь кош
+2020-08-31 19:17:35.253830	reshaev	stern	bc1qmn7kwk399254epl20uu5csrztpp7umah4ncxwn
+2020-08-31 19:38:11.554106	stern	reshaev	мейлы ждем
+2020-08-31 19:40:21.956952	stern	reshaev	скинул 6.4 btc
+2020-08-31 19:42:39.740800	reshaev	stern	jr
+2020-08-31 19:42:41.299247	reshaev	stern	ok
+2020-09-01 15:08:16.995639	reshaev	stern	Нет не принял
+2020-09-01 15:08:25.365856	reshaev	stern	Первое сообщение не дошло
+2020-09-02 12:30:33.006538	reshaev	stern	Нет не принял
+2020-09-02 12:30:33.009214	reshaev	stern	Первое сообщение не дошло
+2020-09-03 12:54:49.061150	stern	reshaev	дай кош плиз
+2020-09-03 12:55:35.540187	reshaev	stern	bc1q90css7emmtvs7l5ah5tcnvtx4kun6xxxc28vt4
+2020-09-03 12:56:54.538812	stern	reshaev	скинул
+2020-09-03 12:56:55.626800	stern	reshaev	1
+2020-09-03 12:57:00.362078	stern	reshaev	по вчершанему от полла
+2020-09-03 12:57:14.054161	stern	reshaev	раз в 2 недели обновляй исходники на гите, чтобы там всегда полные лежали
+2020-09-03 12:58:37.598946	reshaev	stern	Ок
+2020-09-04 10:18:59.731923	stern	reshaev	привет
+2020-09-04 10:19:08.387633	stern	reshaev	скинь кош
+2020-09-04 10:19:15.875243	stern	reshaev	и ты нашел человека на поддержку сайта новостей ?
+2020-09-04 10:22:48.754983	reshaev	stern	Привет, саппорта моего можем посадить на поддержку сайта
+2020-09-04 10:22:57.875595	reshaev	stern	Но он с английским ни очень
+2020-09-04 10:23:19.368899	reshaev	stern	bc1qt3swuyl07tx326twh2qrvkzr5fs0tlx30rkjhz
+2020-09-04 10:24:03.090371	stern	reshaev	нужно норм чел
+2020-09-04 10:24:05.070425	stern	reshaev	с английским
+2020-09-04 10:24:08.970777	stern	reshaev	не жалей денег
+2020-09-04 10:26:06.104713	reshaev	stern	А что ему надо будет делать конкретно?
+2020-09-04 10:51:30.011483	reshaev	stern	Ладно я пока найду человека с хорошим английским
+2020-09-04 11:41:27.194158	stern	reshaev	уточни у полла
+2020-09-04 11:41:31.217264	stern	reshaev	там полл у него команда 50 человек
+2020-09-04 11:41:33.911986	stern	reshaev	и у профа тоже 50
+2020-09-04 11:41:37.261339	stern	reshaev	он начинает работать сейчас
+2020-09-04 11:41:42.219097	stern	reshaev	надо их данные выкладывать будет постоянно
+2020-09-04 11:41:45.074367	stern	reshaev	это очень много данных
+2020-09-04 11:42:08.126242	reshaev	stern	ок
+2020-09-04 12:10:10.538059	reshaev	stern	danecarla7@protonmail.com
+zudistranla1985@protonmail.com
+
+josekarl317@protonmail.com
+tersanscirva1974@protonmail.com
+
+garybanton66@protonmail.com
+jesroysqualhand1974@protonmail.com
+
+garyjose777@protonmail.com
+ilplugorphar1978@protonmail.com
+
+garymartin777@protonmail.com
+butthotchcorngamb1981@protonmail.com
+
+maxmartin777@protonmail.com
+ireltisu1969@protonmail.com
+
+garywhite777@protonmail.com
+aweetsnark@protonmail.com
+
+maxgary777@protonmail.com
+ranosfinger@protonmail.com
+
+johnmax82960@protonmail.com
+lyeevcorn@protonmail.com
+
+blythebirdie7866@protonmail.com
+kimouqbone1982@protonmail.com
+2020-09-04 12:10:18.473014	reshaev	stern	на эти же мейлы делать?
+2020-09-04 12:10:24.933802	reshaev	stern	уточняю на всякий
+2020-09-04 12:25:30.240436	reshaev	stern	?
+2020-09-04 12:30:47.961186	reshaev	stern	тут?
+2020-09-04 12:38:03.536824	stern	reshaev	да
+2020-09-04 12:38:08.231249	stern	reshaev	еще не делал пока?
+2020-09-04 12:38:22.875211	reshaev	stern	сделал сейчас
+2020-09-04 12:38:29.801088	stern	reshaev	ок
+2020-09-04 12:57:50.294028	reshaev	stern	pass: WWnqjFKshcGz
+https://www.sendspace.com/file/59g7wa
+https://www.sendspace.com/delete/59g7wa/427e50e1712ad2ec9a3d6fa988a10a44
+2020-09-04 12:57:52.620203	reshaev	stern	декрипторы
+2020-09-04 12:58:09.880997	reshaev	stern	так же они лежат у саппорта
+2020-09-04 12:58:19.620788	reshaev	stern	если меня не будет допустим он декрипт может сделать
+2020-09-04 13:04:58.829305	stern	reshaev	ок
+2020-09-04 13:06:09.778838	reshaev	stern	paranoik@q3mcco35auwcstmt.onion
+2020-09-04 13:06:16.545765	reshaev	stern	и еще у него
+2020-09-04 13:06:33.866127	stern	reshaev	jr
+2020-09-04 13:06:34.450503	stern	reshaev	ok
+2020-09-04 13:06:37.034190	stern	reshaev	это второй сап ?
+2020-09-04 13:06:40.613418	reshaev	stern	да
+2020-09-04 13:07:05.312910	reshaev	stern	один с утра до вечера другой с вечера до утра сидит
+2020-09-04 13:17:47.287482	stern	reshaev	ок норм
+2020-09-04 13:19:32.801932	stern	reshaev	6.617 btc скинул
+2020-09-08 00:31:04.321272	stern	reshaev	ку
+2020-09-08 00:31:05.465810	stern	reshaev	привет
+2020-09-08 00:31:08.847839	stern	reshaev	срочно нужен
+2020-09-08 00:31:16.233797	reshaev	stern	Да тут
+2020-09-08 00:31:17.302711	reshaev	stern	привет
+2020-09-08 00:31:19.350738	stern	reshaev	Логин:Andrea.Davis.1989@protonmail.com
+2020-09-08 00:31:28.207500	stern	reshaev	Логин:Andrea.Davis.1989@protonmail.com
+Пароль:q5dPCRgA3Y
+2020-09-08 00:31:30.335449	stern	reshaev	pfqlb nf
+2020-09-08 00:31:41.832432	stern	reshaev	зайди там файлы conti и отправь им ответным письмом разлоченные
+2020-09-08 00:31:47.961667	reshaev	stern	кк
+2020-09-08 00:32:13.371791	stern	reshaev	сейчас только плиз
+2020-09-08 00:32:27.568449	reshaev	stern	да прям ща сделаю
+2020-09-08 00:35:01.885950	reshaev	stern	это розетки билды?
+2020-09-08 00:35:51.288729	stern	reshaev	да
+2020-09-08 00:39:39.566207	reshaev	stern	готово
+2020-09-08 00:40:01.523122	reshaev	stern	слушай записывай как нибудь у себя мыльники и к ним id билда
+2020-09-08 00:40:07.638867	reshaev	stern	очено сложно так искать
+2020-09-08 00:40:33.732568	reshaev	stern	давай ты мне будешь список мыл кидать я в ответ тебе к ним id билдов
+2020-09-08 00:41:57.978070	reshaev	stern	кстати алтер протестил 3 билда, сказал софт пушка скорость в разы выросла
+2020-09-08 00:42:17.737132	reshaev	stern	и ни чего не пропускает
+2020-09-08 00:59:19.714881	reshaev	stern	по детектам с новой версией тоже збс все 8/23 но думаю смогу еще снизить до 6/23
+2020-09-08 00:59:39.691228	stern	reshaev	давай ок
+2020-09-08 00:59:47.296598	stern	reshaev	ага отлично
+2020-09-08 18:10:18.187785	reshaev	stern	Привет, там отписали на мыло я чекнул если че
+2020-09-08 18:10:47.149268	reshaev	stern	сообщение прочитал последние
+2020-09-08 20:36:11.993421	reshaev	stern	сообщение прочитал последние
+2020-09-08 20:36:18.876134	stern	reshaev	куда
+2020-09-08 20:37:21.062399	reshaev	stern	Andrea.Davis.1989@protonm на те куда ты просил декрипт сделать, просто предупредил что я прочитал сообщение
+2020-09-08 20:38:09.232983	stern	reshaev	ага это видел
+2020-09-09 16:32:01.610914	reshaev	stern	Привет, там полу не выплачивали? Я ему уже несколько декрипторов скинул
+2020-09-09 17:20:51.195249	reshaev	stern	Тут?
+2020-09-09 17:30:45.065343	stern	reshaev	привет
+2020-09-09 17:30:49.679248	stern	reshaev	скинь кош
+2020-09-09 17:33:03.458664	reshaev	stern	bc1qa225n5kp0e73n4hthea3fqv4rgvwuzx65wldxv
+2020-09-09 18:03:55.554053	reshaev	stern	К тебе щас paranoik@ добавится это основной саппорт у него все декрипторы есть если меня не будет к нему обращайся
+2020-09-09 18:23:48.916699	stern	reshaev	ок
+2020-09-10 11:16:52.108585	reshaev	stern	Привет, ты $ еще не скидывал?
+2020-09-10 12:43:36.740515	stern	reshaev	привет еще нет
+2020-09-10 12:43:38.467842	stern	reshaev	сегодня закину
+2020-09-10 12:43:41.259558	stern	reshaev	у тебя кош тот же будет?
+2020-09-10 13:57:19.804193	reshaev	stern	Да тот же
+2020-09-10 13:57:49.768408	reshaev	stern	bc1qa225n5kp0e73n4hthea3fqv4rgvwuzx65wldxv
+2020-09-10 15:40:45.788361	stern	reshaev	скинул 37.5 btc
+2020-09-11 16:20:53.503861	reshaev	stern	Привет, по новой версии отписывали каоторую я альтеру выдавал?
+2020-09-11 16:21:29.974954	reshaev	stern	На мейлы
+2020-09-11 16:38:07.910406	stern	reshaev	привет
+2020-09-11 16:38:09.699754	stern	reshaev	1. Базы данных для нашей ERP-системы очень важны для нас. Основные файлы LDF и MDF, которые НЕ были зашифрованы. У них нет расширения, они полностью повреждены / не открываются.
+2020-09-11 16:38:15.167018	stern	reshaev	тут чел пишет что эти файлы у них пропустило
+2020-09-11 16:38:17.081323	stern	reshaev	и не зашифровало!
+2020-09-11 16:38:25.350236	stern	reshaev	[17:20:53] <reshaev> Привет, по новой версии отписывали каоторую я альтеру выдавал?
+
+
+нет
+2020-09-11 16:38:55.225714	reshaev	stern	Так это старая версия же
+2020-09-11 16:39:14.405016	stern	reshaev	какая
+2020-09-11 16:39:54.744963	reshaev	stern	Andrea.Davis.1989@protonmail.com - билд от 19.08
+2020-09-11 16:40:10.428534	reshaev	stern	апдейт был 29.08 нормальный
+2020-09-11 16:40:18.842220	stern	reshaev	да
+2020-09-11 16:40:22.088469	stern	reshaev	ага понял
+2020-09-11 16:40:56.040269	stern	reshaev	после этого LDF и MDF стали криптоваться?
+2020-09-11 16:44:41.185286	reshaev	stern	Да альтер сказал все четко, там была одна трабла и то ее уже пофиксил
+2020-09-11 16:48:32.472750	stern	reshaev	альтер мне только что сказал что он не знает
+2020-09-11 16:48:36.467476	stern	reshaev	пропускаются ли LDF и DMF
+2020-09-11 16:53:22.765209	reshaev	stern	да там не в расширении файла было дело
+2020-09-11 17:24:34.841686	reshaev	stern	https://prnt.sc/ufp842
+2020-09-11 17:25:31.528695	reshaev	stern	только что запустил
+2020-09-11 17:48:24.249187	reshaev	stern	Все четко короче
+2020-09-11 17:51:39.472458	stern	reshaev	ага вижу отлично
+2020-09-14 10:35:56.746401	stern	reshaev	привет скинь кош плиз
+2020-09-14 22:18:06.025798	reshaev	stern	Если по этому мылу Andrea.Davis.1989@protonmail.com напишут что декрипт не работает на тех файлах где расширения не смениолись, скажи что бы добавили расширение .CONTI и заного запустили у старой версии бывало такое что если по сети локаешь расширение могло не сменится
+2020-09-14 22:20:49.414911	reshaev	stern	Сам файл не бьется просто расширение не меняется при определнных обстаятельствах
+2020-09-14 22:20:58.335736	reshaev	stern	Исправлено в новой версии
+2020-09-15 12:35:49.142187	reshaev	stern	Если по этому мылу Andrea.Davis.1989@protonmail.com напишут что декрипт не работает на тех файлах где расширения не смениолись, скажи что бы добавили расширение .CONTI и заного запустили у старой версии бывало такое что если по сети локаешь расширение могло не сменится
+2020-09-15 12:35:49.145613	reshaev	stern	Сам файл не бьется просто расширение не меняется при определнных обстаятельствах
+2020-09-15 12:35:49.147308	reshaev	stern	Исправлено в новой версии
+2020-09-15 15:44:48.736135	stern	reshaev	дай кош
+2020-09-15 15:56:31.415310	stern	reshaev	тут?
+2020-09-15 15:56:44.010987	stern	reshaev	отпиши как будешь срочно надо
+2020-09-15 17:03:15.143454	reshaev	stern	да тут, сорри отходил, если че пиши пиши саппорту или параноику они со мной свяжутся в течение 20 минут свяжусь с тобой
+2020-09-15 17:38:01.743827	reshaev	stern	Отпиши как будешь, розетка двумя билдами обрабатывал эту команиию
+2020-09-15 17:38:09.797975	reshaev	stern	Скину декриптор
+2020-09-15 19:43:46.016251	reshaev	stern	да тут, сорри отходил, если че пиши пиши саппорту или параноику они со мной свяжутся в течение 20 минут свяжусь с тобой
+2020-09-15 19:43:46.034185	reshaev	stern	Отпиши как будешь, розетка двумя билдами обрабатывал эту команиию
+2020-09-15 19:43:46.037504	reshaev	stern	Скину декриптор
+2020-09-16 19:06:58.237384	reshaev	stern	Скинь мейлы на 2 билда еще
+2020-09-16 19:07:13.446571	reshaev	stern	Ночью просил еще походу не дошло сообщение тебе
+2020-09-16 19:51:09.787687	reshaev	stern	Скинь мейлы на 2 билда еще
+2020-09-16 19:51:09.790088	reshaev	stern	Ночью просил еще походу не дошло сообщение тебе
+2020-09-16 19:51:37.665225	reshaev	stern	Привет
+2020-09-16 19:51:39.818678	reshaev	stern	Скинь мейлы
+2020-09-16 19:51:43.147611	reshaev	stern	на 2 билда
+2020-09-16 19:57:10.594487	stern	reshaev	fuf jr
+2020-09-16 19:57:11.422766	stern	reshaev	ага ок
+2020-09-16 19:57:12.079218	stern	reshaev	ща
+2020-09-16 19:57:20.255153	stern	reshaev	ок
+2020-09-16 19:57:38.442588	stern	reshaev	а что было с конти, ничего не локал?
+2020-09-16 19:58:53.942492	stern	reshaev	angosusdand1987@protonmail.com
+banzum@protonmail.com
+
+StephanieBrown27@protonmail.com
+bikrut@protonmail.com
+2020-09-16 19:59:12.270353	reshaev	stern	а что было с конти, ничего не локал? - не понял
+2020-09-16 19:59:19.624016	stern	reshaev	rnj-nj
+2020-09-16 19:59:21.405012	stern	reshaev	кто-то говорил
+2020-09-16 19:59:29.033106	stern	reshaev	что был запар с ним
+2020-09-16 19:59:31.560133	stern	reshaev	в команде у профа
+2020-09-16 19:59:34.735491	reshaev	stern	а да
+2020-09-16 19:59:37.799064	reshaev	stern	розетка говорил
+2020-09-16 19:59:43.939322	reshaev	stern	но это старая версия была
+2020-09-16 19:59:45.446139	stern	reshaev	а что там было
+2020-09-16 19:59:47.081548	stern	reshaev	аа
+2020-09-16 20:00:23.908104	reshaev	stern	ну щас вроде все ок, полу вон каждый день почти отписывают проф 10 билдов уже заюзал 1 проблема была, я ее исправил
+2020-09-16 20:00:44.026760	stern	reshaev	fuf jr
+2020-09-16 20:00:46.061465	stern	reshaev	ага ок
+2020-09-16 20:00:54.171091	stern	reshaev	ага
+2020-09-16 20:00:55.113248	stern	reshaev	пол норм
+2020-09-16 20:20:29.026563	reshaev	stern	mails:
+angosusdand1987@protonmail.com
+banzum@protonmail.com
+ID: ImXYKHpXnfRcrjHBYXYbOTfZYDlKkOki
+
+mails:
+StephanieBrown27@protonmail.com
+bikrut@protonmail.com
+ID: QtXKmENUnqTKipwNlUDpXiAAZRPXpwOt
+
+pass: gNrBS6MW6Kt0bWAk
+https://www.sendspace.com/file/zdrjza
+https://www.sendspace.com/delete/zdrjza/d601d5c05f45e306bac20d8c77805fd2
+2020-09-16 20:21:10.635119	stern	reshaev	ок
+2020-09-18 11:23:35.331338	stern	reshaev	привет скинь кош
+2020-09-18 11:42:00.598659	stern	reshaev	привет скинь кош
+2020-09-18 11:43:24.751988	reshaev	stern	Привет
+2020-09-18 11:43:28.500145	reshaev	stern	bc1qht0lzvwddxgg5m3rlyymgptpfqa7calht68mq7
+2020-09-18 11:45:01.585108	stern	reshaev	35 бтц докидываю
+2020-09-18 11:45:04.125763	stern	reshaev	привет
+2020-09-18 11:45:08.594370	stern	reshaev	ок?
+2020-09-18 11:45:10.276478	reshaev	stern	ок
+2020-09-18 11:45:27.750881	stern	reshaev	скинул
+2020-09-21 22:23:03.746142	stern	reshaev	Привет
+2020-09-21 22:23:09.238111	stern	reshaev	проф не берет у тебя билды ?
+2020-09-21 22:23:43.992549	reshaev	stern	привет
+2020-09-21 22:23:46.888913	reshaev	stern	пока не брал
+2020-09-22 21:37:54.159394	reshaev	stern	Привет, скинь мейлы на 4 билда
+2020-09-23 15:03:10.840297	reshaev	stern	Привет, скинь мейлы на 4 билда
+2020-09-23 15:20:51.875157	reshaev	stern	Привет, скинь мне мыйлы на 4 билда
+2020-09-23 15:23:21.704165	stern	reshaev	привет ок ща
+2020-09-23 15:51:07.563156	reshaev	stern	декриптор вот этим garymartin777@protonmail.com я альтеру вчера скинул он им передал вроде
+2020-09-23 16:13:32.463623	stern	reshaev	lf
+2020-09-23 16:13:34.453251	stern	reshaev	да все ок
+2020-09-23 16:13:42.990420	stern	reshaev	к пятницу расчитаемся за все выплаты что были
+2020-09-23 16:13:53.349265	stern	reshaev	как там с вебчатом?
+2020-09-23 16:14:33.906688	reshaev	stern	ок
+2020-09-23 16:14:45.039154	reshaev	stern	думаю на этой неделе доделает мавемат
+2020-09-23 16:14:57.817983	reshaev	stern	он мне выдал уже я посмотрел кое-что подкорректировать надо
+2020-09-23 16:17:49.325024	stern	reshaev	а через какой протокол общение идет?
+2020-09-23 16:18:14.466564	reshaev	stern	https
+2020-09-23 16:19:32.970783	reshaev	stern	но у нас же еще тор с верху там все еще накрываеться чем то если домен торовский
+2020-09-23 21:40:14.055889	reshaev	stern	mVzGlLX@#P13DCIlGO3yi
+
+
+Download: https://qaz.im/load/t4bbAk/hdBY9K
+Delete: https://qaz.im/index.php?a=delete&q=513999013
+
+----------------------------------
+bUUnigiuZBuOarYFqawvEnrcwlAbcYMF
+
+folkam@protonmail.com
+gokcin@protonmail.com
+
+----------------------------------
+LkxVWAAvZlDeMzXrNCVXQWvFvAHvNccY
+
+folkum@protonmail.com
+gotkin@protonmail.com
+
+----------------------------------
+SOYulYDQlarkOLZXJctzBefOeToWZvWb
+
+Daveglidinerib1972@protonmail.com
+bolkum@protonmail.com
+
+----------------------------------
+YyXjRTOkNTXEGqmErOOBTZoxyMxlUnRG
+
+gikrum@protonmail.com
+koolum@protonmail.com
+
+----------------------------------
+2020-09-24 00:25:36.923100	reshaev	stern	mVzGlLX@#P13DCIlGO3yi
+
+
+Download: https://qaz.im/load/t4bbAk/hdBY9K
+Delete: https://qaz.im/index.php?a=delete&q=513999013
+
+----------------------------------
+bUUnigiuZBuOarYFqawvEnrcwlAbcYMF
+
+folkam@protonmail.com
+gokcin@protonmail.com
+
+----------------------------------
+LkxVWAAvZlDeMzXrNCVXQWvFvAHvNccY
+
+folkum@protonmail.com
+gotkin@protonmail.com
+
+----------------------------------
+SOYulYDQlarkOLZXJctzBefOeToWZvWb
+
+Daveglidinerib1972@protonmail.com
+bolkum@protonmail.com
+
+----------------------------------
+YyXjRTOkNTXEGqmErOOBTZoxyMxlUnRG
+
+gikrum@protonmail.com
+koolum@protonmail.com
+
+----------------------------------
+2020-09-27 09:19:10.180060	reshaev	stern	скинь мейлов на пару билдов
+2020-09-28 15:58:43.634696	reshaev	stern	отпиши как зайдешь нужны мейлы
+2020-09-28 21:11:03.308024	reshaev	stern	скинь мейлов на пару билдов
+2020-09-28 21:11:03.336705	reshaev	stern	отпиши как зайдешь нужны мейлы
+2020-09-28 21:11:51.079164	reshaev	stern	Привет, тут?
+2020-09-28 21:12:00.788407	reshaev	stern	Сообщения получал?
+2020-09-28 23:39:24.085573	stern	reshaev	я тут
+2020-09-28 23:39:29.627000	stern	reshaev	нужен будеть твой кошщ
+2020-09-29 13:04:13.363350	reshaev	stern	Скинь еще на 2 билда
+2020-09-29 15:35:55.439547	reshaev	stern	Скинь еще на 2 билда
+2020-09-29 15:45:14.653411	reshaev	stern	Привет, скинешь еще на 2 билда?
+2020-09-29 15:55:15.594580	stern	reshaev	привет
+2020-09-29 15:55:16.654169	stern	reshaev	сейчас
+2020-09-29 15:55:19.155497	stern	reshaev	кош тот же?*
+2020-09-29 15:55:26.508775	reshaev	stern	щас скину сек
+2020-09-29 15:55:45.334766	reshaev	stern	bc1qfht3lj9hda30pv4mqqkklxjylmm9jma0k4ssag
+2020-09-30 15:20:41.154150	stern	reshaev	тут?
+2020-09-30 15:20:44.648323	stern	reshaev	напиши по английски
+2020-09-30 15:20:45.047185	stern	reshaev	Can you describe how the data unlocking and payment process works. What do we get if we pay?
+2020-09-30 15:20:46.661953	stern	reshaev	xnj jyb
+2020-09-30 15:20:49.207903	stern	reshaev	что они получат
+2020-09-30 15:20:53.989908	stern	reshaev	и как это будет работать
+2020-09-30 15:20:55.599864	stern	reshaev	напиши пошагово
+2020-09-30 15:20:56.953611	stern	reshaev	сейчас плиз
+2020-09-30 15:21:55.319425	reshaev	stern	Бля по английски не смогу)
+2020-10-02 15:26:57.875344	reshaev	stern	Привет, дай на 4 билда мыла
+2020-10-02 17:01:30.393887	reshaev	stern	скинь мне или параноику
+2020-10-02 19:21:13.181378	reshaev	stern	Привет, дай на 4 билда мыла
+2020-10-02 19:21:13.190660	reshaev	stern	скинь мне или параноику
+2020-10-05 19:46:43.384882	reshaev	stern	скинь на 3 билда мейлов
+2020-10-05 19:46:54.825089	reshaev	stern	мне или параноику
+2020-10-05 22:03:50.697505	reshaev	stern	скинь на 3 билда мейлов
+2020-10-05 22:03:50.698882	reshaev	stern	мне или параноику
+2020-10-06 21:48:08.374498	reshaev	stern	привет, как там  по  альтера билдам отписки есть, норамльно все?
+2020-10-06 21:49:37.661043	reshaev	stern	привет, как там  по  альтера билдам отписки есть, норамльно все?
+2020-10-06 21:57:25.623207	reshaev	stern	принял? че то вылетает у меня постоянноъ
+2020-10-06 22:28:47.682658	stern	reshaev	что именно?
+2020-10-06 22:29:32.054427	reshaev	stern	По отпискам по новым билдам
+2020-10-06 22:29:54.270709	reshaev	stern	Отписывают по новым билдам?
+2020-10-06 22:31:28.364124	stern	reshaev	сегодня 1 отписал
+2020-10-06 22:31:31.327858	stern	reshaev	по старым молчат пока
+2020-10-06 22:31:32.362123	stern	reshaev	тишина
+2020-10-07 17:22:44.844036	stern	reshaev	target@q3mcco35auwcstmt.onion
+2020-10-07 18:31:00.437450	stern	reshaev	тут?
+2020-10-08 03:58:26.632922	stern	reshaev	https://privnote.com/t2cJYjKf#lK5Hwrgnr
+2020-10-08 03:58:37.811316	stern	reshaev	там файл отправили, разархивируй
+2020-10-08 03:58:46.083108	stern	reshaev	декриптани тоесть
+2020-10-08 03:58:48.647036	stern	reshaev	посмотри что там
+2020-10-08 03:58:52.303812	stern	reshaev	если что-то не важное
+2020-10-08 03:58:53.845813	stern	reshaev	отправь им
+2020-10-08 06:11:37.340982	stern	reshaev	https://privnote.com/t2cJYjKf#lK5Hwrgnr
+2020-10-08 06:11:37.342599	stern	reshaev	там файл отправили, разархивируй
+2020-10-08 06:11:37.344280	stern	reshaev	декриптани тоесть
+2020-10-08 06:11:37.346302	stern	reshaev	посмотри что там
+2020-10-08 06:11:37.350772	stern	reshaev	если что-то не важное
+2020-10-08 06:11:37.351487	stern	reshaev	отправь им
+2020-10-08 06:20:10.705514	reshaev	stern	готово отправил, там фотка бесполезная
+2020-10-08 16:31:21.040699	reshaev	stern	готово отправил, там фотка бесполезная
+2020-10-09 10:07:41.856156	stern	reshaev	https://privnote.com/LPofPp68#ow23dB1po
+2020-10-09 14:07:06.772786	stern	reshaev	https://privnote.com/LPofPp68#ow23dB1po
+2020-10-09 14:17:19.342728	reshaev	stern	gotovo
+2020-10-09 16:41:13.782316	reshaev	stern	Они бабки скинули, я им декриптор выдал
+2020-10-09 17:07:17.302060	reshaev	stern	gotovo
+2020-10-09 17:07:17.316117	reshaev	stern	Они бабки скинули, я им декриптор выдал
+2020-10-09 17:08:45.760775	reshaev	stern	И таргету еще декриптор выдал
+2020-10-09 17:09:58.890400	stern	reshaev	ку
+2020-10-09 17:10:06.289730	stern	reshaev	ты им ответил?
+2020-10-09 17:10:12.655672	stern	reshaev	а то они писали 2 часа назад
+2020-10-09 17:10:15.807736	reshaev	stern	Я им декриптор уже выдал
+2020-10-09 17:11:50.290242	reshaev	stern	Они скинули $
+2020-10-09 17:27:58.871488	reshaev	stern	Когда расчитаемся ? там вроде у пола еще 5 или 6 декрипторов было
+2020-10-09 17:35:53.448816	stern	reshaev	да
+2020-10-09 17:35:58.151746	stern	reshaev	это другие вроде
+2020-10-09 22:48:31.639391	reshaev	stern	Чат запустили если че
+2020-10-09 22:48:40.718978	reshaev	stern	Альтеру билды выдал
+2020-10-10 10:01:41.335000	reshaev	stern	Чат запустили если че
+2020-10-10 10:01:41.338132	reshaev	stern	Альтеру билды выдал
+2020-10-10 10:07:29.176873	stern	reshaev	отлично
+2020-10-10 10:07:30.237916	stern	reshaev	красава
+2020-10-10 19:27:56.337368	stern	reshaev	отлично
+2020-10-10 19:27:56.340653	stern	reshaev	красава
+2020-10-13 01:21:15.778961	stern	reshaev	https://privnote.com/iojtcYEJ#gIuBaS5Vg
+2020-10-13 01:21:18.759126	stern	reshaev	лови тут мейлы
+2020-10-13 01:21:28.777046	stern	reshaev	битки в обед скину
+2020-10-13 01:28:32.759221	stern	reshaev	https://privnote.com/iojtcYEJ#gIuBaS5Vg
+2020-10-13 01:28:32.762733	stern	reshaev	лови тут мейлы
+2020-10-13 01:28:32.765176	stern	reshaev	битки в обед скину
+2020-10-13 01:28:47.431469	reshaev	stern	принял
+2020-10-13 09:38:17.140718	reshaev	stern	принял
+2020-10-14 16:14:24.115985	stern	reshaev	на будущее оставь мне постоянный свой кош
+2020-10-14 16:14:28.199136	stern	reshaev	я тебе лучше день в день буду кидать
+2020-10-14 17:18:37.013809	stern	reshaev	я тебе скинул 18
+2020-10-14 17:18:40.937396	stern	reshaev	и жду полногго отчета от парней
+2020-10-14 17:50:28.873547	stern	reshaev	на будущее оставь мне постоянный свой кош
+2020-10-14 17:50:28.875184	stern	reshaev	я тебе лучше день в день буду кидать
+2020-10-14 17:50:28.876223	stern	reshaev	я тебе скинул 18
+2020-10-14 17:50:28.877450	stern	reshaev	и жду полногго отчета от парней
+2020-10-20 13:03:20.510277	stern	reshaev	проф сам будет переписываться
+2020-10-20 13:03:23.340068	stern	reshaev	со своими
+2020-10-20 13:57:52.990819	reshaev	stern	ок
+2020-10-21 13:36:58.502192	stern	reshaev	дай кош
+2020-10-30 11:24:26.103470	stern	reshaev	привет
+2020-10-30 11:24:27.250302	stern	reshaev	как дела ?
+2020-10-30 11:24:30.177934	stern	reshaev	что нового?
+2020-11-12 16:20:34.914688	stern	reshaev	скинул
+2020-11-12 16:21:02.544276	reshaev	stern	принял
+2021-02-16 00:55:49.537247	reshaev	stern	привет user07 отписали
+2021-02-16 14:52:22.332734	reshaev	stern	привет user07 отписали
+2021-02-23 17:09:43.016088	stern	reshaev	тут?
+2021-02-24 17:00:22.866362	reshaev	stern	Да туда же
+2021-02-25 12:08:49.586627	stern	reshaev	привет
+2021-02-25 12:08:53.117433	stern	reshaev	скинул от боба
+2021-02-25 13:19:36.942124	reshaev	stern	Приветок
+2021-02-25 18:02:01.508193	reshaev	stern	Приветок
+2021-03-05 17:43:58.684129	stern	reshaev	привет
+2021-03-05 17:44:09.500227	stern	reshaev	тебе twin@ еще отпишет, он будет бртаь билды и списываться с жертвами сам
+2021-03-05 18:44:13.851076	reshaev	stern	привет ок
+2021-03-06 21:50:37.415418	reshaev	stern	привет ок
+2021-03-17 15:36:47.292958	reshaev	stern	Здарова
+2021-03-17 15:37:01.198064	reshaev	stern	А почему mango переписки ведет
+2021-03-17 15:37:06.412618	reshaev	stern	Если он не умеет
+2021-03-17 21:51:28.644106	reshaev	stern	Здарова
+2021-03-17 21:51:28.656797	reshaev	stern	А почему mango переписки ведет
+2021-03-17 21:51:28.661125	reshaev	stern	Если он не умеет
+2021-03-18 15:43:05.676427	stern	reshaev	тот же кош?
+2021-04-02 13:02:00.791532	stern	reshaev	Привет
+2021-04-02 13:02:18.293102	stern	reshaev	буза говорит, что там по соксам не закрыто что-то
+2021-04-02 13:30:29.824730	reshaev	stern	Привет да заканчиваем уже
+2021-04-02 17:16:22.295517	reshaev	stern	Привет да заканчиваем уже
+2021-04-02 17:36:59.801021	stern	reshaev	ку
+2021-04-02 17:37:08.035044	stern	reshaev	на бекенде декрипторы не хранятся?
+2021-04-02 17:37:12.447363	stern	reshaev	по конти
+2021-04-02 17:40:59.626338	stern	reshaev	декрипторы не храни на серваке
+2021-04-06 10:49:43.371995	reshaev	stern	Маякни как тут будешь
+2021-04-06 14:44:29.064341	reshaev	stern	Там отписали ребятам
+2021-04-06 14:44:35.259954	reshaev	stern	Которые через кагаса брали билды
+2021-04-06 14:44:54.067947	reshaev	stern	Кто диалоги ведет их?
+2021-04-06 16:15:20.153884	reshaev	stern	Маякни как тут будешь
+2021-04-06 16:15:20.159265	reshaev	stern	Там отписали ребятам
+2021-04-06 16:15:20.159594	reshaev	stern	Которые через кагаса брали билды
+2021-04-06 16:15:20.160031	reshaev	stern	Кто диалоги ведет их?
+2021-04-06 16:16:18.894355	reshaev	stern	Тут?
+2021-04-06 16:17:11.410149	stern	reshaev	lf
+2021-04-06 16:17:12.254505	stern	reshaev	да
+2021-04-06 16:19:22.770936	reshaev	stern	[17:44:28] <reshaev> Там отписали ребятам 
+[17:44:34] <reshaev> Которые через кагаса брали билды 
+[17:44:53] <reshaev> Кто диалоги ведет их?
+2021-04-06 16:27:17.249566	stern	reshaev	ага принял
+2021-04-16 15:27:10.057823	reshaev	stern	Отпиши как будешь по поводу новых партнеров поговорить
+2021-04-16 15:27:17.532555	reshaev	stern	От кагаса
+2021-04-16 22:59:57.298258	reshaev	stern	Отпиши как будешь по поводу новых партнеров поговорить
+2021-04-16 22:59:57.302660	reshaev	stern	От кагаса
+2021-04-16 23:00:12.022684	stern	reshaev	ghbdtn
+2021-04-16 23:00:12.025122	stern	reshaev	привет я тут
+2021-04-16 23:04:44.453023	stern	reshaev	скинь кош
+2021-04-16 23:14:23.555389	reshaev	stern	Сек
+2021-04-16 23:15:15.013938	reshaev	stern	Отписал какой-то чел сегодня, я ему 5 билдов сделал
+2021-04-16 23:15:24.540128	reshaev	stern	Он спрашивал диалоги он вести будет или мы?
+2021-04-16 23:15:46.530869	reshaev	stern	bc1qy0gz9dhhck0nwg2nm5feeufczjms7m0vyvsmss
+2021-04-16 23:16:05.130531	reshaev	stern	Хотя не давай на другой
+2021-04-24 16:32:27.947412	reshaev	stern	авамар передал что если таргеты у нас есть и лишние руки нужны то они могут в работу взять
+(04:29:44) avamar@gnu.gr: Ладно билды есть, следущая неделя начниаем в пн работать. Если вдруг у вас есть что обрабатывать у нас есть руки крутить и проставлять. Имейте ввиду. Что то с целями немного просадка сейчас. Вот поднимаем свой спам в итоге.
+2021-04-26 17:58:06.173243	reshaev	stern	авамар передал что если таргеты у нас есть и лишние руки нужны то они могут в работу взять
+(04:29:44) avamar@gnu.gr: Ладно билды есть, следущая неделя начниаем в пн работать. Если вдруг у вас есть что обрабатывать у нас есть руки крутить и проставлять. Имейте ввиду. Что то с целями немного просадка сейчас. Вот поднимаем свой спам в итоге.
+2021-04-26 18:00:37.524595	reshaev	stern	По соксам вопрос закрыли
+2021-05-01 03:50:25.877218	stern	reshaev	как у вас дела с локером под линь?
+2021-05-01 16:12:51.665533	reshaev	stern	Последний момент щас решаю какие каталоги шифровать в линуксе
+А так крипт/декрипт уже на несколько лямов файлов проверил все ок
+2021-05-01 17:48:45.519858	reshaev	stern	от профа жду инфы, его чел сказал поможет с этим вопросом
+2021-05-04 13:39:47.683541	reshaev	stern	отпиши как зайдешь
+2021-05-05 16:26:42.246335	reshaev	stern	Последний момент щас решаю какие каталоги шифровать в линуксе
+А так крипт/декрипт уже на несколько лямов файлов проверил все ок
+2021-05-05 16:26:42.249737	reshaev	stern	от профа жду инфы, его чел сказал поможет с этим вопросом
+2021-05-05 16:26:42.283434	reshaev	stern	отпиши как зайдешь
+2021-05-05 16:31:48.171888	stern	reshaev	ага понял ок
+2021-05-05 16:31:53.258749	stern	reshaev	и еще
+2021-05-05 16:31:58.482587	stern	reshaev	конти палится хакеры пишут
+2021-05-18 14:40:27.662324	stern	reshaev	хорошо
+2021-05-18 14:40:31.021470	stern	reshaev	отпиши бобу правила тогда
+2021-05-18 14:40:32.403644	stern	reshaev	своего локера
+2021-05-18 14:40:52.255120	stern	reshaev	вчера не посчитал тебя еще, проф вышел, скинет отчет и все разом закину
+2021-05-21 20:33:16.727946	stern	reshaev	что по трампу думаешь?
+2021-05-21 23:54:49.876987	stern	reshaev	что по трампу думаешь?
+2021-05-21 23:58:02.356565	reshaev	stern	Незнаю ни чего не могу сказать за него, я с ним пообщался немного на счет локера, он знаком с авамаром как я понял и он тоже хочет по локеру начать рабоать
+2021-05-21 23:59:42.821985	reshaev	stern	Ну я думаю давай попробуем поработать с ним, но он ждет линукс версии
+2021-05-22 00:00:02.650453	reshaev	stern	Мне там осталось проверить на одной ос
+2021-05-22 00:00:04.892570	reshaev	stern	esxi
+2021-05-22 00:00:10.936815	reshaev	stern	И в принципе все
+2021-05-22 00:17:04.709260	reshaev	stern	Авамар норм чел, работает - ему платят, возможно трамп тоже
+2021-05-22 12:10:47.945470	reshaev	stern	Узнал у авамара за него
+2021-05-22 12:10:48.353371	reshaev	stern	на счет аренды решать вам самим, по работе с ним нареканий небыло, человек давно в различных темах. Н осам знаешь правило работы в онлайне - доверяй но проверяй!) Но это впринципе везде так)
+2021-05-24 13:34:48.837724	reshaev	stern	Незнаю ни чего не могу сказать за него, я с ним пообщался немного на счет локера, он знаком с авамаром как я понял и он тоже хочет по локеру начать рабоать
+2021-05-24 13:34:48.838969	reshaev	stern	Ну я думаю давай попробуем поработать с ним, но он ждет линукс версии
+2021-05-24 13:34:48.839270	reshaev	stern	Мне там осталось проверить на одной ос
+2021-05-24 13:34:48.839708	reshaev	stern	esxi
+2021-05-24 13:34:48.840047	reshaev	stern	И в принципе все
+2021-05-24 13:34:48.840782	reshaev	stern	Авамар норм чел, работает - ему платят, возможно трамп тоже
+2021-05-24 13:34:48.842599	reshaev	stern	Узнал у авамара за него
+2021-05-24 13:34:48.844687	reshaev	stern	на счет аренды решать вам самим, по работе с ним нареканий небыло, человек давно в различных темах. Н осам знаешь правило работы в онлайне - доверяй но проверяй!) Но это впринципе везде так)
+2021-05-24 13:35:28.363079	stern	reshaev	ага
+2021-05-24 13:35:32.068561	stern	reshaev	ну нас в целом он не кинет
+2021-05-24 13:35:44.866373	stern	reshaev	кроме conti сейчас никого не осталось
+2021-05-24 13:35:56.383184	stern	reshaev	из нашумевших локеров
+2021-05-27 17:46:18.713365	reshaev	stern	Привет
+2021-05-27 17:46:35.979257	reshaev	stern	Вариант кого-нибудь саппортом поставить что бы диалоги вел?
+2021-05-27 17:46:39.382515	reshaev	stern	Люди просят
+2021-05-27 17:47:34.085591	reshaev	stern	С нормальным английским
+2021-05-27 17:47:38.716074	reshaev	stern	Что бы не позорится
+2021-05-28 14:42:02.664133	reshaev	stern	Привет
+2021-05-28 14:42:02.665099	reshaev	stern	Вариант кого-нибудь саппортом поставить что бы диалоги вел?
+2021-05-28 14:42:02.665718	reshaev	stern	Люди просят
+2021-05-28 14:42:02.669798	reshaev	stern	С нормальным английским
+2021-05-28 14:42:02.672594	reshaev	stern	Что бы не позорится
+2021-05-28 14:43:01.188264	stern	reshaev	привет
+2021-05-28 14:43:05.801021	stern	reshaev	это по кому ?
+2021-05-28 14:43:11.389365	stern	reshaev	там у каждой команды свои переговорщики
+2021-05-28 14:43:21.796953	stern	reshaev	от переговорщика на самом деле зависит тоже
+2021-06-02 18:47:33.686360	reshaev	stern	0.7892 - ot avamar 1.37204764 - ot tramp
+2021-06-03 16:11:15.046558	reshaev	stern	еще пришли, туда же кидать?
+2021-06-03 16:26:33.228783	reshaev	stern	0.7892 - ot avamar 1.37204764 - ot tramp
+2021-06-03 16:26:33.236812	reshaev	stern	еще пришли, туда же кидать?
+2021-06-03 16:27:19.221142	stern	reshaev	да туда же
+2021-06-03 16:27:25.739104	reshaev	stern	+
+2021-06-08 09:31:51.573099	stern	reshaev	У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?
+2021-06-08 12:35:42.707255	stern	reshaev	У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?
+2021-06-16 13:03:06.207264	stern	reshaev	привет дай кош там по бобу
+2021-06-21 05:48:57.927705	reshaev	stern	Скинь кошелек как зайдешь
+2021-06-22 09:39:35.234625	reshaev	stern	Скинь кошелек как зайдешь
+2021-06-26 15:54:24.606487	stern	reshaev	дай кош
+2021-06-28 08:04:55.669788	stern	reshaev	1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+2021-06-28 08:05:17.086797	stern	reshaev	1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+2021-06-28 17:58:04.839429	reshaev	stern	Скингь кош как зайдешь
+2021-06-28 21:54:52.502513	reshaev	stern	Скингь кош как зайдешь
+2021-07-01 10:24:52.193281	stern	reshaev	дай кош
+2021-07-02 09:35:25.087714	stern	reshaev	кош тот же?
+2021-07-02 09:35:27.872972	stern	reshaev	там еще прилетело от профа
+2021-07-10 12:51:27.647334	reshaev	stern	Скинь кош
+2021-07-10 17:11:52.740154	reshaev	stern	Скинь кош
+2021-07-19 18:32:59.830927	stern	reshaev	дай кош там от боба по мелочи
+2021-08-10 10:29:39.911894	stern	reshaev	скинь кшо
+2021-08-10 10:29:41.363107	stern	reshaev	кош
+2021-08-26 08:23:46.452467	stern	reshaev	lwQWojfYdaTOzvDiqWb9rDTP9Y1v0eLAUkD1wQHWvLL1Q3J4XSahQ0OCMPHiZ2v3
+2021-08-26 08:23:50.232363	stern	reshaev	что там с этими от горца
+2021-08-26 11:21:45.409543	stern	reshaev	lwQWojfYdaTOzvDiqWb9rDTP9Y1v0eLAUkD1wQHWvLL1Q3J4XSahQ0OCMPHiZ2v3
+2021-08-26 11:21:45.411018	stern	reshaev	что там с этими от горца
+2021-08-26 11:25:35.494781	reshaev	stern	Мозгоебы они
+2021-08-26 11:25:46.283508	reshaev	stern	Не будут они платить
+2021-08-26 11:52:08.777171	reshaev	stern	Я им кошелек скинул
+2021-08-26 15:37:05.859367	reshaev	stern	Мозгоебы они
+2021-08-26 15:37:05.862572	reshaev	stern	Не будут они платить
+2021-08-26 15:37:05.883284	reshaev	stern	Я им кошелек скинул
+2021-08-26 15:37:26.098159	stern	reshaev	ага понял
+2021-09-03 16:54:27.043636	stern	reshaev	прив
+2021-09-03 16:54:28.280638	stern	reshaev	дай кош
+2021-09-12 19:02:29.881923	stern	reshaev	[19:53:39] <dylon> hto to reshaev & paranoik propali
+2021-09-14 02:14:39.131123	stern	reshaev	[19:53:39] <dylon> hto to reshaev & paranoik propali
+2021-09-14 03:17:07.446808	reshaev	stern	Privet vchera menya ne bilo
+2021-09-14 03:17:15.255009	reshaev	stern	paranoik doljen bil bit
+2021-09-14 03:17:18.199622	reshaev	stern	Uznau
+2021-09-14 10:07:18.875624	reshaev	stern	Privet vchera menya ne bilo
+2021-09-14 10:07:18.883031	reshaev	stern	paranoik doljen bil bit
+2021-09-14 10:07:18.893999	reshaev	stern	Uznau
+2021-09-14 10:10:24.626711	stern	reshaev	привет ок
+2021-09-15 10:49:12.771884	reshaev	stern	skin kosh
+2021-09-17 06:55:06.523103	reshaev	stern	skin kosh
+2021-09-19 07:18:46.145720	stern	reshaev	тебя ищет зевс
+2021-09-19 20:15:21.830181	stern	reshaev	тебя ищет зевс
+2021-09-19 20:25:16.449223	reshaev	stern	ok
+2021-09-19 20:57:51.736475	reshaev	stern	tolko ya ego daje ne znau
+2021-09-21 07:57:33.396890	reshaev	stern	skin kosh kak zaidesh
+2021-09-21 19:09:29.320018	reshaev	stern	ok
+2021-09-21 19:09:29.325899	reshaev	stern	tolko ya ego daje ne znau
+2021-09-21 19:09:29.334987	reshaev	stern	skin kosh kak zaidesh
+2021-09-28 16:35:11.879983	stern	reshaev	Привет, как у тебя дела ? какие планы по конти?
+2021-10-04 08:23:30.673553	reshaev	stern	otpishi kak budesh
+2021-10-04 09:53:57.657692	reshaev	stern	otpishi kak budesh
+2021-10-07 21:43:33.002100	reshaev	stern	Так че пускай берут в монеро если жертва может купить?
+2021-10-07 21:46:05.841308	reshaev	stern	Я только за
+2021-10-11 14:00:59.013743	stern	reshaev	ну если может, то конечно пофиг в чем
+2021-10-11 16:40:27.955069	stern	reshaev	ну если может, то конечно пофиг в чем
+2021-10-12 20:21:50.879121	reshaev	stern	skinul -16.114133 - avamar
+2021-10-13 15:38:59.885871	reshaev	stern	skinul -16.114133 - avamar
+2021-10-13 15:47:14.577077	stern	reshaev	принял
+2021-10-13 17:41:26.391148	stern	reshaev	принял
+2021-10-25 20:08:12.521243	reshaev	stern	ты давал добро на залок больници доллару?
+2021-10-25 20:08:27.248869	reshaev	stern	@dollar
+2021-10-26 05:10:26.097776	reshaev	stern	ты давал добро на залок больници доллару?
+2021-10-26 05:10:26.104631	reshaev	stern	@dollar
+2021-10-26 05:14:04.242489	stern	reshaev	я обычно не даю добро на локи
+2021-10-26 10:41:44.122476	stern	reshaev	я обычно не даю добро на локи
+2021-10-26 13:50:06.615814	reshaev	stern	Посмотри по переписке если ты не давал добро то я декриптор выдаю этой клинике, мы же договорились медецинский сектор не трогать
+2021-10-29 05:46:17.252665	reshaev	stern	Посмотри по переписке если ты не давал добро то я декриптор выдаю этой клинике, мы же договорились медецинский сектор не трогать
+2021-10-29 05:48:31.886804	stern	reshaev	да, выдавай, делай как считаешь нужным
+2021-11-01 23:41:39.042265	reshaev	stern	скинь кош там накапало уже
+2021-11-02 03:57:39.706892	reshaev	stern	скинь кош там накапало уже
+2021-11-03 06:04:38.857767	stern	reshaev	Привет
+2021-11-04 14:01:36.732810	stern	reshaev	скинь кош там от дилона
+2021-11-08 15:15:26.016654	reshaev	stern	Привет скинь кош
+2021-11-11 10:02:44.239131	reshaev	stern	:yes::yes::yes:
+2021-11-11 11:28:35.444243	reshaev	stern	:yes::yes::yes:
+2021-11-11 19:13:07.131945	reshaev	stern	(06:53:08 PM) tramp: есть возможно делать хорошой спам нужен бот для работы что бы ваши ребята с других команд могли брать сети в работу.
+2021-11-11 19:13:12.495098	reshaev	stern	Есть у нас варианты какие-то?
+2021-11-11 19:13:16.694223	reshaev	stern	Трик умер как я понял?
+2021-11-11 19:13:58.482191	reshaev	stern	Манго говорит закрывать его собрались
+2021-11-12 14:51:30.093798	reshaev	stern	(06:53:08 PM) tramp: есть возможно делать хорошой спам нужен бот для работы что бы ваши ребята с других команд могли брать сети в работу.
+2021-11-12 14:51:30.095696	reshaev	stern	Есть у нас варианты какие-то?
+2021-11-12 14:51:30.097197	reshaev	stern	Трик умер как я понял?
+2021-11-12 14:51:30.099372	reshaev	stern	Манго говорит закрывать его собрались
+2021-11-18 21:38:04.481655	stern	reshaev	Привет скинь кош
+2021-11-19 00:22:27.667708	stern	reshaev	Привет скинь кош
+2021-11-19 00:25:35.269814	reshaev	stern	Ok
+2021-11-19 00:25:36.644900	reshaev	stern	Zavtra
+2021-11-19 10:50:58.227540	reshaev	stern	Ok
+2021-11-19 10:50:58.230553	reshaev	stern	Zavtra
+2021-11-19 10:51:52.925691	stern	reshaev	тут*
+2021-11-19 10:51:54.108940	stern	reshaev	?
+2021-11-19 10:57:33.978599	stern	reshaev	тут*
+2021-11-19 10:57:33.979072	stern	reshaev	?
+2021-11-19 10:57:53.278970	reshaev	stern	 Da
+2021-11-19 15:49:53.972576	reshaev	stern	Nu da

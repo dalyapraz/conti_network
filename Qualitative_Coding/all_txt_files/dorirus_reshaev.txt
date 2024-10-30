@@ -1,0 +1,8 @@
+Timestamp	From	To	Message
+2020-06-23 18:34:20.864637	reshaev	dorirus	мой
+2020-06-23 18:34:24.676566	reshaev	dorirus	привет
+2020-07-21 12:44:57.513618	reshaev	dorirus	Привет
+2020-09-02 12:06:54.110000	dorirus	reshaev	Привет, модули соксов на тебе же?
+2020-09-08 17:27:31.266258	dorirus	reshaev	Привет
+2020-09-08 17:27:33.270644	dorirus	reshaev	2020-09-08 17:24:02 	NewBCtestnDll 	SOCKS 		IO error. WSALastError = 997
+2020-09-10 12:50:24.565939	dorirus	reshaev	Привет

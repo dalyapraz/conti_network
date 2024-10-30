@@ -1,0 +1,15 @@
+Timestamp	From	To	Message
+2020-08-03 15:02:18.446867	tilar	many	ky
+2020-08-03 15:02:18.895247	tilar	many	man
+2020-08-03 15:02:19.919936	tilar	many	tyt?
+2020-08-05 11:26:00.632403	tilar	many	hi
+2020-08-25 11:38:19.165626	many	tilar	hi doc?
+2020-09-02 18:46:28.418739	many	tilar	yt pyf. ,hj
+2020-09-02 18:46:31.688123	many	tilar	не знаю бро
+2020-09-22 14:00:58.174005	many	tilar	hi doc?
+2020-09-22 14:01:11.639783	many	tilar	с вшитым ехе или длл . без линков. деф не палит
+2020-09-22 14:04:35.087871	tilar	many	hey
+2020-09-22 14:04:35.237253	tilar	many	bro
+2020-09-22 14:04:35.794180	tilar	many	ti nakonec-to vsyalcay za raboty?)
+2020-09-24 11:15:45.913695	many	tilar	пиши по доку!
+2020-09-24 11:15:58.105258	tilar	many	oki

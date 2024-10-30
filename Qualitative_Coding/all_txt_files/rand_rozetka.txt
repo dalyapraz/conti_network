@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2021-08-03 12:22:25.941535	rozetka	rand	привет
+2021-08-04 10:31:30.885481	rozetka	rand	привет
+2021-08-04 10:31:32.408552	rand	rozetka	1+1=?
+2021-08-04 13:15:14.526833	rand	rozetka	1+1=?
+2021-08-04 13:16:41.099171	rozetka	rand	2
+2021-08-04 13:16:42.280562	rand	rozetka	1+1=?

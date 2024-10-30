@@ -1,0 +1,53 @@
+Timestamp	From	To	Message
+2021-11-19 21:09:05.679288	cybergangster	dollar	mayakni zavtra dostup vidam
+2021-11-22 10:38:21.465800	cybergangster	dollar	mayakni zavtra dostup vidam
+2021-11-22 11:17:46.861004	cybergangster	dollar	dobavil
+2021-11-22 17:17:30.725329	cybergangster	dollar	dobavil
+2022-01-27 18:26:17.527475	dollar	cybergangster	otpishi mne
+2022-01-27 18:29:06.498283	dollar	cybergangster	otpishi mne
+2022-02-02 07:56:49.468893	cybergangster	dollar	Маякни
+2022-02-03 12:45:40.593814	cybergangster	dollar	Маякни
+2022-02-03 12:53:42.294707	dollar	cybergangster	YA TYT
+2022-02-04 08:12:47.033780	cybergangster	dollar	что там нетвалкер делает?
+2022-02-04 13:37:39.400608	cybergangster	dollar	что там нетвалкер делает?
+2022-02-04 13:48:25.745146	dollar	cybergangster	hi
+2022-02-04 13:48:26.457888	dollar	cybergangster	bro
+2022-02-04 13:48:29.343054	dollar	cybergangster	avtorizui menauy
+2022-02-04 13:48:32.680311	dollar	cybergangster	ti v off y menauy
+2022-02-07 19:38:24.715462	dollar	cybergangster	hey
+2022-02-07 19:38:25.372583	dollar	cybergangster	yo
+2022-02-07 19:38:29.621071	dollar	cybergangster	skin' koshk
+2022-02-07 19:38:33.647286	dollar	cybergangster	150k prishlo
+2022-02-07 20:29:37.576239	dollar	cybergangster	yo
+2022-02-07 20:29:37.577365	dollar	cybergangster	hey
+2022-02-07 20:29:37.585366	dollar	cybergangster	skin' koshk
+2022-02-07 20:29:37.587024	dollar	cybergangster	150k prishlo
+2022-02-14 13:26:54.424907	dollar	cybergangster	otpishi mne
+2022-02-14 13:27:03.353053	dollar	cybergangster	kak tyt bydhs'
+2022-02-14 13:27:03.354232	dollar	cybergangster	plz
+2022-02-14 18:05:16.527124	dollar	cybergangster	
+Краткое инфо о фирме - Фонд дцп
+Revenue: 81.0 M
+Locker: Conti
+Кейс от geoit
+---BEGIN ID---
+gx0ed3OSDv06gODCWrmxH5b1dGi2fJGxLlWCg3YWPP5OzUH9X7OgJyQVKaayxQEN
+2022-02-14 18:05:26.583270	dollar	cybergangster	eto ne mediki i ni kto ne ymret
+2022-02-14 18:05:31.481363	dollar	cybergangster	chtobi ti bil vkyrse
+2022-02-15 08:37:27.826507	dollar	cybergangster	otpishi mne
+2022-02-15 08:37:27.829657	dollar	cybergangster	kak tyt bydhs'
+2022-02-15 08:37:27.830688	dollar	cybergangster	plz
+2022-02-15 08:37:27.839430	dollar	cybergangster	
+Краткое инфо о фирме - Фонд дцп
+Revenue: 81.0 M
+Locker: Conti
+Кейс от geoit
+---BEGIN ID---
+gx0ed3OSDv06gODCWrmxH5b1dGi2fJGxLlWCg3YWPP5OzUH9X7OgJyQVKaayxQEN
+2022-02-15 08:37:27.840851	dollar	cybergangster	chtobi ti bil vkyrse
+2022-02-15 08:37:27.841413	dollar	cybergangster	eto ne mediki i ni kto ne ymret
+2022-02-15 08:59:49.979675	cybergangster	dollar	Скинь мне линк
+2022-02-15 10:49:32.335738	cybergangster	dollar	Скинь мне линк
+2022-02-25 02:15:39.194831	cybergangster	dollar	Маякни как будешь
+2022-02-25 10:21:40.622180	cybergangster	dollar	Маякни как будешь
+2022-02-25 21:43:28.144448	cybergangster	dollar	ахахахах

@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-04-05 00:06:39.867116	swift	reshaev	пинг
+2021-04-05 11:03:24.664473	swift	reshaev	пинг
+2021-04-05 11:07:21.625789	reshaev	swift	Привет

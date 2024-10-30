@@ -1,0 +1,43 @@
+Timestamp	From	To	Message
+2021-12-21 06:48:15.448042	cybergangster	tiniles	fXaVov4f6h4u3bK9KaNUl9EXbYfeLS4TQR330JZM5MIKJfLaStqLKu0FUEtoq7CM декриптор в чат
+2021-12-21 07:25:27.028481	cybergangster	tiniles	fXaVov4f6h4u3bK9KaNUl9EXbYfeLS4TQR330JZM5MIKJfLaStqLKu0FUEtoq7CM декриптор в чат
+2021-12-25 05:17:08.833801	cybergangster	tiniles	(22:35:12) hors@q3mcco35auwcstmt.onion: Привет
+(22:35:12) hors@q3mcco35auwcstmt.onion: b6gf9QZUPqgynohI9OZexUByP9qnP9Ri3svaPwEc1Arz0Yk2J6Q27PEtEGPhofoH
+(22:35:12) hors@q3mcco35auwcstmt.onion: декрипт
+(22:35:12) hors@q3mcco35auwcstmt.onion: тестовый
+2021-12-25 05:32:36.052832	cybergangster	tiniles	XIMA5J3yIbiA9G2707fkjNSTKQGTR5LezddzMs73PgVcZ4oKO4ucKbGxPaUN599L
+2021-12-25 05:32:42.303713	cybergangster	tiniles	Ищи линукс декриптор
+2021-12-25 05:32:45.928079	cybergangster	tiniles	У тебя должен быть
+2021-12-25 08:01:38.174147	cybergangster	tiniles	(22:35:12) hors@q3mcco35auwcstmt.onion: Привет
+(22:35:12) hors@q3mcco35auwcstmt.onion: b6gf9QZUPqgynohI9OZexUByP9qnP9Ri3svaPwEc1Arz0Yk2J6Q27PEtEGPhofoH
+(22:35:12) hors@q3mcco35auwcstmt.onion: декрипт
+(22:35:12) hors@q3mcco35auwcstmt.onion: тестовый
+2021-12-25 08:01:38.180609	cybergangster	tiniles	XIMA5J3yIbiA9G2707fkjNSTKQGTR5LezddzMs73PgVcZ4oKO4ucKbGxPaUN599L
+2021-12-25 08:01:38.187257	cybergangster	tiniles	Ищи линукс декриптор
+2021-12-25 08:01:38.192200	cybergangster	tiniles	У тебя должен быть
+2022-01-24 11:00:08.610959	cybergangster	tiniles	доллару билды не делай больше
+2022-01-24 11:00:16.850175	cybergangster	tiniles	и его ребятам
+2022-01-24 11:07:35.712155	cybergangster	tiniles	на акк dildo
+2022-01-25 08:50:37.839476	cybergangster	tiniles	подготовь esxi к вечеру
+2022-01-25 09:30:17.813459	cybergangster	tiniles	доллару билды не делай больше
+2022-01-25 09:30:17.832503	cybergangster	tiniles	и его ребятам
+2022-01-25 09:30:17.834281	cybergangster	tiniles	на акк dildo
+2022-01-25 09:30:17.850940	cybergangster	tiniles	подготовь esxi к вечеру
+2022-02-04 20:08:49.918893	cybergangster	tiniles	Зайди в options
+2022-02-04 20:09:03.051377	cybergangster	tiniles	а нет
+2022-02-04 20:09:40.239634	cybergangster	tiniles	tool -> plugins -> off the record галочку поставь
+2022-02-04 20:09:53.152098	cybergangster	tiniles	видишь ссобщения
+2022-02-04 20:09:53.849938	cybergangster	tiniles	?
+2022-02-04 20:10:12.648976	tiniles	cybergangster	вижу
+2022-02-04 20:10:20.029658	tiniles	cybergangster	не вижу plugins
+2022-02-04 20:10:42.551125	cybergangster	tiniles	tools
+2022-02-04 20:10:44.820415	cybergangster	tiniles	plugins
+2022-02-04 20:11:01.833868	cybergangster	tiniles	не  в этом окне
+2022-02-04 20:11:06.334122	cybergangster	tiniles	а где список юзеров
+2022-02-04 20:11:58.576557	cybergangster	tiniles	?
+2022-02-04 20:12:06.045317	tiniles	cybergangster	вроде все
+2022-02-04 20:12:21.582590	cybergangster	tiniles	Теперь смотри
+2022-02-12 07:50:37.332264	cybergangster	tiniles	делай пароли длинней 16 символов минимум
+2022-02-12 08:40:56.472211	cybergangster	tiniles	делай пароли длинней 16 символов минимум
+2022-02-17 07:20:29.940890	cybergangster	tiniles	сам знаешь
+2022-02-17 11:12:06.882128	cybergangster	tiniles	сам знаешь

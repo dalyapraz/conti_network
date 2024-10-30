@@ -1,0 +1,6 @@
+Timestamp	From	To	Message
+2021-12-13 08:10:59.827339	slojno	tiniles	2+3=?
+2021-12-13 08:11:09.551427	tiniles	slojno	5
+2021-12-13 08:11:11.338491	slojno	tiniles	2+3=?
+2021-12-13 08:11:15.473037	tiniles	slojno	5
+2021-12-13 08:11:17.258371	slojno	tiniles	Congratulations! Now you can chat!

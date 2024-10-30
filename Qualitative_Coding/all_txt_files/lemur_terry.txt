@@ -1,0 +1,837 @@
+Timestamp	From	To	Message
+2021-02-01 11:57:03.750602	lemur	terry	{Greetings|Hello|Good afternoon|Hi|Good day|Greeting|Good morning|Good evening}!
+{Here|Right here|In this letter|With this letter} we {send|direct} you {all the|all the necessary|the most important} {documentation|papers|documents|records} {regarding|concerning|relating to} your {payment|deposit payment|last payment} {#|№|No. }НОМЕР ПЛАТЕЖА, right {as we|as we have} {discussed|revealed} {not so long ago|not too long ago|recently|just recently|not long ago}. Please {review the|check the|take a look at} аll {necessary|required|important}  {information|data} in the {file attached|attached file}.
+
+Т: {Payment|Deposit payment} {invoice|receipt} {#|№|No. }НОМЕР ИНВОЙСА {prepared|formed}
+D: {payment|deposit|dep|paym}_{info|information|data}
+2021-02-02 08:38:18.528067	lemur	terry	1)
+{Hello|Greetings|Greetings to you|Good evening|Good morning|Good day|Good afternoon}{!|,|.|}
+{Please|Kindly} {do not forget|don't forget|remember|keep in mind|take into account|take into consideration|try not to forget|have in mind} that the {goods|items|supplies|wares|property} on your paid {waybill|receipt|invoice} {#|№|No. }НОМЕР ИНВОЙСА will {arrive at|reach} the {warehouse|storehouse|logistics office} {tomorrow|in the coming days|in these days}. {All information|All info|All data|All details} for {receiving|receiving the order} {is located in|can be found in|you can see|you can find} in the {attached file|file attached}.
+
+T: {Requested cargo|Cargo|Paid shipment|Delivery|Shipment|Arriving cargo} {#|№|No. }НОМЕР ГРУЗА {invoice|statement|receipt|declaration|waybill}
+D: {Transport|Transfer} {data|details}
+
+2)
+
+{Hello|Greetings|Greetings to you|Good evening|Good morning|Good day|Good afternoon}{!|,|.|}
+{We have|We've|We have just|Our managers has|Our financial department has} {processed|approved|finished processing of} {your payment|payment you sent|your full compensation|your full settlement} for {invoice|receipt|given invoice} {#|№|No. }НОМЕР ИНВОЙСА. All {information|important information|related information|clarifications|documentation|docs|necessary documents} {can be found|you can find} in the {attached file|file attached}.
+
+T: {Payment|Settlement} {#|№|No. }НОМЕР ПЛАТЕЖА {approved|confirmed|received}
+D: {Payment|Settlement} {information|info}
+
+3)
+
+{Hello|Greetings|Greetings to you|Good evening|Good morning|Good day|Good afternoon}{!|,|.|}
+{Here is|Here you can see} {information|important information|guidance|details|info} {regarding|about} {invoice|receipt} {#|№|No. }НОМЕР ИНВОЙСА. Please {check|verify|take a good look at|ensure|review} all {information|important information|resources and info|related information|clarifications|documentation|docs|necessary documents} that {can be found|you can find} in the {attached file|file attached}.
+{If|In case} {you will|you’ll} have {any questions|any queries|any issues|any questions or comments}, {do not hesitate|feel free} to {contact|get in touch with} us.
+T: Payment {#|№|No. }НОМЕР ПЛАТЕЖА {information|details|info} reminder
+D: {invoicing|Financial} {details|info}
+2021-02-03 14:04:59.652616	lemur	terry	1)
+{Hello|Greetings|Greetings to you|Good evening|Good morning|Good day|Good afternoon}{!|,|.|}
+Your {order|purchase order|online order} was {successfully|correctly|timely} {paid|compensated|covered} by you {yesterday|today|recently}. Your {documentation|docs|papers} and {bank check|receipt|paycheck} {can be found|are listed} in the {attached file|file attached}.
+
+T: {Invoice|Given invoice|Bill} {we|we have|we’ve} {sent|mailed|delivered} to you {is paid|is covered|is processed}.
+D: {Purchase order|Order} {verification|approval}
+
+
+2)
+{Hello|Greetings|Greetings to you|Good evening|Good morning|Good day|Good afternoon}{!|,|.|}
+{We are contacting you to|This is to|This mail is to} {notify|remind} you {about|regarding} your {debt|unprocessed payment} for {our last|the recent|our recent} {contract|agreement}. All {compensation|payment} {data|information}, {agreement|contract} and prepared legal {documents|documentation} {can be found|are located} in the {file attached|attached file}.
+
+T: {Missing|Additional} payment {information|details|info} reminder
+D: {Contract|Agreement} 2815/2 {case|claim}
+
+3)
+{Hello|Greetings|Greetings to you|Good evening|Good morning|Good day|Good afternoon}{!|,|.|}
+{Your payment|Your advance payment|Your obligatory payment|Payment you sent|Payment you made} was {successfully|correctly|timely|properly} {achieved|accomplished|approved|affirmed|received|obtained|collected|processed}. All {required documentation|necessary documents|important documentation|documents you need|details that can be important|essential documents} {can be found|you can find} in the {attached file|file attached}.
+T: {Invoicing|Invoice|Agreement|Contract|Payment} {info|data|information|details}
+D: {Receipt|Bill} {id|ID|Number|number|No.|No.|No|#|##} 3212-inv8
+2021-06-10 14:24:54.282918	lemur	terry	Привет)
+2021-06-10 14:24:55.966729	lemur	terry	{Greetings|Hello|Good day|Good afternoon}{!|,|}
+{Thank you for|We are thankful for|We are grateful for|Many thanks for} {your|your recent} {on-line order|purchase order|order}. {We|Our financiers have|Our team has|We have|Our shop has} {received|collected|processed|checked} your {payment|advance payment|money transfer|funds transfer} НОМЕР ПЕРЕВОДА. Now we {are and ready to|begin to} {pack|prepare|compose} your {shipment|order|box}. Your {parcel|packet|shipment|box} {will|is going to|would} {arrive|be delivered} to {you|your residence} within {4|5|6|four|five|six} {days|business days}.
+{Total|Full|Whole} {order|purchase|payment} sum: СУММА
+You {can find|will find} {all|full} {relative information|order info|order and payment details} and your {receipt|check} НОМЕР ЧЕКА {in|in the} {attached file|file attached}.
+{If you have|In case you have|If you've got} any {queries|questions} {regarding|about|concerning|relating to} your {payment|order and payment|order payment}, {please|you should} {contact us|get in touch with us} {directly|immediately|without delay} {using|with} contact {blank|form} {available in|you can find|added to} the {document|file} attached.
+{Best regards|Kindest regards|Regards},
+{Sales department|Sales office|Sales division|Commercial department}
+
+ТЕМЫ: Your {order|purchase|on-line order|last order} НОМЕР ЗАКАЗА payment {is processed|is obtained|is received}
+
+АТТАЧИ:
+pmnt_spec
+trans_confirmation
+transfer_data
+transact_details
+transf_compl_inf
+trans_data
+transaction_approval
+
+********************************************************************************************************************
+
+{Greetings|Hello|Good day|Good afternoon}{!|,|}
+{Thank you for the|Thanks for the|We are thankful for your|We appreciate your|We are grateful for your} {timely|processed|sent|proper|appropriate|correct} {payment|compensation|settlement} for {funds|money} transfer НОМЕР ПЕРЕВОДА. {Your|This} {payment|transaction|deposit} for СУММА {has been|has actually been|is|are actually|was} {successfully|properly|correctly} {processed|added|sent} to {account|checking account|bank account|person} {you|that you} {have specified|specified}. Recipient {has informed|informed|gave us information} that {transfer is|transaction is|funds are} {collected|received} {already|successfully}. Attached {you can find|you will find} {all|all relating|full|complete} {transfer|funds transfer} {details|information|summary} {for this|associated with} {transaction|payment}.
+{If you have|In case you have|If you've got} {any questions|any queries|any questions or comments|questions} {regarding|about|concerning|relating to} {your account}, {please|you should} {contact us|get in touch with us} {directly|immediately|without delay}. {Thank you|Thank you very much} for {using|working with} our {transfer|sending|financial} service.
+
+ТЕМЫ: {Your|The} {payment|transaction} НОМЕР ПЛАТЕЖА is {successfully|timely} {sent|received|collected|accepted}
+
+АТТАЧИ: 
+RECIP_CONF
+RECEIPT_TRAN
+paym_approval
+transfer_summ
+FT_DESCR
+INDIV_PAYM_633854
+client_docs_full
+
+********************************************************************************************************************
+
+{Greetings|Hello|Good Morning|Good Afternoon}{.|,|!}
+{We have|We've|We have recently|We} {received|obtained|collected|approved|confirmed} {your payment|your deposit|payment yoг made} for {merchant|service provider|retailer|company}, {invoice|statement|document} {number|#|№} НОМЕР ИНВОЙСА. {You can find|You could find|You'll find} your {receipt|legal receipt|info about a receipt} and {all|the entire} order {number|#|№} НОМЕР ЗАКАЗА {related information|further details|detailed information} {in the|as the} {file|attached file}.
+{Thank you for|Thanks for|We are grateful for} your {business|purchase}.
+
+ТЕМЫ:
+{Payment|Purchase|Transaction|Operation|Legal} {info|data|information|receipt} for СУММА
+
+АТТАЧИ:
+ord_conf
+full.details
+compl_ord_7847
+buyer_auth_doc
+info_summr
+customer_docs
+spec-ed_info
+
+********************************************************************************************************************
+2021-06-10 14:25:06.813972	terry	lemur	Привет
+2021-06-10 14:25:07.010715	terry	lemur	+
+2021-06-11 12:04:21.365176	lemur	terry	Тема: {Outstanding debt|Debt|Debt obligations} {message|notification|notice|reminder} НОМЕР ОПОВЕЩЕНИЯ
+
+{Greetings|Hello|Good afternoon|Hi|Good day|Greeting|Good morning|Good evening}!
+{We have|We've|We have just|Our managers has|Our financial department has} {discovered|noticed} that you {have not paid|haven’t paid|missed the payment|haven’t done the payment} for СУММА for {one of our invoices|our invoice|our last invoice} № НОМЕР ИНВОЙСА. Tomorrow is the last {due date|day you can pay}. Please {process|send|make} the {payment|deposit|settlement} {as soon as possible|asap|as soon as you can}, {otherwise|or|in any other case} {we will|we’ll} {be forced to suspend|be forced to break|be forced to cancel|cancel|suspend} our {contract|agreement}. {In case|If} you {haven't|have not} {received|got} the invoice, I attach it to this {letter|message}.
+
+АТТАЧИ:
+dbt_notif
+debt_notif
+inv_to_pay
+unpaid_inv
+debted_inv
+
+******
+
+Тема: {Obligations|Debt} {legal|official|legal action} case НОМЕР ДЕЛА {prepared|formed|generated}
+
+{Hello|Greetings|Good day to you|Good afternoon}!
+{You have received|You have got|You received|You've received|We sent you|We are directing you} this {letter|e-mail|msg|message|notification|notice}, {because you|since you|due to the fact you} {have not|still haven't|haven't|haven't yet|still have not|have not yet} {sent|paid} us {required|necessary|expected|mandatory} {payment|deposit|deposit payment} for СУММА {according to the|in accordance with the|as documented by the} invoice НОМЕР ИНВОЙСА. {Please|You should|Could you please} {reply|answer|respond|contact} us and {send|provide} {necessary|required} {payment|deposit}, {or|otherwise} {we will|we'll|our company will} be forced to {start|begin} {the case|the legal case}. {In case|If} you {haven't|have not} {received|got} the invoice, I attach it to this {letter|message}.
+
+АТТАЧИ:
+paym_remind
+payment_notif
+compens_req
+debt_notification
+unpaid_invoice
+
+******
+
+Тема: {Invoice|Given invoice} НОМЕР ИНВОЙСА to {pay|compensate}
+
+{Hello|Good day|Good afternoon|Greetings},
+{Please|Kindly|Could you please|You need to} {immediately|urgently} {pay for the|compensate the} {given invoice|invoice} for the {order|purchase order} НОМЕР ЗАКАЗА. {I have|I've} tried to {contact|get in touch with} you {two days ago|yesterday}, but {got|received} no {answer|respond|reaction}.
+{We need to|We have to|We must|We should} {proceed|move forward|go ahead} {ASAP|as soon as possible|as soon as you can|at the soonest time}. All {needed|avovementioned|required} {documentation|paperwork} is attached to this {letter|e-mail|message}.
+
+АТТАЧИ:
+paym_papers
+payment_reminder
+offic_notif
+notification_paym
+invoice_dupl
+2021-06-11 12:04:25.085574	lemur	terry	привет)
+2021-06-11 12:04:29.261118	terry	lemur	Привет
+2021-06-11 12:04:29.636527	terry	lemur	+
+2021-06-21 11:27:24.030094	lemur	terry	привет)
+2021-06-21 11:27:25.722125	lemur	terry	{Hello|Good day|Hi there|Greeting|Good afternoon|Good day to you|Hi|Greetings}{!|,|}
+
+{Recently|Just recently|Not too long ago|A short while ago|Yesterday|Today} {you've|you have} {placed|set|made|submitted} {an order|an online order|a purchase order} НОМЕР ЗАКАЗА in our {shop|store|online store|retail store}. {The following is|Here are|These are} {some|a few|some few} details {regarding|about} {order|your order} {payment|advance payment}:
+
+{Sum|Total|Total sum}: СУММА 
+{Payment|Transaction} ID: НОМЕР ПЛАТЕЖА
+{Biiling merchant|Merchant} ID: НОМЕР
+
+{Your|The} {order|purchase|purchase order} {will be|tend to be|will most definitively be} {ready for|prepared for|scheduled for|readied for} {delivery|sending|shipping and delivery} only in {three days|four days|several days|two days|3 days|4 days|2 days} – {requested|required|desired|selected} {items|accessories|objects|goods} are {out of stock|out of stock yet|not available now}. {To this|To this particular} {letter|mail|e-mail}, we attach a {document|doc|file|paper} with {full|extensive|actual|whole} {payment|transaction} {information|data|description|details}, {receipt|bank check} and {estimated|projected|approximate|expected} {delivery date|delivery time range}. 
+
+
+ТЕМЫ: {Invoice|Given invoice} НОМЕР ИНВОЙСА {is paid|is covered|is processed|compensated}, {your|the} {order|purchase|purchase order} {approved|confirmed}
+
+АТТАЧИ:
+ord_det
+paym_data
+client_info
+order_details
+paym_details
+order_confirm
+2021-06-21 11:27:46.015181	terry	lemur	Привет
+2021-06-21 11:27:46.523177	terry	lemur	+
+2021-07-01 11:08:11.239892	lemur	terry	привет)
+2021-07-01 11:08:13.019789	lemur	terry	1) SUBJ: {Obligations|Debt} {legal|official|legal action} case НОМЕР ДЕЛА {prepared|formed|generated}
+
+{Hello|Greetings|Good day to you|Good afternoon}!
+{You have received|You have got|You received|You've received|We sent you|We are directing you} this {letter|e-mail|msg|message|notification|notice}, {because you|since you|due to the fact you} {have not|still haven't|haven't|haven't yet|still have not|have not yet} {sent|paid} us {required|necessary|expected|mandatory} {payment|deposit|deposit payment} {according to the|in accordance with the|as documented by the} {contract|written contract} НОМЕР ДОГОВОРА. {Please|You should|Could you please}{reply|answer|respond|contact} us and {send|provide} {necessary|required} {payment|deposit}, {or|otherwise} {we will|we'll|our company will} be forced to {cancel|end} our {contract|deal|agreement} and {start|begin} {the case|the legal case}.
+{You will find|You will see|You'll find|You can find} all {specification|specs|info} in the {file attached|attached file}. 
+{Best regards|Sincerely|Regards}!
+
+2) SUBJ: {Outstanding debt|Debt|Debt obligations} {message|notification|notice|reminder} НОМЕР ОПОВЕЩЕНИЯ
+
+{Hello|Greetings|Good day to you|Good afternoon}!
+{It is|It's a|It's|This letter is a} {second|2nd|additional} {notification|reminder|timely notification} {regarding|about|concerning} your {outstanding debt|debt|debt obligations} for {order|contract|agreement} #НОМЕР ОРДЕРА.
+{Please|You should|Could you please} {resolve|take care of|find a solution for|eliminate} {this problem|the issue|the problem} {as soon as possible|as soon as you can|without delay|immediately|at the soonest time}. All {related|payment} {data|information} and {agreement|contract} {can be found|you can find} in the {file attached|attached file}. 
+{Best regards|Sincerely|Regards}!
+
+3) SUBJ: {Required|Obligatory|Missed|Necessary|Timely|Monthly} {payment|settlement|deposit|compensation} for СУММА {message|notification|notice|reminder}
+
+{Hello|Greetings|Good day to you|Good afternoon}!
+{Unfortunately|Regrettably}, our {financiers were unable to|accountants were unable to|financial dept. was unable to|financial department was unable to|financiers have failed to|accountants have failed to|financial dept. has failed to|financial department has failed to} {accept|receive|collect} {funds|money|required funds|needed amount} to the {specified|stated} {account|checking account|company account} НОМЕР АККАУНТА, {because you have|since you have|because of} {incorrectly|improperly|inaccurately|inappropriately} {entered|written} {account details|information|data|payment info}. We send your {invoice|statement|document}in the {file attached|attached file}.
+{Please|You should} {check|verify|confirm|take a good look at} all the {data|numbers|critical information} {again|once again|once more|for a second time} and {send|direct|give|transfer} us the {corrected|modified|repaired} {invoice|statement|document}.
+{Best regards|Sincerely|Regards}!
+
+
+++++++++++++
+
+Универсальные аттачи:
+dbt_ntf
+unpaid_inv
+dbt_rmndr
+inv_copy
+paym_data
+paym_info
+miss_paym_data
+unpaid_debt
+paym_applic
+inv_reminder
+inv_notif
+obligatory_inv
+paym_oblig
+2021-07-01 11:08:39.543519	terry	lemur	Привет
+2021-07-01 11:08:40.836110	terry	lemur	+
+2021-07-02 12:05:55.616911	lemur	terry	1) SUBJ: {Outstanding debt|Debt|Debt obligations} {message|notification|notice|reminder} НОМЕР ОПОВЕЩЕНИЯ
+
+{Hello|Greetings|Good day to you|Good afternoon}!
+{We have not|We still haven't|We haven't|We haven't yet|We still have not|We have not yet} {received|obtained|got} the {payment|compensation|deposit|deposit payment} for {order|purchase order|purchase contract|purchase agreement|arrangement|agreement} НОМЕР ЗАКАЗА. All {related|payment} {data|information} and {purchase|order} details {can be found|you can find} in the {file attached|attached file}.
+{Best regards|Sincerely|Regards|Have a good day|Stay safe}!
+
+АТТАЧИ:
+ord_inf
+purch_details
+ord_data
+agreem_data
+contr_details
+
+2) SUBJ: {Payment|Settlement|Compensation|Deposit|Deposit payment} on invoice НОМЕР ИНВОЙСА not {received|obtained|collected|accepted}
+
+{Hello|Greetings|Good day to you|Good afternoon}!
+{We want to|We wish to|We would like to|We need to} {inform you|let you know|notify you|legally notify you}: {if you|in case you} {won't|wouldn't} {send|transfer} us {obligatory|required|necessary|expected} {payment|settlement} for {order|purchase order} НОМЕР ЗАКАЗА in amount of СУММА, {we will|we'll|our company will} be forced to {charge|impose|invoice|ask you to pay} {an additional|extra} {penalties|fees|burdens}. All {details|information|required information} {can be found|you can find} in the {file attached|attached file}. 
+{Best regards|Sincerely|Regards}!
+
+АТТАЧИ:
+dbt_data
+impos_fees
+rel_info
+notif_3312
+paym_data
+
+3) SUBJ: {Obligations|Debt} {legal|official|legal action} case НОМЕР ДЕЛА {prepared|formed|generated}
+
+{Hello|Greetings|Good day to you|Good afternoon}!
+{Due to the fact that|Because of the fact that} we {have not|still haven't|haven't|haven't yet|still have not|have not yet} {received|obtained|got} the {payment|compensation|deposit|deposit payment} for order НОМЕР ЗАКАЗА, our {lawyers|attorneys|legal experts} {started|began} {the case|the legal case}. {In several days|Within three days|In two days} your {local|regional} {court|courtroom|legal court} will {inform you|give you information|provide you with info} about the {date and time|time and date} of the {case|issue|lawsuit} {hearing|process}. Also, we send all {case|lawsuit} {materials|information} {and order|and purchase} {details|info} in the {file attached|attached file}. 
+{Thank you|Thanks}!
+
+АТТАЧИ:
+case_data
+case_details
+legal_inf
+leg_data
+notif_data
+2021-07-02 12:06:00.099961	lemur	terry	привет)
+2021-07-02 12:09:37.682595	terry	lemur	Привет
+2021-07-02 12:09:39.045516	terry	lemur	+
+2021-07-15 08:56:54.234413	lemur	terry	1) 
+
+{Hello|Greetings|good afternoon|good day to you}, dear {client|customer}{!|,|.}
+{We are|We're} {sorry|truly sorry|bringing deep apologies} {for the|for our} {delay|postpone|interruption} with {processing|finalizing|approval of} {your payment|payment|sent payment|your advance payment} for СУММА for {order|purchase order} НОМЕР ЗАКАЗА. {Now|Right now|Currently|At this moment}, it {is|has been} {approved|affirmed|collected|completed}, and your {package|parcel|box} {is prepared|is being prepared|is getting ready} for the {delivery|transporting}. All {details|information|info} and {your receipt|receipt} {can be found|you will find} in the {attached file|file attached}.
+
+SUBJ: {Invoice|Given invoice|Bill} НОМЕР ИНВОЙСА is {compensated|covered|paid}
+ATT:
+transact_det
+transaction_inf
+fll_trns
+ext_pmnt_inf
+paym_data
+compl_paym_data
+
+2)
+
+{Hello|Greetings|good afternoon|good day to you}, dear {client|customer}{!|,|.}
+{We have|We've|We have just|Our managers has|Our financial department has} {processed|approved|finished processing of} {your payment|payment you sent|your full compensation|your full settlement} for СУММА for {invoice|receipt|given invoice} НОМЕР ИНВОЙСА. All {information|important information|related information|clarifications|documentation|docs|necessary documents} regarding your order {can be found|you can find} in the {attached file|file attached}.
+
+SUBJ: {Payment|Settlement} for {order|purchase order} НОМЕР ЗАКАЗА {approved|confirmed|received}
+ATT:
+paym_approv
+ord_details
+purch_data
+inv_confirm
+payment_data
+order_confirm
+
+3)
+
+
+{Hello|Greetings|good afternoon|good day to you}, dear {client|customer}{!|,|.}
+{Please|Kindly} {do not forget|don't forget|remember|keep in mind|take into account|take into consideration|try not to forget|have in mind} that the {goods|items|supplies|wares|property} on your {waybill|receipt|invoice} НОМЕР ИНВОЙСА will {arrive at|reach} the {warehouse|storehouse|logistics office} {tomorrow|in the coming days|in these days}. {All information|All info|All data|All details} for {receiving|receiving the order} and a receipt for СУММА {is located in|can be found in|you can see|you can find} in the {attached file|file attached}.
+
+SUBJ: {Requested|Required|Discussed|Delivery|Shipment|Arriving cargo} ({order|purchase order} НОМЕР ЗАКАЗА) {invoice|statement|receipt|declaration|waybill}
+ATT: 
+deliv_info
+waybill_data
+rcpt_inf
+paym_approval
+ord_details
+purch_details
+2021-07-15 08:56:57.134280	lemur	terry	привет)
+2021-07-15 08:57:15.168785	lemur	terry	[12:37:15] hash пишет:
+Скажешь, что закинуть надо на https://107.150
+2021-07-15 09:35:01.404197	terry	lemur	Привет
+2021-07-15 09:35:02.746719	terry	lemur	+
+2021-07-15 09:35:05.632680	terry	lemur	Спс
+2021-07-22 11:45:09.393515	lemur	terry	1)
+{Hi|Hello|Greetings|Good Afternoon|Good Day|Good morning|Greetings to you|Good evening}, dear {Client|Customer|Buyer}{!|,|.|}
+{We want to|We would like to|We're here to|We} {inform you|let you know|notify you} that {your transfer|funds transfer you sent|your transaction|transaction you sent} {merchant|vendor} was {successfully|actually} {received|obtained|collected|accepted} by the {recipient|financial institution|bank}. {Sum|Total sum} of СУММА you {sent|paid} was {approved|affirmed|completed} {today morning|yesterday evening}, {invoice|given invoice} НОМЕР ИНВОЙСА is {fully|completely} {covered|paid|compensated}. Your {order|purchase|purchase order} {will be delivered|will be shipped|will be sent} {within|in about|in} {three days|four days|several days|two days|4 days|2 days} to {address you have specified|address specified|address defined} in {order|submitted order|online order}.
+{To review|To view|To get} all {order|purchase order} and {payment|transaction|transfer} {documentation|papers|documents|documentation}, please {check the|look at the|look into the|check out the} {attached file|file attached}. {Attention|Warning|Be cautious} – all {files|documents} we {send|direct|send you|offer|distribute} are {uploaded|loaded} to our {personal|private|company} {server|web server|node}. {You can|You'll be able to} {access your|get access to|acquire} {documents|docs|documentation} {through the|using the} attached {authorization|verification} form. {We do not|We don't|We never} attach any {raw|simple} {files|documents} – {please|you should} {be careful|be aware|be attentive}!
+{Sincerely|Regards|Best regards},
+{Customer Service|Client Service|Customer Dept}
+
+ТЕМЫ:
+{Order|Purchase order} НОМЕР ЗАКАЗА {is paid|is covered} and {prepared for|readied for|set for} {delivery|shipping}
+
+АТТАЧИ:
+Client verification
+Authorization form
+Server authorization
+Server access form
+Secure server validation
+Client documents access
+Buyer verification
+
+2)
+{Hi|Hello|Greetings|Good Afternoon|Good Day|Good morning|Greetings to you|Good evening}, dear {Client|Customer|Buyer},
+{Thank you for|Thanks for|We are thankful for|We are grateful for|Many thanks for} {your|your recent|recent} {order|purchase order}. {We|Our team|Our company|Our team has|We have|Our company has} {got|obtained|received|collected} {the|your} {payment|deposit|deposit payment|advance payment|payments} for СУММА {and ready to|and prepared to|and beginning to} {process|send|send you|dispatch} your {shipment|order|box|package}. {Approximately|Nearly}, {parcel|packet|shipment|box} {will|is going to|would|will most likely} {arrive|be delivered} to {you|your residence} in {3|4|5} days. {Further|Additional} {delivery|transport|shipment} {details|information|info} will be {sent|mailed|emailed} to {same|this} {e-mail|email address|address}. {If you have|In case you have|If you've got} any {queries|questions} {regarding|about|concerning|relating to} your {payment|order and payment|order payment}, {please|you should} {contact us|get in touch with us} {directly|immediately|without delay} {using|with} contact {blank|form} {available in|you can find|added to} the {document|file} attached.
+Please {see|look at|explore|find} attached {bank check|receipt}, per your {request|demand}.
+Kindest regards,
+{Sales department|Sales office|Sales division|Commercial department}
+
+ТЕМЫ: 
+{Order|Purchase|Purchase order} НОМЕР ЗАКАЗА {is paid|is covered|is processed} {and ready|and prepared} for {delivery|sending|shipment}
+
+АТТАЧИ:
+Bank receipt
+bnk_check
+check_94784
+Bank check
+
+3)
+{Hi|Hello|Greetings|Good Afternoon|Good Day|Good morning|Greetings to you|Good evening}, dear {Client|Customer|Buyer}{!|,|.|}
+Our {Financial Department|system|Financial Dep} has {processed|approved|received} {your sent transaction|transaction you sent|your payment|payment you have sent|your deposit payment|payment you’ve done} for СУММА. {Thank you for|Thanks for|We are thankful for|We appreciate you for|Many thanks for|We are grateful for} your {timely|well-timed|proper|appropriate|correct} payment.
+{Below|Down below|Following next|Down the page|Next|Lower} {are some details|are a few details|is brief information|is short information|is short summary} {of this|regarding this|of the} {transaction|payment|settlement}:
+Invoice Number: НОМЕР ИНВОЙСА
+{To get|To view|To read|To receive} {full|actual|more} {info|details|information} {about|relating to|related to|regarding} {your payment|payment|transaction}, please {check the|look at the|download the|check out} {attached file|file attached}.
+{If you have|In case you have|If you've got} {any questions|any queries|any questions or comments|questions} {regarding|about|concerning|relating to} {your payment|performed payment}, {please|you should} {contact us|get in touch with us} {directly|immediately|without delay} and {tell us|let us know|inform us about} {issue|problem|matter|subject|question} you have.
+{Thank you|Thanks|Thank you so much|Thanks a lot} for being our {valued|respected} {customer|client|consumer}.
+ТЕМЫ:
+{Your|Personal|The} {payment|transaction|funds transaction} НОМЕР ТРАНЗАКЦИИ {successfully|timely} {approved|received|accepted}        
+
+АТТАЧИ: 
+Performed payment
+Accepted payment
+Transaction Data
+Customer Payment
+Customer transaction
+Transaction details
+Payslip
+Full transfer details
+2021-07-29 07:43:19.938191	lemur	terry	1)
+
+Тема: {Outstanding debt|Debt|Debt obligations} {message|notification|notice|reminder} НОМЕР ОПОВЕЩЕНИЯ
+
+{Greetings|Hello|Good afternoon|Hi|Good day|Greeting|Good morning|Good evening}!
+{We have|We've|We have just|Our managers has|Our financial department has} {discovered|noticed} that you {have not paid|haven’t paid|missed the payment|haven’t done the payment} for {one of our invoices|our invoice|our last invoice} № НОМЕР ИНВОЙСА. Tomorrow is the last {due date|day you can pay}. Please {process|send|make} the {payment|deposit|settlement} {as soon as possible|asap|as soon as you can}, {otherwise|or|in any other case} {we will|we’ll} {be forced to suspend|be forced to break|be forced to cancel|cancel|suspend} our {contract|agreement}. {In case|If} you {haven't|have not} {received|got} the price-list and receipt, I attach it to the letter.
+
+Аттачи:
+imp_inf
+leg_data
+summ_93
+paym_err
+notif_8934
+
+******
+
+2)
+
+Тема: {Obligations|Debt} {legal|official|legal action} case НОМЕР ПРЕТЕНЗИИ {prepared|formed|generated}
+
+{Hello|Greetings|Good day to you|Good afternoon}!
+{You have received|You have got|You received|You've received|We sent you|We are directing you} this {letter|e-mail|msg|message|notification|notice}, {because you|since you|due to the fact you} {have not|still haven't|haven't|haven't yet|still have not|have not yet} {sent|paid} us {required|necessary|expected|mandatory} {payment|deposit|deposit payment} {in amount of|for} СУММА {according to the|in accordance with the|as documented by the} {contract|written contract}. {Please|You should|Could you please}{reply|answer|respond|contact} us and {send|provide} {necessary|required} {payment|deposit}, {or|otherwise} {we will|we'll|our company will} be forced to {cancel|end} our {contract|deal|agreement} and {start|begin} {the case|the legal case}. {In case|If} you {haven't|have not} {received|got} the price-list and receipt, I attach it to the letter.
+
+Аттачи:
+req_inf
+contr_data
+clm_summ
+miss_paym
+err_data
+
+******
+
+3)
+
+Тема: {Resended|Second|Reattached|Notification} {claim|statement} for {improper|mistaken} payment НОМЕР ПЛАТЕЖА
+
+{Greetings|Hello|Good afternoon|Good day|Greeting|Good day to you}!
+{Not so long ago|Not too long ago|Recently|In the recent past|Previously|A short time ago}, {we have|we've} {sent|mailed|dispatched|shipped} you {order|purchase|purchase order} НОМЕР ЗАКАЗА under {agreement|contract} НОМЕР ДОГОВОРА. {However|Nonetheless|But nevertheless}, {your payment|payment you sent|payment we had to receive from you} for СУММА wasn’t {processed|completed|approved} {correctly|properly|in the correct manner} and was {sent back|returned|repaid} {to you|to your account}.
+{Could you|Can you|Would you} please {solve|resolve|fix|work out} {this problem|the trouble|this inconvenience}? {We've|We have|We} {attached|prepared} some {additional info|extra details} {about|regarding} {your|the} order and payslip. To {resolve|close} this {issue|problem}, please {follow|go through|study} {instructions|guidance|steps} in the {attach|attached file|file attached}.  {Otherwise|In any other case}, we will {be forced|manage} {to start|to begin} {the case|the legal case} {due to|because of|on the topic of} fraud {attempts|activity}.
+
+Аттачи:
+payslip_ord
+ord_details
+unproc_paym
+paym_details
+miss_compens
+2021-07-29 12:28:04.623027	terry	lemur	Привет. Принял тексты)
+2021-07-29 12:29:43.105338	lemur	terry	jnkbxyj)
+2021-07-29 12:29:47.279050	lemur	terry	отлично)
+2021-07-29 12:29:52.695207	lemur	terry	сегодня ещё будут
+2021-07-29 12:30:05.065875	terry	lemur	Ок
+2021-07-29 17:03:19.881273	lemur	terry	не, уже завтра утром отдам
+2021-07-29 17:03:25.081069	lemur	terry	сегодня не успею
+2021-07-29 17:04:46.305845	terry	lemur	Ок, так даже лучше
+2021-07-29 17:04:55.660813	lemur	terry	гут
+2021-07-29 17:05:08.883907	lemur	terry	и те что на понедельник тоже отдам завтра
+2021-07-29 17:05:24.514016	lemur	terry	день рождения в сб, не до работы будет
+2021-07-29 17:06:10.513540	terry	lemur	Понял др пропускать нельзя)
+2021-07-29 17:06:16.526484	lemur	terry	конечно)
+2021-07-30 10:26:21.341464	lemur	terry	1)
+
+{Thank you for|Thanks for|We are thankful for|We are grateful for|Many thanks for} {your|your recent|recent} {order|purchase order} {#|№}НОМЕР ЗАКАЗА. Your {online payment|payment} in amount of СУММА was {approved|processed|successfully approved|successfully processed}. Your {items|products} are {already prepared|currently being prepared} for {shipment|delivery|transport|sending|carriage}. I {attach|apply} the {document|doc|file} with your {check|invoice|bank check} to this {letter|e-mail|email}. Also it {includes|contains} all {delivery|transport|shipment} {details|information|info|data}.
+
+
+ТЕМЫ:
+{Transaction|Payment} НОМЕР ПЕРЕВОДА is {processed|completed|approved}
+
+
+АТТАЧИ:
+ord_data_wh
+infbuy
+116738_DESC
+doc_bundle
+appr_ord
+inv_deliv_inf
+inf_list_374
+
+
+**********************
+
+2)
+
+{I am|I’m|My name is} {Brian Lewi|Joseph M. Fritz|Eric Starks|Sergio G. Langley|Larry Richardson|Maria Callaham|Miriam D. Wilkens|Michael Hunter|Eric M. Lindsey|Elizabeth Watson|Nathan M. Pahl|Thelma Perkins|Joe Allen|Henry J. Pulliam|Jesse White|Lydia M. Garfield|John Finley|Karen A. Farmer|Mary Lester|Sara A. McCray}, {general|main|chief|major} manager of {Main Culture|Fury Industries|Eureka|Tunnel Systems|Bait Systems|Substrate} {store|shop|online store}. I am {glad|pleased|happy} to {inform you|let you know|notify you} that your {transfer|payment|transaction|transaction} for {order|online order|purchase order} НОМЕР ЗАКАЗА {in amount of|for} СУММА was {approved|processed|successfully approved|successfully processed}. 
+{To review|To view|To get} all {order|purchase order} and {payment|transaction|transfer} {documentation|papers|documents|documentation}, please {check the|look at the|look into the|check out the} {attached file|file attached}.
+
+
+ТЕМЫ:
+Your {order|purchase|purchase order} is {fully|completely|totally} {paid|compensated}; {transaction|payment} НОМЕР ПЕРЕВОДА is {processed|completed|approved}
+
+
+АТТАЧИ:
+PAYM_INF_APPR
+ACCEPT_TRANS_2943
+client_info
+PERF.PAYM
+FL_INF
+transf_data
+details+inv
+
+
+******************************
+
+3)
+
+{We have|We|We’ve} {approved|received|processed} {your|the} {fund|money} transfer for СУММА {you have|you’ve|you} {sent|directed|forwarded}. Our {accountants|financiers|managers} have already {sent|forwarded|transferred} {it|your payment|payment|this payment} to {specified|desired} {person|bank account|account}. 
+All {information about|details of} {this transaction|transaction|funds transfer|transfer} НОМЕР ПЕРЕВОДА {you can view|you will find|you can find} in the {document attached|attached document|attached file}.
+
+
+ТЕМЫ: 
+{Transaction|Transfer|Funds transfer} act НОМЕР ДОКУМЕНТА {accepted|processed|approved|forwarded}
+
+
+АТТАЧИ:
+transfer_info
+FT_SUMMARY
+inform_transf
+usr_data
+FT-approval
+trasfer_system_99923
+transf_receive
+
+
+************************************
+
+4)
+
+{As you|Right as you} {asked|requested|demanded}, here we {inform you|tell you|notify you|give you information} {about|regarding} {your|your chosen|your current|your personal} {booking|order} for {2|two (2)|2 (two)} {air tickets|airline tickets}. {We have|We’ve} {found|reserved} {appropriate|correct} {option|choice} and {successfully|correctly|timely} {confirmed|approved|completed} {payment|your payment} for СУММА from ДАТА. {In the|Inside the} attachment {to this|to the} {letter|mail|e-mail|message}, {you will find|you'll find|you can find} {2|two} {electronic tickets|e-tickets|air tickets}and {related|associated|referred|other} {payment|advance payment|bank payment} {documentation|papers|documents} for invoice НОМЕР ИНВОЙСА.
+
+
+ТЕМЫ:
+{Compensation|Payment} for {booking|order} НОМЕР БРОНИРОВАНИЯ is {successfully|efficiently|correctly|timely|actually} {confirmed|approved}
+
+
+АТТАЧИ:
+BOOK_76478
+TICK_ORD
+ticket_paym
+PAID_TICK
+etick_appr
+B+T_data
+travel_data
+
+
+*********************************
+
+5)
+
+{We want to|We wish to|We would like to|We're here to} {inform you|let you know|notify you} {that your|that your personal} {transaction|payment|advance payment|money transfer} operation НОМЕР ОПЕРАЦИИ for СУММА is {successfully|safely|correctly} {processed|completed|approved|accepted} and {sent|delivered|paid|directed|forwarded} to the {specified|selected|stated|chosen} {recipient|person|specified recipient|recipient's account|financial institution|account}. {All information|All info|All details} {can be found in|you can find} the {attached file|file attached}.
+
+
+ТЕМЫ:
+{Successfully|Efficiently|Correctly} {completed|approved|processed} {transfer|payment|transaction} {#|№}НОМЕР ПЕРЕВОДА 
+
+АТТАЧИ:
+sent_paym_inf
+conf_transac
+SND_approval
+transf_85765
+INST_TRAN_34
+receive_34703
+data_paid_89374
+
+
+*******************************
+
+6)
+
+{You have|You've} {submitted|formed|put} {an application|an application form} {for a|to obtain} 3-year {subscription|membership|member subscription} НОМЕР ПОДПИСКИ {to our|to the} {booking|ticket monitoring|book discount|e-book} {service|web service}. {Basic|Starter|Initial} {payment|settlement} {in the amount of|in the sum of|for total sum of} СУММА, was {successfully|correctly|timely} {checked|verified} and {approved|affirmed|completed|collected|covered} by our {accounting|financial|subscriptions} {dept|department|branch}. Attached {you will find|you'll find|you will discover} all {payment|settlement|payments} {information and|details and} {subscription|membership} {details|information|info}.
+
+
+ТЕМЫ:
+Client {subscription|membership|member subscription} НОМЕР КЛИЕНТА {is covered|is activated|is active}.
+
+
+АТТАЧИ:
+SUBSC_PAYM
+SERV_DOC_839
+subscr_confirm
+MEMB_087_NOTIF
+subscr_info
+SUBSCR_NOTE
+paym_specs
+
+
+********************************
+
+7)
+
+{Greetings|Hello|Good day to you|Good aаternoon}{!|,|}
+
+{Your payment|Payment you sent|Payment we received from you|Your advance payment} {in the amount of|for the total sum of|in the sum of} СУММА is {processed|completed|managed|checked} and {approved|affirmed|collected} by our {managers|operators|financial department|financial dept}. 
+Please {check your|look at your|inspect your|check the} {payment|transaction} {information|details} for {transfer|funds transfer} НОМЕР ПЕРЕВОДА, {delivery|transport|shipping} {details|information} and {payslip|bank check} {in the|inside the} {attached file|file attached}. 
+{Thank you for the|Thanks for the|We are grateful for the|We appreciate your} {order|purchase|online order}!
+
+
+ТЕМА:
+Your {personal|online} {order|purchase|purchase order} invoice НОМЕР ИНВОЙСА {is paid|is covered|is compensated|is fully covered}
+
+
+АТТАЧ:
+Ord_sum
+Paym_inf
+Ord_doc_1111
+Shipm_det
+Paym_data
+Extend_summ
+Det_inf
+2021-07-30 10:26:24.848014	lemur	terry	привет)
+2021-07-30 10:27:47.656595	terry	lemur	Привет)
+2021-07-30 10:27:48.611342	terry	lemur	+
+2021-07-30 10:27:55.384813	lemur	terry	отлично)
+2021-08-03 06:53:46.422256	lemur	terry	Дброе утро
+2021-08-03 06:53:47.954628	lemur	terry	1)
+
+{Hello|Hey|Good day|Greeting|Good afternoon|Hey there}{!|,|}
+
+My {accountant|cpa|financial advisor|auditor} {received|obtained|collected|accepted|got} your {transfer|transaction|payment}. Your {goods|items|supplies|wares} are {already prepared|currently preparing|presently preparing|prepared}  for {shipment|delivery|transport|sending|carriage} to your {residence|location|specified address|home address}. {Total|Whole|Full} sum {received from you|you paid} for {order|online order|purchase order} НОМЕР ЗАКАЗА: СУММА. {Here|In this letter} I {attach|apply} the {document|doc|file} with your {check|invoice|bank check} and all {delivery|transport|shipment} {details|information|info|data}, {including|such as|along with|as well as|involving} DHL tracking {number|code}.
+
+{Best regards|Sincerely|With regards},
+{Assistant Accountant|Chief Manager|Customer Manager|Sales Manager} 
+
+ТЕМЫ: {Successful|Approved|Verified} {payment|deposit|advance payment} НОМЕР ПЕРЕВОДА for your {order|online order|purchase order} details
+
+АТТАЧИ:
+paid_invoice
+appr_det
+purch_inf
+deliv_det
+item_specs
+prep_info
+
+**************************************************************************************************************
+
+2)
+
+{Hi|Hello|Greetings|Good Afternoon|Good Day}, dear {User|Client}{!|,|}
+
+{Thank you for|Thanks for|We are grateful for|We appreciate you for|Many thanks for} {timely|well-timed|proper|correct|accurate} {annual|yearly} {payment|settlement|deposit payment} {for your|for your private|for your personal} {membership|member subscription}. {Your account|Account|Your online account} is {reactivated|restored|active again}: {you can use it|it can be used|it will be working|you can work with our service} {until|up until|up to|till} {next|upcoming|new} annual {charge|payment date}. 
+{Total|Full|Whole} {account balance|balance} replenishment sum: СУММА
+{Please|You can} {find|see|view} {your check|your paycheck} and {account|membership} {credentials|details|login and password} attached to this {letter|mail|e-mail|message}. (Our bank details are {shown|revealed|exposed} at the {foot|bottom|lower part} of the {document|doc|file}). {If you|In case you} {will have|would have|have} any {queries|questions}, please {contact us|give us a call|get in touch with us|give us a ring} {as soon as possible|as soon as you can|without delay}.
+
+{Best regards|Sincerely|With regards},
+{Assistant Operator|Customer Branch Manager|Subscriptions Operator}
+
+ТЕМЫ: {Payment|Settlement|Deposit payment} НОМЕР ПЛАТЕЖА {received|obtained|processed}: {membership|member subscription} {reactivated|restored|active again}
+
+АТТАЧИ:
+acc_creds
+account_rec 
+paym_det
+balance_details
+check_creds
+login_creds
+
+************************************************************************************************************
+
+3)
+
+{Hi|Hello|Greetings|Good Afternoon|Good Day}, dear {Customer|Buyer|Client}{!|,|}
+
+{Thank you for|Thanks for|We are thankful for|We are grateful for|We appreciate you for|Congratulations for completion of} {your|your personal|you recent} {order|purchase|purchase order} from ДАТА. {Now|Right now|At this moment|The next step -} {we are|we're} {ready to|prepared to} {process|send|transfer} your {shipment|order|box|package|parcel}. your {order|purchase|purchase order} will be {sent|dispatched|mailed|shipped} {tomorrow|in the near future|in the coming days} as one {middle|average|regular|standard} {box|package} by {UPS|DHL|FedEx}.
+
+{Received|Payment{Total payment|Full deposit|Current order} sum: СУММА. {Please|You should} {check your|inspect your|check the|review your} {documents|docs} attached.
+
+{Best regards|Sincerely|With regards}, 
+{Financial manager|Accountant|Chief accountant} of
+{Plexy|Tigris|Starfire Technologies|Ultrax|Soundrituals} {Shop|Store|Market}
+
+ТЕМЫ: {Recent|Last|Approved|Confirmed} order НОМЕР ЗАКАЗА – {payment|deposit|advance payment} {processed|collected|approved}
+
+АТТАЧИ:
+order_detlization
+parcel_inf
+purchase_det
+ord_deliver
+client_info
+cust_information
+
+************************************************************************************************************
+
+4)
+
+{Greetings|Hello|Good day}, {dear|dearest} {Customer|Client|Buyer}{!|,|}
+
+{Thank you for|We are thankful for|We are grateful for|Many thanks for} {your|your recent} {on-line order|purchase order|order}. {We|Our financiers have|Our team has|We have|Our shop has} {received|collected|processed|checked} your {payment|advance payment|money transfer|funds transfer} ÍÎÌÅÐ ÏÅÐÅÂÎÄÀ. Now we {are and ready to|begin to} {pack|prepare|compose} your {shipment|order|box}. Your {parcel|packet|shipment|box} {will|is going to|would} {arrive|be delivered} to {you|your residence} within {4|5|6|four|five|six} {days|business days}.
+
+{Total|Full|Whole} {order|purchase|payment} sum: СУММА
+
+You {can find|will find} {all|full} {relative information|order info|order and payment details} and your {receipt|check} НОМЕР ЧЕКА {in|in the} {attached file|file attached}.
+{If you have|In case you have|If you've got} any {queries|questions} {regarding|about|concerning|relating to} your {payment|order and payment|order payment}, {please|you should} {contact us|get in touch with us} {directly|immediately|without delay} {using|with} contact {blank|form} {available in|you can find|added to} the {document|file} attached.
+
+{Best regards|Kindest regards|Regards},
+{Sales department|Sales office|Sales division|Commercial department}
+
+
+ТЕМЫ: Your {order|purchase|on-line order|last order} НОМЕР ЗАКАЗА payment {is processed|is obtained|is received}
+
+АТТАЧИ:
+paym_specs
+transact_confirm
+inst_data
+trans_details
+completion_inf
+transact_approval
+
+********************************************************************************************************************
+
+5)
+
+{Good afternoon|Hello|Greetings|Good day}, {dear|dearest} {customer|client}{!|,|}
+
+{As you|Right as you} {asked|requested|demanded}, here I {inform you|tell you|notify you|give you information} {about|regarding} {your|your chosen|your current|your personal} {booking|order} for {air ticket|airline ticket} НОМЕР ЗАКАЗА. {In the|Inside the} attachment {to this|to the} {letter|mail|e-mail|message}, {you will find|you'll find|you can find} your {electronic ticket|e-ticket|air ticket} НОМЕР БИЛЕТА and {related|associated|referred|other} {payment|advance payment|bank payment} {documentation|papers|documents}. {Total|Full|Whole} {booking|reserved|transaction} sum: СУММА
+
+{Thank you for|Thanks for} {choosing|travelling with} us and {enjoy|take pleasure in|get pleasure from} your {vacations|flight|trip}!
+{Best regards|Kindest regards|Regards},
+{Sales department|Sales office|Sales division|Commercial department}
+
+
+ТЕМЫ: Compensation|Payment} for {booking|order} НОМЕР ТРАНЗАКЦИИ is {successfully|efficiently|correctly|timely|actually} {confirmed|approved}
+
+АТТАЧИ:
+tick_docs
+receipt_ticket
+paid_ticketing
+ticket+doc
+paym_confirm
+ticketing_details
+
+********************************************************************************************************************
+2021-08-03 06:53:51.669940	lemur	terry	тут 5
+2021-08-03 06:53:57.412410	lemur	terry	ещё 3 отдам к вечеру
+2021-08-03 17:00:34.936591	lemur	terry	
+6)
+
+{Greetings|Hello|Good day to you|Good arternoon}, dear user{!|,|}
+
+{You have|You've} {submitted|formed|put} {an application|an application form} {for a|to obtain} 3-user {subscription|membership|member subscription} {to our|to the} {training|webinar|online training} {service|web service}.
+{Basic|Starter|Initial} {payment|settlement} {in the amount of|in the sum of|for total sum of} СУММА was {successfully|correctly|timely} {checked|verified} and {approved|affirmed|completed|collected|covered}.
+
+{This|Such} {subscription"plan {includes|contains} {4|5|6|7|8} {webinars|conferences} and {15|20|18} {practice tasks|tasks} for {each|every} lesson.
+Attached {you will find|you'll find|you will discover} all {payment|settlement|payments} {information and|details and} {subscription|membership} {details|information|info}. {Thank you for|Thanks for} {being|remaining} our {client|consumer}!
+
+
+ТЕМЫ: {Training|Webinar|Online training} {subscription|membership|member subscription} НОМЕР ЗАКАЗА {is covered|is activated|is active}
+
+АТТАЧИ:
+webinar_details
+ord_information
+confirmed_paym
+plan_details
+subscr_det
+member_information
+
+********************************************************************************************************************
+
+7)
+
+{Hello|Good day|Hi there|Greeting|Good afternoon|Good day to you|Hi|Greetings}{!|,|}
+
+{Recently|Just recently|Not too long ago|A short while ago|Yesterday|Today} {you've|you have} {placed|set|made|submitted} {an order|an online order|a purchase order} НОМЕР ЗАКАЗА in our {shop|store|online store|retail store}. {The following is|Here are|These are} {some|a few|some few} details {regarding|about} {order|your order} {payment|advance payment}:
+
+{Sum|Total|Total sum}: СУММА 
+{Payment|Transaction} ID: НОМЕР ТРАНЗАКЦИИ 
+
+{Your|The} {order|purchase|purchase order} {will be|tend to be|will most definitively be} {ready for|prepared for|scheduled for|readied for} {delivery|sending|shipping and delivery} only in {three days|four days|several days|two days|3 days|4 days|2 days} – {requested|required|desired|selected} {items|accessories|objects|goods} are {out of stock|out of stock yet|not available now}. {To this|To this particular} {letter|mail|e-mail}, we attach a {document|doc|file|paper} with {full|extensive|actual|whole} {payment|transaction} {information|data|description|details}, {receipt|bank check} and {estimated|projected|approximate|expected} {delivery date|delivery time range}. 
+
+
+ТЕМЫ: {Invoice|Given invoice} НОМЕР ИНВОЙСА {is paid|is covered|is processed|compensated}, {your|the} {order|purchase|purchase order} {approved|confirmed}
+
+АТТАЧИ:
+order_details
+paym_confirmation
+paym_report
+client_docs
+client_copy
+full_details
+
+********************************************************************************************************************
+
+8)
+
+{Good day|Hello|Good morning|Good afternoon|Good day to you|Good evening|Greetings}!
+
+{We are|We're|Our shop is} {writing|mailing|sending notice} {to you|you} {regarding|about|concerning} {your|the} {email|request} {that you|which you|you} made {two days ago|three days ago|several days ago|not so long ago|recently}. {Your payment|Payment you sent|Payment we received from you} for СУММА was {accepted|allowed|collected|received} and {completed|accomplished|processed}. To this {letter|e-mail|message} we {attach|left attached|have attached} {your|your personal} {receipt|check|bank check} {and|as well as} all {secondary|additional} {documents|docs|documentation|papers|information} for your {order|purchase order} НОМЕР ЗАКАЗА.
+{Thank you for|Thanks for|Many thanks for} your {cooperation|interest|business}!
+
+{Regards|Best Regards|Sincerely},
+Reseller {Shop|Store}
+
+ТЕМЫ: 
+{Check|Paycheck|Payslip|Bank check} for {paid|covered|compensated|settled} {invoice|statement|receipt} НОМЕР ИНВОЙСА
+
+АТТАЧИ:
+ORD_DAT
+order_info
+custom_items_inv
+deliv_det_8475
+dtl_inf_9858
+automatic_docum
+bundle_specs
+2021-08-03 17:00:38.243767	lemur	terry	всё!)
+2021-08-03 17:01:14.137195	terry	lemur	Привет
+2021-08-03 17:01:15.871753	terry	lemur	+
+2021-08-03 17:01:21.672208	lemur	terry	отлично)
+2021-10-15 13:25:39.156774	lemur	terry	{Greetings|Hello|Good day to you|Good arternoon}{!|,|}
+{We are|We're} {writing|messaging|mailing} {to you|you} {regarding|concerning} your {transaction|payment|transfer|money transfer} НОМЕР ПЕРЕВОДА for СУММА for your order is {processed|completed|approved} and {received|collected|accepted}.
+{We have|We’ve} {submitted|sent|scheduled} your {order|purchase|purchase order|online order} for the {delivery|shipping and delivery|transfer}: {it will|this will} {take|require} {about|approximately} {3-5|4-5|five} days. Please {check your|look at your|inspect your|check the} {information and|details and} {payslip|bank check|receipt} in the {attached file|file attached}.
+{Thank you for|Thanks for} {your business|your order|your interest}.
+
+ТЕМЫ:
+{Invoice|Given invoice|Bill} НОМЕР ИНВОЙСА for {order|purchase|purchase order|online order} НОМЕР ЗАКАЗА is {approved|given approval|affirmed|covered|paid}
+
+АТТАЧИ:
+ord_details
+purch_info
+invoice_details
+transact_info
+ord_documentation
+order_summary
+2021-10-15 13:25:42.606521	lemur	terry	ghbdtn)
+2021-10-15 13:25:47.640220	terry	lemur	Приверт
+2021-10-15 13:25:48.931154	terry	lemur	+
+2021-10-15 13:25:49.536019	lemur	terry	privet :)
+2021-10-15 13:25:53.813000	terry	lemur	))
+2021-10-19 13:18:27.437757	lemur	terry	{Greetings|Hello|Good day|Good afternoon}{!|,|}
+{Thank you for|We are thankful for|We are grateful for|Many thanks for} {your|your recent} {on-line order|purchase order|order}. {We|Our financiers have|Our team has|We have|Our shop has} {received|collected|processed|checked} your {payment|advance payment|money transfer|funds transfer} НОМЕР ПЕРЕВОДА. Now we {are and ready to|begin to} {pack|prepare|compose} your {shipment|order|box}. Your {parcel|packet|shipment|box} {will|is going to|would} {arrive|be delivered} to {you|your residence} within {4|5|6|four|five|six} {days|business days}.
+{Total|Full|Whole} {order|purchase|payment} sum: СУММА
+You {can find|will find} {all|full} {relative information|order info|order and payment details} and your {receipt|check} НОМЕР ЧЕКА {in|in the} {attached file|file attached}.
+{Thank you!|Have a nice day!}
+
+ТЕМЫ: Your {order|purchase|on-line order|last order} НОМЕР ЗАКАЗА payment {processed|obtained|received}
+
+АТТАЧИ:
+
+ord_conf
+full.details
+compl_ord_7847
+buyer_auth_doc
+info_summr
+customer_docs
+spec-ed_info
+2021-10-19 13:18:31.646304	lemur	terry	привет)
+2021-10-19 13:21:35.555907	terry	lemur	Привет
+2021-10-19 13:21:37.431794	terry	lemur	Есть)
+2021-10-19 13:22:17.734013	terry	lemur	Слушай, а у тебя нет случайно какой нибудь готовой базы рандомных имен?
+2021-10-19 13:23:15.597851	terry	lemur	Имя-Фамилия имею ввиду
+2021-10-19 13:28:28.497614	lemur	terry	щас могу дать)
+2021-10-19 13:28:35.492534	lemur	terry	я знаешь где беру
+2021-10-19 13:29:41.584582	terry	lemur	Давай давай, подскажи местечко, буду благодарен
+2021-10-19 13:29:51.166401	lemur	terry	https://www.fakenamegenerator.com/order.php
+2021-10-19 13:29:57.613016	lemur	terry	чисто параметры проставляешь
+2021-10-19 13:30:03.724174	lemur	terry	и на почту файл приходит
+2021-10-19 13:30:49.033397	terry	lemur	Отлично!) спасибо уже вижу, что мне этот ресурс явно пригодится и не раз)
+2021-10-19 13:30:53.176733	lemur	terry	до 50-100к можно вариантов сделать
+2021-10-19 13:31:00.215820	lemur	terry	да, я часто им пользуюсь)
+2021-10-19 13:31:07.614333	terry	lemur	)) спс ещё раз
+2021-10-19 13:31:50.151678	lemur	terry	да не за что)
+2021-10-25 18:54:40.884185	terry	lemur	Привет. на завтра нужен текст по стандартной схеме (на 26.10)
+2021-10-26 12:32:13.242709	terry	lemur	Привет. на завтра нужен текст по стандартной схеме (на 26.10)
+2021-10-26 12:32:44.229537	lemur	terry	{Hi|Hello|Good morning|Good afternoon|Good evening|Good day|Greetings},
+
+{We have|We've|We have now} {examined|scrutinized|checked out|looked at} our {documents|docs|paper work} {to find|to approve} {your payment|your advance payment} НОМЕР ПЛАТЕЖА, {and found|and discovered|and noticed} that you {have not|still haven't|haven't|still have not} {sent|directed|paid} the СУММА. {We|We all} {hope|trust|desire} {that it is|that it must be|that it really is} {only a|merely a|simply a} {mistake|failure} {and you will|and you'll|and you will certainly} {pay off|pay down|get rid of} your {outstanding debt|debt|last obligation} {immediately|as quickly as possible|as soon as possible}. {All the|All the necessary} {information|data|content} we attach to {this|this special} ﻿{letter|e-mail|mail|msg}. {Otherwise|In any other case} {we will be forced to|we will} {start|begin} the {legal case|lawsuite}.
+
+﻿{Respectfully|Regards|Best regards|Sincerely|Waiting for your answer}!
+
+ТЕМЫ:
+{Missing|Undone} {payment|settlement|compensation} {reminder|request|notification} #НОМЕР ЗАПРОСА
+
+АТТАЧИ:
+dbt_inf
+inv_645_99
+leg_data
+att_req
+oblig_smmr
+dri_case
+contr_84
+2021-10-26 12:32:47.121574	lemur	terry	ghbdtn)
+2021-10-26 12:32:51.083424	lemur	terry	привет)
+2021-10-26 12:33:10.549236	terry	lemur	Хола
+2021-10-26 12:33:12.057804	terry	lemur	Спс)

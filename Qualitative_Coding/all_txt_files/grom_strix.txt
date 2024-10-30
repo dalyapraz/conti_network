@@ -1,0 +1,38 @@
+Timestamp	From	To	Message
+2021-08-13 19:47:44.714555	grom	strix	man, vidno text?
+2021-08-13 20:20:01.451197	strix	grom	hi
+2021-08-13 20:20:04.428015	strix	grom	да
+2021-08-13 20:20:11.109592	strix	grom	benny ты?
+2021-08-13 21:49:34.662870	strix	grom	hi
+2021-08-13 21:49:34.663904	strix	grom	да
+2021-08-13 21:49:34.664316	strix	grom	benny ты?
+2021-08-16 10:50:45.418596	grom	strix	hi
+2021-08-16 10:50:52.216134	grom	strix	#admins
+2021-08-16 10:50:53.469115	grom	strix	plz
+2021-08-16 11:18:39.702755	grom	strix	benny
+2021-08-26 13:39:15.922884	grom	strix	hi man
+2021-10-27 18:00:05.283203	grom	strix	рш
+2021-10-27 18:00:23.305112	grom	strix	hi
+2021-11-19 13:18:36.790755	grom	strix	маякните мне!
+2021-11-25 13:56:19.645159	strix	grom	hi
+2021-11-25 13:56:26.701981	strix	grom	тут?
+2021-11-25 13:56:38.612875	strix	grom	чет у меня проблемы с инетом
+2021-11-25 13:56:53.219064	strix	grom	пришлось через 3же соединяться
+2021-11-25 13:57:15.228230	strix	grom	плюс что-то рокет не коннектится
+2021-11-25 13:57:21.924686	grom	strix	nen
+2021-11-25 13:57:25.727931	strix	grom	предупредишь народ?
+2021-11-25 13:57:26.856714	grom	strix	тут, привет!
+2021-11-25 13:58:08.131256	grom	strix	ща скажу, я сам в рокете через пиджин сижу в Админс и в Генерал
+2021-11-25 13:59:29.330626	strix	grom	все уже законнектился
+2021-11-25 13:59:46.551403	grom	strix	ваще отр поднимать принято))
+2021-12-01 19:15:32.120004	grom	strix	[ERROR: This message is encrypted, and you are unable to decrypt it.]
+2021-12-01 19:16:49.956897	grom	strix	без отр, видно?
+2021-12-01 19:18:35.639503	grom	strix	[ERROR: This message is encrypted, and you are unable to decrypt it.]
+2021-12-01 19:19:54.615538	grom	strix	[ERROR: This message is encrypted, and you are unable to decrypt it.]
+2021-12-01 19:24:18.152295	grom	strix	[ERROR: This message is encrypted, and you are unable to decrypt it.]
+2021-12-01 19:26:30.266441	grom	strix	[ERROR: This message is encrypted, and you are unable to decrypt it.]
+2021-12-01 19:26:40.281205	strix	grom	[ERROR: This message is encrypted, and you are unable to decrypt it.]
+2021-12-01 19:26:51.140864	grom	strix	[ERROR: This message is encrypted, and you are unable to decrypt it.]
+2021-12-01 19:26:52.575228	strix	grom	[ERROR: This message is encrypted, and you are unable to decrypt it.]
+2021-12-01 20:05:06.710756	grom	strix	[ERROR: This message is encrypted, and you are unable to decrypt it.]
+2022-01-25 15:00:30.811656	grom	strix	чистый тест

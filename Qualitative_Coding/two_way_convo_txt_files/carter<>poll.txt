@@ -1,0 +1,127 @@
+Timestamp	From	To	Message
+2020-07-09 14:42:58.561704	carter	poll	
+привет, это сервера для урбана
+
+3E2ZMmUyP2pFK91qYVtz6tRmqVUeqL8KmD
+0.00061000
+
+3Q93jpr9S3KhDgsENDeZicDQWtvGPp7BQ9
+0.00064000
+
+3FcdpAAn1R2F25asEBwgxiseqL5GauG7jD
+0.00085175
+
+3QNKPr6NUrWymxjpuoAx49iXgpAD7bgepM
+0.00144601
+
+3Fru1eTkBYKXcsqLfjpNZcAboPKzeRYJTp
+0.0006394
+2020-07-09 14:56:29.042801	poll	carter	done
+2020-07-09 15:20:23.217113	carter	poll	
+тоже для урбана
+
+3Lf2rWX2c1hDWfEnNvNXeukRA2Z1zb2cVo
+0.00121811
+
+33JCLFVubiAfBpx3cqEcyA8CsrNdhSE6gV
+0.00053935
+
+3Gh1LMp9iSjW9ahoznMgGBb8mjoMaB51Lz
+0.00065000
+
+32JzMfsus26466zDXDJ4LvjoaNqpz93ZWt
+0.00074000
+2020-07-09 15:24:38.770694	poll	carter	a ti nem ojesh skinyt sam?
+2020-07-09 15:25:57.971988	carter	poll	нет, мне нечем
+2020-07-13 09:11:34.973740	carter	poll	
+привет, впски для урбана
+
+33EfiNWnNm7Sm2vDptHpZ7YbCLD1terroT
+0.00043007
+
+3Ccr4ZXecb5JHD1qBcnqQyQwt7hCYxAZJu
+0.0004405
+
+39vQ1Xnab97ECfmNsBRg7wH95jD85XBnjj
+0.00073000
+
+3BXqsdz2rRvdxnbNQFo2yL9KhL5tTgu1aW
+0.00065000
+
+36STZWhv58WMCTJuscD47LvMRxsq5hoMYz
+0.00065000
+2020-07-13 09:27:51.225980	poll	carter	oke
+2020-07-13 09:27:52.425191	poll	carter	hi
+2020-07-15 09:33:41.120575	carter	poll	привет, 
+17RiMroeXvNwQDMf9FEVaFZvWj2uja99Z5
+0.00113002
+
+35zB26ZLf3xm2ef6Dgs4B35kPt7vctgkAG
+0.00109000
+
+38edz7XRAuA4gvvU86todGu9PoRn8BrWB4
+0.00190279
+2020-07-15 14:02:10.360232	carter	poll	1JxCUJmdfsdAgQ9yqPG1jmEnX6G3zRLtcv
+0.00112779
+
+3NBrXnaaMyjhS89hZcqjQmjZXTecxxZ1qt
+0.00189867
+
+3KkMNaXwdyiMx8dmjQdnczDtwo7aVdfQp5
+0.00109000
+2020-07-15 14:04:17.270726	poll	carter	yshlo
+2020-07-15 14:04:17.274835	poll	carter	yshlo
+2020-07-21 08:05:08.484091	carter	poll	
+привет, сервера для урбана
+
+3NFT7rRbb2qfYAJfY1BY84B9YwMZ4KJSwb
+0.00065000
+
+35ZqkJJ8J3fAKkVS8hH3GeZ6HRmixF2MNV
+0.00053559
+
+3AB6rRJRjMUfWhfkhUWucZu7F7mEHfXquW
+0.0004293
+
+32b49nRCASHWYHiswfzzUv9jzoTvpkBaJM
+0.00076000
+2020-07-21 08:05:59.840061	poll	carter	hi
+2020-07-21 08:06:00.837923	poll	carter	oke
+2020-07-22 19:05:03.913535	carter	poll	 для грина 
+31uAe3zj7p9qXN2xiJP1pRciZysCKNtfTJ
+0.00760000
+2020-07-22 19:08:08.335709	poll	carter	ok
+2020-07-22 19:08:39.017976	poll	carter	yshlo
+2020-07-27 14:39:49.739667	carter	poll	
+привет, 
+<urban> 64.56.74.56 - нужно оплатить
+354uPBPcTArynUszkYhfNNRgsNHQ2qkHgS
+0,0065
+2020-07-27 14:41:27.793617	poll	carter	yshlo
+2020-07-31 10:53:19.304588	carter	poll	
+привет, это сервер для грина
+3MJmNqGZyW9fR2wJ2VzyoW9p5NLvXK7AJj
+0.0056872
+2020-08-04 09:20:11.766259	carter	poll	
+привет, впс для урбана
+
+321vG6iUNZ9xEYRKf6VzTjVCn7Whw6pMnJ
+0.00063775
+
+3FQ8XGqdBEkAHXjGTsz7pyhMkJund6ryqm
+0.00078000
+
+3ErYy1XxL7VZMBiEJaYqV1FHepZqPMpQxi
+0.00044373
+
+3EEzXGfLWPUkhfgZtXMW9T5mu9He4GEK8V
+0.00078000
+
+35r1ASUT9zkoH6toVUTGsErKkSzpncYEdD
+0.00063768
+2020-08-12 14:00:12.383771	carter	poll	
+привет, 
+<urban> закажи плиз для мавемата мейлера 1 сервер - оплата полл
+3Akvdu3aV4xgWzwBepr7vFmqbrwGrUJkBs
+0.00630000
+2020-08-26 18:51:21.923614	carter	poll	срок действия предыдущего адреса вышел, оплачивать не нужно

@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-09-07 12:19:57.840238	dollar	wowddoz	hi
+2021-09-07 12:19:58.410766	dollar	wowddoz	mna
+2021-09-09 17:57:50.541020	dollar	wowddoz	hey
+2021-09-29 15:16:20.091428	dollar	wowddoz	hey

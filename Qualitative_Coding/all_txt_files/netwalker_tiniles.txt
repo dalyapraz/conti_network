@@ -1,0 +1,7 @@
+Timestamp	From	To	Message
+2022-01-23 17:18:22.544138	netwalker	tiniles	Прив братик.
+2022-01-23 17:22:34.774027	netwalker	tiniles	Я от кибера.
+2022-01-24 18:41:15.611306	netwalker	tiniles	Привект на месте ?
+2022-01-25 09:30:17.807385	netwalker	tiniles	Прив братик.
+2022-01-25 09:30:17.808876	netwalker	tiniles	Я от кибера.
+2022-01-25 09:30:17.843654	netwalker	tiniles	Привект на месте ?

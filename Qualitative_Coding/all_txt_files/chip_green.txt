@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-07-16 16:11:43.905976	chip	green	привет

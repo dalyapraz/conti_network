@@ -1,0 +1,77 @@
+Timestamp	From	To	Message
+2020-10-14 06:30:26.709302	hof	love	ок
+2020-10-14 11:57:50.501089	love	hof	тут??
+2020-10-14 11:59:12.808582	love	hof	чистить надо
+2020-10-14 12:00:46.204207	love	hof	спустя минуту детект 
+[02:35:43] <prestige> [02:30:56] <bentley> Log Name:      Microsoft-Windows-Windows Defender/Operational
+Source:        Microsoft-Windows-Windows Defender
+Date:          10/14/2020 10:26:20 AM
+Event ID:      1116
+Task Category: None
+Level:         Warning
+Keywords:      
+User:          SYSTEM
+Computer:      TST10X64
+Description:
+Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Script/Wacatac.B!ml&threatid=2147735503&enterprise=0
+     Name: Trojan:Script/Wacatac.B!ml
+     ID: 2147735503
+     Severity: Severe
+     Category: Trojan
+     Path: file:_C:\Users\10TST\Downloads\1\1\MPOTZJTH\MPOTZJTH.exe
+     Detection Origin: Local machine
+     Detection Type: Concrete
+     Detection Source: Real-Time Protection
+     User: TST10X64\10TST
+     Process Name: C:\Windows\System32\svchost.exe
+     Security intelligence Version: AV: 1.325.735.0, AS: 1.325.735.0, NIS: 1.325.735.0
+     Engine Version: AM: 1.1.17500.4, NIS: 1.1.17500.4
+
+[02:31:06] <bentley> Через 1 минуту работы. Бот так и не появился 
+[02:31:09] <bentley> Это к Хофу 
+[02:37:08] <prestige> mor131 который ну и ястреб тоже самое 
+[02:38:16] <prestige> [02:37:36] <bentley> Смотри бот то стучит 
+[02:37:37] <bentley> https://kwwka7ark3ynr7k7.onion/log/54311 
+[02:37:44] <bentley> Тожи отпиши Хофу 
+[02:37:48] <bentley> С линком 
+[02:37:54] <bentley> Оставлю пока работать вм
+2020-10-14 12:06:08.521361	love	hof	тут?
+2020-10-20 09:10:48.237246	love	hof	привет
+2020-10-20 09:10:50.316366	love	hof	тут?
+2020-10-26 08:27:40.595654	love	hof	Приветь
+2020-10-30 08:07:08.889842	hof	love	писал?
+2020-10-30 08:07:19.924603	hof	love	приходят странные события от тебя
+2020-10-30 08:08:00.613730	love	hof	не
+2020-10-30 08:08:02.417761	love	hof	да я пиджин открывал
+2020-10-30 08:08:03.413204	love	hof	тут кое-кто не может дописаться до меня
+2020-10-30 08:08:49.047548	love	hof	а у меня почти со всеми ок связь
+2020-11-02 09:43:50.829682	love	hof	привет
+2021-03-04 05:58:02.936036	love	hof	привет, как будешь сделай как вчера плз
+2021-03-04 07:25:00.859600	hof	love	привет, залито
+2021-03-04 07:52:29.328264	love	hof	ок гуд
+2021-03-04 07:52:30.160454	love	hof	спс
+2021-03-17 16:30:43.548259	love	hof	тут?
+2021-04-01 08:47:14.805003	love	hof	привет
+2021-04-01 15:14:19.570841	hof	love	залиты новые файлы
+2021-05-04 06:49:38.057215	love	hof	привет залей роба длл и ехе на вторую
+2021-05-04 06:56:57.475392	hof	love	привет залей роба длл и ехе на вторую
+2021-05-24 07:07:03.034809	love	hof	Привет
+2021-07-02 15:50:07.523123	love	hof	rew
+2021-07-19 11:30:28.839098	hof	love	залиты
+2021-08-03 05:45:12.311474	love	hof	привет залей роб119 120 длл и ехе 120 плз как придешь. И мод8 длл+ехе
+2021-08-03 07:06:21.876815	love	hof	привет залей роб119 120 длл и ехе 120 плз как придешь. И мод8 длл+ехе
+2021-09-02 09:17:21.526162	hof	love	залито
+2021-09-02 09:22:25.485670	love	hof	залито
+2021-09-07 18:46:06.379542	love	hof	можешь залить ехе плз на сервак?
+2021-10-02 05:54:17.974679	hof	love	привет, по поводу проверки - так и не получилось у меня собрать. На виртуалке, на которой установлен microsoft build tools 2019 не собирается проект через cmake - ошибки, не хватает WIL и еще чего то
+2021-10-02 05:55:17.358395	hof	love	видно, что претендент разбирается в теме
+2021-10-02 05:56:24.966173	hof	love	но как то все слишком накручено
+2021-10-02 09:15:55.563450	hof	love	привет, по поводу проверки - так и не получилось у меня собрать. На виртуалке, на которой установлен microsoft build tools 2019 не собирается проект через cmake - ошибки, не хватает WIL и еще чего то
+2021-10-02 09:15:55.565868	hof	love	видно, что претендент разбирается в теме
+2021-10-02 09:15:55.566965	hof	love	но как то все слишком накручено
+2021-10-05 10:20:48.304000	love	hof	отпиши как вернешься
+2021-10-25 11:59:04.205785	love	hof	привет закинь плз soc1
+2021-11-15 08:56:04.689885	hof	love	залито
+2021-12-08 08:18:29.652106	love	hof	Привет

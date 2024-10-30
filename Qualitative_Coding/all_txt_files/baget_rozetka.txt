@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-10-04 17:57:21.770775	baget	rozetka	Привет!

@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-07-29 08:29:43.034621	zolotoy	zevs	кук
+2021-07-29 08:29:44.603121	zolotoy	zevs	у

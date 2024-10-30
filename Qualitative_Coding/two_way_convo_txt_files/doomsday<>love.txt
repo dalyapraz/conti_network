@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2021-10-05 11:19:41.550999	love	doomsday	123
+2021-10-05 11:19:41.552846	doomsday	love	123
+2021-10-05 11:42:10.653339	love	doomsday	пи
+2021-10-05 11:42:10.654553	doomsday	love	пи

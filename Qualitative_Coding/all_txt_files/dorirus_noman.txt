@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-07-02 13:06:56.702629	dorirus	noman	Привет

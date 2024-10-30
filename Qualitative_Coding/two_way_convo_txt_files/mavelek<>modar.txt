@@ -1,0 +1,23 @@
+Timestamp	From	To	Message
+2020-07-09 17:13:07.357679	mavelek	modar	привет чиркни green@ им надо простенькую админку сделать для впсок
+2020-07-09 17:43:01.501540	mavelek	modar	и по бинам надо обновить базу
+2020-07-09 17:43:18.974882	mavelek	modar	All-in-one 6-11 digit BIN database in semicolon delimited format - extended version (PERSONAL/COMMERCIAL and REGULATED/NON-REGULATED flags):
+https://www.binbase-client-area.com/ext_i891U3n7vK4hYWuC/bins_all.zip
+2020-07-13 10:28:28.747046	mavelek	modar	привет чиркни green@ им надо простенькую админку сделать для впсок
+2020-07-13 10:28:28.747884	mavelek	modar	и по бинам надо обновить базу
+2020-07-13 10:28:28.755117	mavelek	modar	All-in-one 6-11 digit BIN database in semicolon delimited format - extended version (PERSONAL/COMMERCIAL and REGULATED/NON-REGULATED flags):
+https://www.binbase-client-area.com/ext_i891U3n7vK4hYWuC/bins_all.zip
+2020-07-17 11:52:17.176191	mavelek	modar	 Indexer:Domain:Traffic не уменьшается
+2020-07-17 11:52:24.323236	mavelek	modar	аккаунт проплатили моз ранк
+2020-07-20 10:47:35.112203	mavelek	modar	 Indexer:Domain:Traffic не уменьшается
+2020-07-20 10:47:35.113380	mavelek	modar	аккаунт проплатили моз ранк
+2020-07-23 11:37:43.261582	modar	mavelek	в итоге им новое апи не нужно. и страницу они не парсят в запрашивают через существующее апи
+2020-08-25 14:25:08.413205	mavelek	modar	опять индекс сломался
+2020-08-26 08:24:05.396757	mavelek	modar	вчера переиндексил и сутра тоже самое..
+2020-08-26 08:24:07.141814	mavelek	modar	Crash!!! Handling signal 11
+2020-08-26 13:29:48.318405	mavelek	modar	опять индекс сломался
+2020-08-26 13:29:48.319697	mavelek	modar	вчера переиндексил и сутра тоже самое..
+2020-08-26 13:29:48.321008	mavelek	modar	Crash!!! Handling signal 11
+2020-10-02 10:19:09.884483	mavelek	modar	привет тут ?
+2020-10-19 14:22:27.236331	mavelek	modar	чиркни как будешь
+2020-10-20 09:46:54.577952	mavelek	modar	чиркни как будешь

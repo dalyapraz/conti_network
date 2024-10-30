@@ -1,0 +1,2599 @@
+Timestamp	From	To	Message
+2020-06-26 10:39:31.702228	mors	deploy	привет, криптани плиз, новые файлы на ссылках
+2020-06-26 10:39:36.040575	mors	deploy	привет, криптани плиз, новые файлы на ссылках
+2020-06-29 10:53:51.438492	mors	deploy	привет
+2020-06-29 10:53:58.436799	mors	deploy	криптани плиз
+2020-07-05 17:54:08.279279	deploy	mors	Download: https://qaz.im/load/BdRAN7/dTGAzt
+Delete: https://qaz.im/index.php?a=delete&q=1719824097
+Pass: FDSADFASAADFAASADF
+2020-07-05 17:54:25.125902	deploy	mors	Чекни, 2 стаба
+2020-07-05 20:04:17.424723	deploy	mors	Download: https://qaz.im/load/BdRAN7/dTGAzt
+Delete: https://qaz.im/index.php?a=delete&q=1719824097
+Pass: FDSADFASAADFAASADF
+2020-07-05 20:04:17.426541	deploy	mors	Чекни, 2 стаба
+2020-07-08 09:01:42.269314	mors	deploy	привет
+2020-07-08 09:01:50.729437	mors	deploy	привет, криптани плиз
+2020-07-12 19:59:33.798774	deploy	mors	Привет
+2020-07-12 19:59:41.344685	deploy	mors	Download: https://qaz.im/load/TdndHR/NyNbaB
+Delete: https://qaz.im/index.php?a=delete&q=895480411
+Pass: DFSADFASADAFASADF
+2020-07-12 19:59:47.438198	deploy	mors	2 стаба
+2020-07-12 20:54:13.387819	deploy	mors	Привет
+2020-07-12 20:54:13.389388	deploy	mors	Download: https://qaz.im/load/TdndHR/NyNbaB
+Delete: https://qaz.im/index.php?a=delete&q=895480411
+Pass: DFSADFASADAFASADF
+2020-07-12 20:54:13.390716	deploy	mors	2 стаба
+2020-07-13 08:53:24.947083	mors	deploy	ghbdtn
+2020-07-13 08:53:28.035836	mors	deploy	привет
+2020-07-13 08:53:30.955646	mors	deploy	криптани плиз
+2020-07-13 09:04:15.751206	deploy	mors	Привет
+2020-07-13 09:04:21.906573	deploy	mors	Ок
+2020-07-13 09:41:38.481995	deploy	mors	Download: https://qaz.im/load/BBK4yr/AN9GQe
+Delete: https://qaz.im/index.php?a=delete&q=529187363
+Pass: fgSADFSAADFASADAFASDF
+2020-07-13 09:41:47.384632	deploy	mors	Чекни
+2020-07-13 09:42:51.341964	mors	deploy	ок
+2020-07-13 09:55:51.437295	mors	deploy	все ок
+2020-07-13 09:56:07.427300	deploy	mors	Хорошо
+2020-07-13 11:55:31.610858	mors	deploy	криптани плиз спалился что-то
+2020-07-13 12:11:11.685047	deploy	mors	Ок
+2020-07-13 12:11:21.285782	deploy	mors	Дефендер?
+2020-07-13 12:12:28.231834	mors	deploy	да
+2020-07-13 12:24:43.507496	deploy	mors	Download: https://qaz.im/load/DKDtya/tFZGzb
+Delete: https://qaz.im/index.php?a=delete&q=83333486
+Pass: DASADFASAFDASAFD
+2020-07-13 12:24:51.472370	deploy	mors	Чекни
+2020-07-13 12:26:19.246153	mors	deploy	ага
+2020-07-13 19:58:26.952459	mors	deploy	давай на ночь готовится, 2 стаба плиз
+2020-07-13 19:59:36.282269	deploy	mors	Ок
+2020-07-13 20:31:03.711342	deploy	mors	Download: https://qaz.im/load/2b9teS/ia3625
+Delete: https://qaz.im/index.php?a=delete&q=165513677
+Pass: ADFSAADFASADZSAAAGT
+2020-07-13 20:31:10.254681	deploy	mors	Чекни
+2020-07-13 20:31:17.988088	deploy	mors	3 файла
+2020-07-13 20:34:20.995143	mors	deploy	ага
+2020-07-13 20:50:26.524308	deploy	mors	Download: https://qaz.im/load/QtbY4S/sythtn
+Delete: https://qaz.im/index.php?a=delete&q=1819611134
+Pass: FDASADFAASADFAASFD
+2020-07-13 20:50:32.451657	deploy	mors	3 файла
+2020-07-13 20:50:38.509188	deploy	mors	Чекни
+2020-07-13 20:52:04.538414	mors	deploy	ага
+2020-07-13 21:13:02.025680	mors	deploy	минут 10 еще
+2020-07-13 21:13:15.753029	deploy	mors	Жду...
+2020-07-13 21:19:45.474121	mors	deploy	704 палятся все стабы статика
+2020-07-13 21:20:00.288308	deploy	mors	Кем?
+2020-07-13 21:20:18.513884	mors	deploy	Trojan:Win32/Emotet.PDL!MTB
+2020-07-13 21:21:05.003821	deploy	mors	Тогда на завтра. У меня уже нет стабов
+2020-07-13 21:21:39.054732	mors	deploy	ок
+2020-07-13 21:21:47.361060	mors	deploy	тогда все ок
+2020-07-13 21:21:59.609241	deploy	mors	До завтра))
+2020-07-14 09:16:20.649809	mors	deploy	криптани плиз
+2020-07-14 09:16:31.561219	deploy	mors	Привет
+2020-07-14 09:16:37.576768	deploy	mors	Ок
+2020-07-14 11:02:55.599468	deploy	mors	Download: https://qaz.im/load/sdT5hr/F4SYsh
+Delete: https://qaz.im/index.php?a=delete&q=362110968
+Pass: AFDSAADFASAFADZADZCGT
+2020-07-14 11:03:01.685305	deploy	mors	Чекни
+2020-07-14 11:03:04.537577	mors	deploy	ага
+2020-07-14 19:58:47.729712	mors	deploy	задержись плиз сегодня, а возможно и не надо будет задерживаться, до 1.00
+
+готовлю все одинаковые ехе, как первый файл
+2020-07-14 20:01:01.505812	deploy	mors	До 1 часа не смогу, максимум до 12, у меня режим
+2020-07-14 20:01:28.215754	mors	deploy	ок
+2020-07-14 20:01:46.769461	mors	deploy	с понедельника вторника вбоевой режим скорей всего
+2020-07-14 20:02:41.429521	deploy	mors	Будешь обновлять файлы? Что бы я уже начал делать хотя-бы в 11:30
+2020-07-14 20:03:03.462372	mors	deploy	сегодня да
+2020-07-14 20:03:13.710062	mors	deploy	но пока не выдам еще. минут 40 надо
+2020-07-14 20:03:41.864263	deploy	mors	Жду...
+2020-07-14 20:24:34.621982	mors	deploy	залил новые файлы на ссылки, криптани плиз
+2020-07-14 20:24:45.781588	deploy	mors	Делаю
+2020-07-14 20:42:29.499948	mors	deploy	нормально криптуется?
+2020-07-14 20:43:30.438321	deploy	mors	Крах при запуске
+2020-07-14 20:43:38.172908	mors	deploy	сек проверю
+2020-07-14 20:43:58.574906	deploy	mors	Не криптованный норм.
+2020-07-14 20:44:26.257737	mors	deploy	а ок
+2020-07-14 20:44:44.898376	deploy	mors	Может стаб придется менять. Если не успею, то утром уже сделаю
+2020-07-14 20:45:05.067242	mors	deploy	мы специально на ночь переносим апдейт. давай сегодня плиз
+2020-07-14 21:07:38.919668	deploy	mors	Download: https://qaz.im/load/BTfAb9/G459kH
+Delete: https://qaz.im/index.php?a=delete&q=1611306347
+Pass: FDSAFDAASADFAS
+2020-07-14 21:07:44.932912	deploy	mors	Чекни
+2020-07-14 21:07:51.117721	deploy	mors	2 стаба
+2020-07-14 21:08:04.397647	mors	deploy	ага
+2020-07-14 21:19:30.333823	mors	deploy	все ок. спасибо большое
+2020-07-14 21:30:20.147749	deploy	mors	Доброй ночи)
+2020-07-15 09:06:39.660531	mors	deploy	криптани плиз
+2020-07-15 09:06:42.539452	mors	deploy	привет
+2020-07-15 09:07:00.068143	deploy	mors	Привет
+2020-07-15 09:07:05.945627	deploy	mors	Ок
+2020-07-15 09:51:09.496310	deploy	mors	Download: https://qaz.im/load/szN4NE/8kDy3d
+Delete: https://qaz.im/index.php?a=delete&q=989595097
+Pass: FDASADFAASADFAASD
+2020-07-15 09:51:15.621072	deploy	mors	Чекни
+2020-07-15 09:51:43.526915	mors	deploy	ага
+2020-07-15 09:56:22.701586	mors	deploy	все ок
+2020-07-15 09:56:39.679894	deploy	mors	Хорошо
+2020-07-15 09:57:33.953558	deploy	mors	После апдейта он стал так шустро работать!!!
+2020-07-15 09:59:19.269542	mors	deploy	ты проверял? )
+2020-07-15 09:59:27.884746	mors	deploy	запускатьсяимеешь ввиду?
+2020-07-15 09:59:56.810348	deploy	mors	Да, быстро самоудаляется
+2020-07-15 10:00:19.433748	mors	deploy	обсуфикатор разный, при компиляции меняется
+2020-07-15 10:00:37.485941	mors	deploy	сейчас каждую неделю будем делать, когда работать начнем. с понедельника планы
+2020-07-15 16:34:24.272936	mors	deploy	криптани плиз
+2020-07-15 16:34:54.800066	deploy	mors	Ок
+2020-07-15 18:33:53.367002	deploy	mors	Download: https://qaz.im/load/nYFEST/BF9A7R
+Delete: https://qaz.im/index.php?a=delete&q=639017320
+Pass: ADFASDZFASASHYTR
+2020-07-15 18:34:32.053026	mors	deploy	ок
+2020-07-15 19:11:37.272562	mors	deploy	все ок
+2020-07-15 19:11:45.688957	mors	deploy	давай на ночь готовится 2 стаба плиз
+2020-07-15 19:11:53.270818	deploy	mors	Хорошо
+2020-07-15 19:59:19.348291	deploy	mors	Download: https://qaz.im/load/NsRKt3/Rr3kbB
+Delete: https://qaz.im/index.php?a=delete&q=1105143959
+Pass: DFASAFDASAAADF
+2020-07-15 19:59:25.539976	deploy	mors	Чекни
+2020-07-15 20:01:43.537633	mors	deploy	ага
+2020-07-15 20:15:11.842829	deploy	mors	Download: https://qaz.im/load/992e6h/yySeta
+Delete: https://qaz.im/index.php?a=delete&q=1268483969
+Pass: DASASADZAXZCSGGTHKL
+2020-07-15 20:15:20.600465	deploy	mors	Чекни
+2020-07-15 20:17:49.730626	mors	deploy	ага
+2020-07-15 20:23:17.730265	mors	deploy	все ок, спасибо
+
+с понедельника боевой режим
+2020-07-15 20:23:36.450296	mors	deploy	нужны скорей всего будут хэши, если не успею доделать смену свою
+2020-07-15 20:23:40.631875	deploy	mors	Хорошо
+2020-07-15 20:24:34.818027	deploy	mors	Понял. Когда нужны будут скажи, сделаю
+2020-07-15 20:24:53.842276	deploy	mors	> нужны скорей всего будут хэши, если не успею доделать смену свою
+Сегодня могут понадобиться?
+2020-07-15 20:35:17.150844	mors	deploy	нет. только с понедельника. но я думаю реализую смену своими силами
+2020-07-15 20:35:40.535867	deploy	mors	Отлично!
+2020-07-16 09:28:42.084076	mors	deploy	привет, криптани плиз
+2020-07-16 09:29:21.607269	deploy	mors	Привет
+2020-07-16 09:29:27.678632	deploy	mors	Ок
+2020-07-16 09:39:10.905373	deploy	mors	Download: https://qaz.im/load/sTnZs7/neHEdN
+Delete: https://qaz.im/index.php?a=delete&q=400606912
+Pass: FDASAADFASAADFASDF
+2020-07-16 09:39:19.002356	deploy	mors	Чекни
+2020-07-16 09:53:24.738499	mors	deploy	ок
+2020-07-16 10:12:24.294853	mors	deploy	все ок
+2020-07-16 10:23:22.821378	deploy	mors	Хорошо
+2020-07-16 17:08:24.471198	mors	deploy	криптани плиз
+2020-07-16 17:08:45.291962	deploy	mors	Ок
+2020-07-16 18:06:58.717900	deploy	mors	Download: https://qaz.im/load/GGt4er/nZaeGT
+Delete: https://qaz.im/index.php?a=delete&q=1551993804
+Pass: SADAFDASADFASADFAZAD
+2020-07-16 18:07:04.865438	deploy	mors	Чекни
+2020-07-16 18:44:39.264067	mors	deploy	ага
+2020-07-16 19:43:46.425471	mors	deploy	все ок. давай на ночь готвится 2 стаба плиз
+2020-07-16 19:44:24.307314	deploy	mors	Ок
+2020-07-16 20:03:21.998402	deploy	mors	Download: https://qaz.im/load/288N4e/B3itBB
+Delete: https://qaz.im/index.php?a=delete&q=1175303822
+Pass: DFASDAFASADFZAEAFAR
+2020-07-16 20:03:28.080244	deploy	mors	Чекни
+2020-07-16 20:03:36.132048	deploy	mors	2 стаба
+2020-07-16 20:03:58.969057	mors	deploy	ок
+2020-07-16 20:25:42.233364	mors	deploy	все ок. спасибо
+2020-07-16 20:27:42.322428	deploy	mors	Доброй ночи)
+2020-07-17 08:23:26.777033	mors	deploy	привет, криптани плиз
+2020-07-17 08:23:48.734251	deploy	mors	Привет
+2020-07-17 08:23:53.327177	deploy	mors	Ок
+2020-07-17 09:02:19.517739	deploy	mors	Download: https://qaz.im/load/H8TkaR/QKnbhN
+Delete: https://qaz.im/index.php?a=delete&q=1894294330
+Pass: DFASADFASADAFSZASD
+2020-07-17 09:02:27.552019	deploy	mors	Чекни
+2020-07-17 09:03:57.873740	mors	deploy	ага
+2020-07-17 11:20:56.019649	mors	deploy	какое тебе время надо, чтобы сделать на 3 ехе. хэши ?
+2020-07-17 11:21:01.534759	mors	deploy	надо сейчас
+2020-07-17 11:22:18.080825	deploy	mors	Сейчас прогу найду с которой я менял, это так давно было...
+2020-07-17 11:22:46.369111	mors	deploy	оке жду
+2020-07-17 11:27:45.526507	deploy	mors	Download: https://qaz.im/load/HKFr3K/ZydzsQ
+Delete: https://qaz.im/index.php?a=delete&q=229847807
+Pass: FDASADFAASADFASAADF
+2020-07-17 11:32:00.513782	mors	deploy	ага ок
+2020-07-17 11:32:59.408139	mors	deploy	я имелл ввиду все 3 стаба, сорри, ни так выразился )
+2020-07-17 11:33:09.325966	mors	deploy	еще 2 тогда, по разным папкам разнеси плиз
+2020-07-17 11:42:54.197671	deploy	mors	Ok
+2020-07-17 11:45:40.304476	deploy	mors	Download: https://qaz.im/load/564Tf8/DF53NB
+Delete: https://qaz.im/index.php?a=delete&q=1184632034
+Pass: dFSADFAASADAFASADF
+2020-07-17 11:45:56.532513	mors	deploy	ага
+2020-07-17 15:26:07.097992	mors	deploy	криптани плиз
+2020-07-17 15:26:11.709073	mors	deploy	с хэшами
+2020-07-17 15:26:28.285280	deploy	mors	Ок
+2020-07-17 15:41:48.179768	deploy	mors	Download: https://qaz.im/load/ySkkf6/iatd84
+Delete: https://qaz.im/index.php?a=delete&q=597831291
+Pass: FDASADFAASADFAASDF
+2020-07-17 15:41:52.843454	deploy	mors	3 файла
+2020-07-17 15:42:00.723219	deploy	mors	Чекни
+2020-07-17 15:42:13.483653	mors	deploy	ок
+2020-07-17 16:12:47.682340	mors	deploy	все ок
+2020-07-17 16:13:18.948971	mors	deploy	жду хэши. и можно на выходыне готовится 7 стабов плиз
+
+2 из них с хэшами, 5 нет
+2020-07-17 16:15:19.609391	deploy	mors	Ок
+2020-07-17 16:19:57.990350	deploy	mors	Download: https://qaz.im/load/5n9iZ8/RA4rbN
+Delete: https://qaz.im/index.php?a=delete&q=2057343475
+Pass: FDASAFDASZDAFAZGSCZDR
+2020-07-17 16:20:19.602287	mors	deploy	+
+2020-07-17 16:23:30.201875	deploy	mors	Там на C# и куча ошибок, я не знаю этот язык
+2020-07-17 16:23:43.260400	mors	deploy	мне ?
+2020-07-17 16:24:06.370412	deploy	mors	Не тебе)
+2020-07-17 19:33:01.341150	deploy	mors	Download: https://qaz.im/load/AKikai/siKebD
+Delete: https://qaz.im/index.php?a=delete&q=927900657
+Pass: ASADFAASADFASDF
+2020-07-17 19:33:04.389880	deploy	mors	Чекни
+2020-07-17 19:33:50.993405	mors	deploy	ок
+2020-07-17 19:47:39.136999	mors	deploy	все ок, можешь хэши не делать. я дописал, чтобы менялся хэш
+2020-07-17 19:47:55.168790	deploy	mors	Хорошо
+2020-07-17 19:53:36.367776	deploy	mors	Download: https://qaz.im/load/e8ZF9D/ByT3AG
+Delete: https://qaz.im/index.php?a=delete&q=562583344
+Pass: FDASDFZASQEAHHU
+2020-07-17 19:53:52.167490	deploy	mors	Еще 2 стаба
+2020-07-17 20:21:03.067716	mors	deploy	ага
+2020-07-17 20:56:27.999854	deploy	mors	Норм.?
+2020-07-17 20:56:31.787232	mors	deploy	все ок спасибо, приятных выходных
+2020-07-17 20:56:36.807996	mors	deploy	до воскресенья )
+2020-07-17 21:03:09.106866	deploy	mors	Взаимно, до воскресенья))
+2020-07-19 21:07:02.553885	deploy	mors	Привет
+2020-07-19 21:30:39.228939	deploy	mors	Download: https://qaz.im/load/KQTES3/kZ5bsE
+Delete: https://qaz.im/index.php?a=delete&q=1069023517
+Pass: saDFAASADFASAADFASD
+2020-07-19 21:30:45.391484	deploy	mors	2 стаба
+2020-07-19 21:30:53.739858	deploy	mors	Чекни
+2020-07-19 21:44:22.364219	mors	deploy	ага
+2020-07-19 21:46:59.350621	deploy	mors	ага
+2020-07-20 09:26:35.609808	mors	deploy	привет, криптани плиз
+2020-07-20 09:28:09.143776	deploy	mors	Привет
+2020-07-20 09:28:15.396507	deploy	mors	Ок
+2020-07-20 10:19:26.424124	deploy	mors	Download: https://qaz.im/load/8DFh4N/QzSShh
+Delete: https://qaz.im/index.php?a=delete&q=450107683
+Pass: FDASQERWAERQDFAAFDA
+2020-07-20 10:19:36.069950	deploy	mors	Чекни
+2020-07-20 10:22:41.690151	mors	deploy	ага
+2020-07-20 11:45:32.612543	mors	deploy	криптани плиз. новые файлы на ссылках
+2020-07-20 11:46:15.301869	deploy	mors	Ок
+2020-07-20 12:17:58.182140	deploy	mors	Download: https://qaz.im/load/5HEYAt/rnZntS
+Delete: https://qaz.im/index.php?a=delete&q=491411337
+Pass: DFASADFASDASAHZYT
+2020-07-20 12:19:10.698582	mors	deploy	ок
+2020-07-20 16:56:47.739795	mors	deploy	криптани плиз
+2020-07-20 16:57:05.032641	deploy	mors	Ок
+2020-07-20 17:10:01.044235	deploy	mors	Download: https://qaz.im/load/2kKy95/ZhEdTf
+Delete: https://qaz.im/index.php?a=delete&q=528884735
+Pass: DFASADFSDAAYTRBH
+2020-07-20 17:12:34.986023	mors	deploy	ага
+2020-07-20 20:53:07.478489	mors	deploy	давай на ночь готовится, 2 стаба плиз
+2020-07-20 20:53:07.479710	mors	deploy	давай на ночь готовится, 2 стаба плиз
+2020-07-20 20:53:17.954596	deploy	mors	Download: https://qaz.im/load/kfSK9k/RaQBeh
+Delete: https://qaz.im/index.php?a=delete&q=591664409
+Pass: FDASAFDAASADFAASDF
+2020-07-20 20:53:25.628983	deploy	mors	Чекни
+2020-07-20 20:53:31.878141	deploy	mors	2 стаба
+2020-07-20 20:54:54.347030	mors	deploy	ага
+2020-07-20 21:12:27.762220	mors	deploy	все ок
+2020-07-20 21:12:43.912049	deploy	mors	Доброй ночи)
+2020-07-21 08:40:36.236351	mors	deploy	привет, криптани плиз
+2020-07-21 08:40:51.941049	deploy	mors	Привет
+2020-07-21 08:41:01.156427	deploy	mors	Ок
+2020-07-21 08:59:44.460435	deploy	mors	Download: https://qaz.im/load/AEGfHB/Zk7B6f
+Delete: https://qaz.im/index.php?a=delete&q=1214053868
+Pass: DFASADFASFDASAADF
+2020-07-21 09:00:14.477412	deploy	mors	Чекни
+2020-07-21 09:00:23.498790	mors	deploy	ага
+2020-07-21 10:14:34.350736	mors	deploy	все ок
+2020-07-21 10:15:25.226676	deploy	mors	Хорошо
+2020-07-21 12:31:30.799231	mors	deploy	новые файлы на ссылках, криптани плиз
+2020-07-21 12:42:26.908639	deploy	mors	Ок
+2020-07-21 15:21:43.212119	deploy	mors	Download: https://qaz.im/load/dYsb2n/2aGYRT
+Delete: https://qaz.im/index.php?a=delete&q=745337272
+Pass: DSADAFASADFASADAFASF
+2020-07-21 15:24:12.184209	mors	deploy	ага
+2020-07-21 15:28:44.879979	mors	deploy	есть задержка на запуск в этом стабе ?
+2020-07-21 15:29:36.759793	deploy	mors	Да
+2020-07-21 15:29:50.941003	deploy	mors	Мусорные функции
+2020-07-21 15:30:05.508395	mors	deploy	ок
+2020-07-21 18:25:05.118416	mors	deploy	криптани плиз, что деф ругаться начал
+2020-07-21 18:25:26.358613	deploy	mors	Какой детект?
+2020-07-21 18:26:11.371275	mors	deploy	Trojan:Win32/Fuery.C!cl
+2020-07-21 18:26:22.764761	mors	deploy	и отослать просит
+2020-07-21 18:35:00.664512	deploy	mors	Download: https://qaz.im/load/k6z58R/K6N8Na
+Delete: https://qaz.im/index.php?a=delete&q=11157
+Pass: FDASAFDASDFASDZAF
+2020-07-21 18:35:26.027835	mors	deploy	ага
+2020-07-21 21:40:32.001144	mors	deploy	ку
+2020-07-22 05:54:13.658929	mors	deploy	как придешь криптани плиз сразу, безе ехе меня оставил вчера (((((
+2020-07-22 09:06:05.441666	mors	deploy	ку
+2020-07-22 09:06:05.443337	mors	deploy	как придешь криптани плиз сразу, безе ехе меня оставил вчера (((((
+2020-07-22 09:06:25.540450	deploy	mors	Привет
+2020-07-22 09:07:10.537955	mors	deploy	может у меня джабер вылетат, я писал
+2020-07-22 09:07:14.763457	mors	deploy	или ты скидывал
+2020-07-22 09:07:22.939965	mors	deploy	очень надо ехе
+2020-07-22 09:07:27.603592	deploy	mors	Я максимум 12 часов в сети. Все что позже на следующий рабочий день
+2020-07-22 09:08:37.766074	mors	deploy	[23:46:25] <mors> 2 стаба плиз на ночь
+2020-07-22 09:08:41.044165	mors	deploy	вот я писал (
+2020-07-22 09:09:01.025392	mors	deploy	вообще жду
+2020-07-22 09:09:52.784878	deploy	mors	Не получал
+2020-07-22 09:12:35.185973	deploy	mors	Download: https://qaz.im/load/ByT2YS/6K442e
+Delete: https://qaz.im/index.php?a=delete&q=1732671351
+Pass: DFASADFAASADFAASZAXZDAFRJI
+2020-07-22 09:12:41.397388	deploy	mors	Чекни
+2020-07-22 09:12:49.788377	mors	deploy	ага
+2020-07-22 09:39:37.729319	mors	deploy	все ок
+2020-07-22 09:39:57.557435	mors	deploy	впн сервисы не знаешь нормальные?
+2020-07-22 09:40:02.928558	deploy	mors	Хорошо
+2020-07-22 09:41:55.462670	deploy	mors	Не знаю
+2020-07-22 12:20:48.195429	mors	deploy	криптани плиз
+2020-07-22 12:21:24.616486	deploy	mors	Ок
+2020-07-22 12:49:36.422875	deploy	mors	Download: https://qaz.im/load/2HQ4dB/QGR26r
+Delete: https://qaz.im/index.php?a=delete&q=1563703432
+Pass: ADFSADFASFDAAUZGVFT
+2020-07-22 12:49:42.635098	deploy	mors	Чекни
+2020-07-22 14:06:07.274106	mors	deploy	ага
+2020-07-22 15:36:20.657163	mors	deploy	ок
+2020-07-22 18:08:27.165904	mors	deploy	криптани плиз
+
+Trojan:Win32/Woreflint.A!cl
+2020-07-22 18:24:55.591991	deploy	mors	Ок
+2020-07-22 18:48:40.267816	deploy	mors	Download: https://qaz.im/load/a2t6nS/nZT55r
+Delete: https://qaz.im/index.php?a=delete&q=1487376332
+Pass: DASZXASZCXBHHUO
+2020-07-22 18:49:15.851471	mors	deploy	ага
+2020-07-22 19:19:19.850572	mors	deploy	все ок
+2020-07-22 19:19:41.373531	mors	deploy	просьба. вдруг я не успеваю тебе написать или джабер. мне на ночь всегда надо 2 стаба
+
+скидывай плиз
+2020-07-22 19:19:53.406427	deploy	mors	Ок
+2020-07-22 20:00:13.581769	mors	deploy	спалили ехе. криптани плиз
+2020-07-22 20:00:44.449029	deploy	mors	Какой детект?
+2020-07-22 20:01:04.189126	mors	deploy	откатил систему уже, подожди минут 10 точно скажу
+2020-07-22 20:02:14.754714	deploy	mors	Тогда не нужно
+2020-07-22 20:02:45.604613	deploy	mors	Через 10-15 минут скину, 2 стаба  на ночь
+2020-07-22 20:13:05.521529	deploy	mors	Download: https://qaz.im/load/7fBTdA/bN8Zr4
+Delete: https://qaz.im/index.php?a=delete&q=1625532937
+Pass: FDSADFSADAFASAADFS
+2020-07-22 20:13:11.750674	deploy	mors	2 стаба
+2020-07-22 20:13:20.127054	deploy	mors	Чекни
+2020-07-22 20:14:13.919269	mors	deploy	ага
+2020-07-22 20:44:01.761168	mors	deploy	сделай плиз еще один
+2020-07-22 20:44:06.212645	mors	deploy	те 2 ок
+2020-07-23 13:18:52.970883	mors	deploy	привет, криптани плиз
+2020-07-23 13:19:26.012279	deploy	mors	Привет
+2020-07-23 13:19:33.002309	deploy	mors	Ок
+2020-07-23 13:20:11.656910	deploy	mors	Download: https://qaz.im/load/AE9Ea2/SRR4bF
+Delete: https://qaz.im/index.php?a=delete&q=978768131
+Pass: FDASADFAZXADFASZSAE
+2020-07-23 13:22:08.400926	mors	deploy	ага
+2020-07-23 17:38:38.006091	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-07-23 17:38:58.395018	deploy	mors	Ок
+2020-07-23 18:07:49.190232	deploy	mors	Download: https://qaz.im/load/Bnh54y/nr6kzn
+Delete: https://qaz.im/index.php?a=delete&q=1945095448
+Pass: FDASDAFASZDAASZARFGTU
+2020-07-23 18:07:57.441552	deploy	mors	Чекни
+2020-07-23 18:10:28.100022	mors	deploy	ага
+2020-07-23 20:08:01.605156	deploy	mors	Download: https://qaz.im/load/ndAsZ6/arN5rd
+Delete: https://qaz.im/index.php?a=delete&q=42459930
+Pass: dfSADAFASADFASADFASSZCADDE
+2020-07-23 20:08:09.748972	deploy	mors	2 стаба
+2020-07-23 20:08:16.141211	deploy	mors	Чекни
+2020-07-23 20:22:18.708063	mors	deploy	ага принял
+2020-07-23 20:58:44.731161	deploy	mors	Норм.?
+2020-07-23 21:00:45.038007	mors	deploy	ага все ок
+2020-07-23 21:16:11.370528	deploy	mors	ага все ок
+2020-07-24 09:34:49.842331	mors	deploy	привет
+2020-07-24 09:34:52.594378	mors	deploy	криптани плиз
+2020-07-24 09:35:04.586878	deploy	mors	Привет
+2020-07-24 09:35:10.801558	deploy	mors	Ок
+2020-07-24 10:14:15.896768	deploy	mors	Download: https://qaz.im/load/dYyBfZ/kF8yRd
+Delete: https://qaz.im/index.php?a=delete&q=1183846446
+Pass: fdASADFAXDZFASAFDASAAD
+2020-07-24 10:14:22.137392	deploy	mors	Чекни
+2020-07-24 10:17:30.050295	mors	deploy	ага
+2020-07-24 10:49:56.160936	mors	deploy	1,2,3 файл - Trojan:Win32/Bomitag.D!ml
+2020-07-24 10:50:20.932185	deploy	mors	После запуска?
+2020-07-24 10:50:26.725421	mors	deploy	ага
+2020-07-24 10:50:42.486156	deploy	mors	Посмотрю
+2020-07-24 10:59:40.379904	deploy	mors	Запустил не палит
+2020-07-24 10:59:52.183467	deploy	mors	Точно на эти файлы?
+2020-07-24 11:04:58.381990	mors	deploy	ща проверю
+2020-07-24 11:05:24.232458	mors	deploy	744 проверял ( сорри запустался ща 745 проверю
+2020-07-24 14:13:41.890587	mors	deploy	криптани плиз
+2020-07-24 14:17:48.317806	deploy	mors	Ок
+2020-07-24 14:44:07.840930	deploy	mors	Download: https://qaz.im/load/6aSFFy/ZBbGid
+Delete: https://qaz.im/index.php?a=delete&q=853239029
+Pass: AFDASAFADASDFAZSAE
+2020-07-24 14:44:19.255839	deploy	mors	Чекни
+2020-07-24 17:24:23.298999	mors	deploy	ага
+2020-07-24 17:24:27.182873	mors	deploy	отходил
+2020-07-24 17:25:56.222617	deploy	mors	Файлы не будут обновляться? Что бы я уже начинал готовить на выходные
+2020-07-24 17:26:22.892536	mors	deploy	да да, можно уже
+2020-07-24 17:26:28.187321	mors	deploy	7 стабов плиз
+2020-07-24 17:26:43.457590	deploy	mors	Хорошо
+2020-07-24 18:43:58.748785	deploy	mors	Download: https://qaz.im/load/SYisEr/HzihaK
+Delete: https://qaz.im/index.php?a=delete&q=526745990
+Pass: FDSADFAXAFDADFAEQDAAS
+2020-07-24 18:44:04.875905	deploy	mors	7 стабов
+2020-07-24 18:44:11.864658	deploy	mors	Чекни
+2020-07-24 20:02:17.538020	deploy	mors	Download: https://qaz.im/load/SYisEr/HzihaK
+Delete: https://qaz.im/index.php?a=delete&q=526745990
+Pass: FDSADFAXAFDADFAEQDAAS
+2020-07-24 20:02:17.540493	deploy	mors	7 стабов
+2020-07-24 20:02:17.541547	deploy	mors	Чекни
+2020-07-24 20:24:33.868863	mors	deploy	все ок спасибо, приятных выходных
+
+до воскресенья
+2020-07-24 20:26:33.279874	deploy	mors	Взаимно, до воскресенья)
+2020-07-26 21:49:06.418524	deploy	mors	Привет
+2020-07-26 21:49:12.666496	deploy	mors	Download: https://qaz.im/load/ztiQaD/RKyhGi
+Delete: https://qaz.im/index.php?a=delete&q=1617052810
+Pass: DFSADFAXZFDASDAFASAADF
+2020-07-26 21:50:51.792888	deploy	mors	2 стаба
+2020-07-26 21:58:46.892520	mors	deploy	привет
+2020-07-26 21:58:48.968630	mors	deploy	ага
+2020-07-26 22:07:18.129784	deploy	mors	привет
+2020-07-26 22:07:18.133465	deploy	mors	ага
+2020-07-27 07:53:51.660025	mors	deploy	привет
+2020-07-27 07:53:54.285384	mors	deploy	криптани плиз
+2020-07-27 07:54:17.588682	deploy	mors	Привет
+2020-07-27 07:54:23.942225	deploy	mors	Ок
+2020-07-27 08:18:14.655238	deploy	mors	Download: https://qaz.im/load/TnFZ74/aDQ7f8
+Delete: https://qaz.im/index.php?a=delete&q=91457254
+Pass: FDSADFXAASAFDASDf
+2020-07-27 08:18:22.911933	mors	deploy	ага
+2020-07-27 08:18:23.084710	deploy	mors	Чекни
+2020-07-27 09:38:57.848349	mors	deploy	всеп ок
+2020-07-27 09:43:54.536839	deploy	mors	Хорошо
+2020-07-27 13:18:51.203485	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-07-27 13:21:23.200648	deploy	mors	Ок
+2020-07-27 14:13:22.597461	deploy	mors	Download: https://qaz.im/load/8DeYsa/tZktF5
+Delete: https://qaz.im/index.php?a=delete&q=1100627190
+Pass: dfSADFAXAFDSASADFAASADFA
+2020-07-27 14:13:30.763083	deploy	mors	Чекни
+2020-07-27 14:13:34.584523	mors	deploy	ага
+2020-07-27 14:22:00.175670	mors	deploy	757 файл ?
+2020-07-27 14:22:05.940851	mors	deploy	Behavior:Win32/Execution.CQ!ml
+
+все 3 ((
+2020-07-27 14:24:19.344587	mors	deploy	1 грязный
+хотя 2 чист
+2020-07-27 14:25:48.598697	mors	deploy	только 1 файл грязный, сорри
+2020-07-27 14:30:09.371440	deploy	mors	Ок, поправлю
+2020-07-27 14:34:59.933332	deploy	mors	Download: https://qaz.im/load/s54fDA/6Sitzn
+Delete: https://qaz.im/index.php?a=delete&q=1851019875
+Pass: FDSADFAASDAFASADFAASFD
+2020-07-27 14:35:09.283651	deploy	mors	Чекни
+2020-07-27 14:35:17.296075	mors	deploy	ага
+2020-07-27 14:39:40.313874	mors	deploy	Behavior:Win32/DefenseEvasion.WI!ml
+
+теперь (
+2020-07-27 14:44:38.138458	deploy	mors	Нужно чистить файл
+2020-07-27 14:45:14.047764	mors	deploy	с ориентируй по времени
+2020-07-27 14:46:10.796226	deploy	mors	Я имею ввиду, что мало будет толку от крипта. Нужно чистить эмотет
+2020-07-27 14:46:36.085257	deploy	mors	Он палит уже его по поведению
+2020-07-27 14:48:03.675373	mors	deploy	такс ну давай попробуем, еще один стаб от тебя
+
+я в течении пару часиков выдам новый
+2020-07-27 14:49:31.783108	deploy	mors	Хорошо. Да же если с следующим не спалит, это уже повод что то менять ибо его деф. будет сносить в два счета
+2020-07-27 14:49:49.484412	mors	deploy	да да. как раз сегодня хотели пересобрать
+2020-07-27 14:53:26.685194	deploy	mors	Download: https://qaz.im/load/iTTzka/ezdykD
+Delete: https://qaz.im/index.php?a=delete&q=45217024
+Pass: fdSAFDASADFAASADFAASDF
+2020-07-27 14:54:03.807479	mors	deploy	ага
+2020-07-27 15:06:02.896370	mors	deploy	все ок
+2020-07-27 15:07:34.142287	deploy	mors	Хорошо
+2020-07-27 15:56:58.184725	mors	deploy	залил новые файлы на ссылки. криптани плиз
+
+почистил
+2020-07-27 15:57:24.272593	deploy	mors	Ок
+2020-07-27 17:13:34.137726	mors	deploy	новый стаб делаешь?
+2020-07-27 17:16:21.292048	deploy	mors	Download: https://qaz.im/load/eDTEyf/B7rkne
+Delete: https://qaz.im/index.php?a=delete&q=677649972
+Pass: FDSADFASDFASAADFSAD
+2020-07-27 17:16:28.000815	deploy	mors	Чекни
+2020-07-27 17:16:31.187368	mors	deploy	ага
+2020-07-27 17:42:21.283369	mors	deploy	все ок
+2020-07-27 17:43:43.064830	deploy	mors	Хорошо
+2020-07-27 19:20:36.626325	mors	deploy	> спроси у него, какую сигнатуру он нам даст, чтобы мы её заменяли на случайные байты
+2020-07-27 19:20:46.263903	mors	deploy	замена хэша иногда файлы бьет
+2020-07-27 19:20:53.327320	mors	deploy	мы можем сейчас это сделать?
+2020-07-27 19:21:20.470935	deploy	mors	Я могу добавить рандомную строку
+2020-07-27 19:21:46.720909	deploy	mors	Ее можно будет менять, она не повлияет на работу
+2020-07-27 19:25:27.387307	mors	deploy	сделай плиз, можешь сейчас?
+2020-07-27 19:25:47.637052	deploy	mors	Да
+2020-07-27 19:27:10.559853	mors	deploy	ага ждем, и напиши как ее менять
+2020-07-27 19:29:40.169845	deploy	mors	Раньше как меняли хеш?
+2020-07-27 19:31:09.471619	mors	deploy	в свободное место секций дописывали
+2020-07-27 19:33:38.934015	deploy	mors	Я могу дать рандомную строку или ее сигнатуру и за тем можно будет в этом месте перезаписывать что угодно
+2020-07-27 19:34:44.659153	mors	deploy	давай
+2020-07-27 19:39:24.402792	deploy	mors	Download: https://qaz.im/load/NdG8KA/kFHssS
+Delete: https://qaz.im/index.php?a=delete&q=1947739248
+Pass: FFDSADFAASFDSADFASAD
+2020-07-27 19:39:42.335144	deploy	mors	8TyTd5x7a2Eozs1GY8RoR07Yasf6WRruyreVPrECgcHRhDdqh7wQ17TvT3so1Xzm
+2020-07-27 19:40:21.317498	deploy	mors	Вот эту строку в коде можно менять
+2020-07-27 19:40:43.366913	deploy	mors	38 54 79 54 64 35 78 37 61 32 45 6F 7A 73 31 47 59 38 52 6F 52 30 37 59 61 73 66 36 57 52 72 75 79 72 65 56 50 72 45 43 67 63 48 52 68 44 64 71 68 37 77 51 31 37 54 76 54 33 73 6F 31 58 7A 6D
+2020-07-27 19:40:58.308668	mors	deploy	ага, ща попробую
+2020-07-27 19:41:04.986650	deploy	mors	В шестизначном виде
+2020-07-27 19:50:27.379014	mors	deploy	> контрольную сумму файла надо пересчитывать после изменения или можно забить?
+2020-07-27 19:52:28.409413	deploy	mors	Можно забить
+2020-07-27 20:05:12.032549	mors	deploy	до 00 ? не много ехе правим, дождись плиз
+2020-07-27 20:15:09.878068	deploy	mors	Будут новые файлы? Или там с хешами работаете?
+2020-07-27 20:15:38.666995	mors	deploy	ломает пока файл. разбираемся
+2020-07-27 20:16:18.605877	deploy	mors	Может я сегодня сделаю хеши как раньше?
+2020-07-27 20:16:51.130665	mors	deploy	нет, это для апдейта ботнета, мы на каждого бота делаем уникальный файл
+2020-07-27 20:17:23.694203	deploy	mors	Ок
+2020-07-27 20:33:12.737422	mors	deploy	кажется нашли. ща быстро пересоберу
+2020-07-27 20:33:47.289675	deploy	mors	Ок
+2020-07-27 20:43:32.764701	mors	deploy	новые файлы на ссылках, сначло плиз один стаб
+2020-07-27 20:43:40.575521	mors	deploy	чтобы проверить потом второй
+2020-07-27 20:44:03.366137	deploy	mors	Строку добавлять?
+2020-07-27 20:44:03.367457	deploy	mors	Строку добавлять?
+2020-07-27 20:44:11.945386	mors	deploy	да
+2020-07-27 20:44:24.019994	deploy	mors	Ок
+2020-07-27 21:00:15.560596	deploy	mors	Download: https://qaz.im/load/bnK2nE/EsYH38
+Delete: https://qaz.im/index.php?a=delete&q=810057073
+Pass: DSADFZSAFDASQEAFASAS
+2020-07-27 21:00:29.460574	deploy	mors	Чекни
+2020-07-27 21:01:02.059471	mors	deploy	ага
+2020-07-27 21:11:12.439503	mors	deploy	5 мин плиз
+2020-07-27 21:11:15.772209	mors	deploy	вмваре глючит
+2020-07-27 21:11:42.583390	deploy	mors	Жду...
+2020-07-27 21:14:30.676127	mors	deploy	все ок
+2020-07-27 21:14:53.085765	deploy	mors	Хорошо
+2020-07-27 21:14:59.637595	deploy	mors	Делаю второй
+2020-07-27 21:28:01.444519	deploy	mors	Download: https://qaz.im/load/23aTdn/zEDedZ
+Delete: https://qaz.im/index.php?a=delete&q=2041862278
+Pass: SADFAASFDAAEQRAAJYYT
+2020-07-27 21:28:07.766481	deploy	mors	Чекни
+2020-07-27 21:28:10.240936	mors	deploy	ага
+2020-07-27 21:37:14.379658	mors	deploy	все ок. спасибо
+2020-07-27 21:42:57.780015	deploy	mors	Доброй ночи)
+2020-07-28 08:48:13.698272	mors	deploy	ghbdtn
+2020-07-28 08:48:16.731554	mors	deploy	привет
+2020-07-28 08:48:22.629006	mors	deploy	криптани плиз
+2020-07-31 05:51:26.613698	mors	deploy	как будешь криптани сразу плиз
+2020-07-31 08:57:19.732064	mors	deploy	как будешь криптани сразу плиз
+2020-07-31 16:51:08.201256	deploy	mors	Скоро скину файлы
+2020-07-31 16:56:58.849119	deploy	mors	Download: https://qaz.im/load/SG5Dn2/BfKSA7
+Delete: https://qaz.im/index.php?a=delete&q=1557859159
+Pass: DFSADFAASADFZXAFDSAFDAASAFD
+2020-07-31 16:57:07.148615	deploy	mors	Чекни
+2020-07-31 16:57:14.199719	deploy	mors	8 стабов
+2020-07-31 17:06:42.629065	deploy	mors	Download: https://qaz.im/load/R68Hy5/ZAkBaR
+Delete: https://qaz.im/index.php?a=delete&q=1884280228
+Pass: FDSADFASFDAASADFAASDF
+2020-07-31 17:06:50.997429	deploy	mors	Еще стаб
+2020-07-31 17:06:57.392381	deploy	mors	Принял?
+2020-07-31 17:08:03.473558	mors	deploy	[19:57:19] <mors> ага спасибо, ох буду чекать 
+[19:57:37] <mors> ответ дам ближе к 22.00, на месте будешь?
+2020-07-31 21:05:58.300387	mors	deploy	798 - полность палит стаб
+2020-08-02 21:00:51.943126	mors	deploy	798 - полность палит стаб
+2020-08-04 09:43:35.848031	mors	deploy	[12:17:28] <mors> привет 
+[12:17:31] <mors> криптани плиз
+2020-08-04 09:46:21.507357	deploy	mors	Привет
+2020-08-04 09:46:28.122244	deploy	mors	Ок
+2020-08-04 10:40:40.431991	deploy	mors	Download: https://qaz.im/load/8T8e7R/Yn87AQ
+Delete: https://qaz.im/index.php?a=delete&q=1040318140
+Pass: FDASADFASFDZSAFDASFDA
+2020-08-04 10:40:46.880744	deploy	mors	Чекни
+2020-08-04 13:03:53.674375	mors	deploy	ок
+2020-08-04 13:34:49.186437	mors	deploy	да конечно 10 реагирует всегда по разному, 2 раза запустишь и может 2 разных результата )
+2020-08-04 13:34:51.352769	mors	deploy	все ок
+2020-08-04 13:35:19.010169	deploy	mors	Бывает, там от имени еще зависит
+2020-08-04 16:38:10.320925	mors	deploy	криптани плиз
+2020-08-04 16:40:18.297146	deploy	mors	Ок
+2020-08-04 16:48:11.574636	deploy	mors	Download: https://qaz.im/load/fQinrS/rTAdFe
+Delete: https://qaz.im/index.php?a=delete&q=1322354799
+Pass: DASFDAQERTQRTADAAFACZAD
+2020-08-04 16:48:17.728871	mors	deploy	ок
+2020-08-04 16:48:18.062326	deploy	mors	Чекни
+2020-08-04 20:04:55.608906	mors	deploy	2 стаба плиз на ночь
+2020-08-04 20:17:27.012034	deploy	mors	Ок
+2020-08-04 20:37:09.240878	deploy	mors	Download: https://qaz.im/load/Bazfs5/DFSdBf
+Delete: https://qaz.im/index.php?a=delete&q=436020845
+Pass: ADFSADFASFDAWADAS
+2020-08-04 20:37:17.420901	deploy	mors	Чекни
+2020-08-04 20:38:47.487574	mors	deploy	ага
+2020-08-04 20:42:20.963151	deploy	mors	Download: https://qaz.im/load/rb3eTF/tQ2Nhe
+Delete: https://qaz.im/index.php?a=delete&q=1131898904
+Pass: FASZDFAWQERSADFASDFA
+2020-08-04 20:42:27.346070	deploy	mors	Чекни
+2020-08-04 20:43:37.315091	mors	deploy	813 все файлы. Behavior:Win32/Execution.CQ!ml
+2020-08-04 20:43:49.586375	mors	deploy	чекаю
+2020-08-04 20:45:20.081862	mors	deploy	хотя давай откачу систему, еще раз попробую
+2020-08-04 20:53:12.324187	deploy	mors	ок
+2020-08-04 20:53:20.744788	mors	deploy	проверяю еще
+2020-08-04 20:53:37.994220	deploy	mors	Жду...
+2020-08-04 21:06:12.201410	mors	deploy	все ок, спасибо
+2020-08-04 21:06:52.740864	deploy	mors	Хорошо
+2020-08-04 21:07:00.074114	deploy	mors	Доброй ночи)
+2020-08-05 09:48:24.689599	mors	deploy	привет, криптани плиз
+2020-08-05 09:49:04.295556	deploy	mors	Привет
+2020-08-05 09:49:10.728683	deploy	mors	Ок
+2020-08-05 10:21:20.997059	deploy	mors	Download: https://qaz.im/load/Nzz9rh/bY8SRd
+Delete: https://qaz.im/index.php?a=delete&q=992730000
+Pass: DFSADAFASDFQWADSAFD
+2020-08-05 10:21:27.445881	deploy	mors	Чекни
+2020-08-05 12:41:14.854745	mors	deploy	ок
+2020-08-05 19:34:49.744255	mors	deploy	криптани плиз, новые файлы на ссылках
+
+2 стаба на ночь
+2020-08-05 19:35:11.215619	deploy	mors	Ок
+2020-08-05 19:45:43.044403	deploy	mors	Download: https://qaz.im/load/RtNHf3/nGEyzi
+Delete: https://qaz.im/index.php?a=delete&q=705527106
+Pass: FDASXFDASAFDQWADDQQS
+2020-08-05 19:45:49.587608	deploy	mors	Чекни
+2020-08-05 19:57:34.513380	deploy	mors	Download: https://qaz.im/load/EnZZy7/Zz4byQ
+Delete: https://qaz.im/index.php?a=delete&q=1292311029
+Pass:FDSAFDAASFDSAADFASADF
+2020-08-05 19:57:58.077503	deploy	mors	Чекни
+2020-08-05 20:01:16.128668	mors	deploy	Download: https://qaz.im/load/EnZZy7/Zz4byQ
+Delete: https://qaz.im/index.php?a=delete&q=1292311029
+Pass:FDSAFDAASFDSAADFASADF
+2020-08-05 20:01:16.132931	mors	deploy	Чекни
+2020-08-05 20:04:49.435529	mors	deploy	ага ща
+2020-08-05 20:26:39.617446	deploy	mors	Download: https://qaz.im/load/EnZZy7/Zz4byQ
+Delete: https://qaz.im/index.php?a=delete&q=1292311029
+Pass:FDSAFDAASFDSAADFASADF
+2020-08-05 20:31:34.959400	mors	deploy	ага
+2020-08-05 20:59:33.057158	mors	deploy	все ок, спасибо
+
+хотел спросить по утренним стабам тебя, как быть, эта неделя в тестахз была
+2020-08-05 21:01:59.391776	deploy	mors	Давай на вечер буду скидывать 3 стаба
+2020-08-05 21:02:16.601525	mors	deploy	ок, скажу тогда когда начнем
+2020-08-05 21:02:25.815939	deploy	mors	Хорошо
+2020-08-05 21:02:36.056045	deploy	mors	Доброй ночи)
+2020-08-06 10:15:13.062795	mors	deploy	привет, криптани плиз. новые айлы на ссылках
+2020-08-06 10:16:18.167909	deploy	mors	Привет
+2020-08-06 10:16:24.354608	deploy	mors	Ок
+2020-08-06 12:55:14.517801	deploy	mors	Download: https://qaz.im/load/dnQzn8/ENZFb4
+Delete: https://qaz.im/index.php?a=delete&q=104199534
+Pass: DFSAADFASZFDSADWAS
+2020-08-06 12:55:22.844822	deploy	mors	Чекни
+2020-08-06 12:58:13.415391	mors	deploy	ага
+2020-08-06 13:07:51.466836	mors	deploy	Behavior:Win32/Execution.CQ!ml
+
+все файлы, 3 раза откатывал системиму
+2020-08-06 13:08:17.698111	deploy	mors	Буду смотреть
+2020-08-06 13:09:40.306997	mors	deploy	ага. а то со вчерашнего дня без апдейта ((
+2020-08-06 13:10:06.369060	deploy	mors	Лоадер стал сильно палиться
+2020-08-06 13:12:02.612470	deploy	mors	Походу на закрепления в системе ругается
+2020-08-06 13:12:05.503175	mors	deploy	мы его пересобрали полностью сегодня
+2020-08-06 13:12:28.984588	mors	deploy	раз в неделю стараемся
+2020-08-06 13:12:35.866304	mors	deploy	должно помочь было
+2020-08-06 13:45:55.351570	deploy	mors	Жестко палит деф
+2020-08-06 13:46:14.655611	deploy	mors	Нужно чистить лоадер
+2020-08-06 13:47:44.410951	mors	deploy	чистый он палит?
+2020-08-06 13:48:06.311649	deploy	mors	Палит на поведение
+2020-08-06 13:48:38.542075	deploy	mors	Даже если его и удастся закриптовать это будет временное решение
+2020-08-06 13:48:50.681714	mors	deploy	сегодня хотябы временное
+2020-08-06 13:49:09.470633	mors	deploy	странно конечно бы его пересобирали. меняли логику, попробуем еще раз пересобрать
+2020-08-06 13:58:25.355927	mors	deploy	странно, а предыдущий стаб вообще не палит
+2020-08-06 13:58:40.034602	mors	deploy	я его протестировал 10 раз, и ни разу по поведению
+2020-08-06 13:59:02.809393	deploy	mors	Так там вчерашние файлы были
+2020-08-06 13:59:14.766650	mors	deploy	тоже верно
+2020-08-06 14:23:08.983672	deploy	mors	Download: https://qaz.im/load/5QdT6Z/it77Nb
+Delete: https://qaz.im/index.php?a=delete&q=950277135
+Pass: DFSADAADFASADFASD
+2020-08-06 14:23:19.429544	deploy	mors	Чекни
+2020-08-06 14:33:05.088475	mors	deploy	Download: https://qaz.im/load/5QdT6Z/it77Nb
+Delete: https://qaz.im/index.php?a=delete&q=950277135
+Pass: DFSADAADFASADFASD
+2020-08-06 14:33:05.092437	mors	deploy	Чекни
+2020-08-06 14:36:36.715415	deploy	mors	Download: https://qaz.im/load/5QdT6Z/it77Nb
+Delete: https://qaz.im/index.php?a=delete&q=950277135
+Pass: DFSADAADFASADFASD
+2020-08-06 14:36:42.523745	mors	deploy	ага
+2020-08-06 14:47:17.950068	mors	deploy	тоже самое (
+2020-08-06 14:48:56.202469	deploy	mors	Нужно чистить это уже полный треш
+2020-08-06 14:49:46.268612	mors	deploy	ок
+2020-08-06 15:42:22.703819	mors	deploy	дело не в лоадере в модулях. правим, последний стаб - ОК
+2020-08-06 15:42:26.568569	mors	deploy	819
+2020-08-06 15:42:49.708245	deploy	mors	Понял
+2020-08-06 16:29:34.757321	mors	deploy	2 файл не работает, что-то достучаться не может до сервера, предыдущий работает
+2020-08-06 16:29:38.470608	mors	deploy	поправт плиз
+2020-08-06 16:29:44.864700	mors	deploy	другие файлы - ОК
+2020-08-06 16:30:15.712807	mors	deploy	хотя дай основной проверю, 5 мин
+2020-08-06 16:34:15.170429	mors	deploy	ты не причем
+2020-08-06 16:34:42.872611	deploy	mors	Ок
+2020-08-06 19:50:40.603237	mors	deploy	3 стаба плиз
+
+1 и 3 файл
+2020-08-06 19:51:20.059241	mors	deploy	хотя сек
+2020-08-06 19:51:30.019656	mors	deploy	я сейчас старым стабом его закину
+2020-08-06 19:52:04.787766	deploy	mors	Ок, жду...
+2020-08-06 19:52:47.116991	mors	deploy	новыей файлы на ссылках
+2020-08-06 19:53:14.324667	deploy	mors	Ок
+2020-08-06 20:15:49.866232	deploy	mors	Download: https://qaz.im/load/6ik7sh/t2nZAt
+Delete: https://qaz.im/index.php?a=delete&q=1358183167
+Pass: FDASADFASADFASADFA
+2020-08-06 20:15:58.414235	deploy	mors	Чекни
+2020-08-06 20:18:56.133929	deploy	mors	Download: https://qaz.im/load/tN4ERr/7an23B
+Delete: https://qaz.im/index.php?a=delete&q=1598162800
+Pass: FDSAFDAASADFASAAFD
+2020-08-06 20:19:03.680197	deploy	mors	Чекни
+2020-08-06 20:20:31.501309	mors	deploy	ок
+2020-08-06 20:36:28.239902	mors	deploy	все ок
+2020-08-06 20:36:46.349394	deploy	mors	Хорошо
+2020-08-06 20:36:56.543961	deploy	mors	Делаю 3-тий
+2020-08-06 20:51:26.972292	deploy	mors	Download: https://qaz.im/load/ze376t/T36heT
+Delete: https://qaz.im/index.php?a=delete&q=601838094
+Pass: DASADFASAAFDASAFD
+2020-08-06 20:51:33.457982	deploy	mors	Чекни
+2020-08-06 22:15:27.071001	mors	deploy	тут?
+2020-08-06 22:26:04.387302	deploy	mors	тут?
+2020-08-07 09:40:22.113362	mors	deploy	привет
+2020-08-07 09:40:25.582750	mors	deploy	криптани плиз
+2020-08-07 09:40:40.525383	deploy	mors	Ок
+2020-08-07 10:25:27.933498	deploy	mors	Download: https://qaz.im/load/4iAdYr/8i5EnG
+Delete: https://qaz.im/index.php?a=delete&q=848076231
+Pass: FDASADFASQWASQWAS
+2020-08-07 10:25:36.435157	deploy	mors	Чекни
+2020-08-07 10:30:01.371875	mors	deploy	ага
+2020-08-07 10:42:13.336227	mors	deploy	все ок
+2020-08-07 10:42:31.782720	deploy	mors	Хорошо
+2020-08-07 13:01:24.715302	mors	deploy	криптани плиз
+2020-08-07 13:02:00.998528	deploy	mors	Ок
+2020-08-07 13:17:44.280873	deploy	mors	Download: https://qaz.im/load/Z6bye8/3Ni98r
+Delete: https://qaz.im/index.php?a=delete&q=417988729
+Pass: FDSAFADASADFASADFASDF
+2020-08-07 13:17:52.861765	deploy	mors	Чекни
+2020-08-07 13:22:43.627983	mors	deploy	ага
+2020-08-07 13:46:05.831665	mors	deploy	1-2 ОК
+2020-08-07 13:46:12.809562	mors	deploy	3 -executoin
+2020-08-07 13:46:37.435008	deploy	mors	Ок
+2020-08-07 14:14:17.970172	deploy	mors	Download: https://qaz.im/load/QR2dZZ/HzGnkF
+Delete: https://qaz.im/index.php?a=delete&q=1923761863
+Pass: DFADFASADFASADQWASADA
+2020-08-07 14:14:24.428027	deploy	mors	Чекни
+2020-08-07 14:26:05.353005	mors	deploy	Download: https://qaz.im/load/QR2dZZ/HzGnkF
+Delete: https://qaz.im/index.php?a=delete&q=1923761863
+Pass: DFADFASADFASADQWASADA
+2020-08-07 14:26:05.354335	mors	deploy	Чекни
+2020-08-07 16:52:44.093821	mors	deploy	3 файл скинь плиз
+2020-08-07 16:52:59.351292	deploy	mors	Download: https://qaz.im/load/QR2dZZ/HzGnkF
+Delete: https://qaz.im/index.php?a=delete&q=1923761863
+Pass: DFADFASADFASADQWASADA
+2020-08-07 16:53:21.580041	mors	deploy	ага, и криптани плиз все по новой
+2020-08-07 16:56:51.808554	deploy	mors	Ок
+2020-08-07 16:59:33.130868	deploy	mors	Download: https://qaz.im/load/Ndzz5e/r3hSeK
+Delete: https://qaz.im/index.php?a=delete&q=366907622
+Pass: ADSADFASADAFASADF
+2020-08-07 17:01:14.421117	mors	deploy	чекаю
+2020-08-07 17:34:40.668239	mors	deploy	все ок. давай на ночь готовится и выходные 7 стаббов плиз
+2020-08-07 17:35:03.430848	deploy	mors	Ок
+2020-08-07 19:43:03.540323	deploy	mors	Download: https://qaz.im/load/478QBR/t82eNH
+Delete: https://qaz.im/index.php?a=delete&q=1377058920
+Pass: DFSAADFAASADFASAADFASDF
+2020-08-07 19:43:10.035664	deploy	mors	Чекни
+2020-08-07 19:44:01.277112	mors	deploy	ага
+2020-08-07 20:48:41.193137	mors	deploy	все ок. спасибо
+
+приятных выходных )
+
+до воскресенья
+2020-08-07 21:02:20.659174	deploy	mors	все ок. спасибо
+
+приятных выходных )
+
+до воскресенья
+2020-08-09 18:35:48.432055	deploy	mors	Download: https://qaz.im/load/2DbQhz/ZK6BrR
+Delete: https://qaz.im/index.php?a=delete&q=332220100
+Pass: DFASADFASADAFASAADFS
+2020-08-09 18:35:56.618066	deploy	mors	Чекни
+2020-08-09 21:41:31.501200	deploy	mors	Download: https://qaz.im/load/2DbQhz/ZK6BrR
+Delete: https://qaz.im/index.php?a=delete&q=332220100
+Pass: DFASADFASADAFASAADFS
+2020-08-09 21:41:31.510566	deploy	mors	Чекни
+2020-08-10 14:29:15.834373	mors	deploy	криптани плиз
+2020-08-10 14:29:27.006787	deploy	mors	Ок
+2020-08-12 09:58:54.911619	mors	deploy	привет
+2020-08-12 09:58:58.953754	mors	deploy	криптани плиз
+2020-08-12 09:59:03.549981	mors	deploy	новые файлы на ссылках
+2020-08-12 09:59:33.454918	deploy	mors	Привет
+2020-08-12 09:59:42.090834	deploy	mors	Ок
+2020-08-12 10:00:22.069451	mors	deploy	если есть возможность сразу плиз
+2020-08-12 10:01:45.656015	deploy	mors	Ок
+2020-08-12 10:15:06.891404	deploy	mors	Download: https://qaz.im/load/iAZ9Si/8F9ds8
+Delete: https://qaz.im/index.php?a=delete&q=464941739
+Pass: AGFDSAFDAASAAFDASDF
+2020-08-12 10:15:13.163485	mors	deploy	ага
+2020-08-12 10:15:13.508467	deploy	mors	Чекни
+2020-08-12 10:19:06.264084	mors	deploy	все ок
+2020-08-12 10:19:24.070378	deploy	mors	Хорошо
+2020-08-12 13:49:00.316181	mors	deploy	криптани плиз
+2020-08-12 13:49:24.474697	deploy	mors	Ок
+2020-08-12 14:25:26.579449	deploy	mors	Download: https://qaz.im/load/yftsaY/rhNNfb
+Delete: https://qaz.im/index.php?a=delete&q=1627324868
+Pass: gfSDADFASADFAASADF
+2020-08-12 14:25:34.616105	deploy	mors	Чекни
+2020-08-12 14:26:10.891083	mors	deploy	ага
+2020-08-12 15:14:20.539759	mors	deploy	все ок
+2020-08-12 15:14:35.073170	deploy	mors	Хорошо
+2020-08-12 18:48:04.466776	mors	deploy	криптани плиз. новые файлы на ссылках
+2020-08-12 18:48:20.733098	deploy	mors	Ок
+2020-08-12 19:02:58.036868	deploy	mors	Download: https://qaz.im/load/dn43Ni/4fNKe6
+Delete: https://qaz.im/index.php?a=delete&q=1426440451
+Pass: FDSAFDASADAFASAFD
+2020-08-12 19:03:06.563828	deploy	mors	Чекни
+2020-08-12 19:03:11.749122	mors	deploy	ок
+2020-08-12 20:05:57.694486	mors	deploy	все ок, сделай плиз 3 стаба на ночь и на утро
+2020-08-12 20:06:11.597148	deploy	mors	Ок
+2020-08-12 20:35:29.243200	deploy	mors	Download: https://qaz.im/load/HSr3ss/feAeKD
+Delete: https://qaz.im/index.php?a=delete&q=987333614
+Pass: ASFDAASDFZXFDAWASD
+2020-08-12 20:35:37.032181	deploy	mors	Чекни
+2020-08-12 20:36:48.952620	mors	deploy	ок
+2020-08-12 20:43:50.827781	deploy	mors	Download: https://qaz.im/load/YFdRDR/Ardr6z
+Delete: https://qaz.im/index.php?a=delete&q=473163320
+Pass: FDSADFAASERWQARASS
+2020-08-12 20:43:59.442245	deploy	mors	Чекни
+2020-08-12 20:59:33.651862	mors	deploy	все 3 - ОК
+2020-08-12 21:00:01.623166	deploy	mors	Хорошо
+2020-08-12 21:12:20.229655	deploy	mors	Download: https://qaz.im/load/Rr2bD7/dnQ8Ye
+Delete: https://qaz.im/index.php?a=delete&q=1985425900
+Pass: DFSADFAASADFASAADFAS
+2020-08-12 21:12:26.905146	deploy	mors	Чекни
+2020-08-12 21:12:43.634902	mors	deploy	ок
+2020-08-12 21:48:02.263227	deploy	mors	Норм.?
+2020-08-12 21:48:19.331557	mors	deploy	ага все ок
+2020-08-12 21:48:41.154096	deploy	mors	Доброй ночи)
+2020-08-12 21:58:10.146256	mors	deploy	не ушел еще ?
+2020-08-12 21:58:16.123158	mors	deploy	странно как трик палит ((
+2020-08-12 21:58:23.181540	mors	deploy	а мой соатется жить
+2020-08-12 21:58:35.427069	mors	deploy	что такое ?
+2020-08-12 21:59:10.892402	deploy	mors	Не знаю, может на какой-то модуль
+2020-08-12 21:59:47.822583	deploy	mors	Какой детект?
+2020-08-12 21:59:51.803421	mors	deploy	да хз
+
+причем 845-846-847
+2020-08-12 21:59:53.342727	mors	deploy	ща
+2020-08-12 21:59:57.123267	mors	deploy	на запуск
+2020-08-12 22:00:23.132730	mors	deploy	Behavior:Win32/Trickbot.L
+2020-08-12 22:00:24.849522	mors	deploy	вооо
+2020-08-12 22:00:30.613294	mors	deploy	никогда до этого не было
+2020-08-12 22:00:40.897037	mors	deploy	причем мой файл не убивает
+2020-08-12 22:01:01.007161	deploy	mors	На поведение
+2020-08-12 22:01:23.461863	deploy	mors	Попробуй с другим именем запустить
+2020-08-12 22:01:37.075750	mors	deploy	постоянно с другим, сам стаб ?
+2020-08-12 22:02:37.390382	mors	deploy	ща проверю последний стаб
+2020-08-12 22:09:51.118562	mors	deploy	вообщем не могу понять (((
+2020-08-12 22:10:01.787821	mors	deploy	у тебя других стабов нет?
+2020-08-12 22:12:05.335820	deploy	mors	Сейчас нет
+2020-08-12 22:12:20.733411	deploy	mors	Снова дал детект?
+2020-08-12 22:12:41.383907	mors	deploy	да
+2020-08-12 22:12:53.543248	mors	deploy	ну это 100% стаб крипта
+2020-08-12 22:13:51.572349	deploy	mors	У меня не палит, только что проверил
+2020-08-12 22:14:47.169238	mors	deploy	все 3 ? и какой стаб?
+2020-08-12 22:15:25.742956	deploy	mors	Последний посмотрел
+2020-08-12 22:16:06.102361	deploy	mors	Это не факт, может с 10 раз пару раз спалить. Смотря с каким именем он пропишется
+2020-08-12 22:16:31.566214	mors	deploy	ок, буду разбираться
+2020-08-12 22:16:59.412035	deploy	mors	Какой-то процент палит
+2020-08-12 22:17:23.977763	mors	deploy	спс, до завтра, может разберусь до утра
+2020-08-12 22:17:34.484248	mors	deploy	меня смущает детект трикбот
+2020-08-12 22:18:36.407195	deploy	mors	До завтра, завтра еще посмотрю
+2020-08-13 09:13:28.234698	mors	deploy	привет, криптани плиз
+2020-08-13 09:14:24.167039	deploy	mors	Привет
+2020-08-13 09:14:31.886127	deploy	mors	Ок
+2020-08-13 09:26:22.337179	deploy	mors	Download: https://qaz.im/load/QaySBS/Qs4eTK
+Delete: https://qaz.im/index.php?a=delete&q=1533912565
+Pass: FDASFDASAAFDASADAFSDF
+2020-08-13 09:26:30.929151	deploy	mors	Чекни
+2020-08-13 09:26:37.207724	mors	deploy	ага
+2020-08-13 09:48:11.904738	mors	deploy	все ок
+2020-08-13 11:34:54.547163	mors	deploy	криптани плиз
+2020-08-13 11:35:11.187393	deploy	mors	Ок
+2020-08-13 11:46:55.689307	deploy	mors	Download: https://qaz.im/load/9sGfSh/tEns46
+Delete: https://qaz.im/index.php?a=delete&q=607668749
+Pass: SADAFASEQEADASADFASDF
+2020-08-13 11:47:02.928857	mors	deploy	+
+2020-08-13 15:09:52.348757	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-08-13 15:10:05.735648	deploy	mors	Ок
+2020-08-13 16:14:29.403916	mors	deploy	не все еще?
+2020-08-13 16:14:43.786994	deploy	mors	10 мин.
+2020-08-13 16:32:25.516997	deploy	mors	Download: https://qaz.im/load/ZTFFGs/6A93a4
+Delete: https://qaz.im/index.php?a=delete&q=1874169952
+Pass: DFASXDFASQERSAFDASFD
+2020-08-13 16:40:10.195823	mors	deploy	ага
+2020-08-13 19:53:54.477802	mors	deploy	давай на ночь готовится 3 стаба плиз
+2020-08-13 19:54:08.344422	deploy	mors	Ок ю
+2020-08-13 20:32:32.979671	deploy	mors	Download: https://qaz.im/load/fZr4kY/zrt869
+Delete: https://qaz.im/index.php?a=delete&q=746981082
+Pass: DFSADFAWQAFDAFSDASAF
+2020-08-13 20:32:39.546270	deploy	mors	Чекни
+2020-08-13 20:32:51.402555	mors	deploy	ок
+2020-08-13 20:59:43.215956	deploy	mors	Download: https://qaz.im/load/tRi7NF/dEeskA
+Delete: https://qaz.im/index.php?a=delete&q=264775728
+Pass: DFASFDASEQRAFDASAAFSADF
+2020-08-13 20:59:51.824828	deploy	mors	Чекни
+2020-08-13 21:01:24.784434	mors	deploy	ок
+2020-08-13 21:42:52.376304	mors	deploy	не получается 3 стаб ?
+2020-08-13 21:43:09.738362	deploy	mors	15 мин
+2020-08-13 22:04:12.131094	deploy	mors	Download: https://qaz.im/load/dnHyNZ/ss7eYe
+Delete: https://qaz.im/index.php?a=delete&q=1098047247
+Pass: REQWADSQRWARSQERWQAS
+2020-08-13 22:04:18.733068	mors	deploy	ок
+2020-08-13 22:04:18.829285	deploy	mors	Чекни
+2020-08-13 22:04:55.231091	mors	deploy	10 мин ответ дам, не уходи плиз, чувствую раньше обеда не появишься иначе )))
+2020-08-13 22:17:34.946683	mors	deploy	все ок. спасибо
+2020-08-13 22:24:12.261516	deploy	mors	Доброй ночи)
+2020-08-14 08:51:43.578509	mors	deploy	привет
+2020-08-14 08:51:48.522011	mors	deploy	криптани плиз сразу
+2020-08-14 08:51:54.071925	mors	deploy	не дотянул стаб
+2020-08-14 08:51:58.756174	deploy	mors	Привет
+2020-08-14 08:52:05.323495	deploy	mors	Ок
+2020-08-14 09:14:36.557788	deploy	mors	Download: https://qaz.im/load/bde97H/zid5AN
+Delete: https://qaz.im/index.php?a=delete&q=1468358195
+Pass: FDASADFQWEADFASDAFS
+2020-08-14 09:14:43.301432	deploy	mors	Чекни
+2020-08-14 09:15:19.748224	mors	deploy	ага
+2020-08-14 14:03:29.144927	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-08-14 14:03:38.610940	mors	deploy	сразу плиз, если можешь
+2020-08-14 14:03:59.313478	deploy	mors	Делаю
+2020-08-14 14:16:35.118256	deploy	mors	Download: https://qaz.im/load/Ktb3bD/8eNybY
+Delete: https://qaz.im/index.php?a=delete&q=460762815
+Pass: DFSAADFSDFAASADFASDF
+2020-08-14 14:16:45.313283	deploy	mors	Чекни
+2020-08-14 14:16:48.442965	mors	deploy	ага
+2020-08-14 14:28:51.724881	mors	deploy	все ок
+2020-08-14 14:28:59.664218	deploy	mors	Хорошо
+2020-08-14 17:45:33.554451	mors	deploy	криптани плиз
+2020-08-14 17:56:26.991535	mors	deploy	ку
+2020-08-14 17:56:30.176234	mors	deploy	криптани плиз
+2020-08-14 17:58:24.304634	deploy	mors	Ок
+2020-08-14 18:00:56.476556	deploy	mors	Download: https://qaz.im/load/2RhTZE/DE2D5r
+Delete: https://qaz.im/index.php?a=delete&q=2113751397
+Pass: FDSAADFASQERSADFASFD
+2020-08-14 18:02:09.182538	mors	deploy	ага
+2020-08-14 18:20:56.833225	mors	deploy	все ок. давай на выходные гтовится 7 стабов плиз
+2020-08-14 18:21:12.449662	deploy	mors	Хорошо
+2020-08-14 19:25:46.009322	deploy	mors	Download: https://qaz.im/load/EH6TNS/i6E2hz
+Delete: https://qaz.im/index.php?a=delete&q=1825360620
+Pass: DFSADFQWQAFDSAFDASFD
+2020-08-14 19:25:54.724186	deploy	mors	Чекни
+2020-08-14 19:31:03.186408	mors	deploy	ок
+2020-08-14 19:48:58.222126	mors	deploy	все ок
+2020-08-14 19:49:13.536368	deploy	mors	Хорошо
+2020-08-14 19:50:26.129649	deploy	mors	Download: https://qaz.im/load/sF895D/Qsfn8G
+Delete: https://qaz.im/index.php?a=delete&q=1403871025
+Pass: FDSQREWSAFDSQDFSDF
+2020-08-14 19:50:33.554786	deploy	mors	Чекни
+2020-08-14 19:52:11.336199	mors	deploy	ок
+2020-08-14 19:59:54.631868	deploy	mors	Download: https://qaz.im/load/ysT475/R54nd7
+Delete: https://qaz.im/index.php?a=delete&q=1292636222
+Pass: QAXQWQEADASAXAS
+2020-08-14 20:00:00.747006	deploy	mors	Чекни
+2020-08-14 20:01:22.176307	mors	deploy	ок
+2020-08-16 21:43:41.152575	deploy	mors	Привет
+2020-08-16 21:43:47.679980	deploy	mors	Download: https://qaz.im/load/KFhD5A/istzFS
+Delete: https://qaz.im/index.php?a=delete&q=1412992719
+Pass: DFSASDFQWQERASADFAS
+2020-08-16 21:43:54.603980	deploy	mors	Чекни
+2020-08-17 10:40:27.445687	mors	deploy	привет
+2020-08-17 10:40:34.802863	mors	deploy	криптани плиз. новые файлы на ссылках
+2020-08-17 10:41:46.570619	deploy	mors	Привет
+2020-08-17 10:42:00.089103	deploy	mors	Ок
+2020-08-17 11:37:28.729430	mors	deploy	не все еще ?
+2020-08-17 11:38:26.368822	deploy	mors	5 мин.
+2020-08-17 11:39:23.377512	deploy	mors	Download: https://qaz.im/load/4yrRbB/2rfdN3
+Delete: https://qaz.im/index.php?a=delete&q=479508177
+Pass: DFSAQERASFDQERASADFSFAD
+2020-08-17 11:39:29.931984	deploy	mors	Чекни
+2020-08-17 11:40:02.434601	mors	deploy	ок
+2020-08-17 12:13:26.628089	mors	deploy	вакатак , криптани плиз еще раз
+2020-08-17 12:13:45.331284	deploy	mors	До запуска?
+2020-08-17 12:14:01.731803	mors	deploy	после
+2020-08-17 12:33:25.393970	deploy	mors	Точно на эти файлы?
+2020-08-17 12:33:34.098987	deploy	mors	У меня не палит
+2020-08-17 12:35:51.951254	mors	deploy	867 ?
+2020-08-17 12:36:30.017367	deploy	mors	Да
+2020-08-17 12:36:36.554739	deploy	mors	Download: https://qaz.im/load/ad2GKr/3eK3hE
+Delete: https://qaz.im/index.php?a=delete&q=1626213739
+Pass: DSADFSADFASAADFs
+2020-08-17 12:41:08.227193	mors	deploy	ок, проверяю
+2020-08-17 15:11:04.615582	mors	deploy	криптани плиз
+2020-08-17 15:11:25.191753	deploy	mors	Ок
+2020-08-17 15:38:44.551767	deploy	mors	Download: https://qaz.im/load/rD9ADD/Gh8QkQ
+Delete: https://qaz.im/index.php?a=delete&q=1809042688
+Pass: FDSADFAASQERADAFASDF
+2020-08-17 15:38:51.179520	deploy	mors	Чекни
+2020-08-17 15:38:58.053820	mors	deploy	ага
+2020-08-17 16:24:21.903688	mors	deploy	а ты можешь вообще другой стаб дать? палит у меня при запуске через powershell, руками все ок, к чему то привязался, я вообще обратил внимание стаб с иконкой mfc не очень работает
+
+утренние, которые с воскресенья были не палило
+2020-08-17 16:27:53.551041	deploy	mors	Переделаю
+2020-08-17 16:29:37.936516	mors	deploy	ок спс
+2020-08-17 17:53:22.378091	mors	deploy	ты наш ехе, как то бертываешь? т.е. из твоего ехе наш запускается ?
+2020-08-17 17:53:36.481899	mors	deploy	сомтрю какой то двой запуск чтоли
+2020-08-17 17:53:42.226806	mors	deploy	двойной
+2020-08-17 17:53:48.260628	deploy	mors	Download: https://qaz.im/load/75eT2Y/6F8aQH
+Delete: https://qaz.im/index.php?a=delete&q=285349960
+Pass: DFASQERAFDADAFSA
+2020-08-17 17:53:55.388923	deploy	mors	Чекни
+2020-08-17 17:54:11.880166	mors	deploy	ок
+2020-08-17 17:54:18.865838	mors	deploy	мы сегодня еще апдейт готовим
+2020-08-17 17:55:24.311445	mors	deploy	[20:53:21] <mors> ты наш ехе, как то бертываешь? т.е. из твоего ехе наш запускается ? 
+[20:53:35] <mors> сомтрю какой то двой запуск чтоли
+2020-08-17 17:56:29.079580	deploy	mors	> ты наш ехе, как то бертываешь? т.е. из твоего ехе наш запускается ?
+В крипте нет создания процесса, там идет запуск в текущем процессе
+2020-08-17 17:57:53.246803	mors	deploy	ок понаблюдаю еще
+2020-08-17 18:21:58.084374	mors	deploy	когда мы меняли строку в крипте, почему ты ее каждый день менял?
+2020-08-17 18:22:09.989404	mors	deploy	ее получается кроме нас никто не видел, мы ее меняли
+2020-08-17 18:23:32.130102	deploy	mors	Я все строки рандомизировал тогда
+2020-08-17 18:26:36.429534	mors	deploy	можешь ее не менять вообще ?
+2020-08-17 18:27:10.110730	deploy	mors	Да
+2020-08-17 18:27:43.948585	deploy	mors	При условии если не будут АВ цеплять на нее детект
+2020-08-17 18:36:00.889717	mors	deploy	нас мочат на апдейте, из-за сигнатур похоже. кторые мы сами добавялем в конец файла
+
+сделали новые файлы. пересобрали, сделай плиз со строкой, будем ее менять, попробуем, если можеш ьскинь сразу, тестировать будем
+2020-08-17 18:36:15.544261	mors	deploy	на ссылках новые
+2020-08-17 18:36:48.423241	deploy	mors	10 мин.
+2020-08-17 18:37:26.486353	mors	deploy	ок
+2020-08-17 18:43:50.330216	deploy	mors	aqCaxoiQiiSy3riJZmoCoWd9fFQneJjGT2vN1DpLtRNJLjH
+2020-08-17 18:43:57.006930	deploy	mors	Строка
+2020-08-17 18:45:35.553453	deploy	mors	Download: https://qaz.im/load/37k98N/GrFnFE
+Delete: https://qaz.im/index.php?a=delete&q=960226996
+Pass: FDASADFASDFSADFASADFSDF
+2020-08-17 18:45:43.882713	deploy	mors	Чекни
+2020-08-17 18:45:51.981981	mors	deploy	ага
+2020-08-17 19:14:53.336289	mors	deploy	статика палит как Emotet
+2020-08-17 19:15:00.502956	mors	deploy	при копировании
+2020-08-17 19:16:00.189032	deploy	mors	Ок, переделаю
+2020-08-17 19:16:10.403229	mors	deploy	оке жду, сразу если можешь
+2020-08-17 19:39:39.627741	deploy	mors	Download: https://qaz.im/load/rSaK58/Qt26y3
+Delete: https://qaz.im/index.php?a=delete&q=85935236
+Pass: SAFDQWEADFASAFDASDF
+2020-08-17 19:39:51.434036	mors	deploy	ага
+2020-08-17 19:50:21.911685	mors	deploy	а у вас с марселем стабы, синхронизированы?
+2020-08-17 19:51:10.607990	deploy	mors	Нет
+2020-08-17 19:51:27.779533	deploy	mors	Как понять синхронизированы?
+2020-08-17 19:51:57.196186	mors	deploy	если я его попрощу криптануть. со строкой
+2020-08-17 19:52:29.617287	deploy	mors	Скинь ему строку он ее добавит
+2020-08-17 19:52:52.846214	mors	deploy	ок
+2020-08-17 20:06:22.519407	mors	deploy	все ок, давай на ночь готовится 3 стаба плиз
+2020-08-17 20:06:30.670193	mors	deploy	просьба проверь на дефе плиз
+2020-08-17 20:51:20.126717	deploy	mors	Download: https://qaz.im/load/HFZKEd/hZhtYN
+Delete: https://qaz.im/index.php?a=delete&q=289183635
+Pass: dfSAADFASAFDASAADFaSDF
+2020-08-17 20:51:26.834976	deploy	mors	Чекни
+2020-08-17 21:02:33.504716	mors	deploy	я не успеваю пока чекнуть, на тебя надеюсь
+2020-08-17 21:13:08.579601	deploy	mors	я не успеваю пока чекнуть, на тебя надеюсь
+2020-08-18 08:53:16.282823	mors	deploy	привет
+2020-08-18 08:53:31.373868	deploy	mors	Привет
+2020-08-18 08:53:31.747041	mors	deploy	срочно криптани плиз, спалилось еще в 3 ночи все
+2020-08-18 08:53:43.886316	mors	deploy	очень жду
+2020-08-18 08:53:58.350816	deploy	mors	Ок
+2020-08-18 09:16:38.276651	deploy	mors	Download: https://qaz.im/load/BGQ45s/tYDNhE
+Delete: https://qaz.im/index.php?a=delete&q=850702728
+Pas: FDAFADASAFDASADAF
+2020-08-18 09:16:47.435868	deploy	mors	Чекни
+2020-08-18 09:18:41.257563	mors	deploy	ага
+2020-08-18 09:31:13.938223	mors	deploy	1 файл - Behavior:Win32/Execution.CQ!ml
+
+2,3 - ОК
+2020-08-18 09:31:27.278195	deploy	mors	Ок
+2020-08-18 09:31:36.364043	mors	deploy	жду очень )
+2020-08-18 09:34:49.906612	deploy	mors	Download: https://qaz.im/load/3TbebB/d2K83f
+Delete: https://qaz.im/index.php?a=delete&q=1987754736
+Pass: dfSADFASAFDASAAFDASDF
+2020-08-18 09:35:03.543823	mors	deploy	ага
+2020-08-18 09:38:16.186166	mors	deploy	строка та же осталась?
+2020-08-18 09:38:25.373069	mors	deploy	все ОК
+2020-08-18 09:38:39.895181	deploy	mors	Да
+2020-08-18 11:34:55.693797	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-08-18 11:35:24.621521	deploy	mors	Ок
+2020-08-18 12:13:23.765200	deploy	mors	Download: https://qaz.im/load/6AQQ6f/hSDZt5
+Delete: https://qaz.im/index.php?a=delete&q=852156818
+Pass: DFSAAXQSERQWADFASAFDASDF
+2020-08-18 12:15:48.572218	mors	deploy	ага
+2020-08-18 16:11:57.793365	mors	deploy	криптани плиз
+2020-08-18 16:14:30.616964	deploy	mors	Ок
+2020-08-18 16:29:57.243099	deploy	mors	Download: https://qaz.im/load/ADsRsG/f5NhtB
+Delete: https://qaz.im/index.php?a=delete&q=807488532
+Pass: ASZXADQEADSZVFTYU
+2020-08-18 16:30:04.474218	deploy	mors	Чекни
+2020-08-18 16:30:27.468949	mors	deploy	ага
+2020-08-18 16:32:59.857383	mors	deploy	execution все файлы ((
+2020-08-18 16:33:11.517348	mors	deploy	хотя сек , откачу
+2020-08-18 16:35:20.443464	mors	deploy	точно все execution
+2020-08-18 16:36:01.838093	deploy	mors	Нужно лоадер еще чистить
+2020-08-18 16:36:11.748716	mors	deploy	вчера чистили
+2020-08-18 16:36:26.310514	mors	deploy	стаб предыдущий нормальный ведь
+2020-08-18 16:51:46.551527	deploy	mors	Download: https://qaz.im/load/r69RZs/9a3sNz
+Delete: https://qaz.im/index.php?a=delete&q=310250503
+Pass: DAFSXADFERWQDFASDFAASDF
+2020-08-18 16:51:46.553418	deploy	mors	> стаб предыдущий нормальный ведь
+Уже палится
+2020-08-18 16:55:45.147676	mors	deploy	ша проверю
+2020-08-18 17:04:45.827516	mors	deploy	1 - execute
+
+2, 3 - ОК
+2020-08-18 17:09:08.990978	deploy	mors	Download: https://qaz.im/load/d9QYzF/iEGZeE
+Delete: https://qaz.im/index.php?a=delete&q=396768345
+Pass: SADFAWQASASDAFASDF
+2020-08-18 17:10:29.528476	mors	deploy	ок
+2020-08-18 17:16:38.867326	mors	deploy	все ок, спасибо
+2020-08-18 20:13:42.932071	mors	deploy	3 стаба плиз на ночь
+2020-08-18 20:15:48.041072	deploy	mors	Download: https://qaz.im/load/ADB76S/zkNn8D
+Delete: https://qaz.im/index.php?a=delete&q=163754051
+Pass: DSAFDASAFDASADFXAS
+2020-08-18 20:15:56.735077	deploy	mors	Чекни
+2020-08-18 20:15:59.875178	mors	deploy	ок
+2020-08-18 20:16:47.853462	mors	deploy	не уходи плиз. я дам ответ
+2020-08-18 20:17:10.785871	mors	deploy	а еще 3
+2020-08-18 20:19:17.659854	deploy	mors	В процессе
+2020-08-18 20:33:34.441172	mors	deploy	881
+
+1 - Execute
+
+
+все остальное ОК
+2020-08-18 20:33:46.149322	deploy	mors	Download: https://qaz.im/load/3EAHBN/Thn2Sf
+Delete: https://qaz.im/index.php?a=delete&q=1317450850
+Pass: DFASAXAERQWASAFDSAFDS
+2020-08-18 20:33:55.035519	deploy	mors	Чекни
+2020-08-18 20:34:11.761220	mors	deploy	ок
+2020-08-18 20:36:21.020208	deploy	mors	Download: https://qaz.im/load/fhTDAr/iFSs6F
+Delete: https://qaz.im/index.php?a=delete&q=1503622982
+Pass: DSADFAASDAFASFADSF
+2020-08-18 20:40:46.828314	mors	deploy	882
+
+1 - Execute
+
+остальное ОК
+2020-08-18 20:41:25.139295	deploy	mors	Будет время посмотри пожалуйста 1 файл, с ним проблемы постоянно
+2020-08-18 20:41:38.178615	mors	deploy	завтра поробую почистить
+2020-08-18 20:43:30.572745	deploy	mors	Download: https://qaz.im/load/2ytbhF/s5bEGG
+Delete: https://qaz.im/index.php?a=delete&q=468889078
+Pass: FDSADFASDFSAADF
+2020-08-18 20:43:57.111459	mors	deploy	ага чекаю
+2020-08-18 20:46:41.791130	mors	deploy	блин палит (((
+2020-08-18 20:47:10.528012	deploy	mors	881 и 882?
+2020-08-18 20:47:24.627051	mors	deploy	да
+2020-08-18 20:47:29.764259	mors	deploy	1 файл
+2020-08-18 20:51:47.526107	deploy	mors	Download: https://qaz.im/load/RHd62E/Z8r63E
+Delete: https://qaz.im/index.php?a=delete&q=466477679
+Pass: FDASAFDSADFASADAFS
+2020-08-18 20:52:00.275761	mors	deploy	ага
+2020-08-18 20:54:34.967509	mors	deploy	что такое палит. у тебя не палит ?
+2020-08-18 20:55:05.861167	deploy	mors	Через раз
+2020-08-18 20:55:23.895484	mors	deploy	я прежде чем написать 3 раза откатываю систему
+2020-08-18 20:55:37.943893	deploy	mors	Смотря с каким именем пропишится
+2020-08-18 20:56:02.717170	deploy	mors	Может с 10 запусков дать два три раза детект
+2020-08-18 20:56:49.169546	mors	deploy	вот 4 раз проверяю ) сек
+2020-08-18 20:57:45.255276	mors	deploy	вру 3, нет детекта )
+2020-08-18 20:57:59.106429	mors	deploy	881 это ?
+2020-08-18 20:58:20.919877	deploy	mors	882
+2020-08-18 20:58:50.347647	deploy	mors	Он там должен весит 900 с лишним
+2020-08-18 20:59:24.049823	mors	deploy	да, остался 881
+2020-08-18 21:00:50.245237	deploy	mors	Download: https://qaz.im/load/kRsYzG/Q2Tn7E
+Delete: https://qaz.im/index.php?a=delete&q=1070208489
+Pass: FDSAFDASADFAASADFS
+2020-08-18 21:01:02.244965	mors	deploy	ок
+2020-08-18 21:03:16.994193	mors	deploy	файл не рабочий не запускается. не удаляется
+2020-08-18 21:06:17.182283	deploy	mors	Download: https://qaz.im/load/kQHk7G/ZD2yES
+Delete: https://qaz.im/index.php?a=delete&q=1928786871
+Pass: DFSAAFDASADFASADF
+2020-08-18 21:06:53.935841	mors	deploy	ага
+2020-08-18 21:09:04.035626	mors	deploy	все ок, спасибо, а ты завтра опять к обеду только будешь?
+2020-08-18 21:09:14.033052	mors	deploy	даже позже наверное
+2020-08-18 21:09:31.751670	deploy	mors	Где-то к 12
+2020-08-18 21:09:40.280694	deploy	mors	Доброй ночи)
+2020-08-19 09:10:46.228091	mors	deploy	криптани плиз
+2020-08-19 09:10:48.035538	mors	deploy	привет
+2020-08-19 09:11:02.050174	mors	deploy	сразу плиз, если можешь
+2020-08-19 09:11:07.204075	deploy	mors	Привет
+2020-08-19 09:21:41.966512	deploy	mors	Download: https://qaz.im/load/82NKYR/BRknYs
+Delete: https://qaz.im/index.php?a=delete&q=1600803264
+Pass: DFSADFAASQERSADFASADF
+2020-08-19 09:21:48.595708	deploy	mors	Чекни
+2020-08-19 09:25:33.788120	mors	deploy	ага
+2020-08-19 09:35:28.685791	mors	deploy	1 файл- Program:Win32/Beareuws.A!ml или avior:Win32/Execution.CQ!ml
+2 файл - Behavior:Win32/Execution.CQ!ml
+3 файл - Trojan:Win32/Bearfoos.A!ml
+2020-08-19 09:35:46.939383	mors	deploy	я почищу сегодня обязательно, но пока обновится надо
+
+занимаюсь этим
+2020-08-19 10:03:02.403583	deploy	mors	Download: https://qaz.im/load/fTGNKB/H8zGRn
+Delete: https://qaz.im/index.php?a=delete&q=587634758
+Pass: dfSADFQEWASDFASADFASDF
+2020-08-19 10:18:49.997025	mors	deploy	ок
+2020-08-19 10:18:53.035120	mors	deploy	ок
+2020-08-19 10:25:08.676428	mors	deploy	все ок
+2020-08-19 10:25:21.629597	deploy	mors	Хорошо
+2020-08-19 14:22:43.928007	mors	deploy	криптани плиз
+2020-08-19 14:30:25.624961	deploy	mors	Ок
+2020-08-19 15:56:10.558643	deploy	mors	Download: https://qaz.im/load/Zn6yir/YG4azD
+Delete: https://qaz.im/index.php?a=delete&q=56461649
+Pass: FDSERQWSADFSAAFDASDF
+2020-08-19 15:56:18.973491	deploy	mors	Чекни
+2020-08-19 16:19:28.104237	mors	deploy	все ок
+2020-08-19 18:06:29.792011	mors	deploy	почистили, криптани плиз, новые файлы на ссылках
+2020-08-19 18:09:27.278319	deploy	mors	Хорошо
+2020-08-19 18:09:59.385196	mors	deploy	если можешь сразу плиз
+2020-08-19 18:26:27.854065	deploy	mors	Download: https://qaz.im/load/A3Yf65/rrZFde
+Delete: https://qaz.im/index.php?a=delete&q=1914089607
+Pass: DFSADAFQWEASFASDFAASDF
+2020-08-19 18:26:36.586149	deploy	mors	Чекни
+2020-08-19 18:27:21.822644	mors	deploy	ага
+2020-08-19 19:22:01.845948	mors	deploy	все ок
+2020-08-19 19:36:49.370148	mors	deploy	тут?
+2020-08-19 19:37:02.706369	mors	deploy	можешь разово криптануть ехе. совершенно другой ?
+2020-08-19 19:37:20.508679	mors	deploy	 можешь разово криптануть ехе. совершенно другой ?
+2020-08-19 19:39:58.582757	deploy	mors	Хорошо
+2020-08-19 19:40:18.002926	deploy	mors	Да
+2020-08-19 20:25:36.316761	mors	deploy	3 стаба плиз, чтобы до утра только хватило )
+2020-08-19 20:26:04.398329	mors	deploy	когда код запускается из памяти, АВ когда начинает проверять память?
+в момент запуска потока?
+2020-08-19 20:39:51.957235	mors	deploy	если мы будем делать длл вместо ехе, то надо какую-то функцию экспортировать обязательно или можно просто в DllMain поток создать и в нем продолжить работу
+2020-08-19 20:50:04.766608	deploy	mors	> когда код запускается из памяти, АВ когда начинает проверять память?
+в момент запуска потока? 
+Да
+2020-08-19 20:50:46.427362	deploy	mors	> если мы будем делать длл вместо ехе, то надо какую-то функцию экспортировать обязательно или можно просто в DllMain поток создать и в нем продолжить работу 
+Можно и через DllMain
+2020-08-19 20:51:45.888087	mors	deploy	ок жду
+2020-08-19 21:08:47.348062	deploy	mors	Download: https://qaz.im/load/t62s5E/tBKD2N
+Delete: https://qaz.im/index.php?a=delete&q=1679256561
+Pass: DFSQERWSADFSAFDAASADFS
+2020-08-19 21:12:39.405602	mors	deploy	ага
+2020-08-19 21:13:42.826382	deploy	mors	Снова стали появляться execution
+2020-08-19 21:14:07.860224	deploy	mors	Спустя пару минут после запуска
+2020-08-19 21:14:42.482955	mors	deploy	дак вот хз, почему
+
+иногда на 1-2-3 раз все ок. тот же стаб (
+2020-08-19 21:15:45.175527	deploy	mors	Но детект появляется только если запускать сразу три файла
+2020-08-19 21:16:28.903441	deploy	mors	Скорее всего палит закрепление в системе
+2020-08-19 21:39:11.330387	mors	deploy	я еще тестирую, 3 файл остался
+2020-08-19 21:46:20.841839	mors	deploy	3 файл execution ((
+2020-08-19 21:46:28.700376	mors	deploy	остальные ОК
+2020-08-19 21:53:37.832904	mors	deploy	тут ?
+2020-08-19 22:03:54.531008	deploy	mors	тут ?
+2020-08-19 22:07:24.051175	deploy	mors	Download: https://qaz.im/load/5HZ7N8/BrhfnE
+Delete: https://qaz.im/index.php?a=delete&q=598178807
+Pass: DFSADFASAFDAASAFD
+2020-08-19 22:07:36.744159	deploy	mors	Доброй ночи)
+2020-08-19 22:07:40.791313	mors	deploy	я думал ты уж ене придешь
+2020-08-19 22:07:47.052243	mors	deploy	сек скачаю
+2020-08-19 22:08:01.491946	deploy	mors	Интернет пропал
+2020-08-19 22:08:23.670164	mors	deploy	спасибо, надеюсь все ок
+2020-08-19 22:08:25.117931	mors	deploy	бб
+2020-08-20 09:25:32.800724	mors	deploy	криптани плиз
+2020-08-20 09:26:15.362383	deploy	mors	Привет
+2020-08-20 09:26:21.941974	deploy	mors	Ок
+2020-08-20 09:42:21.187583	deploy	mors	Download: https://qaz.im/load/HfE4SH/i5Zakh
+Delete: https://qaz.im/index.php?a=delete&q=606362216
+Pass: DFSQERSAFDASAAFDASDF
+2020-08-20 09:42:27.880410	deploy	mors	Чекни
+2020-08-20 10:59:58.141257	mors	deploy	ок
+2020-08-20 14:23:17.118515	mors	deploy	криптани плиз
+2020-08-20 14:23:30.453194	deploy	mors	Ок
+2020-08-20 15:46:35.129626	mors	deploy	вчера я просил, тебя файл криптануть, свосем другой, сделай плиз. проверю крипт - разово это
+
+Download: https://aes.one/files/d/gr8/4ksqkgrkhhklk2q0au2alkd65f/8e0ce32978872870/
+Remove: https://aes.one/files/r/gr8/3iov08n1rrmogqosv0gn3dq3v12375pwj44p10/
+JKytfF!xryfwEK@Jn1mcsd2b1d3
+2020-08-20 15:46:54.334546	deploy	mors	Ок
+2020-08-20 15:47:01.343035	mors	deploy	но сначало мой плиз
+2020-08-20 16:13:59.010962	deploy	mors	Download: https://qaz.im/load/TBty2b/ZSyHGh
+Delete: https://qaz.im/index.php?a=delete&q=1790425666
+Pass: FDSAFDASDFASADAFS
+2020-08-20 16:14:05.661769	deploy	mors	Чекни
+2020-08-20 16:15:59.465366	mors	deploy	ага
+2020-08-20 16:23:48.821794	deploy	mors	Download: https://qaz.im/load/kQrDKB/GHbyhk
+Delete: https://qaz.im/index.php?a=delete&q=306924630
+Pass: fDASAFDASAFDASADAFSDF
+2020-08-20 16:23:55.621571	deploy	mors	Чекни
+2020-08-20 16:24:21.504533	mors	deploy	это новый файл?
+2020-08-20 16:24:40.778576	deploy	mors	> вчера я просил, тебя файл криптануть, свосем другой, сделай плиз. проверю крипт - разово это
+
+Download: https://aes.one/files/d/gr8/4ksqkgrkhhklk2q0au2alkd65f/8e0ce32978872870/
+Remove: https://aes.one/files/r/gr8/3iov08n1rrmogqosv0gn3dq3v12375pwj44p10/
+JKytfF!xryfwEK@Jn1mcsd2b1d3
+Вот этот файл
+2020-08-20 16:37:44.985219	mors	deploy	падает файл, сам запускал?
+2020-08-20 16:38:24.020161	deploy	mors	Висит в процессах
+2020-08-20 16:39:37.166055	mors	deploy	 когда пытается инжект в процесс сделать , падает
+2020-08-20 16:40:50.105899	deploy	mors	Не криптованный смотрел?
+2020-08-20 16:41:47.024764	mors	deploy	ща гляну
+2020-08-20 16:43:07.177306	mors	deploy	чистый норм
+2020-08-20 16:43:16.585449	mors	deploy	чтоб не палил виртуалку, надо создать файлик c:\hiberfil.sysss
+2020-08-20 16:43:27.895674	mors	deploy	после этого падает. посмотри плиз
+2020-08-20 16:43:44.403526	deploy	mors	Переделаю
+2020-08-20 16:53:07.238145	deploy	mors	Download: https://qaz.im/load/YRQaGR/Y6QTsy
+Delete: https://qaz.im/index.php?a=delete&q=1684891647
+Pass: FDASAFDSDAFASADFAASFD
+2020-08-20 16:53:16.065461	deploy	mors	Чекни
+2020-08-20 16:53:24.764535	mors	deploy	ок
+2020-08-20 17:15:33.692374	mors	deploy	виндеф спалил на старте ( 
+https://prnt.sc/u2ztsk
+2020-08-20 17:16:25.773176	deploy	mors	Посмотрю потом
+2020-08-20 17:16:42.880648	mors	deploy	это другой файл вообще, палит примерно также
+
+может стаб грязный уже ?
+2020-08-20 17:17:28.957918	deploy	mors	Какой там детект(имя)?
+2020-08-20 17:17:58.950291	mors	deploy	bearfoos
+2020-08-20 17:18:08.474820	deploy	mors	> это другой файл вообще, палит примерно также
+
+может стаб грязный уже ?
+Для сравнения делал сделал трик его не палит дефендер
+2020-08-20 17:18:40.030569	deploy	mors	А вот эмотет палит часто последнее время
+2020-08-20 17:18:49.230580	mors	deploy	ок, мы сейчас тоже правим код сегодня завтра подчистим
+2020-08-20 17:19:11.904696	mors	deploy	с понедельника грузить начинаю трик, жесть опять будет (
+2020-08-20 17:19:34.317143	deploy	mors	> виндеф спалил на старте ( 
+https://prnt.sc/u2ztsk 
+Это на какой файл?
+2020-08-20 17:19:42.262599	mors	deploy	это на тестовый
+2020-08-20 17:19:51.140588	mors	deploy	не emotet
+2020-08-20 17:20:04.192468	deploy	mors	Эмотет как?
+2020-08-20 17:21:29.052193	mors	deploy	Program:Win32/Beareuws.A!ml или avior:Win32/Execution.CQ!ml
+2020-08-20 17:21:42.426393	mors	deploy	 Trojan:Win32/Bearfoos.A!ml
+2020-08-20 17:21:47.365369	mors	deploy	или так
+2020-08-20 18:15:14.106945	deploy	mors	Download: https://qaz.im/load/bhBfih/R6QbRn
+Delete: https://qaz.im/index.php?a=delete&q=288092907
+Pass: dfSAXDFQERWDFASADFASADAFASADF
+2020-08-20 18:15:21.057951	deploy	mors	3 стаба
+2020-08-20 18:15:27.811379	deploy	mors	Чекни
+2020-08-20 18:15:42.579901	mors	deploy	ты сегодня пораньше уйдешь?
+2020-08-20 18:16:16.906671	deploy	mors	В 22 ухожу
+2020-08-20 18:16:32.168233	mors	deploy	режим меняешь?
+2020-08-20 18:16:47.140492	deploy	mors	С завтра буду в сети от 9 до 20:00 по мск.
+2020-08-20 18:17:00.272099	deploy	mors	С завтрашнего дня вернее
+2020-08-20 18:17:29.567934	mors	deploy	ок, ща тестирую
+2020-08-20 19:05:04.094013	deploy	mors	Как файлы?
+2020-08-20 19:05:16.439816	mors	deploy	заканчиваю уже
+2020-08-20 19:05:22.604421	mors	deploy	по несколько раз запускаю (
+2020-08-20 19:05:52.458461	deploy	mors	Так же чекаю, много времени занимает
+2020-08-20 19:14:28.401271	mors	deploy	все ок
+2020-08-20 19:14:32.971307	mors	deploy	спасибо
+2020-08-20 19:14:41.103520	deploy	mors	Доброй ночи)
+2020-08-21 07:22:53.172599	mors	deploy	привет
+2020-08-21 07:22:56.777276	mors	deploy	криптани плиз
+2020-08-21 07:23:06.804666	deploy	mors	Привет
+2020-08-21 07:24:34.155667	deploy	mors	Download: https://qaz.im/load/S24ARH/4t9EB5
+Delete: https://qaz.im/index.php?a=delete&q=223571142
+Pass: FDQSERSADFAASAFDSAFD
+2020-08-21 07:24:43.281338	deploy	mors	Чекни
+2020-08-21 07:24:46.393121	mors	deploy	ок
+2020-08-21 07:37:08.299088	mors	deploy	все ок
+2020-08-21 07:37:27.805977	deploy	mors	Хорошо
+2020-08-21 08:44:34.564523	mors	deploy	если сегодня до 22.00 плиз, 8 стабов надо будет плиз, на выходные и ночь пятницы
+2020-08-21 08:49:24.489693	deploy	mors	У меня график, к 20:00 скину 8 стабов. Если  точнее в 19:00 скину файлы
+2020-08-21 08:49:48.476066	mors	deploy	ок
+2020-08-21 08:49:54.011478	mors	deploy	расскажи про график
+2020-08-21 08:50:21.439138	mors	deploy	мы с понедельника начинаем грузить трика, видимо под это график поменяли
+2020-08-21 08:50:28.858320	mors	deploy	кто-то еще в паре у тебя ?
+2020-08-21 08:53:45.652850	deploy	mors	Стерн писал, что файлы будут нужны с утра.
+2020-08-21 08:54:03.975605	deploy	mors	По этому сменился график
+2020-08-21 08:54:20.724440	deploy	mors	Теперь с 9 до 20:00
+2020-08-21 08:55:26.682537	mors	deploy	вообщем ладно я с ним решу
+2020-08-21 08:55:37.903940	mors	deploy	не совсем подходящий график (
+2020-08-21 08:56:15.084172	mors	deploy	лучше бы с 10-11
+
+21-22 соотвественно, ладно подумаю как лучше
+2020-08-21 08:56:19.167881	mors	deploy	а тебе как ?
+2020-08-21 08:56:41.616452	mors	deploy	это я ему сказал. что к 9.00 файл нужен )
+2020-08-21 09:04:51.478644	deploy	mors	К 9 удобнее будет, файлы будут раньше сделаны. Постоянно перестраиваться, сегодня один график завтра другой... мне не удобно. По этому с 9 до 20:00, наиболее подходящий вариант для меня.
+2020-08-21 11:01:05.812723	mors	deploy	криптани плиз. новые файлы на ссылках
+2020-08-21 11:01:52.633456	deploy	mors	Ок
+2020-08-21 11:11:13.603512	deploy	mors	Download: https://qaz.im/load/FiB7k9/sr4ha9
+Delete: https://qaz.im/index.php?a=delete&q=467084359
+Pass: DFSAFADASAFDASADFS
+2020-08-21 11:11:20.306949	deploy	mors	Чекни
+2020-08-21 11:13:45.367363	mors	deploy	ага
+2020-08-21 11:23:00.106906	mors	deploy	все ок
+2020-08-21 11:23:07.975215	deploy	mors	Хорошо
+2020-08-21 14:49:49.938232	mors	deploy	криптани плиз
+2020-08-21 14:50:09.788974	deploy	mors	Ок
+2020-08-21 14:50:52.953634	mors	deploy	я отъеду на 2 часа примерно, как бы мне стабы не проморгать. и что дошли до меня ?
+2020-08-21 14:51:10.016703	mors	deploy	а до 20.00 буду
+2020-08-21 14:51:44.832754	deploy	mors	Я в офф скину, если до 20 не будешь онлайн
+2020-08-21 15:04:33.472180	deploy	mors	Download: https://qaz.im/load/8yf7Ze/2hBABt
+Delete: https://qaz.im/index.php?a=delete&q=157097886
+Pass: dfsERWQERASAFDASAFDAS
+2020-08-21 15:04:39.678116	mors	deploy	ок
+2020-08-21 15:04:42.145890	deploy	mors	Чекни
+2020-08-21 16:56:56.370280	deploy	mors	Download: https://qaz.im/load/z64e7F/4f2Zfh
+Delete: https://qaz.im/index.php?a=delete&q=891175421
+Pass: FDQWERASFDQSRQWQQRTRQE
+2020-08-21 16:57:03.040541	deploy	mors	Чекни
+2020-08-21 16:57:32.949998	deploy	mors	10 стабов, с запасом, если вдруг какой-то спалит
+2020-08-21 16:58:25.869505	deploy	mors	10 стабов, с запасом, если вдруг какой-то спалит
+2020-08-21 17:00:14.236465	deploy	mors	Download: https://qaz.im/load/z64e7F/4f2Zfh
+Delete: https://qaz.im/index.php?a=delete&q=891175421
+Pass: FDQWERASFDQSRQWQQRTRQE
+2020-08-21 17:01:40.386647	mors	deploy	Download: https://qaz.im/load/z64e7F/4f2Zfh
+Delete: https://qaz.im/index.php?a=delete&q=891175421
+Pass: FDQWERASFDQSRQWQQRTRQE
+2020-08-21 17:01:40.391038	mors	deploy	Чекни
+2020-08-21 17:01:40.391931	mors	deploy	10 стабов, с запасом, если вдруг какой-то спалит
+2020-08-23 17:40:08.892843	deploy	mors	Привет
+2020-08-23 17:40:42.139492	deploy	mors	Download: https://qaz.im/load/r4QGkk/ty2Bht
+Delete: https://qaz.im/index.php?a=delete&q=2099840957
+Pass: FDWQASAFDASAFDASADF
+2020-08-23 17:40:49.834486	deploy	mors	Чекни
+2020-08-23 21:18:33.675702	deploy	mors	Привет
+2020-08-23 21:18:33.679058	deploy	mors	Download: https://qaz.im/load/r4QGkk/ty2Bht
+Delete: https://qaz.im/index.php?a=delete&q=2099840957
+Pass: FDWQASAFDASAFDASADF
+2020-08-23 21:18:33.681070	deploy	mors	Чекни
+2020-08-24 09:11:31.445840	mors	deploy	привет
+2020-08-24 09:11:42.498253	mors	deploy	криптани плиз
+2020-08-24 09:16:16.091080	mors	deploy	ку
+2020-08-24 09:21:30.863723	deploy	mors	Привет
+2020-08-24 09:21:38.505020	deploy	mors	Ок
+2020-08-24 09:26:39.139913	deploy	mors	Download: https://qaz.im/load/atY2Bi/a8GkQd
+Delete: https://qaz.im/index.php?a=delete&q=945676646
+Pass: sFDQWSADAFDASAAFDASdf
+2020-08-24 09:26:45.822647	deploy	mors	Чекни
+2020-08-24 09:26:58.003571	mors	deploy	ага
+2020-08-24 09:45:34.261753	mors	deploy	теперь с такими именами будут файлы ?
+2020-08-24 09:46:32.381193	deploy	mors	Пока да
+2020-08-24 10:09:18.638346	mors	deploy	все ок
+2020-08-24 10:15:53.667656	deploy	mors	Хорошо
+2020-08-24 15:14:56.722385	mors	deploy	криптани плиз
+2020-08-24 15:43:17.130247	deploy	mors	Ок
+2020-08-24 15:54:25.245795	deploy	mors	Download: https://qaz.im/load/S8s2iN/nKyFZB
+Delete: https://qaz.im/index.php?a=delete&q=1931841687
+Pass: DFQWFADSADFASADAFS
+2020-08-24 15:54:31.904036	deploy	mors	Чекни
+2020-08-24 15:54:37.225364	mors	deploy	ок
+2020-08-24 16:20:19.764230	mors	deploy	все файлы execution
+2020-08-24 16:21:04.779888	deploy	mors	Пересобери файлы, пожалуйста
+2020-08-24 16:21:17.481276	mors	deploy	не уходи тогда плиз
+2020-08-24 16:22:05.682165	mors	deploy	я возможно не успею до 20.00
+2020-08-24 16:22:31.377759	mors	deploy	постараюсь
+2020-08-24 16:23:47.735161	deploy	mors	Я до 20:30 буду сдесь. Если позже, то на завтра уже
+2020-08-24 16:24:14.807502	mors	deploy	если не успею 4 крипта оставь все же
+2020-08-24 16:25:27.555025	deploy	mors	Ок
+2020-08-24 17:04:44.664486	mors	deploy	подождешь 10 мин ?
+2020-08-24 17:04:50.422408	mors	deploy	задержись плиз
+2020-08-24 17:05:13.387662	deploy	mors	Да
+2020-08-24 17:09:02.493349	mors	deploy	уже делаю, 5 мин
+2020-08-24 17:09:20.496745	deploy	mors	Жду...
+2020-08-24 17:16:11.917693	mors	deploy	залил в скан
+2020-08-24 17:16:14.476923	mors	deploy	4 стаба плиз
+2020-08-24 17:16:20.123220	mors	deploy	ой в скан
+2020-08-24 17:16:29.347900	mors	deploy	новые файлы на ссылках )
+2020-08-24 17:16:57.589995	deploy	mors	Хорошо, спасибо)
+2020-08-24 17:22:20.083877	deploy	mors	Download: https://qaz.im/load/KsbZDS/HT5FQy
+Delete: https://qaz.im/index.php?a=delete&q=1400310149
+Pass: dfSQERSAFDAASFADS
+2020-08-24 17:22:20.086482	deploy	mors	Чекни
+2020-08-24 17:22:26.878598	mors	deploy	ага
+2020-08-24 17:25:40.285036	mors	deploy	1 и 2 файлы стучат на один ИП. одни и теже файлы
+2020-08-24 17:25:47.127098	mors	deploy	3 еще тестирую
+2020-08-24 17:26:05.748378	mors	deploy	вообщем получается 1 надо исправить
+2020-08-24 17:26:53.851538	deploy	mors	Какой?
+2020-08-24 17:27:16.600975	mors	deploy	1 файл надо переделать
+2020-08-24 17:27:21.646358	mors	deploy	он стучит не туда
+2020-08-24 17:27:24.738660	mors	deploy	он как 2
+2020-08-24 17:27:29.943134	deploy	mors	Сек.
+2020-08-24 17:28:17.917411	mors	deploy	2,3 - ОК
+
+1 переделать
+2020-08-24 17:29:12.913070	deploy	mors	Download: https://qaz.im/load/Y4DbNE/NAZN6B
+Delete: https://qaz.im/index.php?a=delete&q=1039108035
+Pass: dfSQERSDAFASAFDASAFD
+2020-08-24 17:29:19.640697	deploy	mors	1-вый
+2020-08-24 17:33:44.460161	mors	deploy	все ок
+2020-08-24 17:37:14.280833	deploy	mors	Download: https://qaz.im/load/tTiSdF/srZNYH
+Delete: https://qaz.im/index.php?a=delete&q=1530430512
+Pass: dSQERWQSAFDASDFASADF
+2020-08-24 17:37:19.651286	deploy	mors	Чекни
+2020-08-24 17:37:33.020739	mors	deploy	ага
+2020-08-24 17:40:48.933881	mors	deploy	10 мин
+2020-08-24 18:01:36.425124	mors	deploy	1,3 - ОК
+
+2 - execute
+2020-08-24 18:01:48.712265	deploy	mors	Ок
+2020-08-24 18:09:18.590053	deploy	mors	Download: https://qaz.im/load/GzAQNi/itAb7e
+Delete: https://qaz.im/index.php?a=delete&q=992966934
+Pass: dfSQERSAFDASADFAASDF
+2020-08-24 18:09:28.374748	deploy	mors	Чекни
+2020-08-24 18:09:54.813870	mors	deploy	jr
+2020-08-24 18:11:35.771950	mors	deploy	dct jr
+2020-08-24 18:11:37.891526	mors	deploy	все ок
+2020-08-24 18:11:51.149092	deploy	mors	Хорошо
+2020-08-24 18:31:34.262313	deploy	mors	Download: https://qaz.im/load/TQ7aK8/Fn92sZ
+Delete: https://qaz.im/index.php?a=delete&q=1472683452
+Pass: dsREQSAFDSADFASAFDASDF
+2020-08-24 18:31:41.128432	deploy	mors	Чекни
+2020-08-24 18:31:50.103462	mors	deploy	ага
+2020-08-24 18:43:29.959503	mors	deploy	все ок
+2020-08-24 18:44:45.510108	deploy	mors	Download: https://qaz.im/load/iSYe5b/6S6NZG
+Delete: https://qaz.im/index.php?a=delete&q=1678080284
+Pass: dfSQREWADFASADFAASADFS
+2020-08-24 18:44:52.133338	deploy	mors	Чекни
+2020-08-24 18:45:32.388153	mors	deploy	ок
+2020-08-24 18:57:27.720683	mors	deploy	все ок, спасибо
+2020-08-24 18:59:58.071546	deploy	mors	Доброй ночи)
+2020-08-25 06:08:52.939741	mors	deploy	привет, 5 минут сделаю новые ехе
+2020-08-25 06:09:20.753331	deploy	mors	Привет
+2020-08-25 06:09:27.459797	deploy	mors	Ок
+2020-08-25 06:23:12.533755	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-08-25 06:24:46.257055	deploy	mors	Ок
+2020-08-25 06:49:18.111504	deploy	mors	Download: https://qaz.im/load/FGFr96/nYFYH2
+Delete: https://qaz.im/index.php?a=delete&q=1700888124
+Pass: DFSAQERSAFDASADFASDF
+2020-08-25 06:49:26.936781	deploy	mors	Чекни
+2020-08-25 06:49:30.694230	mors	deploy	ага
+2020-08-25 07:01:31.839011	mors	deploy	все ок
+2020-08-25 08:17:37.491443	mors	deploy	криптани плиз
+2020-08-25 08:17:40.451433	mors	deploy	спалился ехе
+2020-08-25 08:17:47.342957	mors	deploy	если можешь сейчас плиз
+2020-08-25 08:24:54.978410	mors	deploy	ку
+2020-08-25 08:30:40.958084	mors	deploy	[11:17:37] <mors> криптани плиз 
+[11:17:40] <mors> спалился ехе 
+[11:17:47] <mors> если можешь сейчас плиз 
+[11:24:55] <mors> ку
+2020-08-25 08:42:10.139557	deploy	mors	Ок
+2020-08-25 09:17:25.897489	deploy	mors	Download: https://qaz.im/load/6kzhfe/naHaR5
+Delete: https://qaz.im/index.php?a=delete&q=1370691705
+Pass: DQSAWQADASASS
+2020-08-25 09:17:32.770900	deploy	mors	Чекни
+2020-08-25 09:18:56.095463	mors	deploy	ага
+2020-08-25 11:38:06.550353	mors	deploy	криптани плиз. новые файлы на ссылках
+2020-08-25 11:38:16.798983	deploy	mors	Ок
+2020-08-25 12:21:06.168744	mors	deploy	у тебя случайно нет знакомых у кого jabber.ru висит он или нет ?
+2020-08-25 12:21:16.653518	mors	deploy	не окнестится джабер
+2020-08-25 12:22:09.828264	deploy	mors	На .ru нет никого
+2020-08-25 12:22:30.165394	mors	deploy	ок
+2020-08-25 12:22:41.962356	mors	deploy	я в другой лжабе не вишу случайно
+2020-08-25 12:22:47.226924	mors	deploy	мало ли что )
+2020-08-25 12:22:54.631328	mors	deploy	*джабе
+2020-08-25 12:24:01.659369	deploy	mors	Как не авторизированный показывает. Что то с сервером
+2020-08-25 12:26:23.140300	mors	deploy	спасибо
+2020-08-25 12:32:48.183860	mors	deploy	я вылетал. не писал по ехе ?
+2020-08-25 12:33:01.261472	deploy	mors	Не писал
+2020-08-25 12:36:17.407082	deploy	mors	Download: https://qaz.im/load/ditdbb/5yAB4h
+Delete: https://qaz.im/index.php?a=delete&q=1720690099
+Pass: FDQWERASDFASADFASDF
+2020-08-25 12:36:26.035652	deploy	mors	Чекни
+2020-08-25 12:36:29.625064	mors	deploy	ага
+2020-08-25 12:50:39.752210	mors	deploy	строка таже осталась?
+2020-08-25 12:51:05.060117	deploy	mors	Да
+2020-08-25 15:04:04.547636	mors	deploy	спалился. криптани плиз
+2020-08-25 15:04:46.906098	deploy	mors	Ок
+2020-08-25 15:33:53.608187	deploy	mors	Download: https://qaz.im/load/38R3s7/hn7z67
+Delete: https://qaz.im/index.php?a=delete&q=408749859
+Pass: FDSQERSADFSAADFASD
+2020-08-25 15:34:02.930053	deploy	mors	Чекни
+2020-08-25 15:34:06.455713	mors	deploy	ага
+2020-08-25 16:31:50.310425	mors	deploy	не забывай плиз про меня, 4 стаба мне надо будет
+
+до 20.00 ?
+2020-08-25 16:37:41.673213	deploy	mors	Есть только 3, я же на вечер по 3 делаю
+2020-08-25 16:38:15.699629	mors	deploy	ок. растяну - но мен проверить надо их
+2020-08-25 16:38:20.697427	mors	deploy	до 20.00 еще
+2020-08-25 16:38:26.094608	mors	deploy	*мне
+2020-08-25 16:38:50.436898	deploy	mors	Download: https://qaz.im/load/n35N8k/bFznZF
+Delete: https://qaz.im/index.php?a=delete&q=1387984349
+Pass: FDQWERASQERWQRQEQWER
+2020-08-25 16:40:19.711435	mors	deploy	ага
+2020-08-25 17:02:40.469181	mors	deploy	не уходи плиз, проверяю еще
+2020-08-25 17:03:03.497681	deploy	mors	Я тут
+2020-08-25 17:03:14.017820	deploy	mors	Буду ждать...
+2020-08-25 17:12:17.914539	mors	deploy	все ок. спасибо, а трик тоже сделал уже ?
+2020-08-25 17:12:22.065149	mors	deploy	не выдали мне пока
+2020-08-25 17:12:51.102791	deploy	mors	Бентли проверяет пока
+2020-08-25 17:13:18.561178	mors	deploy	ок
+2020-08-25 17:21:49.594863	mors	deploy	спалился вот только предыдущий стаб, может сделаешь еще один ?
+2020-08-25 17:21:55.904842	mors	deploy	не хватит до утра 3
+2020-08-25 17:21:59.082128	mors	deploy	стаба
+2020-08-25 17:27:33.276031	mors	deploy	сделаешь?
+2020-08-25 17:30:43.707937	deploy	mors	Да
+2020-08-25 17:30:49.489592	mors	deploy	спс
+2020-08-25 17:31:15.047062	mors	deploy	к каким вещам чаще цепляется дефендер?
+2020-08-25 17:31:40.418617	deploy	mors	Какой детект?
+2020-08-25 17:32:21.259258	mors	deploy	в целом спрашиваю
+2020-08-25 17:32:25.197893	mors	deploy	про наш ехе
+2020-08-25 17:32:36.081378	mors	deploy	чтобы мы могли более оперативно у себя тоже чистить
+2020-08-25 17:32:52.011727	mors	deploy	emotet допустим
+2020-08-25 17:36:34.240720	deploy	mors	Чаще всего, если детект статика, то на строки. Я все строки по возможности в хеш. Там где обязательно строки нужны рандомизирую их. Еще цепляет на оператор хора(^) детект статики. Когда криптую статика исходного файла роли особой не играет, а вот поведение играет важную роль, иза чего приходиться больше времени тратить
+2020-08-25 17:38:26.975222	mors	deploy	а поведенческий анализ у него как устроен? последовательность вызова апи палит или параметры вызова, или имена объектов?
+2020-08-25 17:40:48.076230	deploy	mors	Имена объектов, последовательность
+2020-08-25 17:51:27.150901	deploy	mors	Download: https://qaz.im/load/8nZHEE/7rYs6R
+Delete: https://qaz.im/index.php?a=delete&q=167828135
+Pass: dfSQRESAADAFSDAFASADF
+2020-08-25 17:52:27.429666	mors	deploy	ага
+2020-08-25 18:02:13.978045	deploy	mors	Норм.?
+2020-08-25 18:02:33.319107	mors	deploy	ага только проверил,спасибо
+2020-08-25 18:03:17.609784	deploy	mors	Доброй ночи)
+2020-08-26 06:13:49.256598	mors	deploy	ооо
+2020-08-26 06:13:51.879796	mors	deploy	привет
+2020-08-26 06:14:02.527260	mors	deploy	во вроемя ты. все стабы спалились не дожили (
+2020-08-26 06:14:08.116059	mors	deploy	криптани сразу плиз
+2020-08-26 06:14:11.383577	mors	deploy	файлы те же
+2020-08-26 06:14:42.678270	deploy	mors	Привет
+2020-08-26 06:14:49.425864	deploy	mors	Ок
+2020-08-26 06:15:18.578647	mors	deploy	жду
+2020-08-26 06:29:17.815495	mors	deploy	сначало только мне плиз. а не трику, а потом ему
+2020-08-26 06:34:21.655702	deploy	mors	Download: https://qaz.im/load/7G8rNE/Fa9a5d
+Delete: https://qaz.im/index.php?a=delete&q=1398390384
+Pass: DSQWASDQERQWSFDASADFASD
+2020-08-26 06:34:28.525445	deploy	mors	Чекни
+2020-08-26 06:35:18.179681	mors	deploy	ага
+2020-08-26 06:59:40.944261	mors	deploy	все ок
+2020-08-26 07:02:26.777993	deploy	mors	Хорошо
+2020-08-26 08:32:05.926880	mors	deploy	криптани плиз. новые файлы на ссылках
+2020-08-26 08:34:00.504242	deploy	mors	Ок
+2020-08-26 09:03:36.539047	deploy	mors	Download: https://qaz.im/load/kiSfQy/kSN39G
+Delete: https://qaz.im/index.php?a=delete&q=1875571655
+Pass: DFSQERSAFDQWADFASDF
+2020-08-26 09:04:12.925188	mors	deploy	ага
+2020-08-26 09:15:37.399075	mors	deploy	все ок
+2020-08-26 09:16:11.712951	deploy	mors	Ок
+2020-08-26 11:30:01.758191	mors	deploy	криптани плиз
+2020-08-26 11:30:34.618640	deploy	mors	Ок
+2020-08-26 12:08:22.309880	mors	deploy	с ориентируй по времени плиз
+2020-08-26 12:10:01.210498	deploy	mors	В течении 30 минут
+2020-08-26 12:10:56.447754	mors	deploy	ок
+2020-08-26 12:18:37.743035	deploy	mors	Download: https://qaz.im/load/h2iZ9T/5Y4zSa
+Delete: https://qaz.im/index.php?a=delete&q=1482365212
+Pass: CXSQRESADFQWERQAFDASDF
+2020-08-26 12:19:53.597117	mors	deploy	ага
+2020-08-26 12:39:55.570156	mors	deploy	2 файл - execution
+2020-08-26 12:42:46.684213	deploy	mors	1 и 3 норм.?
+2020-08-26 12:44:17.301737	mors	deploy	да
+2020-08-26 12:46:32.865992	deploy	mors	Download: https://qaz.im/load/fzAQQk/htk5Td
+Delete: https://qaz.im/index.php?a=delete&q=1583874791
+Pass: dsQWAESQDFASDFASD
+2020-08-26 16:17:11.226877	mors	deploy	криптани плиз
+2020-08-26 16:17:23.894983	mors	deploy	4 стаба все таки мне надо, 3 не хватает
+2020-08-26 16:22:17.654567	deploy	mors	Download: https://qaz.im/load/iRnhTt/98GkGE
+Delete: https://qaz.im/index.php?a=delete&q=1391316896
+Pass: DFWQREASDFAQSFDASDF
+2020-08-26 16:22:26.716426	deploy	mors	Чекни
+2020-08-26 16:22:43.363833	mors	deploy	ага
+2020-08-26 16:41:04.373265	deploy	mors	Download: https://qaz.im/load/tnryEy/KHzGZS
+Delete: https://qaz.im/index.php?a=delete&q=1183709473
+Pass: dfWQERSDQRASDFQWEQAES
+2020-08-26 16:41:27.488844	mors	deploy	ага те еще чекаю
+2020-08-26 16:41:59.721141	mors	deploy	а еще один сделаешь?
+2020-08-26 16:44:39.943653	deploy	mors	Делаю
+2020-08-26 16:53:33.620236	deploy	mors	Download: https://qaz.im/load/2QBtK8/TkRizG
+Delete: https://qaz.im/index.php?a=delete&q=1595757482
+Pass: dfWQERADSFQEDFASAFDASD
+2020-08-26 16:54:49.662857	mors	deploy	ок
+2020-08-26 17:26:42.228271	mors	deploy	все ок
+2020-08-26 17:28:05.010836	deploy	mors	Хорошо
+2020-08-26 17:35:05.867942	deploy	mors	До завтра)
+2020-08-27 06:02:14.754272	mors	deploy	крипатни плиз
+2020-08-27 06:02:16.750269	mors	deploy	привет
+2020-08-27 06:02:24.727907	mors	deploy	мне отъехать надо через пол часа учпеем ?
+2020-08-27 06:04:58.310776	deploy	mors	Привет
+2020-08-27 06:05:10.862526	deploy	mors	Постараюсь успеть
+2020-08-27 06:05:20.400207	mors	deploy	спасибо
+2020-08-27 06:20:13.617306	deploy	mors	Download: https://qaz.im/load/rQDtry/QR7y79
+Delete: https://qaz.im/index.php?a=delete&q=972890409
+Pass: FDWQERSADFASADFASDF
+2020-08-27 06:21:33.245001	mors	deploy	ага
+2020-08-27 06:47:47.514287	mors	deploy	все к
+2020-08-27 07:00:28.115953	deploy	mors	Хорошо
+2020-08-27 07:18:12.453273	mors	deploy	Хорошо
+2020-08-27 08:42:03.589242	mors	deploy	криптани плиз
+2020-08-27 08:42:54.906201	deploy	mors	Ок
+2020-08-27 08:43:45.799058	mors	deploy	если можешь сразу, а то палится тот уже. толкьо сейчас файлы обновлю 3 мин плиз
+2020-08-27 08:44:05.972036	deploy	mors	Хорошо
+2020-08-27 08:47:04.686640	mors	deploy	все залил. жду
+
+новые файлы на ссылках
+2020-08-27 08:47:27.442070	deploy	mors	Ок
+2020-08-27 09:13:54.500976	deploy	mors	Download: https://qaz.im/load/reSi79/Rhrk49
+Delete: https://qaz.im/index.php?a=delete&q=1006633530
+Pass: dfWQERASDFASQDFSDF
+2020-08-27 09:14:01.271514	deploy	mors	Чекни
+2020-08-27 09:15:43.250554	mors	deploy	ага
+2020-08-27 09:55:26.479047	mors	deploy	3 execute
+2020-08-27 09:55:31.524971	mors	deploy	1?2 - JR
+2020-08-27 09:55:33.355997	mors	deploy	ОК
+2020-08-27 09:55:36.919031	mors	deploy	1,2 - ОК
+2020-08-27 09:55:39.797500	mors	deploy	ой
+2020-08-27 09:55:42.568229	mors	deploy	не паровильно
+2020-08-27 09:55:46.619929	mors	deploy	1,3 - ОК
+2020-08-27 09:55:51.084303	mors	deploy	2 - execute
+2020-08-27 09:57:36.108642	deploy	mors	Сейчас поправлю
+2020-08-27 09:59:30.508887	deploy	mors	Download: https://qaz.im/load/zK3Eke/bsskte
+Delete: https://qaz.im/index.php?a=delete&q=1931208182
+Pass: FDSAERQSADFASAAFDS
+2020-08-27 10:07:14.078177	mors	deploy	вроде все ок. но комодо на локале ругнулся, скорей всего семейство прицепилось к нему может
+2020-08-27 10:07:32.169502	mors	deploy	предыдущие были чисты от него
+2020-08-27 10:11:24.774296	mors	deploy	все ок вообщето
+2020-08-27 10:20:44.134022	deploy	mors	Хорошо
+2020-08-27 14:27:59.024330	mors	deploy	криптани плиз если можешь сразу, новые файлы на ссылках
+2020-08-27 14:37:53.843141	deploy	mors	Ок
+2020-08-27 14:58:54.597933	deploy	mors	Download: https://qaz.im/load/EkQYBE/azbEND
+Delete: https://qaz.im/index.php?a=delete&q=1469028280
+Pass: DFWQEASDFASAAFDASDF
+2020-08-27 15:01:17.316237	mors	deploy	ага
+2020-08-27 16:13:25.492136	mors	deploy	все ок
+2020-08-27 16:13:36.374136	mors	deploy	4 стаба плиз как обычно
+2020-08-27 16:24:31.400878	deploy	mors	Ок
+2020-08-27 16:27:18.711240	deploy	mors	Download: https://qaz.im/load/z9A7H2/tBYfb5
+Delete: https://qaz.im/index.php?a=delete&q=20461593
+Pass: WQERQSQERWSAFDQWQERW
+2020-08-27 16:27:25.449069	deploy	mors	Чекни
+2020-08-27 16:38:48.410405	deploy	mors	Download: https://qaz.im/load/ikrN3S/HzbZhZ
+Delete: https://qaz.im/index.php?a=delete&q=2053172229
+Pass: DWQERSDADQWQERQSDFS
+2020-08-27 16:39:55.376295	mors	deploy	ага
+2020-08-27 17:12:43.301776	deploy	mors	Download: https://qaz.im/load/QedTEA/KrzkEk
+Delete: https://qaz.im/index.php?a=delete&q=690379031
+Pass: ERQWQSFDQSDFASADFASDF
+2020-08-27 17:12:54.180877	mors	deploy	агаа
+2020-08-27 17:20:17.526055	mors	deploy	еще один плиз
+2020-08-27 17:26:09.853121	deploy	mors	Download: https://qaz.im/load/2tdRz2/5Thbzb
+Delete: https://qaz.im/index.php?a=delete&q=1175984329
+Pass: ERWQESDFAsafdasafadsdf
+2020-08-27 17:26:19.049497	deploy	mors	Чекни
+2020-08-27 17:26:35.808964	mors	deploy	начнинаю
+2020-08-27 17:50:57.008100	deploy	mors	Норм.?
+2020-08-27 17:51:19.373321	mors	deploy	ага спс, не успел проверит я конечно, надеюсь что все ок
+2020-08-28 05:56:09.862007	mors	deploy	как выйдешь криптани плиз сразу
+2020-08-28 05:56:14.888713	mors	deploy	я буду к 9.30
+2020-08-28 06:00:23.966855	mors	deploy	как выйдешь криптани плиз сразу
+2020-08-28 06:00:23.968141	mors	deploy	я буду к 9.30
+2020-08-28 06:12:25.081281	mors	deploy	[08:56:09] <mors> как выйдешь криптани плиз сразу 
+[08:56:14] <mors> я буду к 9.30
+2020-08-28 06:21:13.529219	deploy	mors	Привет
+2020-08-28 06:24:48.656536	deploy	mors	Download: https://qaz.im/load/DRAk9t/b8DNsa
+Delete: https://qaz.im/index.php?a=delete&q=713326935
+Pass: RWQERSAQERWERSAFDAS
+2020-08-28 06:37:15.352521	mors	deploy	Привет
+2020-08-28 06:37:15.361216	mors	deploy	Download: https://qaz.im/load/DRAk9t/b8DNsa
+Delete: https://qaz.im/index.php?a=delete&q=713326935
+Pass: RWQERSAQERWERSAFDAS
+2020-08-28 06:49:38.379777	mors	deploy	тут?
+2020-08-28 06:49:43.170878	mors	deploy	[09:12:24] <mors> [08:56:09] <mors> как выйдешь криптани плиз сразу 
+[08:56:14] <mors> я буду к 9.30
+2020-08-28 06:51:26.014305	deploy	mors	Download: https://qaz.im/load/DRAk9t/b8DNsa
+Delete: https://qaz.im/index.php?a=delete&q=713326935
+Pass: RWQERSAQERWERSAFDAS
+2020-08-28 06:51:31.616709	mors	deploy	спс
+2020-08-28 06:51:32.897606	deploy	mors	Привет
+2020-08-28 06:51:34.573932	mors	deploy	чекаю
+2020-08-28 07:18:57.317021	mors	deploy	2 файл. не туда стучит переделай плиз очень жду
+2020-08-28 07:19:02.168542	mors	deploy	бежать надо 0
+2020-08-28 07:19:02.684666	mors	deploy	)
+2020-08-28 07:19:11.922631	mors	deploy	т.е. 2 файл - как 1 файл
+2020-08-28 07:22:54.359778	deploy	mors	Ок
+2020-08-28 07:22:57.237476	mors	deploy	если прочитал у меня мин 10 осталось плиз
+2020-08-28 07:28:05.040056	deploy	mors	Download: https://qaz.im/load/H3Nfy6/SyH2k4
+Delete: https://qaz.im/index.php?a=delete&q=1558792317
+Pass: FDQERSADFASAFDASDF
+2020-08-28 10:30:19.982571	mors	deploy	криптани плиз
+2020-08-28 10:49:13.457230	deploy	mors	OK
+2020-08-28 11:39:47.824590	deploy	mors	Download: https://qaz.im/load/kZiiSn/FGK92k
+Delete: https://qaz.im/index.php?a=delete&q=2119550127
+Pass: DFQWERASDFQEWRAFDASD
+2020-08-28 11:39:56.583018	mors	deploy	ага
+2020-08-28 11:56:03.585168	mors	deploy	все ок
+2020-08-28 11:56:18.344327	deploy	mors	Хорошо
+2020-08-28 11:56:31.553574	mors	deploy	ты сегодня до 20.00 ?
+2020-08-28 11:56:48.071734	deploy	mors	Да
+2020-08-28 11:56:51.262420	mors	deploy	мне получается помимо 8 стабов на выходные еще надо будет тогда ((
+2020-08-28 11:57:07.340639	mors	deploy	сможешь сделать?
+2020-08-28 11:57:16.052179	mors	deploy	4 + 8 получается )
+2020-08-28 11:57:58.653091	mors	deploy	только просьба к тебе, я не смогу так быстро все проверить, я проверея не посредственно перед обновлением. проверь плиз
+2020-08-28 11:58:56.334868	deploy	mors	8 сделаю, а дальше не могу гарантировать
+2020-08-28 12:15:04.155986	mors	deploy	я скоро новые файлы выкачу
+2020-08-28 12:15:07.170775	mors	deploy	минут 30
+2020-08-28 12:17:06.669057	deploy	mors	Ок
+2020-08-28 12:52:38.833287	mors	deploy	новые файлы на ссылках, криптани плиз
+2020-08-28 12:56:32.637349	deploy	mors	Ок
+2020-08-28 13:39:40.472397	deploy	mors	Download: https://qaz.im/load/B7ANah/HZshn2
+Delete: https://qaz.im/index.php?a=delete&q=2041803210
+Pass: DFWQRESADFQEWAFDASDAFS
+2020-08-28 14:18:17.125134	mors	deploy	ага ща
+2020-08-28 14:48:16.419097	mors	deploy	все ок
+2020-08-28 14:49:12.747006	mors	deploy	все ок
+2020-08-28 14:51:20.777984	deploy	mors	Хорошо
+2020-08-28 15:56:11.389236	mors	deploy	мне отлучится надо
+2020-08-28 15:56:25.343615	mors	deploy	до 20.30 примерно, тут еще будешь?
+2020-08-28 15:59:25.497053	deploy	mors	Да
+2020-08-28 16:00:58.171268	mors	deploy	ок спс
+2020-08-28 17:44:38.525606	deploy	mors	Download: https://qaz.im/load/sfkS6H/RFyzF3
+Delete: https://qaz.im/index.php?a=delete&q=2015337407
+Pass: DFSQERWREWASDFQWASDAS
+2020-08-28 17:44:50.699446	deploy	mors	9 стабов, чекни
+2020-08-28 17:44:55.563073	mors	deploy	ага
+2020-08-28 17:50:48.331936	mors	deploy	мы работаем над длл, ты ведь можешь ее криптовать?
+2020-08-28 17:50:58.214826	mors	deploy	на следующей недели думаю уже будет
+2020-08-28 17:52:52.215815	deploy	mors	Да, могу
+2020-08-28 17:53:01.594926	mors	deploy	отлично
+2020-08-30 19:24:06.208626	deploy	mors	Привет
+2020-08-30 19:24:13.050377	deploy	mors	Download: https://qaz.im/load/s96f26/dFinAB
+Delete: https://qaz.im/index.php?a=delete&q=1343921916
+Pass: ERQWDFQSREWQSDQWQER
+2020-08-30 19:24:22.623072	deploy	mors	Чекни
+2020-08-31 05:54:03.634308	mors	deploy	привет
+2020-08-31 05:54:13.361937	mors	deploy	криптани плиз. новые файлы на ссылках
+2020-08-31 05:55:31.016474	deploy	mors	Привет
+2020-08-31 05:55:37.834896	deploy	mors	Ок
+2020-08-31 06:52:14.953909	deploy	mors	Download: https://qaz.im/load/56EhsF/7AZfZ4
+Delete: https://qaz.im/index.php?a=delete&q=1446402220
+Pass: dWQERSADFASAAFDASADF
+2020-08-31 06:52:51.670270	mors	deploy	ага
+2020-08-31 07:22:25.182732	mors	deploy	все ок
+2020-08-31 07:27:04.435663	deploy	mors	Хорошо
+2020-08-31 09:24:47.955358	mors	deploy	криптани плиз. новые файлы на ссылках
+2020-08-31 09:25:06.599698	deploy	mors	Ок
+2020-08-31 10:30:22.389675	mors	deploy	не все еще ?
+2020-08-31 10:30:46.958990	deploy	mors	Еще нет, в течении часа скину
+2020-08-31 10:30:53.309943	mors	deploy	ок
+2020-08-31 11:40:32.935292	deploy	mors	Download: https://qaz.im/load/Kb6YQi/59i37B
+Delete: https://qaz.im/index.php?a=delete&q=1151801582
+Pass: DQWEASDQERWERASFDASFD
+2020-08-31 11:40:39.609262	deploy	mors	Чекни
+2020-08-31 11:41:54.778225	mors	deploy	ага
+2020-08-31 13:52:41.437066	mors	deploy	криптани плиз
+2020-08-31 14:03:33.438352	deploy	mors	Ок
+2020-08-31 15:25:32.634773	mors	deploy	сегодня проблемы с криптом у тебя ?
+2020-08-31 15:26:26.424424	deploy	mors	Сегодня мало криптую
+2020-08-31 15:26:37.317008	deploy	mors	Обновляю крипт
+2020-08-31 15:26:50.027672	mors	deploy	завтра уже все ок будет?
+2020-08-31 15:27:06.109786	mors	deploy	весь день на грязном сижу ( палит
+2020-08-31 15:27:14.181856	deploy	mors	Думаю, да
+2020-08-31 15:27:29.270576	mors	deploy	криптани плиз мне
+2020-08-31 15:34:38.405462	deploy	mors	Download: https://qaz.im/load/fibnEh/rK2f7D
+Delete: https://qaz.im/index.php?a=delete&q=336337038
+Pass: REQWDFASQFDSADFASADF
+2020-08-31 15:43:06.002128	mors	deploy	все ок
+2020-08-31 15:43:16.935228	mors	deploy	не забываем про стабы плиз мне. на ночь
+2020-08-31 16:09:56.051832	mors	deploy	мне отъехать надо на часа полтора, не забудь плиз про меня 4 стаба плиз
+2020-08-31 16:11:18.345456	deploy	mors	Ок
+2020-08-31 17:49:39.622891	mors	deploy	что-то сегодня детекты прилетают часто
+2020-08-31 17:49:42.437628	mors	deploy	криптани плиз
+2020-08-31 17:55:34.385688	deploy	mors	Будет 2 стаба
+2020-08-31 17:55:51.457647	deploy	mors	Больше нет, сегодня все ушли
+2020-08-31 17:56:06.695619	mors	deploy	завтра все ок будет?
+2020-08-31 17:56:39.102192	mors	deploy	сегодня что-то вообще плохо из-за ехе ( ругается деф, хоть мы и почистили полностью
+2020-08-31 17:57:00.327660	deploy	mors	Download: https://qaz.im/load/3ENRn7/6RhbRe
+Delete: https://qaz.im/index.php?a=delete&q=1494846952
+Pass: dfsQRESQDFQSDFASADFAASDf
+2020-08-31 17:57:36.886930	deploy	mors	Быстро сливается
+2020-08-31 17:57:46.893658	deploy	mors	Это от меня не зависит
+2020-08-31 17:58:04.823758	mors	deploy	а у нас с триком одинаковые стабы ?
+2020-08-31 18:14:28.176999	deploy	mors	а у нас с триком одинаковые стабы ?
+2020-09-01 06:36:18.847121	mors	deploy	привет. криптани плиз очень надо
+2020-09-01 06:36:47.346664	deploy	mors	Привет
+2020-09-01 06:36:54.061230	deploy	mors	Ок
+2020-09-01 06:55:14.759867	deploy	mors	Download: https://qaz.im/load/i482F7/D3KTt2
+Delete: https://qaz.im/index.php?a=delete&q=1812079274
+Pass: dWQERSQDFEARSQQQFDQSDf
+2020-09-01 06:55:21.547192	deploy	mors	Чекни
+2020-09-01 06:57:33.393236	mors	deploy	ага
+2020-09-01 07:04:36.347904	mors	deploy	строка таже в ехе для крипта?
+2020-09-01 07:09:50.411263	deploy	mors	Да
+2020-09-01 08:54:55.540526	mors	deploy	криптани плиз
+2020-09-01 08:55:17.509970	deploy	mors	Ок
+2020-09-01 08:57:25.613142	deploy	mors	Download: https://qaz.im/load/b4ZTE9/84FyQG
+Delete: https://qaz.im/index.php?a=delete&q=67521797
+Pass: dWQSDAFQSFDASFDSAFDASDF
+2020-09-01 08:57:32.362952	deploy	mors	Чекни
+2020-09-01 09:01:39.474496	mors	deploy	ага
+2020-09-01 09:53:36.210099	mors	deploy	все ок
+2020-09-01 09:54:47.444695	deploy	mors	Хорошо
+2020-09-01 12:02:27.833207	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-09-01 12:02:46.354167	deploy	mors	Ок
+2020-09-01 12:58:11.230776	deploy	mors	Download: https://qaz.im/load/RD8ian/dYsSKQ
+Delete: https://qaz.im/index.php?a=delete&q=1408746499
+Pass: RWQSAFDQSDFASDFAASAD
+2020-09-01 12:58:17.922547	deploy	mors	Чекни
+2020-09-01 13:08:22.369409	mors	deploy	все 3 файла не зауспкаются
+2020-09-01 13:08:41.885359	mors	deploy	не самоудаляются, в процесах не висят
+2020-09-01 13:24:08.422016	mors	deploy	тут?
+2020-09-01 13:25:17.407222	deploy	mors	Сейчас гляну
+2020-09-01 13:25:45.222797	deploy	mors	У меня работает
+2020-09-01 13:27:33.435541	mors	deploy	вообще ни как, не засупкается
+2020-09-01 13:29:11.443363	mors	deploy	не работает 100%
+2020-09-01 13:29:25.989699	deploy	mors	Download: https://qaz.im/load/Nz5aKf/756NzH
+Delete: https://qaz.im/index.php?a=delete&q=1479722279
+Pass: DSQESADFASAAFDAS
+2020-09-01 13:29:37.379194	deploy	mors	Попробуй этот
+2020-09-01 13:30:25.513386	mors	deploy	ага
+2020-09-01 13:31:42.435283	mors	deploy	тоже нет
+2020-09-01 13:34:01.767532	deploy	mors	Странно
+2020-09-01 13:34:22.179530	mors	deploy	ща на 7 проверю
+2020-09-01 13:35:20.803697	deploy	mors	Не нужно
+2020-09-01 13:35:27.564474	deploy	mors	Download: https://qaz.im/load/he6nZ8/7SzBdS
+Delete: https://qaz.im/index.php?a=delete&q=1815475151
+Pass: rEWQRESQSQDFSQDF
+2020-09-01 13:35:38.575250	deploy	mors	Вот новый вариант
+2020-09-01 13:37:36.063016	mors	deploy	ты на какой винде проверяешь ?
+2020-09-01 13:38:13.892815	mors	deploy	на 7 запустилось на 10 нет
+2020-09-01 13:38:24.049421	mors	deploy	сейчас 10 перезапускаю
+2020-09-01 13:40:21.995320	deploy	mors	На Server 2019
+2020-09-01 13:40:44.843182	mors	deploy	на вин 10 не работает стаб
+2020-09-01 13:40:45.870311	mors	deploy	(
+2020-09-01 13:40:52.898618	mors	deploy	на вин7 х64 работает
+2020-09-01 13:41:52.981841	deploy	mors	> Download: https://qaz.im/load/he6nZ8/7SzBdS
+Delete: https://qaz.im/index.php?a=delete&q=1815475151
+Pass: rEWQRESQSQDFSQDF
+Этот?
+2020-09-01 13:41:58.265943	mors	deploy	960
+2020-09-01 13:42:07.122793	mors	deploy	да
+2020-09-01 13:42:26.893788	deploy	mors	Посмотри не криптованный
+2020-09-01 13:42:43.769894	mors	deploy	ок, я поменял только ИП
+2020-09-01 13:42:46.477983	mors	deploy	так то
+2020-09-01 13:43:04.674927	deploy	mors	Буду смотреть
+2020-09-01 13:46:53.914517	mors	deploy	основной работает
+2020-09-01 13:56:36.951964	deploy	mors	Download: https://qaz.im/load/Kh5s3b/8ZErKK
+Delete: https://qaz.im/index.php?a=delete&q=1402848626
+Pass: DFWQERSADFAASAFDASADF
+2020-09-01 13:56:45.803214	deploy	mors	Чекни
+2020-09-01 13:56:51.390151	mors	deploy	ага
+2020-09-01 14:00:17.522811	mors	deploy	стаб ок, только плиз перекриптуй 1 файл, новый лежит на ссылке
+2020-09-01 14:01:17.580634	deploy	mors	Хорошо
+2020-09-01 14:06:03.991282	deploy	mors	Download: https://qaz.im/load/i3aQZy/Z7ntyf
+Delete: https://qaz.im/index.php?a=delete&q=1420610474
+Pass: DFWQEASDFAASDAFASF
+2020-09-01 14:09:30.988360	mors	deploy	ага
+2020-09-01 16:29:34.085646	mors	deploy	не забывай про меня плиз, 4 стаба
+2020-09-01 16:29:46.904719	deploy	mors	Ок
+2020-09-01 17:35:43.426688	deploy	mors	Download: https://qaz.im/load/a92QR5/77QNyh
+Delete: https://qaz.im/index.php?a=delete&q=47215672
+Pass: dFQFDSAQERSAFDASAAFDASd
+2020-09-01 17:37:00.715418	mors	deploy	ага
+2020-09-01 17:43:22.264881	deploy	mors	Download: https://qaz.im/load/aaAAk6/66HDfZ
+Delete: https://qaz.im/index.php?a=delete&q=1582736820
+Pass: DFSQERSADFASAAFDASADF
+2020-09-01 17:58:42.313151	mors	deploy	ок
+2020-09-01 18:21:58.213898	deploy	mors	Download: https://qaz.im/load/drBT8K/s7S25D
+Delete: https://qaz.im/index.php?a=delete&q=1791437519
+Pass: ERWQESADFQSDFASADS
+2020-09-01 18:25:17.406047	mors	deploy	962 ок
+2020-09-01 18:26:05.483096	deploy	mors	Download: https://qaz.im/load/tKsSBs/FF7TYR
+Delete: https://qaz.im/index.php?a=delete&q=1637388243
+Pass: REWQRESAFDASADFASADF
+2020-09-01 18:26:12.266122	deploy	mors	Чекни
+2020-09-01 18:27:26.889414	mors	deploy	ага
+2020-09-01 18:27:27.890056	deploy	mors	> Download: https://qaz.im/load/tKsSBs/FF7TYR
+Delete: https://qaz.im/index.php?a=delete&q=1637388243
+Pass: REWQRESAFDASADFASADF
+Этот скачай
+Download: https://qaz.im/load/8yFfek/kG9Rab
+Delete: https://qaz.im/index.php?a=delete&q=1870942607
+2020-09-01 18:27:44.101414	deploy	mors	Это последний который
+2020-09-01 18:27:48.994308	mors	deploy	ок
+2020-09-01 18:28:25.701416	mors	deploy	TextfileDemo3
+
+?
+2020-09-01 18:31:12.415658	deploy	mors	Да
+2020-09-02 04:42:58.292016	mors	deploy	привет, как придешь криптани плиз
+
+я буду около 9.00 сразу обновлю, спалились стабы
+2020-09-02 08:51:56.175506	mors	deploy	привет, как придешь криптани плиз
+
+я буду около 9.00 сразу обновлю, спалились стабы
+2020-09-02 08:52:46.107979	mors	deploy	привет
+2020-09-02 08:52:51.302937	mors	deploy	криптани плиз. очень надо
+2020-09-02 08:53:55.762657	mors	deploy	тут?
+2020-09-02 08:56:40.698032	deploy	mors	Привет
+2020-09-02 08:56:53.907453	mors	deploy	очень надо )
+2020-09-02 09:09:53.580625	deploy	mors	Download: https://qaz.im/load/bD4he2/Fttz43
+Delete: https://qaz.im/index.php?a=delete&q=132685250
+Pass: dSERQSADFQSDFQSQDFQQSD
+2020-09-02 09:10:01.351630	mors	deploy	ага
+2020-09-02 09:18:37.178964	mors	deploy	все ок
+2020-09-02 09:19:51.588307	deploy	mors	Хорошо
+2020-09-03 04:35:47.635658	mors	deploy	как придешь криптани плиз
+2020-09-04 08:34:24.587480	mors	deploy	как придешь криптани плиз
+2020-09-04 09:00:53.187718	deploy	mors	Привет
+2020-09-04 09:00:59.943961	deploy	mors	Download: https://qaz.im/load/D66FRR/FA2nHQ
+Delete: https://qaz.im/index.php?a=delete&q=595396782
+Pass: FDSWQERASDFASADFASDF
+2020-09-04 09:04:24.824324	mors	deploy	ооо привет )
+2020-09-04 09:04:32.366983	mors	deploy	актуальные файлы качнул?
+2020-09-04 09:04:45.048186	deploy	mors	Да
+2020-09-04 09:04:55.229637	mors	deploy	чистился ?
+2020-09-04 09:05:11.721511	mors	deploy	мы тоже чистимся, к понедельнику думаю новую версию выкатим
+2020-09-04 09:05:16.516064	mors	deploy	ща проверю
+2020-09-04 09:08:34.896217	deploy	mors	Были проблемы
+2020-09-04 09:31:30.302946	mors	deploy	со строкой делал?
+2020-09-04 09:32:54.342648	deploy	mors	Да
+2020-09-04 11:01:47.588126	mors	deploy	криптани плиз
+2020-09-04 11:02:02.409691	deploy	mors	Ок
+2020-09-04 11:59:19.923485	deploy	mors	Download: https://qaz.im/load/H93Y2R/7BdkGe
+Delete: https://qaz.im/index.php?a=delete&q=1011545937
+Pass: DSQRSQDAFQWADSFDASDf
+2020-09-04 15:02:00.413604	mors	deploy	3 файл оказалось стучит не туда, криптани плиз заново, заодно давай все 3 сразу
+
+очень надо прямо сейчас, ок ?
+2020-09-04 15:05:46.624961	deploy	mors	Ок
+2020-09-04 15:15:24.682586	deploy	mors	Download: https://qaz.im/load/Z9e7YF/82eB8K
+Delete: https://qaz.im/index.php?a=delete&q=1075000741
+Pass: DSQERSADFQWEADFASDF
+2020-09-04 15:16:20.802450	mors	deploy	ага
+2020-09-04 15:46:47.718521	deploy	mors	Норм.?
+2020-09-04 15:47:05.160832	mors	deploy	еще проверяю
+2020-09-04 15:47:06.788458	mors	deploy	5 мин
+2020-09-04 15:52:00.677499	mors	deploy	все ок
+2020-09-04 15:52:22.096592	mors	deploy	не забывай плиз, сегодня пятница 8 стабов плиз
+2020-09-04 15:52:27.075292	mors	deploy	ты до 20.00 ?
+2020-09-04 15:53:26.878814	deploy	mors	До 21
+2020-09-04 15:53:39.144573	deploy	mors	Помню, сделаю
+2020-09-04 15:53:42.410238	mors	deploy	ага
+2020-09-04 17:46:01.269849	deploy	mors	Download: https://qaz.im/load/AT7RiN/QTN9a9
+Delete: https://qaz.im/index.php?a=delete&q=1897389801
+Pass: DFWQREASDFQWEADASD
+2020-09-04 18:18:29.158028	deploy	mors	Download: https://qaz.im/load/AT7RiN/QTN9a9
+Delete: https://qaz.im/index.php?a=delete&q=1897389801
+Pass: DFWQREASDFQWEADASD
+2020-09-04 18:19:21.231641	mors	deploy	я тут
+2020-09-04 18:20:55.881089	deploy	mors	Хорошо
+2020-09-04 18:27:20.543124	deploy	mors	Получил архив?
+2020-09-04 18:27:32.532254	mors	deploy	да спс, скачал
+2020-09-04 18:27:43.967412	mors	deploy	3 стаба ?
+2020-09-04 18:28:41.233727	deploy	mors	Да, дальше делаю
+2020-09-04 18:28:47.252242	mors	deploy	оке
+2020-09-04 18:43:45.730130	deploy	mors	Download: https://qaz.im/load/53kdz2/8kkN68
+Delete: https://qaz.im/index.php?a=delete&q=1313427288
+Pass: DFSQERSAFDQERQFDASADFS
+2020-09-04 18:57:03.865489	mors	deploy	ага
+2020-09-04 19:07:42.408628	deploy	mors	Download: https://qaz.im/load/576Sae/3d8zfe
+Delete: https://qaz.im/index.php?a=delete&q=503807243
+Pass: SADGFHDWFDTFWGHDFHGDF
+2020-09-04 19:08:12.440605	deploy	mors	Чекни
+2020-09-04 19:08:20.751125	mors	deploy	ага
+2020-09-04 19:16:18.953174	mors	deploy	я к сожалению не могу проверить все, но статика вся чистая
+
+спс, приятных выходных
+
+до воскрсенья
+2020-09-04 19:20:26.141940	deploy	mors	Взаимно, до воскресенья))
+2020-09-04 19:56:36.903502	mors	deploy	тут еще ?
+2020-09-04 19:58:20.347188	deploy	mors	Уже выхожу
+2020-09-04 19:58:26.831403	mors	deploy	970 2 файл, сделан как первый (
+2020-09-04 19:58:33.432441	mors	deploy	стучит не туда
+2020-09-04 19:58:45.146786	mors	deploy	наверное ты уже не можешьт поменять?
+2020-09-04 20:02:52.177481	deploy	mors	Download: https://qaz.im/load/SaGfKD/2R5dDA
+Delete: https://qaz.im/index.php?a=delete&q=2072919655
+Pass: DFSQEADFASADFAS
+2020-09-04 20:03:01.138569	deploy	mors	Поправил
+2020-09-04 20:03:52.737174	mors	deploy	ага спс
+2020-09-04 20:03:53.958499	mors	deploy	бб
+2020-09-04 20:19:22.898213	deploy	mors	ага спс
+2020-09-04 20:19:22.900546	deploy	mors	бб
+2020-09-06 18:46:36.206335	deploy	mors	Download: https://qaz.im/load/6YrbhY/s5dAbH
+Delete: https://qaz.im/index.php?a=delete&q=1451164915
+Pass: DFSQERASDAFSQADASAS
+2020-09-06 18:46:43.267546	deploy	mors	Привет
+2020-09-06 18:46:50.892992	deploy	mors	Чекни
+2020-09-07 07:27:18.918221	mors	deploy	привет
+2020-09-07 07:27:32.084207	mors	deploy	сейчас серт сделаю и траф пустим на новый сервер, 20 мин
+2020-09-07 07:50:35.945002	deploy	mors	Привет
+2020-09-07 07:51:14.369070	mors	deploy	привет
+2020-09-07 12:59:43.327506	mors	deploy	криптани плиз
+2020-09-07 13:00:29.702371	deploy	mors	OK
+2020-09-07 13:32:48.978115	deploy	mors	Download: https://qaz.im/load/2zDk43/kiHkQR
+Delete: https://qaz.im/index.php?a=delete&q=274416415
+Pass: dSQERSADQSDFASDFS
+2020-09-07 16:20:35.037471	mors	deploy	ты до скольки ?
+2020-09-07 16:25:36.413387	deploy	mors	До 21
+2020-09-07 18:07:02.479733	mors	deploy	2 стаба плиз
+2020-09-07 18:08:00.746342	deploy	mors	Ок
+2020-09-07 19:01:42.063772	deploy	mors	Download: https://qaz.im/load/RSzZGK/bhFk2b
+Delete: https://qaz.im/index.php?a=delete&q=1104445117
+Pass: FDSQERSADFSAADFASADF
+2020-09-07 19:10:02.867226	mors	deploy	а ты тут еще будешь?
+2020-09-07 19:10:14.849138	mors	deploy	можешь новый ехе криптануть?
+2020-09-07 19:12:12.308020	deploy	mors	Уже выхожу
+2020-09-07 19:12:30.596575	deploy	mors	Уже есть .exe?
+2020-09-07 19:12:57.294687	mors	deploy	есть
+2020-09-07 19:12:59.696786	mors	deploy	на ссылках
+2020-09-07 19:13:30.487694	deploy	mors	Сейчас перекачаю
+2020-09-07 19:13:38.135073	mors	deploy	спасибор большое
+2020-09-07 19:26:49.951513	deploy	mors	Download: https://qaz.im/load/YshZKA/Bk7btY
+Delete: https://qaz.im/index.php?a=delete&q=604306953
+Pass: SQERASSSSSSDAAWWW
+2020-09-07 19:26:53.376561	mors	deploy	агаэ
+2020-09-07 19:26:56.923462	deploy	mors	Чекни
+2020-09-07 19:27:02.958607	mors	deploy	ага
+2020-09-07 19:27:11.088904	mors	deploy	быстро сделаю
+2020-09-07 19:27:46.775033	mors	deploy	983
+984
+
+?
+2020-09-07 19:28:05.745762	deploy	mors	Да
+2020-09-07 19:30:20.588644	mors	deploy	все ок
+2020-09-07 19:31:39.846535	deploy	mors	Доброй ночи)
+2020-09-08 18:42:44.112987	mors	deploy	тут?
+2020-09-08 18:42:57.770676	mors	deploy	как закрепится в системе лучше после автозагрузки?
+2020-09-08 18:43:04.203696	mors	deploy	что палит АВ больше. подскажи
+2020-09-08 18:46:15.998206	deploy	mors	Привет
+2020-09-08 18:48:10.542007	deploy	mors	Можно в реестре поменять путь к папке автозагрузка на другую и там создать ярлык на запуск .exe
+2020-09-08 19:22:43.743471	mors	deploy	ты еще долго будешь?
+2020-09-08 19:23:45.820608	deploy	mors	В офф. буду уходить
+2020-09-08 19:23:54.949773	mors	deploy	ок
+2020-09-08 19:24:29.575635	deploy	mors	Чистишь лоадер?
+2020-09-08 19:24:34.450118	mors	deploy	ага
+2020-09-08 19:25:00.099867	deploy	mors	На автозагрузку прицепился?
+2020-09-08 19:25:02.194576	mors	deploy	палит прописывание в автозагрузку
+2020-09-08 19:25:03.814190	mors	deploy	ага
+2020-09-08 19:25:25.787738	mors	deploy	может что подскажешь?
+2020-09-08 19:25:29.111953	deploy	mors	Дефендер?
+2020-09-08 19:25:32.481482	mors	deploy	да
+2020-09-08 19:27:34.246722	deploy	mors	Выше метод который я писал работал без проблем, сейчас не знаю, я поищу исходник который для автозагрузки и скину тебе, на C++
+2020-09-08 19:28:06.212163	mors	deploy	сейчас поищешь?
+2020-09-08 19:32:53.654526	deploy	mors	Сейчас ищу, если не найду, тогда по новой напишу
+2020-09-08 19:33:14.368961	mors	deploy	оке жду
+2020-09-08 19:34:34.015637	mors	deploy	вот в этом ключе реестра он менял?
+
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+2020-09-08 19:39:02.679096	deploy	mors	Да
+2020-09-08 19:44:38.418340	deploy	mors	Завтра уже тогда напишу, не могу найти. Там логика была создать папку, изменить в реестре на новую папку автозагрузки и в этой папке создать ярлык на .exe.
+2020-09-08 19:44:49.771079	mors	deploy	ок спс
+2020-09-08 19:44:59.273999	mors	deploy	сейчас заплатку поставим временную пока
+2020-09-08 19:46:11.456722	deploy	mors	До завтра)
+2020-09-09 08:12:06.847833	mors	deploy	привет, криптани плиз, новые файлы на ссылах
+2020-09-09 08:12:35.282213	deploy	mors	Ок
+2020-09-09 08:43:28.577362	deploy	mors	Download: https://qaz.im/load/diHZ85/BA36fB
+Delete: https://qaz.im/index.php?a=delete&q=1056774239
+Pass: fDSQERSADFQSDFASADF
+2020-09-09 08:54:35.483519	mors	deploy	ага
+2020-09-09 08:58:31.699049	mors	deploy	1 файл стучит не туда, сделалн как 2 файл
+2020-09-09 09:00:20.857231	deploy	mors	Ок
+2020-09-09 09:00:52.385099	mors	deploy	2-3 ОК
+2020-09-09 09:06:52.821067	mors	deploy	сейчас сделаешь?
+2020-09-09 09:21:53.896925	deploy	mors	сейчас сделаешь?
+2020-09-09 09:30:08.553098	deploy	mors	Download: https://qaz.im/load/Z3ANdy/nb2YKe
+Delete: https://qaz.im/index.php?a=delete&q=1988188569
+Pass: FDSQERSAFDASAAFDS
+2020-09-09 09:33:45.911217	deploy	mors	> Download: https://qaz.im/load/Z3ANdy/nb2YKe
+Delete: https://qaz.im/index.php?a=delete&q=1988188569
+Pass: FDSQERSAFDASAAFDS
+Это не нужно
+2020-09-09 09:33:52.840039	deploy	mors	Download: https://qaz.im/load/Nh9HrE/923833
+Delete: https://qaz.im/index.php?a=delete&q=670142495
+Pass: DFSQAFDASAFDASADFSf
+2020-09-09 17:43:11.304780	mors	deploy	криптани плиз 2 стаба
+2020-09-09 17:44:13.512529	deploy	mors	Ок
+2020-09-09 18:59:20.615833	deploy	mors	Download: https://qaz.im/load/fzk3sB/FGyKrD
+Delete: https://qaz.im/index.php?a=delete&q=1515472731
+Pass: DWQASDQWRADQWADAS
+2020-09-09 19:13:01.270715	mors	deploy	+
+2020-09-10 08:48:09.328662	mors	deploy	привет, криптани плиз
+2020-09-10 08:48:25.430455	deploy	mors	Привет
+2020-09-10 08:48:32.887062	deploy	mors	Ок
+2020-09-10 10:05:34.180629	deploy	mors	Download: https://qaz.im/load/7NHfEs/9R6HyQ
+Delete: https://qaz.im/index.php?a=delete&q=831494677
+Pass: WQADQWADQERATQSDAWQ
+2020-09-10 10:20:29.959515	mors	deploy	ок
+2020-09-10 10:28:47.521448	mors	deploy	все ок
+2020-09-10 10:35:39.225595	deploy	mors	Хорошо
+2020-09-10 15:15:36.754582	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-09-10 15:17:07.683316	deploy	mors	Ок
+2020-09-10 15:52:07.726906	deploy	mors	У тебя остался тот детект на 10-ке?
+2020-09-10 15:56:00.020544	mors	deploy	да (
+2020-09-10 15:56:10.687548	mors	deploy	к понедельнику только сможеи исправить
+2020-09-10 15:56:26.604815	mors	deploy	Script:Wacatac как то так
+2020-09-10 15:56:29.412849	mors	deploy	после отсутка (
+2020-09-10 15:59:37.998291	deploy	mors	По своим наблюдениям хочу сказать что деф. плохо реагирует когда в имени файла есть кириллица, к примеру если файл будет прописываться с именем (вомовлмгвг.exe) или там иероглифы он реже палит
+2020-09-10 16:22:27.165812	deploy	mors	Download: https://qaz.im/load/fkGTYK/yT5R25
+Delete: https://qaz.im/index.php?a=delete&q=955207950
+Pass: fDSQERSADFQEWRWARASDF
+2020-09-10 17:57:06.712388	mors	deploy	ну и на ночь 2 стаба плиз
+2020-09-10 17:59:08.772701	deploy	mors	Ок
+2020-09-10 20:00:57.465176	deploy	mors	Download: https://qaz.im/load/ardSKb/GeT2zA
+Delete: https://qaz.im/index.php?a=delete&q=635833269
+Pass: SRAQEWRSDQGFDFGWHFDJWGHDK
+2020-09-10 20:01:55.779343	deploy	mors	2 стаба
+2020-09-11 07:30:48.271994	mors	deploy	привет, крптани плиз
+2020-09-11 07:30:58.127054	deploy	mors	Привет
+2020-09-11 07:31:05.094000	deploy	mors	Ок
+2020-09-11 08:06:51.668485	deploy	mors	Download: https://qaz.im/load/3Gkdtk/nYH3Qr
+Delete: https://qaz.im/index.php?a=delete&q=1272052856
+Pass: TERQWFDASAFDAASAFDS
+2020-09-11 08:07:02.606571	deploy	mors	Чекни
+2020-09-11 13:44:15.782417	mors	deploy	привет, не забывай про стабы
+2020-09-11 13:44:17.556439	mors	deploy	7 шт
+2020-09-11 13:44:41.773345	deploy	mors	Ок
+2020-09-11 18:31:14.357180	mors	deploy	скидывал?
+2020-09-11 18:31:29.909034	deploy	mors	Еще нет. Делаю
+2020-09-11 18:31:43.973146	mors	deploy	ок
+2020-09-11 18:34:08.907869	deploy	mors	Download: https://qaz.im/load/keKbhZ/GhKRd2
+Delete: https://qaz.im/index.php?a=delete&q=215143553
+Pass: ERWQASFDASAAFDAQEAD
+2020-09-11 18:34:15.901045	deploy	mors	Чекни
+2020-09-11 19:39:41.688103	mors	deploy	ага
+2020-09-11 20:07:42.506311	deploy	mors	Download: https://qaz.im/load/yB5kNi/YNRHK9
+Delete: https://qaz.im/index.php?a=delete&q=1054752598
+Pass: dfSQERSAFDQSERWASQWAE
+2020-09-11 20:08:02.135881	deploy	mors	Еще 5 стабов
+2020-09-11 20:08:11.531559	deploy	mors	Чекни
+2020-09-13 21:54:23.631619	deploy	mors	Привет
+2020-09-13 21:54:52.968375	deploy	mors	Download: https://qaz.im/load/26biT3/E3GibT
+Delete: https://qaz.im/index.php?a=delete&q=1878884681
+Pass; FDSQERSADFAASADFS
+2020-09-14 07:48:12.210735	mors	deploy	криптани плиз
+2020-09-14 07:48:13.919256	mors	deploy	привет
+2020-09-14 07:50:43.329328	deploy	mors	Привет
+2020-09-14 07:50:50.393438	deploy	mors	Ок
+2020-09-14 08:09:56.865045	deploy	mors	Download: https://qaz.im/load/aazk2n/9BDSDK
+Delete: https://qaz.im/index.php?a=delete&q=487966997
+Pass: DFSQADFQSERSADFASADF
+2020-09-14 08:10:03.815184	deploy	mors	Чекни
+2020-09-14 08:13:53.430764	mors	deploy	ок
+2020-09-14 11:01:18.397904	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-09-14 11:05:20.118405	deploy	mors	Ок
+2020-09-14 11:53:46.153178	deploy	mors	Download: https://qaz.im/load/ANd9dh/tEnh6d
+Delete: https://qaz.im/index.php?a=delete&q=1571641434
+Pass: dsERQSADFASADFAASADFASDF
+2020-09-14 11:53:53.095046	deploy	mors	Чекни
+2020-09-14 11:54:02.970441	mors	deploy	ага
+2020-09-14 15:05:55.878685	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-09-14 15:09:07.256024	deploy	mors	Ok
+2020-09-14 16:30:14.508411	mors	deploy	с ориентируй по временги плиз
+2020-09-14 16:30:26.053941	mors	deploy	и до скольки работаешь?
+2020-09-14 16:30:33.841947	deploy	mors	10 мин.
+2020-09-14 16:30:40.802799	deploy	mors	До 22
+2020-09-14 16:31:05.619724	mors	deploy	оке
+2020-09-14 16:32:39.228593	deploy	mors	Download: https://qaz.im/load/st6ne8/TiGQHt
+Delete: https://qaz.im/index.php?a=delete&q=1364831533
+Pass: FDSQERSAFDQWAFSDAASFD
+2020-09-14 16:32:48.480576	deploy	mors	Чекни
+2020-09-14 16:33:22.688671	mors	deploy	ага
+2020-09-14 17:24:18.024223	mors	deploy	все ок
+2020-09-14 17:24:28.458108	mors	deploy	мне сегодня на ночь 3-4 стаба надо
+2020-09-14 17:31:42.245562	deploy	mors	Хорошо
+2020-09-14 19:52:30.976632	deploy	mors	Download: https://qaz.im/load/Eaf4bK/8dE3r7
+Delete: https://qaz.im/index.php?a=delete&q=50989725
+Pass: dfSQERSADFQSFDASFDAASAADFS
+2020-09-14 19:52:40.022407	deploy	mors	4 стаба. Чекни
+2020-09-14 19:52:46.396864	mors	deploy	ага
+2020-09-15 07:10:25.914982	mors	deploy	криптаи плиз
+2020-09-15 07:10:28.912166	mors	deploy	привет
+2020-09-15 07:10:33.116091	mors	deploy	если можешь сразу
+2020-09-15 07:11:16.572089	deploy	mors	Привет
+2020-09-15 07:11:34.676704	deploy	mors	Ок
+2020-09-15 07:27:57.630689	deploy	mors	Download: https://qaz.im/load/Ba87z7/bN4zSy
+Delete: https://qaz.im/index.php?a=delete&q=1919698490
+Pass: WQSQEWRQQREASDAAFDASDF
+2020-09-15 07:31:32.902818	mors	deploy	ага
+2020-09-15 09:05:40.773435	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-09-15 09:09:44.491261	deploy	mors	Ок
+2020-09-15 09:18:37.977298	deploy	mors	Download: https://qaz.im/load/GTZ7tk/kfaaS8
+Delete: https://qaz.im/index.php?a=delete&q=1136957748
+Pass: SQWADSQRTASFDQSAD
+2020-09-15 09:19:35.381732	mors	deploy	ага
+2020-09-15 09:27:19.831558	mors	deploy	обратил внимание. иногда ты закриптовываешь нормально, не палится вообще
+
+а иногда палится при отстуке, вчем может быть дело?
+2020-09-15 09:31:24.219048	deploy	mors	Сейчас спалился?
+2020-09-15 09:31:36.391674	mors	deploy	да
+2020-09-15 09:32:11.620110	deploy	mors	Я сделал тем же стабом, что и утром
+2020-09-15 09:32:48.310608	mors	deploy	ага его палило, я просто не говорил
+2020-09-15 09:33:00.459021	mors	deploy	а вот вчера, красная иконка нормально было
+2020-09-15 09:33:09.452063	mors	deploy	RemoteAdmin файлы назывались
+2020-09-15 09:35:41.856024	deploy	mors	Какой детект?
+2020-09-15 09:35:55.780447	mors	deploy	emotet
+2020-09-15 09:36:09.920979	mors	deploy	ты со строй делал 7
+2020-09-15 09:36:11.398936	mors	deploy	ав ру
+2020-09-15 09:36:14.895071	mors	deploy	цфсфефс
+2020-09-15 09:36:17.826952	mors	deploy	wacatac
+2020-09-15 09:39:02.304693	deploy	mors	Полное название детекта?
+2020-09-15 09:39:33.353720	mors	deploy	Trojan:Win32/Wacatac.B!ml
+2020-09-15 09:39:52.997477	deploy	mors	> а вот вчера, красная иконка нормально было
+Что вчера уже не актуально
+2020-09-15 09:40:12.802406	deploy	mors	> Trojan:Win32/Wacatac.B!ml
+До запуска или после?
+2020-09-15 09:40:21.065161	mors	deploy	до запуска
+2020-09-15 09:40:40.370971	deploy	mors	Поправлю
+2020-09-15 09:40:45.138061	mors	deploy	ага жду
+2020-09-15 09:40:51.137922	mors	deploy	очень надо, все 3 файла
+2020-09-15 09:43:15.127966	mors	deploy	еще и аваст и авг ехе новый палят 
+по чекеру
+2020-09-15 09:50:40.704594	deploy	mors	Буду новый делать
+2020-09-15 09:50:51.610904	mors	deploy	ок жду
+2020-09-15 10:39:31.054421	deploy	mors	Download: https://qaz.im/load/tN2sdy/7hN8hE
+Delete: https://qaz.im/index.php?a=delete&q=1511346852
+Pass: FDSAFDSAFDAASADFSDF
+2020-09-15 10:39:37.949655	deploy	mors	Чекни
+2020-09-15 12:15:24.293233	mors	deploy	ага
+2020-09-15 12:23:04.574464	mors	deploy	огонь, работает
+2020-09-15 15:07:55.443132	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-09-15 15:10:05.478650	deploy	mors	Ок
+2020-09-15 16:06:11.444862	deploy	mors	Download: https://qaz.im/load/Tf83DQ/FFtrkZ
+Delete: https://qaz.im/index.php?a=delete&q=185525648
+Pass: FDSQERWERASQERWAQRAE
+2020-09-15 16:06:31.077582	mors	deploy	ага ща
+2020-09-15 16:35:20.580836	mors	deploy	все ок
+2020-09-15 18:27:28.541616	mors	deploy	про меня не забудь, 4 стаба плиз
+2020-09-15 18:29:50.265927	deploy	mors	Хорошо
+2020-09-15 18:37:25.930372	deploy	mors	Download: https://qaz.im/load/DHb3Zi/T4BiQ6
+Delete: https://qaz.im/index.php?a=delete&q=2107362906
+Pass: DFSQERQSDAEQAFDQWAS
+2020-09-15 18:37:33.134668	deploy	mors	Чекни
+2020-09-15 19:10:39.358529	mors	deploy	ага
+2020-09-15 19:45:17.965066	deploy	mors	Download: https://qaz.im/load/3Trazf/TkkdK9
+Delete: https://qaz.im/index.php?a=delete&q=82157895
+Pass: DWQRASDFQEAFDQWASA
+2020-09-15 19:52:28.136229	mors	deploy	ага
+2020-09-16 08:21:40.338289	mors	deploy	привет
+2020-09-16 08:21:45.467322	mors	deploy	криптани плиз, очень надо
+2020-09-16 08:22:04.857984	mors	deploy	вакатак на всех файлах
+
+вчера 2 последних, crypt.emotet
+2020-09-16 08:22:13.840049	mors	deploy	cltkfq gkbp/ jxtym ;le
+2020-09-16 08:22:19.650826	mors	deploy	сделай плиз очень жду
+2020-09-16 08:22:36.667574	deploy	mors	Хорошо
+2020-09-16 09:15:25.858897	deploy	mors	Download: https://qaz.im/load/YSrASR/a5d7hr
+Delete: https://qaz.im/index.php?a=delete&q=395485958
+Pass: dfSQERSAFDASFDAASAFDASAFD
+2020-09-16 09:15:33.958329	mors	deploy	ага
+2020-09-16 09:23:04.301586	mors	deploy	wacatac на файлах. при копировании
+2020-09-16 09:23:39.151393	deploy	mors	Переделаю
+2020-09-16 09:24:02.458594	deploy	mors	Походу накрылись стабы
+2020-09-16 09:24:41.157899	mors	deploy	ок, жду
+2020-09-16 09:33:57.799538	mors	deploy	я сейчас в течении минут 15 новые файлы залью, проверим их
+2020-09-16 09:53:48.302749	mors	deploy	новые файлы на ссылках. криптани плиз
+2020-09-16 09:53:54.243918	mors	deploy	если можешь сразу плиз
+2020-09-16 09:56:18.495087	deploy	mors	Делаю
+2020-09-16 10:01:03.434355	deploy	mors	Download: https://qaz.im/load/s5hfDY/N3yQf3
+Delete: https://qaz.im/index.php?a=delete&q=601319914
+Pass: dfSQWERQSDQFSADQWADQE
+2020-09-16 10:08:59.843698	mors	deploy	ага ща
+2020-09-16 10:22:18.491721	mors	deploy	все ок
+2020-09-16 10:22:58.108159	deploy	mors	Хорошо
+2020-09-16 10:52:18.858656	mors	deploy	блин файлы бьет (((
+2020-09-16 10:52:24.931610	mors	deploy	обновил онлайн упал весь (((
+2020-09-16 10:52:28.865402	mors	deploy	блин
+2020-09-16 10:52:35.388341	mors	deploy	вроде проверял
+2020-09-16 10:52:51.781657	mors	deploy	при запуске, основной не удаляется
+2020-09-16 10:52:55.847415	mors	deploy	посмотри плиз
+2020-09-16 10:53:21.741483	mors	deploy	т.е. в процессах оба висят, и из-за этого конфликт
+2020-09-16 10:54:45.782840	deploy	mors	Ок
+2020-09-16 11:00:46.504906	deploy	mors	Download: https://qaz.im/load/t6Y6i3/rbbKaR
+Delete: https://qaz.im/index.php?a=delete&q=1530075197
+Pass: dSEQRSDFQSAFDASADFS
+2020-09-16 11:03:41.008454	mors	deploy	ага
+2020-09-16 11:05:12.702784	mors	deploy	странно не распаковывает (
+2020-09-16 11:06:09.714320	mors	deploy	поврежден архив
+2020-09-16 11:12:08.979977	deploy	mors	Download: https://qaz.im/load/2hb427/nkQEGh
+Delete: https://qaz.im/index.php?a=delete&q=2133717543
+2020-09-16 11:12:15.928235	deploy	mors	Пароль тот-же
+2020-09-16 11:22:42.851997	mors	deploy	что было скажи плиз, понять не можем
+2020-09-16 11:22:52.765937	mors	deploy	крипт или основной ехе
+
+основной работает вроде
+2020-09-16 11:31:27.358186	deploy	mors	Пока не знаю, буду смотреть
+2020-09-16 11:31:46.130451	mors	deploy	я еще проверяю, как я растроился (((
+2020-09-16 11:31:48.200400	deploy	mors	В чем пролюблема, что бы не было такого больше
+2020-09-16 11:31:55.717212	mors	deploy	раз в год такая фигня бывает ((9
+2020-09-16 11:32:04.282263	mors	deploy	вроде проверяю всегда
+2020-09-16 12:02:39.939915	mors	deploy	криптани еще раз, плиз
+2020-09-16 12:03:14.582432	mors	deploy	очень надо, поставлю на прогруз - этот стаб, этот па апдейт сделал
+2020-09-16 12:04:55.890969	deploy	mors	Ок
+2020-09-16 12:17:36.430653	deploy	mors	Download: https://qaz.im/load/9QSaba/RiKGZR
+Delete: https://qaz.im/index.php?a=delete&q=1819522114
+Pass: ERWQSAQDSAQWADQEASDF
+2020-09-16 12:17:44.361840	mors	deploy	ага
+2020-09-16 14:13:29.833295	mors	deploy	а ты можешь чистый файл до 200кб сделать?
+2020-09-16 14:13:57.686347	deploy	mors	Да
+2020-09-16 14:15:24.876364	mors	deploy	сорри. криптани еще раз )
+2020-09-16 14:15:32.138269	mors	deploy	до 250 кб край
+2020-09-16 15:44:08.422964	deploy	mors	Download: https://qaz.im/load/49ZiTb/BTTfdY
+Delete: https://qaz.im/index.php?a=delete&q=289252517
+Pass: FDSERQSADFASDFASDFASF
+2020-09-16 16:56:43.728376	mors	deploy	ага ща
+2020-09-16 17:50:32.163196	deploy	mors	Норм.?
+2020-09-16 17:52:22.958195	mors	deploy	вроде да
+2020-09-16 18:04:17.234965	mors	deploy	не забывай про меня 4 стаба
+2020-09-16 18:05:08.477853	deploy	mors	Помню
+2020-09-16 18:05:09.613335	deploy	mors	До 250?
+2020-09-16 18:05:26.945046	mors	deploy	можешь больше
+2020-09-16 18:05:32.153747	mors	deploy	если не получается
+2020-09-16 18:08:24.671096	mors	deploy	последний стаб при копировании 
+
+Behavior:Win32/Persistence.BP!ml
+2020-09-16 18:11:09.085967	deploy	mors	> последний стаб при копировании 
+
+Behavior:Win32/Persistence.BP!ml
+Странно, не может быть. Это детект на поведение
+2020-09-16 18:11:35.691584	mors	deploy	при запуске похоже, ща предыдущий проверяю
+2020-09-16 18:11:41.099149	deploy	mors	Behavior:win32 только после запуска может быть
+2020-09-16 18:12:55.554320	mors	deploy	блин а предыдущий стаб ОК )
+2020-09-16 18:17:44.656484	deploy	mors	У меня не палит
+2020-09-16 18:17:51.975728	deploy	mors	Странно
+2020-09-16 20:08:44.773206	deploy	mors	Download: https://qaz.im/load/aNin24/KkQ9zQ
+Delete: https://qaz.im/index.php?a=delete&q=1410140862
+Pass: FDASFDAASAFDASAFADS
+2020-09-16 20:08:56.538255	deploy	mors	Чекни, 4 стаба
+2020-09-16 20:10:27.914685	mors	deploy	ага
+2020-09-16 20:13:57.870903	mors	deploy	не уходи ща все чекну
+2020-09-16 20:14:00.247100	mors	deploy	20 мин
+2020-09-16 20:41:12.156517	mors	deploy	все ок
+2020-09-16 20:41:18.203431	mors	deploy	спс
+2020-09-16 20:42:14.630031	deploy	mors	Хорошо
+2020-09-16 20:42:21.970195	deploy	mors	До завтра))
+2020-09-17 09:43:13.411404	mors	deploy	привет
+2020-09-17 09:43:34.373526	mors	deploy	криптани плиз, но послдение 2 стаба, с ошибкой работали, их не делай плиз
+2020-09-17 09:43:46.364593	mors	deploy	1022
+1023
+2020-09-17 09:43:56.317083	mors	deploy	очень надо файл , сделай плиз
+2020-09-17 09:44:35.615930	deploy	mors	Привет
+2020-09-17 09:44:45.256522	deploy	mors	Какая ошибка?
+2020-09-17 09:45:04.521978	mors	deploy	ошибка с памятью связана, кошда мой моудль подгружается
+2020-09-17 09:45:08.749310	mors	deploy	0х000005
+2020-09-17 09:45:18.970061	mors	deploy	т.е. запускается отсуткивает, а потом ошибка
+2020-09-17 09:45:38.423554	mors	deploy	просто этот стаб бьет работу моего софта
+2020-09-17 09:45:56.826730	mors	deploy	1020
+1021
+
+все ок
+2020-09-17 09:50:29.916636	deploy	mors	У тебя модуль в память грузит сразу
+2020-09-17 09:51:02.507238	mors	deploy	да
+2020-09-17 09:52:28.870917	deploy	mors	Download: https://qaz.im/load/hT6zQS/kfB26N
+Delete: https://qaz.im/index.php?a=delete&q=1543206289
+Pass: dfSERQSAFDASAFDAASADFASf
+2020-09-17 09:52:53.632808	deploy	mors	Стоп не тот файл
+2020-09-17 09:53:04.799140	deploy	mors	Сейчас другой скину
+2020-09-17 10:07:01.572669	deploy	mors	Download: https://qaz.im/load/tQNzaE/EY7Zkk
+Delete: https://qaz.im/index.php?a=delete&q=1831984293
+Pass: fdSQERASDFASAFADASADFSf
+2020-09-17 10:07:08.655657	deploy	mors	Чекни
+2020-09-17 10:08:35.788317	deploy	mors	> ошибка с памятью связана, кошда мой моудль подгружается
+Был включен Randomize Base address и за этого скорее всего была ошибка. Теперь не должно быть. Чекни
+2020-09-17 10:11:40.180593	mors	deploy	ок
+2020-09-17 14:03:14.653567	mors	deploy	криптани плиз, новые файлы на ссылках
+2020-09-17 14:04:37.209819	deploy	mors	Ок
+2020-09-17 14:52:12.058945	mors	deploy	с ориентируй по времени
+2020-09-17 14:52:38.505954	deploy	mors	Через час
+2020-09-17 14:53:12.137960	mors	deploy	ок
+2020-09-17 16:54:58.640094	mors	deploy	еще не все ?
+2020-09-17 16:58:03.411349	deploy	mors	Download: https://qaz.im/load/B2rYAS/zky2F2
+Delete: https://qaz.im/index.php?a=delete&q=1659482903
+Pass: dfSERQSAFDASADFASADFAASDF
+2020-09-17 17:55:45.611298	mors	deploy	все ок
+2020-09-17 17:55:52.370408	mors	deploy	4 стаба мне на ночь, плиз
+2020-09-17 18:08:46.585978	deploy	mors	Ок
+2020-09-17 19:28:54.593365	deploy	mors	Download: https://qaz.im/load/s59Tir/2Yfny5
+Delete: https://qaz.im/index.php?a=delete&q=1767374195
+Pass: fdSREQWSADFASAFDASAAFDS
+2020-09-17 19:29:03.966260	deploy	mors	Чекни
+2020-09-17 19:45:47.393403	deploy	mors	Download: https://qaz.im/load/Rbiti5/R79ETB
+Delete: https://qaz.im/index.php?a=delete&q=186074788
+Pass: FDSEQRASDFASADFASAADFS
+2020-09-17 19:53:11.979880	mors	deploy	ща чекать буду
+2020-09-17 20:12:14.655425	mors	deploy	1029 
+Wacatac
+
+Trojan:Win32/Wacatac.C!ml
+2020-09-17 20:18:22.976920	deploy	mors	Других уже нет
+2020-09-17 20:19:02.832647	mors	deploy	jr
+2020-09-17 20:19:05.825489	mors	deploy	ok
+2020-09-17 20:22:42.200528	mors	deploy	4 стаб будет?
+2020-09-17 20:25:45.747935	deploy	mors	Скорее всего нет
+2020-09-17 20:27:12.623546	mors	deploy	вообщем все стабы палятся ((
+2020-09-17 20:27:17.947887	mors	deploy	все проверил (
+2020-09-17 20:27:22.688712	mors	deploy	wavatac
+2020-09-17 20:28:49.912082	deploy	mors	Новые старый уже скорее всего с понедельника будут
+2020-09-17 20:29:11.920544	deploy	mors	Новые стабы уже скорее всего с понедельника будут
+2020-09-17 20:33:32.590735	mors	deploy	1027 нормальный стаб
+2020-09-17 20:33:37.167165	mors	deploy	не палит
+2020-09-17 20:35:58.956970	deploy	mors	Сейчас не успеваю чистить стабы, это скорее всего на выходных почищу и в понедельник должны быть норм.
+2020-09-17 20:36:22.153029	deploy	mors	Много стабов уходит, не успеваю
+2020-09-17 20:36:32.427689	mors	deploy	понимаю
+2020-09-17 20:36:35.644170	deploy	mors	По сути за день минимум 6
+2020-09-17 20:38:19.268093	deploy	mors	А потом они все стают палиться дефом и времени совсем нет, что бы их сразу почистить. Так и получается, что некоторые могут еще не палиться
+2020-09-17 20:38:45.045435	mors	deploy	а вот 1027 можешь сделать пару стабов ?
+2020-09-17 20:39:04.377807	mors	deploy	так как есть. нее меняя ничего
+2020-09-17 20:55:27.824583	deploy	mors	Download: https://qaz.im/load/RiND6E/87GH24
+Delete: https://qaz.im/index.php?a=delete&q=1708719229
+Pass: DFSQAFDASAFDASADFASDF
+2020-09-17 21:01:36.002161	mors	deploy	ща чекну
+2020-09-17 21:08:29.671041	mors	deploy	все ок спс
+2020-09-17 21:16:41.090337	deploy	mors	ща чекну
+2020-09-17 21:16:41.093394	deploy	mors	все ок спс
+2020-09-18 10:09:01.047083	mors	deploy	привет
+2020-09-18 10:09:05.576966	mors	deploy	срочно файлы нужны
+2020-09-18 10:09:16.143475	mors	deploy	сделай плиз
+2020-09-18 10:09:48.786806	deploy	mors	Привет
+2020-09-18 10:15:40.563987	deploy	mors	Download: https://qaz.im/load/sd2DyF/575BzF
+Delete: https://qaz.im/index.php?a=delete&q=1970842797
+Pass: DWQSAFDASADFASAFDASF
+2020-09-18 10:16:03.510179	deploy	mors	Не те файлы
+2020-09-18 10:16:17.951353	deploy	mors	Сейчас новый скину
+2020-09-18 10:17:10.429000	mors	deploy	ок
+2020-09-18 10:18:49.019356	deploy	mors	Download: https://qaz.im/load/RyKZhD/zAB8e9
+Delete: https://qaz.im/index.php?a=delete&q=1697753255
+Pass: FDSQERSADFASADFASAFADS
+2020-09-18 10:19:38.024620	mors	deploy	ага
+2020-09-18 10:39:20.581607	mors	deploy	3 файл стучит не туда, перекриптуй плиз
+2020-09-18 10:42:16.752006	deploy	mors	Download: https://qaz.im/load/7FG5ED/AG75F2
+Delete: https://qaz.im/index.php?a=delete&q=1890044971
+Pass: fDSERQASDFASAFDASADF
+2020-09-18 10:42:47.104861	deploy	mors	Перезалью
+2020-09-18 10:44:27.769728	deploy	mors	Download: https://qaz.im/load/9SD4bh/nDYHAz
+Delete: https://qaz.im/index.php?a=delete&q=472695586
+2020-09-18 10:44:34.925312	deploy	mors	123
+2020-09-18 11:26:35.914461	mors	deploy	просьба к тебе
+
+я сегодня отлучусь. и когда буду не знаю точно
+
+по-поводу выходных стабов как обычно. скинешь в джабер в оба контакта
+
+а до 16.00 скинь плиз, 2 стаба, чтобы я автоапдейт поставил
+
+оке ?
+2020-09-18 11:38:33.677385	deploy	mors	Пока нет стабов
+2020-09-18 20:41:15.228469	deploy	mors	Download: https://qaz.im/load/KAQSae/SdStZh
+Delete: https://qaz.im/index.php?a=delete&q=2085768855
+Pass: dfSerqwfdasDFASADFASADFAASFD
+2020-09-18 20:41:22.347198	deploy	mors	Там 5 стабов
+2020-09-18 20:41:50.518443	deploy	mors	Хороших выходные, до воскресенья))
+2020-09-18 21:08:59.676510	deploy	mors	Download: https://qaz.im/load/KAQSae/SdStZh
+Delete: https://qaz.im/index.php?a=delete&q=2085768855
+Pass: dfSerqwfdasDFASADFASADFAASFD
+2020-09-18 21:08:59.677932	deploy	mors	Там 5 стабов
+2020-09-18 21:08:59.678692	deploy	mors	Хороших выходные, до воскресенья))
+2020-09-21 12:12:25.986118	mors	deploy	привет
+2020-09-21 12:12:32.866407	mors	deploy	криптани плиз. новые файлы на ссылках
+2020-09-21 12:26:06.218676	deploy	mors	Привет
+2020-09-21 12:26:13.454682	deploy	mors	Ок
+2020-09-21 13:22:12.854047	deploy	mors	Меня перевели на другие файлы. Теперь тебе к Марселю, наверное
+2020-09-21 13:32:57.097467	mors	deploy	такс сейчас наругаюсь )
+2020-09-21 13:34:02.844150	mors	deploy	стерн буду решу, думаю все останется по прежнему
+2020-09-21 13:34:07.203519	mors	deploy	криптани сейчас плиз )
+2020-09-21 13:34:59.062414	mors	deploy	кто тебе это сказал. скажи ник
+2020-09-21 13:35:13.507073	mors	deploy	пока стрена нет напишу ему . если есть в контактах
+2020-09-21 13:35:35.238493	mors	deploy	defender ?
+2020-09-21 13:38:49.931266	mors	deploy	а марсель твой человек, твои стабы ?
+2020-09-21 13:39:04.010747	mors	deploy	вообщем да, ты сейчас не со мной )
+2020-09-22 09:04:35.874634	mors	deploy	привет, получается ты делаешь стабы, марсель криптует ?
+2020-09-23 11:00:31.919215	mors	deploy	привет
+2020-09-23 11:00:57.830663	mors	deploy	хотя бы один два раза в день можешь криптануть плиз
+2020-09-23 11:01:18.944388	mors	deploy	отдельно от всех. для меня плиз
+2020-09-23 11:01:38.884413	mors	deploy	марсель не справялется, прошу всего 1-2 раза в день
+2020-09-23 12:27:48.121961	mors	deploy	ответь плиз
+2020-09-23 12:39:32.734653	deploy	mors	Привет
+2020-09-23 12:40:17.162568	deploy	mors	Был бы стаб и время сделал бы. Но сейчас вообще никак, у меня тут все расписано по минутам
+2020-09-23 12:42:04.186336	mors	deploy	оке, может есть кто на слуху у тебя ?
+2020-09-23 12:42:19.121634	mors	deploy	грамотны с форума, ники явки пароли их )
+2020-09-23 12:43:39.562510	deploy	mors	К сожалению не знаю
+2020-09-29 17:31:27.832107	mors	deploy	привет
+2020-09-29 17:31:28.211586	deploy	mors	привет
+2020-09-29 17:42:57.955510	mors	deploy	криптани плиз ) может догоовримся ? )
+2020-09-29 21:50:49.346886	deploy	mors	Привет
+2020-09-29 21:51:02.233999	deploy	mors	Сейчас вообще никак не могу
+2020-09-29 21:59:05.620424	deploy	mors	Привет
+2020-09-29 21:59:05.623490	deploy	mors	Сейчас вообще никак не могу
+2020-09-29 21:59:53.111018	mors	deploy	марсель где ? не подскажешь, пропал
+2020-09-29 22:15:58.930210	deploy	mors	марсель где ? не подскажешь, пропал
+2020-10-13 10:28:50.197894	deploy	mors	Привет
+2020-10-13 10:29:02.873957	deploy	mors	Как дела?
+2020-10-13 10:29:42.448832	deploy	mors	Стерн, говорит, сейчас проблемы с криптом
+2020-10-13 11:12:42.323975	mors	deploy	привет
+2020-10-13 11:12:48.123943	mors	deploy	да есть
+2020-10-13 11:13:21.937766	mors	deploy	сейчас чистим ехе, завтра в работе
+
+у тебя можно криптануться?
+2020-10-13 11:19:48.877230	deploy	mors	Деф. палит крипт Марселя?
+2020-10-13 12:32:54.175818	mors	deploy	палит
+2020-10-13 13:09:23.066883	mors	deploy	стерн пока не написал, криптоваться у кого убдем он не сказал
+2020-10-13 13:10:41.964610	deploy	mors	Я попробую помочь Марселю решить проблему
+2020-10-15 10:36:43.906643	mors	deploy	привет
+2020-10-15 10:36:46.990763	mors	deploy	криптани плиз
+2020-10-15 11:23:06.623250	deploy	mors	Привет
+2020-10-15 11:23:19.403282	deploy	mors	Марсель должен сделать
+2020-10-19 11:38:44.913965	mors	deploy	привет, криптани плиз0
+2020-10-19 11:38:46.032902	mors	deploy	)
+2020-10-22 21:32:45.159170	mors	deploy	криптани плиз, а то марсель весь день в ауте
+2020-10-22 21:32:46.889496	mors	deploy	разово
+2020-10-22 21:40:29.710588	deploy	mors	Привет
+2020-10-22 21:41:18.753120	deploy	mors	Нет других стабов, если сделаю у меня сдесь все быстро спалится
+2020-10-22 21:41:35.922220	deploy	mors	Марсель тебе сегодня делал крипт?
+2020-10-22 21:42:12.451630	mors	deploy	нет (
+
+он мне скинул. локер зачем-то и ушел ))
+2020-10-22 21:42:17.236463	mors	deploy	ошибься похоже
+2020-10-22 21:42:37.524049	deploy	mors	Сейчас свяжусь с ним
+2020-10-22 21:42:40.926482	mors	deploy	спс
+2020-10-22 21:42:51.317491	deploy	mors	Наверное напутал
+2020-10-22 21:52:46.917719	deploy	mors	Получил файлы?
+2020-10-22 21:53:18.881458	mors	deploy	ага, ща проверю
+2020-10-22 22:38:08.907255	deploy	mors	Все ок?
+2020-10-26 11:30:36.394629	mors	deploy	привет, марсель обещал с 11.00 выходить, а его нет или очень поздно выходит, не знаешь почему ?
+2020-10-27 13:08:30.812698	mors	deploy	привет
+2020-10-27 13:08:39.484698	mors	deploy	марселя вызови плиз ))
+2020-10-27 14:47:40.391356	mors	deploy	подскажи плиз, что с марселем?

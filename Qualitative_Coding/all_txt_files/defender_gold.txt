@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-10-25 10:53:42.221357	gold	defender	Пишу

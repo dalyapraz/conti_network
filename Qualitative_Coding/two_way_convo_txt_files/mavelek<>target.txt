@@ -1,0 +1,82 @@
+Timestamp	From	To	Message
+2020-07-01 15:30:55.654803	target	mavelek	привет
+2020-07-01 15:31:01.122644	target	mavelek	пасс от хранилища
+2020-07-01 15:31:02.476603	target	mavelek	у тебя
+2020-07-01 15:31:04.286756	target	mavelek	обновить
+2020-07-01 15:31:05.646796	target	mavelek	или дефендер
+2020-07-01 15:42:10.899167	mavelek	target	login ?
+2020-07-01 15:42:17.001176	target	mavelek	target
+2020-07-01 15:42:33.265876	mavelek	target	target LzB`IamG
+2020-07-01 15:42:58.728136	target	mavelek	+ cgc
+2020-07-01 15:42:59.647334	target	mavelek	спс
+2020-07-01 15:50:20.326363	target	mavelek	это плановый сброс был?
+2020-07-01 15:50:27.298394	target	mavelek	или причина сброса
+2020-07-01 15:50:27.761973	mavelek	target	da
+2020-07-01 15:50:35.042510	target	mavelek	понял
+2020-07-20 15:58:57.213813	target	mavelek	привет
+2020-07-20 15:58:59.416042	target	mavelek	продублируй пасс
+2020-07-20 15:59:01.294540	target	mavelek	от админки плз
+2020-07-20 15:59:02.008910	target	mavelek	еще раз
+2020-07-20 15:59:04.272747	target	mavelek	недавно скидывал мне
+2020-07-20 15:59:05.794876	target	mavelek	недели 3 назад
+2020-07-20 15:59:09.355939	target	mavelek	лог не сохранился
+2020-07-29 09:18:49.496199	target	mavelek	привет
+2020-07-29 09:19:03.754271	target	mavelek	можешь в админку target
+подключить светофор по нетворкам
+2020-07-29 09:20:14.329686	target	mavelek	или это к дефендеру
+2020-07-29 09:20:41.863990	mavelek	target	hi
+2020-07-29 09:20:59.412249	mavelek	target	corporates network ?
+2020-07-29 09:21:12.433107	target	mavelek	да
+2020-07-29 09:21:32.714215	mavelek	target	nu etot funcional tam ne realizovan
+2020-07-29 09:21:48.011439	target	mavelek	о чем стерн говорил
+2020-07-29 09:21:51.036503	target	mavelek	где тогда это реализовано
+2020-07-29 09:22:04.032010	mavelek	target	botlist
+2020-07-29 09:22:54.569311	target	mavelek	у меня есть ботлист
+2020-07-29 09:22:58.939218	target	mavelek	но там нет светофора по сеткам
+2020-07-29 09:23:25.143065	target	mavelek	есть раздел corporate и там тоже это не реализовано
+2020-07-29 09:32:32.797916	mavelek	target	pisal ? a to viletel
+2020-07-29 09:32:32.799110	mavelek	target	pisal ? a to viletel
+2020-07-29 09:32:39.981483	target	mavelek	[06:04:38] <mavelek> botlist 
+[06:05:28] <target> у меня есть ботлист 
+[06:05:33] <target> но там нет светофора по сеткам 
+[06:05:59] <target> есть раздел corporate и там тоже это не реализовано
+2020-07-29 09:33:12.615277	mavelek	target	v botliste znachit prav ne hvataet, on tam est'
+2020-07-29 09:33:26.519827	target	mavelek	стерну писать за активацией?
+2020-07-29 09:33:45.725081	mavelek	target	ja emu napishu
+2020-07-29 09:33:50.227492	target	mavelek	спс
+2020-08-29 03:15:00.160701	target	mavelek	привет
+2020-08-29 03:15:00.844808	target	mavelek	LzB`IamG
+2020-08-29 03:15:02.543654	target	mavelek	не подходит
+2020-08-29 03:15:04.200550	target	mavelek	target
+2020-08-31 08:25:34.719902	target	mavelek	привет
+2020-08-31 08:25:34.721382	target	mavelek	LzB`IamG
+2020-08-31 08:25:34.722459	target	mavelek	не подходит
+2020-08-31 08:25:34.723513	target	mavelek	target
+2020-08-31 13:17:01.304830	mavelek	target	привет, пассы меняли на той недели стерн сказал к нему всех отправлять
+2020-08-31 16:23:46.600837	target	mavelek	привет
+2020-08-31 16:23:48.751057	target	mavelek	скажи я попросил
+2020-08-31 16:23:53.608991	target	mavelek	тебе же потом его востанвлаить пасс
+2020-08-31 16:24:11.766373	mavelek	target	ну я ему все скинул пассы
+2020-08-31 16:25:25.873142	target	mavelek	ага спс
+2020-09-23 16:16:09.892622	target	mavelek	[19:18:27] <stern (партнер)> доступы поменяли 
+[19:18:31] <stern (партнер)> и старые логины удалили 
+[19:18:32] <stern (партнер)> вроде 
+[19:18:35] <stern (партнер)> mavelek@ 
+[19:18:36] <stern (партнер)> стукни ему 
+[19:18:40] <stern (партнер)> ща скажу что дал тебе пасс
+2020-09-23 16:16:10.684790	target	mavelek	привет
+2020-09-23 16:23:04.926456	mavelek	target	w7uxKF
+2020-09-23 16:25:21.273057	target	mavelek	ага
+2020-09-23 16:25:22.285463	target	mavelek	а логин
+2020-09-23 16:25:23.991874	target	mavelek	и ссылку плз
+2020-09-23 16:25:58.478213	mavelek	target	target
+2020-09-23 16:26:19.732690	mavelek	target	https://dpn56ohf2hl46t2t.onio
+2020-09-23 16:28:31.843038	target	mavelek	Hmm. We’re having trouble finding that site.
+
+We can’t connect to the server at dpn56ohf2hl46t2t.onio.
+2020-09-23 16:28:34.311223	target	mavelek	тор тупит?
+2020-09-23 16:36:09.084600	mavelek	target	da
+2020-09-23 16:43:39.774793	mavelek	target	na konce n )
+2020-09-23 16:43:45.420703	mavelek	target	https://dpn56ohf2hl46t2t.onion/
+2020-09-23 16:43:50.135938	target	mavelek	ох
+2020-09-23 16:43:51.216186	target	mavelek	спасбо

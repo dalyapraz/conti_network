@@ -1,0 +1,14 @@
+Timestamp	From	To	Message
+2020-06-29 19:25:11.565108	clickclack	andy	привет бро
+2020-06-29 19:25:13.582393	clickclack	andy	как дела?
+2020-07-03 11:17:32.659076	clickclack	andy	тут?
+2020-07-22 14:53:02.715561	clickclack	andy	привет ! заказываю?
+2020-07-22 15:57:02.867601	clickclack	andy	я тут бро
+2020-07-22 19:29:41.098657	andy	clickclack	видно?
+2020-07-27 14:45:50.534118	clickclack	andy	тут?
+2020-07-27 19:36:46.383365	clickclack	andy	тут?
+2020-07-27 19:40:05.723044	andy	clickclack	привет
+2020-07-27 19:40:07.354894	andy	clickclack	ага
+2020-07-30 11:04:07.427357	clickclack	andy	бро как дела?
+2020-08-03 17:27:27.192505	andy	clickclack	линк
+2020-08-03 17:55:38.111202	andy	clickclack	линк

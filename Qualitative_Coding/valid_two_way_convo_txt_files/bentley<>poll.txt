@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2020-06-30 07:53:17.332056	bentley	poll	Привет
+2020-06-30 07:55:36.348465	poll	bentley	hi man
+2020-08-07 15:52:55.352805	bentley	poll	Готов БК
+2020-08-07 15:53:22.817770	bentley	poll	ASF*lnkjshdkjgfhs
+2020-08-07 15:53:27.476882	bentley	poll	
+    Download: https://qaz.im/load/d7aF4D/kbHFZr   
+    Delete: https://qaz.im/index.php?a=delete&q=461771370
+2020-08-27 19:13:18.328024	bentley	poll	Сколько еще?
+2020-08-28 07:04:15.573518	poll	bentley	bro mne ne prishlo
+2020-08-28 07:04:41.896507	poll	bentley	ya seichas otoidy. kak viidesh skin ih greeny
+2020-08-28 08:18:18.687465	poll	bentley	bro mne ne prishlo
+2020-08-28 08:18:18.688543	poll	bentley	ya seichas otoidy. kak viidesh skin ih greeny

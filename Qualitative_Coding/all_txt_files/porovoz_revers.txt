@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-10-27 17:22:59.588338	revers	porovoz	здарова

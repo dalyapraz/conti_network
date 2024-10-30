@@ -1,0 +1,3 @@
+Timestamp	From	To	Message
+2021-10-18 12:21:30.073007	flip	bezdar	Тут
+2021-10-18 12:21:41.987253	bezdar	flip	щас отр

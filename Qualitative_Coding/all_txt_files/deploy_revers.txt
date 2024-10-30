@@ -1,0 +1,48 @@
+Timestamp	From	To	Message
+2020-07-01 13:57:05.372450	revers	deploy	здарова
+2020-07-17 08:28:12.808254	revers	deploy	здарова бро
+2020-07-20 08:42:06.819094	revers	deploy	здарова
+2020-07-20 10:58:02.194624	deploy	revers	Запустил все файлы с папки 63_server
+2020-07-20 11:00:50.697296	deploy	revers	С другой папки тоже запустил
+2020-07-20 11:01:07.051965	deploy	revers	Download: https://qaz.im/load/S4eraD/DReBDE
+Delete: https://qaz.im/index.php?a=delete&q=121948571
+Pass: FDASADFAASDAFZEAZDCSFFRT
+2020-07-20 11:01:20.563128	deploy	revers	Откатил машину
+2020-07-20 11:01:31.626020	deploy	revers	Должны были прийти сессии
+2020-07-22 20:49:08.734337	revers	deploy	здарова
+2020-07-22 20:49:11.885822	revers	deploy	надо крипт бро
+2020-07-23 11:05:10.705431	deploy	revers	Download: https://qaz.im/load/RSTEdA/e4358z
+Delete: https://qaz.im/index.php?a=delete&q=606110085
+Pass: DFASADFASADAADASAADZX
+2020-07-23 11:05:30.957603	deploy	revers	Запускал, должны сессии прилететь
+2020-07-23 12:01:32.794828	deploy	revers	Download: https://qaz.im/load/RSTEdA/e4358z
+Delete: https://qaz.im/index.php?a=delete&q=606110085
+Pass: DFASADFASADAADASAADZX
+2020-07-23 12:01:32.798411	deploy	revers	Запускал, должны сессии прилететь
+2020-07-23 12:02:04.064765	revers	deploy	ага
+2020-07-24 11:01:11.159450	revers	deploy	здарова
+2020-07-27 10:55:28.266760	deploy	revers	Download: https://qaz.im/load/rSr93B/HRA84f
+Delete: https://qaz.im/index.php?a=delete&q=27689506
+Pass: DFASFDZASDFAASZDAS
+2020-07-27 15:10:34.735900	deploy	revers	Download: https://qaz.im/load/rSr93B/HRA84f
+Delete: https://qaz.im/index.php?a=delete&q=27689506
+Pass: DFASFDZASDFAASZDAS
+2020-07-27 15:11:34.019502	revers	deploy	ага спс бро
+2020-08-03 19:29:22.074620	revers	deploy	здарова
+2020-08-03 19:29:25.306016	revers	deploy	бро
+2020-08-17 19:17:58.748563	deploy	revers	Download: https://qaz.im/load/ESRknH/fYk5Kh
+Delete: https://qaz.im/index.php?a=delete&q=1543010287
+Pass: DFSADAFASAFDASAADFS
+2020-08-17 19:18:06.217073	deploy	revers	Тут 64 .dll
+2020-08-21 11:54:30.714161	revers	deploy	здарова
+2020-08-23 15:39:24.575856	revers	deploy	plfhjdf
+2020-08-23 15:39:28.235354	revers	deploy	здарова
+2020-08-23 15:42:46.991112	deploy	revers	plfhjdf
+2020-08-23 15:42:46.991906	deploy	revers	здарова
+2020-09-01 12:27:57.837377	revers	deploy	здарова
+2020-09-01 12:28:03.627767	revers	deploy	надо крипт
+2020-09-01 14:18:19.809775	deploy	revers	Постараюсь, все зависит от нагрузки
+2020-10-29 20:40:20.245294	revers	deploy	здарова
+2020-10-29 20:40:30.429618	revers	deploy	бро тут
+2020-10-29 20:40:32.911665	revers	deploy	?
+2020-11-02 13:30:43.179267	revers	deploy	здарова бро

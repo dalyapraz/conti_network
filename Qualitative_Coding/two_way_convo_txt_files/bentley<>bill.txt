@@ -1,0 +1,30 @@
+Timestamp	From	To	Message
+2020-07-10 10:50:01.368633	bentley	bill	Привет.
+2020-07-10 10:50:06.260585	bentley	bill	 <bentley> Опять появился детект Windows Defender Antivirus Win32/Atosev.gen!A&threatid=2147729392&enterprise=0
+    Name: Behavior:Win32/Atosev.gen!A
+    ID: 2147729392
+    Severity: Severe
+    Category: Suspicious Behavior
+    Path: behavior:_pid:4692:51347961044742; process:_pid:4692,ProcessStart:132388473300674643
+    Detection Origin: Unknown
+    Detection Type: Generic
+    Detection Source: Unknown
+    User: 
+    Process Name: C:\Windows\System32\svchost.exe
+    Signature Version: AV: 1.319.1169.0, AS: 1.319.1169.0, NIS: 1.319.1169.0
+    Engine Version: AM: 1.1.17200.2, NIS: 1.1.17200.2
+[17:46:24] <bentley> через 20 минут после запуска
+
+[17:49:37] <hof> ок, там плавающий детект на модуле tabDll, напишу биллу
+2020-07-10 10:50:27.066265	bill	bentley	привет
+2020-07-13 12:18:29.958154	bentley	bill	Првиет.
+2020-07-13 12:18:33.084504	bentley	bill	Тестили 192.3.41.101/t1307.rar
+2020-07-13 12:18:35.466622	bentley	bill	на 2016
+2020-07-13 12:18:35.468647	bentley	bill	на 2016
+2020-07-13 12:18:37.538463	bentley	bill	не работает
+2020-07-13 12:18:50.983996	bill	bentley	привет
+2020-07-13 18:26:12.200847	bentley	bill	ты тут,
+2020-10-14 08:56:44.282735	bentley	bill	Првиет
+2020-10-14 08:56:54.773721	bentley	bill	Есть понимание по срокам по анкору?
+2020-10-23 10:26:41.452077	bentley	bill	Привет )
+2020-10-23 10:26:58.551382	bill	bentley	)

@@ -1,0 +1,246 @@
+Timestamp	From	To	Message
+2021-11-19 17:06:21.090259	bio	cybergangster	2+3=?
+2021-11-19 17:07:15.137054	cybergangster	bio	5
+2021-11-19 17:07:17.907441	bio	cybergangster	2+3=?
+2021-11-19 17:07:22.151319	cybergangster	bio	5
+2021-11-19 17:07:24.490071	bio	cybergangster	Congratulations! Now you can chat!
+2021-11-19 19:39:39.387042	bio	cybergangster	ту жабу удаляю?
+2021-11-19 19:39:47.022387	cybergangster	bio	da
+2021-11-19 19:39:51.154120	bio	cybergangster	ок
+2021-11-19 20:27:03.001768	bio	cybergangster	скажи плиз
+2021-11-19 20:27:09.518506	bio	cybergangster	в панели все сообщения HIDE
+2021-11-19 20:27:13.337810	bio	cybergangster	это что значит?
+2021-11-19 20:27:17.420112	bio	cybergangster	они еще не прочитаны?
+2021-11-19 20:28:00.369509	cybergangster	bio	hide znachit skrit` soobsheniya
+2021-11-19 21:01:01.058756	bio	cybergangster	We&#39;ve been having trouble getting on this page. Can you still help?
+2021-11-19 21:01:07.730418	bio	cybergangster	видишь какие сообщения приходят?
+2021-11-19 21:01:15.219995	bio	cybergangster	не понимает панель некоторые символы
+2021-11-19 21:01:30.129903	cybergangster	bio	POPRAVIM
+2021-11-19 21:01:37.130666	bio	cybergangster	красавцы
+2021-11-19 21:25:40.027421	bio	cybergangster	подскажи еще плиз, как понять прочитали они наши сообщения или нет?
+2021-11-19 21:26:02.261138	bio	cybergangster	и когда они онлайн, как понять?
+2021-11-19 21:27:01.130857	cybergangster	bio	poka ni kak
+2021-11-19 21:27:07.318587	cybergangster	bio	eta adminka siraya
+2021-11-19 21:27:22.061804	bio	cybergangster	ясно, но ее хотябы не ломанут?
+2021-11-19 21:27:23.227039	bio	cybergangster	))
+2021-11-19 21:27:27.972852	cybergangster	bio	Na sledueshey nedele gotovaya budet
+2021-11-19 21:27:37.926834	bio	cybergangster	хорошо
+2021-11-19 21:27:51.385166	bio	cybergangster	обновим и у нас все что сейчас в ней останется надеюсь?
+2021-11-19 21:28:05.159830	bio	cybergangster	а то мы так до НГ дотянем и нихуя не заработаем)
+2021-11-19 21:28:36.648991	cybergangster	bio	ясно, но ее хотябы не ломанут? - ne doljni)
+2021-11-19 21:28:48.871832	bio	cybergangster	уже радует)
+2021-11-19 21:28:49.146159	cybergangster	bio	Chto seychas mi eto zarkivaem voprosi a v novoy vse po novoy
+2021-11-19 21:29:32.943010	bio	cybergangster	блин, тогда давай без согласования не обновляй. давай мы уже дожмем их тут и потом обновим
+2021-11-19 21:30:26.295239	cybergangster	bio	dlya novoy sdelaem new domains
+2021-11-19 21:30:38.604988	bio	cybergangster	гууд
+2021-11-19 22:18:41.070642	bio	cybergangster	бля
+2021-11-19 22:18:49.833570	bio	cybergangster	спрашивают как нам файлы прислать для декрипта
+2021-11-19 22:18:54.681884	bio	cybergangster	для теста
+2021-11-19 22:18:59.016217	bio	cybergangster	панель поддерживает?
+2021-11-19 22:19:23.485118	cybergangster	bio	doljna
+2021-11-19 22:19:23.968116	bio	cybergangster	если нет то сейчас буду думать
+2021-11-19 22:19:35.935220	cybergangster	bio	esli net puskay na file share zalivaut
+2021-11-19 22:19:38.330723	bio	cybergangster	и как им сука обьяснить)) я сам незнаю пока
+2021-11-19 22:19:42.531193	cybergangster	bio	privatlab naprimer
+2021-11-19 22:19:42.930557	bio	cybergangster	да
+2021-11-19 22:19:45.769652	bio	cybergangster	ок
+2021-11-19 22:20:48.581458	cybergangster	bio	tam dva novih prishli ya tebe zakinul
+2021-11-19 22:20:59.038986	bio	cybergangster	спс
+2021-11-19 22:21:23.025714	cybergangster	bio	blya zaebal etot translit
+2021-11-19 22:21:30.262854	cybergangster	bio	poydu raskladku postavlu
+2021-11-19 22:21:34.680740	bio	cybergangster	)
+2021-11-19 22:21:36.143563	bio	cybergangster	давай
+2021-11-19 22:30:45.750107	bio	cybergangster	будь в готовности дешифровать файлики
+2021-11-19 22:30:48.748756	bio	cybergangster	ща пришлют
+2021-11-19 22:30:51.125221	cybergangster	bio	+
+2021-11-19 22:31:04.594057	cybergangster	bio	u tebya support moy est?
+2021-11-19 22:31:08.524486	cybergangster	bio	paranoik@
+2021-11-19 22:31:24.180016	bio	cybergangster	да, был где-то
+2021-11-19 22:31:29.369413	cybergangster	bio	aga
+2021-11-19 22:31:31.203523	cybergangster	bio	emu pishi
+2021-11-19 22:32:25.224271	bio	cybergangster	предупреди его плиз чтобы он был
+2021-11-19 22:32:37.426679	bio	cybergangster	сейчас три конторы готовы оплатить после дешифра файлов
+2021-11-19 22:32:42.606961	bio	cybergangster	так что не убегайте
+2021-11-20 18:37:55.538063	bio	cybergangster	ку
+2021-11-20 18:38:04.678690	bio	cybergangster	ну где вы там??? ни тебя ни помощника
+2021-11-20 18:38:07.967398	bio	cybergangster	не дело совсем
+2021-11-20 18:38:17.356710	bio	cybergangster	ждут уже люди полдня декрипт файла
+2021-11-20 18:38:46.264950	bio	cybergangster	выходной понятно, ну хоть появляйтесь разок в несколько часов
+2021-11-20 23:21:49.687574	bio	cybergangster	ну где вы там??? ни тебя ни помощника
+2021-11-20 23:21:49.687764	bio	cybergangster	ку
+2021-11-20 23:21:49.688651	bio	cybergangster	не дело совсем
+2021-11-20 23:21:49.691254	bio	cybergangster	ждут уже люди полдня декрипт файла
+2021-11-20 23:21:49.692002	bio	cybergangster	выходной понятно, ну хоть появляйтесь разок в несколько часов
+2021-11-20 23:22:06.947190	cybergangster	bio	Ya tut
+2021-11-20 23:22:23.251926	cybergangster	bio	Ya na trasse segodnya vyebalsya
+2021-11-20 23:44:14.290301	cybergangster	bio	support online bil 2 chasa nazad
+2021-11-20 23:44:17.631859	cybergangster	bio	mog emu optisat
+2021-11-20 23:52:41.417101	cybergangster	bio	podojdut eti pidorasi ya im kidal uje decrypt file
+2021-11-21 00:04:05.271926	bio	cybergangster	че ты как там, живой?
+2021-11-21 00:04:33.882344	bio	cybergangster	https://www.sendspace.com/file/eeni99
+2021-11-21 00:13:40.884015	cybergangster	bio	Da bez travm
+2021-11-21 00:14:37.643890	bio	cybergangster	ну это самое голавное
+2021-11-21 00:14:59.509847	bio	cybergangster	а остальное наживное
+2021-11-21 00:15:08.873216	bio	cybergangster	сделай декрипт плих
+2021-11-21 00:15:25.039095	cybergangster	bio	Vot eti poproboval rashifrovat oni kakie to levie files skinuli
+A perviy file normalno rashifrovalsya oni pizdaboli tolko chto proveril
+2021-11-21 00:15:57.190211	cybergangster	bio	Vtorie ne decryptatsya zavtra utrom budu pod otladchikom smotret che tam ne tak
+2021-11-21 00:16:10.178428	bio	cybergangster	ок
+2021-11-21 00:16:42.635949	cybergangster	bio	Poprosi etih po fastu skinut pass rMFoiHH9flCxSPmiKF5BqJZfKOZlwTWTn7D2vyzgcMIytFVTEWirmCcRKs8D5Nkj
+2021-11-21 00:16:48.067021	cybergangster	bio	na archive
+2021-11-21 00:16:59.040886	bio	cybergangster	ок
+2021-11-21 06:02:18.565824	bio	cybergangster	PW = 1!j20tJNn#Io
+2021-11-21 09:22:40.728101	bio	cybergangster	PW = 1!j20tJNn#Io
+2021-11-21 10:21:44.508224	bio	cybergangster	привет
+2021-11-21 10:22:06.008506	bio	cybergangster	ну что там у тебя, получилось посмотреть под отладчиком что за рожно они скинули?
+2021-11-21 10:23:05.578087	cybergangster	bio	privet
+2021-11-21 10:23:11.755565	cybergangster	bio	ustanavlivau visual studio
+2021-11-21 10:26:40.055005	bio	cybergangster	ок
+2021-11-21 10:26:51.787144	bio	cybergangster	отпиши потом плиз, интересно просто и будем думать что им писать
+2021-11-21 10:27:03.797807	cybergangster	bio	ok
+2021-11-21 12:12:32.265776	cybergangster	bio	Razobralsya
+2021-11-21 12:12:43.744597	cybergangster	bio	No tam 1 file bitiy
+2021-11-21 12:12:50.849428	cybergangster	bio	Skoree vsego on do locka ne rabotal eshe
+2021-11-21 12:13:08.485579	bio	cybergangster	т.е. не подстава?
+2021-11-21 12:13:39.407704	cybergangster	bio	Net
+2021-11-21 12:13:42.570843	bio	cybergangster	ну ты расшифруй и скинем что есть
+2021-11-21 12:13:50.982052	cybergangster	bio	Ok
+2021-11-21 12:13:52.888018	bio	cybergangster	а там пусть думают
+2021-11-21 12:15:05.231074	cybergangster	bio	A ne
+2021-11-21 12:15:08.745426	cybergangster	bio	On toje rabotaet
+2021-11-21 12:15:25.188512	bio	cybergangster	ну тогда вообще классно
+2021-11-21 12:15:37.517713	cybergangster	bio	Ya koroche vchera zatupil poluchaetsya
+2021-11-21 12:16:51.153372	bio	cybergangster	ну вчера у тебя сложный день был
+2021-11-21 12:16:58.162884	bio	cybergangster	устал просто
+2021-11-21 12:18:37.477233	cybergangster	bio	skinul im
+2021-11-21 12:18:49.026307	bio	cybergangster	красавчик
+2021-11-22 05:45:03.071263	bio	cybergangster	ку
+2021-11-22 05:45:10.100833	bio	cybergangster	ну где есть то?
+2021-11-22 05:46:22.883352	bio	cybergangster	rMFoiHH9flCxSPmiKF5BqJZfKOZlwTWTn7D2vyzgcMIytFVTEWirmCcRKs8D5Nkj
+2021-11-22 05:46:37.422718	bio	cybergangster	эти ребята оплатили, скинь им все что нужно плиз
+2021-11-22 07:48:29.863583	bio	cybergangster	ку
+2021-11-22 07:48:29.866125	bio	cybergangster	ну где есть то?
+2021-11-22 07:48:29.867288	bio	cybergangster	rMFoiHH9flCxSPmiKF5BqJZfKOZlwTWTn7D2vyzgcMIytFVTEWirmCcRKs8D5Nkj
+2021-11-22 07:48:29.867798	bio	cybergangster	эти ребята оплатили, скинь им все что нужно плиз
+2021-11-22 07:48:45.272911	cybergangster	bio	+
+2021-11-22 07:52:47.431758	bio	cybergangster	наконец-ТО))
+2021-11-22 07:52:56.005806	bio	cybergangster	давай, заждались там они уже)
+2021-11-22 08:07:46.208995	bio	cybergangster	ну что ты
+2021-11-22 08:07:53.162333	bio	cybergangster	подготовил?
+2021-11-22 08:08:09.101564	cybergangster	bio	kdi
+2021-11-22 08:08:12.078729	cybergangster	bio	jdi
+2021-11-22 08:08:19.296882	bio	cybergangster	ок
+2021-11-22 08:09:12.468323	cybergangster	bio	i skippy contact skyppy@?
+2021-11-22 08:09:18.631315	cybergangster	bio	skippy@?
+2021-11-22 08:10:31.289207	bio	cybergangster	i skippy contact skyppy@?
+2021-11-22 08:10:31.290180	bio	cybergangster	skippy@?
+2021-11-22 08:14:19.515351	bio	cybergangster	незнаешь когда трамп будет?
+2021-11-22 08:14:34.930785	cybergangster	bio	net
+2021-11-22 08:17:01.066010	cybergangster	bio	Perevedi na english please "Otpravte files cherez sendspace.com"
+2021-11-22 08:19:36.814275	bio	cybergangster	For sending files is using sendspace.com
+2021-11-22 08:20:42.261261	bio	cybergangster	или так For sending files use pls sendspace.com
+2021-11-22 08:38:36.596785	cybergangster	bio	1) Podkluchites k serveru ot roota
+2) Polojite decryptor v papku /tmp
+3) zapustite decryptor ./decryptor --path /vmfs/volumes
+4) Ojidaite okonchaniya raboti 
+5) Perezagruzite server
+2021-11-22 08:38:40.830730	cybergangster	bio	Perevedi please
+2021-11-22 08:45:36.951586	bio	cybergangster	1. Log on to the server like root
+2. Copy decriptor to the /tmp folder
+3. Run decryptor ./decryptor --path /vmfs/volumes
+4. Waiting the end decryptor work
+5. Reboot system
+2021-11-22 08:45:59.209433	cybergangster	bio	uje sdelali
+2021-11-22 08:46:09.176293	bio	cybergangster	да я только увидел
+2021-11-22 09:47:42.454085	bio	cybergangster	скинь еще им стандартный отчет как ты кидал по уязвимости там и рекомендации
+2021-11-22 09:48:02.268293	bio	cybergangster	блин и Трампа все нет
+2021-11-22 09:49:31.113813	cybergangster	bio	U menya ne ostalos
+2021-11-22 10:06:56.153342	bio	cybergangster	спроси, может у помощника есть
+2021-11-22 10:07:55.566463	bio	cybergangster	если у него тоже нету, то накидай мне на русском я переведу и сам скину
+2021-11-22 11:02:34.593425	cybergangster	bio	Na russkom toje netu
+2021-11-22 11:02:47.934993	cybergangster	bio	U trampa est v logah
+2021-11-22 11:04:18.448363	bio	cybergangster	ок
+2021-11-22 11:04:30.074333	bio	cybergangster	только вот трампа нет самого)
+2021-11-22 11:05:23.145966	cybergangster	bio	podojdut oni
+2021-11-22 11:05:27.963202	cybergangster	bio	ne kritichno
+2021-11-22 11:05:59.134972	bio	cybergangster	да, согласен. просто там еще два чудика появилось
+2021-11-22 11:06:03.295809	bio	cybergangster	их бы определить
+2021-11-22 13:07:58.940614	bio	cybergangster	https://www.sendspace.com/filegroup/JKrHiUAcS8fTne8txQhFd%2BGThoPhi%2BeO
+2021-11-22 13:08:14.462644	bio	cybergangster	просят декрипт сделат
+2021-11-22 13:08:29.632552	bio	cybergangster	TuuRyumSlMNfPwdMx6OS3uD2TibuFfLFFlQ2xTx2cTooS1ta8cnfBIsO5lDGahbW
+2021-11-22 13:52:08.814787	bio	cybergangster	ну ты сделаешь?
+2021-11-22 14:41:40.998594	bio	cybergangster	все, твой  помощник сказал сделает все
+2021-11-22 16:24:58.546828	bio	cybergangster	тут?
+2021-11-22 16:25:18.674967	bio	cybergangster	твой помощник так и не дешифровал файлы
+2021-11-22 16:25:21.692133	bio	cybergangster	у него не получилось или что?
+2021-11-22 16:25:56.425733	cybergangster	bio	тут?
+2021-11-22 16:25:56.427848	cybergangster	bio	твой помощник так и не дешифровал файлы
+2021-11-22 16:25:56.430745	cybergangster	bio	у него не получилось или что?
+2021-11-22 16:43:52.643077	bio	cybergangster	слушай, трампа  нет уже весь день
+2021-11-22 16:43:57.092016	bio	cybergangster	такое бывало?
+2021-11-22 16:44:22.894015	cybergangster	bio	Net
+2021-11-22 16:44:29.328615	cybergangster	bio	Da oni otdihaut
+2021-11-22 16:44:32.761786	cybergangster	bio	Skoree vsego
+2021-11-22 16:44:39.791969	cybergangster	bio	Tak kak pauzu poka vzyali
+2021-11-22 16:45:20.410727	bio	cybergangster	кто отдыхает?
+2021-11-22 16:45:23.917939	bio	cybergangster	кто они?
+2021-11-22 16:45:35.891521	cybergangster	bio	ego komanda
+2021-11-22 16:45:49.396754	bio	cybergangster	ясно, ну чего ты сразу то не сказал
+2021-11-22 16:45:54.693892	bio	cybergangster	я то уже распереживался
+2021-11-22 16:45:59.252100	bio	cybergangster	и он не предпредил
+2021-11-22 16:46:13.983130	bio	cybergangster	твой параноик может расшифровать хоть что-то?
+2021-11-22 16:46:20.364601	bio	cybergangster	уже очередь к нему
+2021-11-22 16:46:53.671859	cybergangster	bio	zalivaet
+2021-11-22 16:47:01.278403	bio	cybergangster	ок
+2021-11-22 16:54:08.186549	bio	cybergangster	совет нужен
+2021-11-22 16:54:13.745163	bio	cybergangster	раз трампа нет
+2021-11-22 16:54:25.813477	bio	cybergangster	MsGUp1wfZ5dgRJ15Y6tP5Hsp0SDjQBjbzj98zcoIPyQjugbwIYLoD57n3xEnCah6
+2021-11-22 16:54:48.391052	bio	cybergangster	вот эти гопники согласились наконецто на 1млн. подняли их с 60к)
+2021-11-22 16:54:51.715807	bio	cybergangster	но
+2021-11-22 16:55:01.167589	bio	cybergangster	просят сперва заплатить 750к
+2021-11-22 16:55:27.870586	bio	cybergangster	а потом после получения декрипта, остальные 250к
+2021-11-22 16:55:31.301245	bio	cybergangster	что скажешь?
+2021-11-22 16:55:34.359476	bio	cybergangster	стоит им верить?
+2021-11-23 04:22:47.552841	bio	cybergangster	привет
+2021-11-23 04:22:54.259176	bio	cybergangster	подготовь все плиз для них вот
+2021-11-23 20:53:01.838717	bio	cybergangster	деньги перевело там пару контор) сегодня хороший день!
+2021-11-24 08:49:32.634228	bio	cybergangster	привет. подскажи баг еще не устранили?
+2021-11-24 13:28:30.798120	bio	cybergangster	ну отлично если устранили
+2021-11-24 13:28:45.205681	bio	cybergangster	значат сегодня появятся те кто достучаться не смог
+2021-11-25 20:15:40.758539	bio	cybergangster	ты спрашивал кто нам должен 250к
+2021-11-25 20:15:42.089494	bio	cybergangster	MsGUp1wfZ5dgRJ15Y6tP5Hsp0SDjQBjbzj98zcoIPyQjugbwIYLoD57n3xEnCah6
+2021-11-25 20:16:02.827160	bio	cybergangster	завтра должны перевести или им пиздец)
+2021-11-30 02:33:30.894441	bio	cybergangster	https://www.sendspace.com/file/ixq9en
+2021-11-30 14:57:15.597088	bio	cybergangster	https://www.sendspace.com/file/ixq9en
+2021-12-01 21:57:54.956545	bio	cybergangster	ку
+2021-12-01 21:57:57.513211	bio	cybergangster	здесь?
+2021-12-01 21:58:00.784390	bio	cybergangster	[00:54:45] <bio> How fast does your decryption tool work? For example, how long would it take to decrypt 500GB of data on a normal mechanical hard drive? 
+[00:54:54] <bio> как быстро дешифрует 500Gb 
+[00:55:02] <bio> задают вопрос 
+[00:55:04] <bio> что ответить?
+2021-12-01 21:58:11.623999	bio	cybergangster	может ты подскажешь?
+2021-12-01 22:07:04.822119	cybergangster	bio	ку
+2021-12-01 22:07:04.824753	cybergangster	bio	здесь?
+2021-12-01 22:07:04.826584	cybergangster	bio	[00:54:45] <bio> How fast does your decryption tool work? For example, how long would it take to decrypt 500GB of data on a normal mechanical hard drive? 
+[00:54:54] <bio> как быстро дешифрует 500Gb 
+[00:55:02] <bio> задают вопрос 
+[00:55:04] <bio> что ответить?
+2021-12-01 22:07:04.827773	cybergangster	bio	может ты подскажешь?
+2021-12-04 15:40:30.705599	bio	cybergangster	привет
+2021-12-04 15:40:32.919096	bio	cybergangster	ЗП давай
+2021-12-04 15:41:14.375825	cybergangster	bio	Здарова
+2021-12-04 15:41:28.393127	cybergangster	bio	Мне трамп ни че не скидывал
+2021-12-04 15:42:33.464357	bio	cybergangster	ну тогда ладно)
+2021-12-05 10:23:14.284446	bio	cybergangster	чего ты не скинул?
+2021-12-05 10:23:18.378630	bio	cybergangster	скинь плиз
+2021-12-13 22:10:22.938641	bio	cybergangster	привет
+2021-12-13 22:10:24.247653	bio	cybergangster	тут?
+2021-12-17 14:54:55.811107	cybergangster	bio	on budet
+2021-12-17 14:55:02.625720	cybergangster	bio	napushesh emu kak bablo pridet\
+2021-12-17 15:41:36.632896	cybergangster	bio	napushesh emu kak bablo pridet\
+2021-12-17 15:41:36.633946	cybergangster	bio	on budet
+2021-12-17 15:41:45.422569	bio	cybergangster	ок
+2021-12-17 15:41:47.890357	bio	cybergangster	конечно
+2021-12-18 08:06:49.137362	bio	cybergangster	конечно
+2021-12-18 08:06:49.138649	bio	cybergangster	ок
+2021-12-21 08:39:58.450872	cybergangster	bio	И декриптор 64 bit

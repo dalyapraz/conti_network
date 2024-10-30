@@ -1,0 +1,11 @@
+Timestamp	From	To	Message
+2020-08-04 11:11:02.105678	tilar	boba	otpshi
+2020-08-04 11:16:55.144744	tilar	boba	otpshi
+2020-08-04 11:17:18.049422	boba	tilar	re
+2020-08-04 11:17:51.263427	tilar	boba	otr raboet?
+2020-08-04 11:17:59.594659	tilar	boba	sdelauy start
+2020-08-20 17:06:33.309370	tilar	boba	hey
+2020-09-02 11:40:50.918794	boba	tilar	привеь
+2020-09-14 10:31:45.536145	boba	tilar	привет
+2020-09-14 10:31:50.819929	boba	tilar	я так не закончила учебу
+2020-09-14 10:31:55.562065	boba	tilar	бумер не отвечает

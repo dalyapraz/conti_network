@@ -1,0 +1,4 @@
+Timestamp	From	To	Message
+2021-08-01 21:13:19.843945	ali	mult	
+Our OTR does not connect for some reason....
+I am from Stern via vpn access.

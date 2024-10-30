@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2020-09-02 16:47:07.431203	dorirus	strix	Привет

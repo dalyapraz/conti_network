@@ -1,0 +1,13 @@
+Timestamp	From	To	Message
+2020-10-01 12:43:14.102609	mavemat	tiktak	mavemat@q3mcco35auwcstmt.onion
+которая  типа цепи
+Text ставишь our_site|ourwebsite  к примеру  ставшь Text as Dictonary 
+Или просто text our_site    Text as string  если в тексте ссылки не нужен рандом
+
+с Href аналогично за исключением что надо там указывать http://ya.com|https://google.com в случе рандома
+2020-10-13 13:22:03.398626	tiktak	mavemat	тут?
+2020-10-14 07:11:09.389050	tiktak	mavemat	тут?
+2020-10-14 07:11:28.822853	mavemat	tiktak	Привет
+2020-10-14 08:09:14.523462	mavemat	tiktak	Привет
+2020-10-14 15:59:22.168719	tiktak	mavemat	бро тут? а можешь софт перезапустить а то он завис
+2020-10-15 07:09:47.782791	tiktak	mavemat	бро тут? а можешь софт перезапустить а то он завис

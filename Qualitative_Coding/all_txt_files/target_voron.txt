@@ -1,0 +1,677 @@
+Timestamp	From	To	Message
+2020-08-26 17:02:19.290097	target	voron	10 плюс 10 ровно
+2020-08-26 17:02:32.880108	voron	target	20
+2020-08-26 17:02:33.725642	target	voron	Congratulations! Now you can chat!
+2020-09-01 00:14:06.989690	target	voron	привет
+2020-09-01 00:14:09.284660	target	voron	давай людей
+2020-09-01 00:14:15.628565	target	voron	с которыми мои будут взаимодействоать
+2020-09-01 00:14:20.887476	target	voron	пусть пока за пару дней научатся
+2020-09-01 00:14:23.790225	target	voron	что им как делать
+2020-09-01 00:14:39.570141	target	voron	в жабе моих нет
+другой канал связи будт через рокет чат
+2020-09-01 15:06:36.731888	target	voron	привет
+2020-09-01 15:06:36.733853	target	voron	давай людей
+2020-09-01 15:06:36.735293	target	voron	с которыми мои будут взаимодействоать
+2020-09-01 15:06:36.736148	target	voron	пусть пока за пару дней научатся
+2020-09-01 15:06:36.737039	target	voron	что им как делать
+2020-09-01 15:06:36.737866	target	voron	в жабе моих нет
+другой канал связи будт через рокет чат
+2020-09-10 10:11:50.905494	target	voron	чистый ехе
+2020-09-10 10:11:51.865346	target	voron	длл
+2020-09-10 10:11:53.441776	target	voron	кобы
+2020-09-10 10:11:54.209776	target	voron	нужен
+2020-09-10 10:11:55.768522	target	voron	к 16 00
+2020-09-10 10:11:58.811561	target	voron	чтобы перекинуть тебе ботов
+2020-09-10 10:12:00.543211	target	voron	с бк
+2020-09-10 10:12:18.556118	target	voron	ехе и длл х64
+2020-09-10 16:44:17.908538	target	voron	чистый ехе
+2020-09-10 16:44:17.910081	target	voron	длл
+2020-09-10 16:44:17.911064	target	voron	кобы
+2020-09-10 16:44:17.912048	target	voron	нужен
+2020-09-10 16:44:17.912820	target	voron	к 16 00
+2020-09-10 16:44:17.913689	target	voron	чтобы перекинуть тебе ботов
+2020-09-10 16:44:17.914570	target	voron	с бк
+2020-09-10 16:44:17.915305	target	voron	ехе и длл х64
+2020-09-10 17:17:58.264241	target	voron	ага я к 00 00
+2020-09-10 17:18:00.330770	target	voron	тут
+2020-09-10 17:29:32.202450	target	voron	ага я к 00 00
+2020-09-10 17:29:32.203838	target	voron	тут
+2020-09-14 20:06:24.919368	target	voron	привет
+2020-09-14 20:06:26.062099	target	voron	трой молчит с обеда
+2020-09-14 20:06:32.367548	target	voron	там для него боты есть
+2020-09-14 20:07:06.832888	voron	target	сек
+2020-09-15 17:43:00.088269	target	voron	там 40+ сеток
+2020-09-15 17:43:02.184846	target	voron	100-10 млрд
+2020-09-15 17:43:17.041658	target	voron	ты хотел ранее доступы дать к почтам по локам к перепискам
+2020-09-16 17:20:05.519482	target	voron	там 40+ сеток
+2020-09-16 17:20:05.520835	target	voron	100-10 млрд
+2020-09-16 17:20:05.521619	target	voron	ты хотел ранее доступы дать к почтам по локам к перепискам
+2020-09-18 11:39:10.958460	target	voron	привет
+2020-09-18 11:39:13.576636	target	voron	кого еще поставили на лок
+2020-09-18 22:17:47.899716	target	voron	привет
+2020-09-18 22:17:47.900976	target	voron	кого еще поставили на лок
+2020-09-20 15:02:33.689347	voron	target	привет
+2020-09-20 15:02:35.173152	voron	target	тут?
+2020-09-20 19:15:26.156631	target	voron	fx8
+Protonmail: epacbesett1985@protonmail.com 
+usa
+server: 400\150
+computer: 4100\300+
+2020-09-20 19:15:28.899342	target	voron	во
+2020-09-20 19:15:31.494484	target	voron	досутпа туда нет
+2020-09-20 19:15:33.605558	target	voron	хз что пишут
+2020-09-21 00:39:34.365527	target	voron	поздравляю тебя еще с одной выплатой
+2020-09-21 15:31:53.429223	target	voron	поздравляю тебя еще с одной выплатой
+2020-09-23 12:35:14.675489	target	voron	игла
+2020-09-23 12:35:19.274282	target	voron	где все???????
+2020-09-23 12:35:21.113963	target	voron	молчат
+2020-09-23 12:35:21.338627	target	voron	1
+2020-09-23 12:35:28.444008	target	voron	там коба криптованная нужна
+2020-09-23 12:35:30.511727	target	voron	мы работу начинаем
+2020-09-23 12:35:34.293079	target	voron	согласованы объекты на утро
+2020-09-23 12:35:38.271153	target	voron	все иделаьно идет пока что
+2020-09-23 12:35:40.226061	target	voron	и нет блядь троя
+2020-09-23 12:35:41.827168	target	voron	с кобой чистой
+2020-09-23 15:45:32.996631	target	voron	игла
+2020-09-23 15:45:32.998912	target	voron	молчат
+2020-09-23 15:45:32.999870	target	voron	где все???????
+2020-09-23 15:45:33.005073	target	voron	1
+2020-09-23 15:45:33.007014	target	voron	там коба криптованная нужна
+2020-09-23 15:45:33.007725	target	voron	мы работу начинаем
+2020-09-23 15:45:33.012200	target	voron	согласованы объекты на утро
+2020-09-23 15:45:33.013081	target	voron	все иделаьно идет пока что
+2020-09-23 15:45:33.015615	target	voron	и нет блядь троя
+2020-09-23 15:45:33.025017	target	voron	с кобой чистой
+2020-09-26 21:14:47.682238	target	voron	привет
+2020-09-26 21:14:49.676449	target	voron	молчат они?)
+2020-09-26 21:14:53.503215	target	voron	https://twitter.com/search?q=CreditOneBank&src=recent_search_click&f=live
+2020-09-26 22:01:51.230043	target	voron	[00:51:47] <iiiig (партнер)> бля да че я вобще сижу тут пытаюсь нас в какое то русло загнать 
+
+одним и тем же заняты с разных сторон
+2020-09-27 11:58:41.791503	target	voron	Sorry, we've been tracking down different sources of funding to see what we can pay you, but so far we have only come up with $648,235. We have been struggling this year financially and are just looking to get back to functioning. If we could afford the full amount we would have paid you earlier, but it has been a campaign to get funding for this.
+2020-09-27 11:58:45.000932	target	voron	)
+2020-09-27 12:01:14.022482	target	voron	думаешь
+2020-09-27 12:01:15.557042	target	voron	пенсионеров
+2020-09-27 12:01:17.908847	target	voron	у них меньше стало
+2020-09-27 12:01:20.312794	target	voron	в этом году?
+2020-09-27 12:01:25.239812	target	voron	из за ковида
+2020-09-27 12:01:27.830548	target	voron	может они
+2020-09-27 12:01:29.021297	target	voron	правы
+2020-09-27 12:01:33.435655	target	voron	ковид подкосил многих
+2020-09-27 12:01:35.133856	target	voron	у них клиентов
+2020-09-27 12:01:36.042076	target	voron	стало
+2020-09-27 12:01:36.997791	target	voron	меньше
+2020-09-27 12:01:38.204077	target	voron	))))))))))))))))))
+2020-09-27 20:46:29.763123	target	voron	Sorry, we've been tracking down different sources of funding to see what we can pay you, but so far we have only come up with $648,235. We have been struggling this year financially and are just looking to get back to functioning. If we could afford the full amount we would have paid you earlier, but it has been a campaign to get funding for this.
+2020-09-27 20:46:29.765797	target	voron	)
+2020-09-27 20:46:29.767161	target	voron	думаешь
+2020-09-27 20:46:29.768053	target	voron	пенсионеров
+2020-09-27 20:46:29.769312	target	voron	у них меньше стало
+2020-09-27 20:46:29.770048	target	voron	в этом году?
+2020-09-27 20:46:29.770863	target	voron	из за ковида
+2020-09-27 20:46:29.771695	target	voron	может они
+2020-09-27 20:46:29.772485	target	voron	правы
+2020-09-27 20:46:29.773154	target	voron	ковид подкосил многих
+2020-09-27 20:46:29.773864	target	voron	у них клиентов
+2020-09-27 20:46:29.774610	target	voron	стало
+2020-09-27 20:46:29.775382	target	voron	меньше
+2020-09-27 20:46:29.776146	target	voron	))))))))))))))))))
+2020-09-28 00:17:21.231718	target	voron	банк
+2020-09-28 00:17:23.391412	target	voron	походу понялся
+2020-09-28 00:17:24.341451	target	voron	цлеиком
+2020-09-28 00:17:28.792647	target	voron	судя по тому тчо онлайнн заработал
+2020-09-28 00:17:30.990586	target	voron	и все заработало у них
+2020-09-28 00:18:00.536248	target	voron	дашь добро - задолбим их директоров и руководителей
+2020-09-28 00:18:01.698363	target	voron	решай сам
+2020-09-28 00:25:33.266141	target	voron	можно туда вернуться
+2020-09-28 00:26:08.665649	target	voron	можно общаться с их руководством на тему хотя ли они возврата туда )
+2020-09-28 13:26:42.004634	target	voron	)))))))
+2020-09-28 13:26:43.042712	target	voron	слушай
+2020-09-28 13:26:46.021550	target	voron	ржу тут))
+2020-09-28 13:26:58.043703	target	voron	этот банк долбаеб))))
+2020-09-28 13:27:05.200384	target	voron	надо чейз еще востановить трою
+2020-09-28 13:27:08.409178	target	voron	пусть его ломает ))))
+2020-09-28 14:14:23.565145	target	voron	так
+2020-09-28 14:14:26.155531	target	voron	с троем поговорили
+2020-09-28 14:14:30.610894	target	voron	все збс он поправил все что мешало ему
+2020-09-28 14:14:31.134267	target	voron	там
+2020-09-28 14:14:33.819420	target	voron	скорость еще что то
+2020-09-28 14:14:36.726266	target	voron	завтра загурзим работой
+2020-09-28 14:14:38.913615	target	voron	как он просит
+2020-09-28 19:50:31.725947	target	voron	игла
+2020-09-28 19:50:32.922352	target	voron	там ипздец
+2020-09-28 19:50:34.151381	target	voron	разразился
+2020-09-28 19:50:35.779433	target	voron	везде
+2020-09-28 19:50:38.616847	target	voron	с этим банком
+2020-09-28 19:50:48.337720	target	voron	ве новости про них
+2020-09-28 19:50:49.316873	target	voron	а он имолчат
+2020-09-28 19:50:53.706443	target	voron	битки что ли собирают
+2020-09-28 19:50:56.728694	target	voron	с клиентов )))
+2020-09-28 21:07:27.203776	target	voron	трой
+2020-09-28 21:07:30.670874	target	voron	ввел в даун
+2020-09-28 21:07:34.636514	target	voron	все штаты
+2020-09-28 21:07:39.386147	target	voron	в ухс
+2020-09-28 21:07:45.052861	target	voron	почитай гугл
+2020-09-28 21:07:47.147902	target	voron	там все легло
+2020-09-28 21:07:48.641811	target	voron	вообще все
+2020-09-28 21:08:02.502513	target	voron	пишут что 50м запросили выкуп
+2020-09-28 21:08:06.509548	target	voron	)))
+2020-09-28 21:10:16.775259	target	voron	https://www.bleepingcomputer.com/news/security/uhs-hospitals-hit-by-reported-country-wide-ryuk-ransomware-attack/
+2020-09-28 21:10:23.205409	target	voron	они пишут на первую почту или на вторую
+2020-09-28 21:27:08.851134	target	voron	читай блипинг) 50м не много? там и сотрдуники пишут что 50м запрошено у руководства
+2020-09-28 22:03:11.107006	target	voron	банк
+2020-09-28 22:03:11.109126	target	voron	походу понялся
+2020-09-28 22:03:11.110025	target	voron	цлеиком
+2020-09-28 22:03:11.111144	target	voron	судя по тому тчо онлайнн заработал
+2020-09-28 22:03:11.112136	target	voron	и все заработало у них
+2020-09-28 22:03:11.113199	target	voron	дашь добро - задолбим их директоров и руководителей
+2020-09-28 22:03:11.114270	target	voron	решай сам
+2020-09-28 22:03:11.115241	target	voron	можно туда вернуться
+2020-09-28 22:03:11.116100	target	voron	можно общаться с их руководством на тему хотя ли они возврата туда )
+2020-09-28 22:03:11.117208	target	voron	)))))))
+2020-09-28 22:03:11.118044	target	voron	слушай
+2020-09-28 22:03:11.118928	target	voron	ржу тут))
+2020-09-28 22:03:11.119949	target	voron	этот банк долбаеб))))
+2020-09-28 22:03:11.121190	target	voron	надо чейз еще востановить трою
+2020-09-28 22:03:11.122048	target	voron	пусть его ломает ))))
+2020-09-28 22:03:11.123177	target	voron	так
+2020-09-28 22:03:11.124141	target	voron	с троем поговорили
+2020-09-28 22:03:11.125305	target	voron	все збс он поправил все что мешало ему
+2020-09-28 22:03:11.126441	target	voron	там
+2020-09-28 22:03:11.127417	target	voron	скорость еще что то
+2020-09-28 22:03:11.128262	target	voron	завтра загурзим работой
+2020-09-28 22:03:11.129231	target	voron	как он просит
+2020-09-28 22:03:11.130219	target	voron	игла
+2020-09-28 22:03:11.131054	target	voron	там ипздец
+2020-09-28 22:03:11.131920	target	voron	разразился
+2020-09-28 22:03:11.132678	target	voron	везде
+2020-09-28 22:03:11.133407	target	voron	с этим банком
+2020-09-28 22:03:11.134124	target	voron	ве новости про них
+2020-09-28 22:03:11.134917	target	voron	а он имолчат
+2020-09-28 22:03:11.135772	target	voron	битки что ли собирают
+2020-09-28 22:03:11.136542	target	voron	с клиентов )))
+2020-09-28 22:03:11.137280	target	voron	трой
+2020-09-28 22:03:11.138103	target	voron	ввел в даун
+2020-09-28 22:03:11.138877	target	voron	все штаты
+2020-09-28 22:03:11.139632	target	voron	в ухс
+2020-09-28 22:03:11.140397	target	voron	почитай гугл
+2020-09-28 22:03:11.141228	target	voron	там все легло
+2020-09-28 22:03:11.141972	target	voron	вообще все
+2020-09-28 22:03:11.142716	target	voron	пишут что 50м запросили выкуп
+2020-09-28 22:03:11.143437	target	voron	)))
+2020-09-28 22:03:11.144153	target	voron	они пишут на первую почту или на вторую
+2020-09-28 22:03:11.144964	target	voron	читай блипинг) 50м не много? там и сотрдуники пишут что 50м запрошено у руководства
+2020-09-28 22:03:11.164337	target	voron	https://www.bleepingcomputer.com/news/security/uhs-hospitals-hit-by-reported-country-wide-ryuk-ransomware-attack/
+2020-09-29 03:38:40.712998	target	voron	по перепискам сотурднкиов
+2020-09-29 03:38:42.377107	target	voron	в реддит
+2020-09-29 03:38:45.367355	target	voron	там половина систем лежит
+2020-09-29 03:38:47.192501	target	voron	половина нет
+2020-09-29 03:38:52.975208	target	voron	тоесть из 400 органиазций
+2020-09-29 03:38:54.194298	target	voron	судя по всему
+2020-09-29 03:38:58.201498	target	voron	половина легло
+2020-09-29 03:38:59.425429	target	voron	половина нет
+2020-09-29 03:39:02.554028	target	voron	где то телы не работают и данные
+2020-09-29 03:39:04.363623	target	voron	где то работают
+2020-09-29 03:39:10.310645	target	voron	где правда там хз
+2020-09-29 15:29:02.735509	target	voron	The company's email system appeared to still be down today, as the spokesperson responded to inquiries about the attack via a personal account after an attempt was made to reach the company via its corporate email system.
+
+)))))))))))))))))))))
+2020-09-29 15:29:05.367637	target	voron	ответь им
+2020-09-29 15:35:36.713908	target	voron	Hello? It is very important we speak to you
+2020-09-29 15:35:37.740117	target	voron	)))))))))))))))
+2020-09-29 15:35:41.372179	target	voron	игла дай и мответ
+2020-09-29 15:35:44.887965	target	voron	там у них пиздец
+2020-09-29 21:02:48.489378	target	voron	иглаааааааааа
+2020-09-29 21:02:49.618208	target	voron	)))))))))))))))))))
+2020-09-29 21:02:52.440918	target	voron	ну красавец
+2020-09-30 00:44:35.675081	target	voron	по перепискам сотурднкиов
+2020-09-30 00:44:35.677187	target	voron	в реддит
+2020-09-30 00:44:35.678797	target	voron	там половина систем лежит
+2020-09-30 00:44:35.679935	target	voron	половина нет
+2020-09-30 00:44:35.681257	target	voron	тоесть из 400 органиазций
+2020-09-30 00:44:35.682134	target	voron	судя по всему
+2020-09-30 00:44:35.682884	target	voron	половина легло
+2020-09-30 00:44:35.684143	target	voron	где то телы не работают и данные
+2020-09-30 00:44:35.684926	target	voron	где то работают
+2020-09-30 00:44:35.685934	target	voron	где правда там хз
+2020-09-30 00:44:35.686648	target	voron	The company's email system appeared to still be down today, as the spokesperson responded to inquiries about the attack via a personal account after an attempt was made to reach the company via its corporate email system.
+
+)))))))))))))))))))))
+2020-09-30 00:44:35.687388	target	voron	ответь им
+2020-09-30 00:44:35.688205	target	voron	Hello? It is very important we speak to you
+2020-09-30 00:44:35.688966	target	voron	)))))))))))))))
+2020-09-30 00:44:35.689666	target	voron	игла дай и мответ
+2020-09-30 00:44:35.690373	target	voron	там у них пиздец
+2020-09-30 00:44:35.691147	target	voron	иглаааааааааа
+2020-09-30 00:44:35.691948	target	voron	)))))))))))))))))))
+2020-09-30 00:44:35.692806	target	voron	ну красавец
+2020-09-30 16:56:35.365166	target	voron	этот песионный дом с 200 мл оборотом
+2020-09-30 16:56:37.352718	target	voron	охуели совсем)
+2020-09-30 16:56:42.594803	target	voron	возмущены что им счет выставяют
+2020-09-30 16:56:44.399093	target	voron	за сервера
+2020-09-30 18:37:57.402538	target	voron	новые 30+ сеток трою
+2020-09-30 18:38:07.968937	target	voron	"Revenue:
+$3 Billion + 7 domain"
+"Revenue:
+$115 Million"
+"Revenue:
+$1 Billion + 26 domain"
+"Revenue:
+$377 Million"
+2020-09-30 18:38:13.031865	target	voron	и еще все такие же ))
+2020-09-30 19:05:33.952960	target	voron	[22:02:51] <troy> havtit 
+[22:06:26] <troy> bro harosh 
+[22:06:35] <troy> nachnut otpadat 
+[22:06:43] <troy> ne uspevau 
+[22:06:51] <target> ХАХАХАХАХА ))))) сам просил крупняка миллирадного много)) мои парни готовили тебе их много
+надо нахуй сша всю залочить
+2020-09-30 19:05:37.986682	target	voron	стоуну начала делать
+2020-10-01 01:06:46.479327	target	voron	Are UHS systems back online?
+2020-10-01 01:06:50.507971	target	voron	Emsisoft is offering free ransomware recovery services to healthcare organizations during the pandemic, which include custom decryptors that are known to recover files 50% faster than the threat actor's decryptors.
+
+"There are multiple factors and it depends a bit on the hardware, but there are three major factors: We heavily optimised I/O (so the reading and writing has been optimised a lot and been adjusted for modern mass storage), we use hardware accelerated cryptography, and we make creating a backup first unnecessary, because unlike the TA's tool, we operate on copies of data."
+
+"The real benefit is in the fact that we focus on data safety first. So our decryptors generally are more stable, are safer to use, and produce correct results," Emsisoft CTO Fabian Wosar told BleepingComputer in a conversation.
+
+BleepingComputer has contacted UHS for more information about the attack but has not heard back.
+2020-10-01 01:06:54.657627	target	voron	они подключили какую то комм компанию))
+2020-10-01 01:06:57.672969	target	voron	для дешифровки файлов
+2020-10-01 01:06:59.772174	target	voron	лол
+2020-10-01 01:07:02.469345	target	voron	)))))))
+2020-10-01 17:49:44.161691	target	voron	охуели совсем)
+2020-10-01 17:49:44.163770	target	voron	возмущены что им счет выставяют
+2020-10-01 17:49:44.165351	target	voron	этот песионный дом с 200 мл оборотом
+2020-10-01 17:49:44.169512	target	voron	новые 30+ сеток трою
+2020-10-01 17:49:44.170601	target	voron	"Revenue:
+$3 Billion + 7 domain"
+"Revenue:
+$115 Million"
+"Revenue:
+$1 Billion + 26 domain"
+"Revenue:
+$377 Million"
+2020-10-01 17:49:44.173019	target	voron	и еще все такие же ))
+2020-10-01 17:49:44.176801	target	voron	за сервера
+2020-10-01 17:49:44.177583	target	voron	[22:02:51] <troy> havtit 
+[22:06:26] <troy> bro harosh 
+[22:06:35] <troy> nachnut otpadat 
+[22:06:43] <troy> ne uspevau 
+[22:06:51] <target> ХАХАХАХАХА ))))) сам просил крупняка миллирадного много)) мои парни готовили тебе их много
+надо нахуй сша всю залочить
+2020-10-01 17:49:44.178388	target	voron	стоуну начала делать
+2020-10-01 17:49:44.179127	target	voron	Are UHS systems back online?
+2020-10-01 17:49:44.181049	target	voron	Emsisoft is offering free ransomware recovery services to healthcare organizations during the pandemic, which include custom decryptors that are known to recover files 50% faster than the threat actor's decryptors.
+
+"There are multiple factors and it depends a bit on the hardware, but there are three major factors: We heavily optimised I/O (so the reading and writing has been optimised a lot and been adjusted for modern mass storage), we use hardware accelerated cryptography, and we make creating a backup first unnecessary, because unlike the TA's tool, we operate on copies of data."
+
+"The real benefit is in the fact that we focus on data safety first. So our decryptors generally are more stable, are safer to use, and produce correct results," Emsisoft CTO Fabian Wosar told BleepingComputer in a conversation.
+
+BleepingComputer has contacted UHS for more information about the attack but has not heard back.
+2020-10-01 17:49:44.185398	target	voron	они подключили какую то комм компанию))
+2020-10-01 17:49:44.186517	target	voron	для дешифровки файлов
+2020-10-01 17:49:44.188616	target	voron	лол
+2020-10-01 17:49:44.189377	target	voron	)))))))
+2020-10-01 21:01:53.139200	target	voron	нам кто то 30 бтс закинул?
+2020-10-01 21:01:53.862145	target	voron	с лока
+2020-10-01 23:35:48.592255	target	voron	нам кто то 30 бтс закинул?
+2020-10-01 23:35:48.593531	target	voron	с лока
+2020-10-01 23:36:11.942601	voron	target	это другой спамер
+2020-10-01 23:36:14.799729	voron	target	так что не вам
+2020-10-01 23:36:15.588055	voron	target	)))
+2020-10-01 23:49:18.212378	voron	target	это другой спамер
+2020-10-01 23:49:18.213473	voron	target	так что не вам
+2020-10-01 23:49:18.214229	voron	target	)))
+2020-10-02 10:50:52.868630	target	voron	ну ясно)
+2020-10-02 10:50:55.900582	target	voron	там
+2020-10-02 10:50:58.408937	target	voron	в отчетах новых нет
+2020-10-02 10:50:59.368931	target	voron	фх
+2020-10-02 10:51:04.221209	target	voron	а их после фх20
+2020-10-02 10:51:07.198360	target	voron	типо штук 6 уже
+2020-10-02 10:51:12.729379	target	voron	крупных
+2020-10-02 10:51:14.862257	target	voron	это где смотреть
+2020-10-02 15:38:57.103554	target	voron	забей ))
+2020-10-02 15:38:59.744836	target	voron	я узнал
+2020-10-02 15:39:04.765127	target	voron	охуел немного))
+2020-10-02 15:39:19.269838	target	voron	там 1+2 возможно лока за эту неделю )
+2020-10-02 15:39:28.474443	target	voron	вопросов больше нет)
+2020-10-02 15:39:46.250847	target	voron	у стоуна вообще 0)
+2020-10-02 17:25:06.231257	target	voron	ну ясно)
+2020-10-02 17:25:06.232597	target	voron	там
+2020-10-02 17:25:06.233866	target	voron	в отчетах новых нет
+2020-10-02 17:25:06.234785	target	voron	фх
+2020-10-02 17:25:06.235945	target	voron	а их после фх20
+2020-10-02 17:25:06.237031	target	voron	типо штук 6 уже
+2020-10-02 17:25:06.237840	target	voron	крупных
+2020-10-02 17:25:06.238565	target	voron	это где смотреть
+2020-10-02 17:25:06.239288	target	voron	забей ))
+2020-10-02 17:25:06.240064	target	voron	я узнал
+2020-10-02 17:25:06.241012	target	voron	охуел немного))
+2020-10-02 17:25:06.241769	target	voron	там 1+2 возможно лока за эту неделю )
+2020-10-02 17:25:06.242557	target	voron	вопросов больше нет)
+2020-10-02 17:25:06.243308	target	voron	у стоуна вообще 0)
+2020-10-03 11:05:28.714202	target	voron	11
+2020-10-03 11:05:28.870273	target	voron	1
+2020-10-03 11:19:41.472336	target	voron	fx6
+cetitobelt1970@protonmail.com
+N63vBMVXFp265x1
+
+fx8
+epacbesett1975@protonmail.com
+UhXmz0gSRMgx1
+2020-10-03 11:19:43.836229	target	voron	тут новые пароли
+2020-10-03 11:19:45.850681	target	voron	х1 в конце
+2020-10-03 11:19:53.997067	target	voron	мой безопасник сказал через тор лучше не заохдить на почты
+2020-10-03 11:19:57.142429	target	voron	не безопасно
+2020-10-03 11:20:01.770723	target	voron	поэтому где заходил через тор
+2020-10-03 11:20:10.595088	target	voron	поменял пассы
+2020-10-03 11:20:11.591277	target	voron	добавив х1
+2020-10-03 11:20:14.033578	target	voron	отпиши что принял
+2020-10-04 17:36:00.207703	target	voron	никто
+2020-10-04 17:36:00.662933	target	voron	не хочет
+2020-10-04 17:36:01.495773	target	voron	платить
+2020-10-04 17:36:02.688534	target	voron	нам
+2020-10-04 17:36:03.374114	target	voron	бабки
+2020-10-04 17:36:04.356180	target	voron	пздц
+2020-10-04 17:36:07.429237	target	voron	печально
+2020-10-04 21:43:05.599391	target	voron	игла
+2020-10-04 21:43:06.591585	target	voron	что за мыл
+2020-10-04 21:43:07.723308	target	voron	а
+2020-10-04 21:43:08.103265	target	voron	выше
+2020-10-04 21:43:09.265055	target	voron	не понял
+2020-10-04 21:43:10.157470	target	voron	ничего
+2020-10-04 21:43:11.787682	target	voron	ты же дал
+2020-10-04 21:43:11.899377	target	voron	фх
+2020-10-04 21:43:12.723848	target	voron	дофига
+2020-10-04 21:43:13.751109	target	voron	всяких
+2020-10-04 21:43:14.471100	target	voron	штук 50
+2020-10-04 21:43:24.820481	target	voron	их
+2020-10-04 21:43:25.478173	target	voron	так много
+2020-10-04 21:43:27.912367	target	voron	что я пожалуй возьму пару
+2020-10-04 21:43:30.233100	target	voron	для личных нужд
+2020-10-04 21:43:36.099553	target	voron	ну регистрации всяких акков
+2020-10-04 21:43:38.725288	target	voron	типо в контакте
+2020-10-04 21:43:42.614790	target	voron	чатике каком нибудь
+2020-10-04 21:43:50.579747	target	voron	доставки пицы
+2020-10-04 21:44:03.056865	target	voron	а если серьезно
+2020-10-04 21:44:03.907448	target	voron	нужен трой
+2020-10-04 21:44:05.716492	target	voron	его нет
+2020-10-04 21:44:11.195279	target	voron	софт
+2020-10-04 21:44:12.584266	target	voron	нужн
+2020-10-05 17:51:35.939016	target	voron	ебаный день
+2020-10-05 17:51:36.079048	target	voron	не день
+2020-10-05 17:51:37.002410	target	voron	а хуета
+2020-10-05 17:51:39.185977	target	voron	все через жопу
+2020-10-05 17:51:39.809365	target	voron	сука
+2020-10-05 17:51:40.376909	target	voron	1
+2020-10-05 17:51:42.767579	target	voron	что за день
+2020-10-05 17:51:44.350346	target	voron	игла
+2020-10-05 17:51:46.782393	target	voron	ну ка
+2020-10-05 17:51:49.439758	target	voron	въеби там музыку
+2020-10-05 17:51:51.911638	target	voron	погромче
+2020-10-05 17:51:52.313106	target	voron	)))))
+2020-10-05 20:25:54.433465	target	voron	11
+2020-10-05 20:25:54.661284	target	voron	1
+2020-10-05 20:26:01.658502	target	voron	ну что там
+2020-10-05 20:26:03.804308	target	voron	видно в нашем дворе
+2020-10-05 20:26:08.834568	target	voron	заебашили работой троя
+2020-10-05 20:26:12.502496	target	voron	отчет смотри
+2020-10-05 20:44:03.516713	target	voron	50+ охуенных сеток))
+2020-10-05 20:44:06.995608	target	voron	в экселе
+2020-10-05 20:44:07.848498	target	voron	))
+2020-10-05 21:09:14.824266	target	voron	11
+2020-10-05 21:09:14.826442	target	voron	1
+2020-10-05 21:09:14.830305	target	voron	ну что там
+2020-10-05 21:09:14.831058	target	voron	видно в нашем дворе
+2020-10-05 21:09:14.831827	target	voron	заебашили работой троя
+2020-10-05 21:09:14.832656	target	voron	отчет смотри
+2020-10-05 21:09:14.833394	target	voron	50+ охуенных сеток))
+2020-10-05 21:09:14.834150	target	voron	в экселе
+2020-10-05 21:09:14.834884	target	voron	))
+2020-10-06 03:42:30.346951	target	voron	игла
+2020-10-06 03:42:37.268020	target	voron	крупняки
+2020-10-06 03:42:38.845901	target	voron	с доменами
+2020-10-06 03:42:39.923479	target	voron	пачками
+2020-10-06 03:42:43.926509	target	voron	когда трой разбирать будет
+2020-10-06 03:42:46.859177	target	voron	походу он не голодный)
+2020-10-06 03:42:48.350991	target	voron	до супов
+2020-10-06 03:42:54.494814	target	voron	там сток вариантов
+2020-10-07 09:49:27.470430	target	voron	1
+2020-10-07 09:49:27.776289	target	voron	2
+2020-10-07 09:49:28.872069	target	voron	3
+2020-10-07 09:49:29.635000	target	voron	4
+2020-10-07 09:49:30.350339	target	voron	5
+2020-10-07 09:49:32.291508	target	voron	6
+2020-10-07 09:49:32.910049	target	voron	7
+2020-10-07 09:49:33.454308	target	voron	8
+2020-10-07 09:49:33.924499	target	voron	9
+2020-10-07 09:49:34.710052	target	voron	10
+2020-10-07 09:49:36.008717	target	voron	100000000000000000
+2020-10-08 03:02:10.214005	target	voron	1
+2020-10-08 03:02:14.088181	target	voron	что за х пишет мне трой
+2020-10-08 03:02:18.640629	target	voron	что там у него какие то снг есть
+2020-10-08 03:02:19.887976	target	voron	боты
+2020-10-08 03:02:21.771559	target	voron	я охуеваю
+2020-10-08 03:02:23.540778	target	voron	хуйня какая то
+2020-10-08 03:02:30.206928	target	voron	все боты сша и европа
+2020-10-08 03:02:34.800012	target	voron	я блядь откуда знаю
+2020-10-08 03:02:37.884778	target	voron	что какой то ебаный бил
+2020-10-08 03:02:40.048848	target	voron	из сша
+2020-10-08 03:02:42.013668	target	voron	с пк в сша
+2020-10-08 03:02:43.752404	target	voron	и ип сша
+2020-10-08 03:02:46.844496	target	voron	и телефоном в сша
+2020-10-08 03:02:51.505289	target	voron	и говорящий на англ
+2020-10-08 03:02:56.342302	target	voron	подключен в трастах где то там
+2020-10-08 03:02:58.433607	target	voron	к снг
+2020-10-08 03:02:59.367431	target	voron	сети
+2020-10-08 03:03:06.501292	target	voron	это блядь ответственность троя
+2020-10-08 03:03:13.109091	target	voron	не лезть дальше если он видит там в трасте такое
+2020-10-08 03:03:16.853314	target	voron	я охуеваю от его притензий
+2020-10-08 03:03:18.717188	target	voron	пиздец нахуй
+2020-10-08 03:03:27.697988	target	voron	если кто то посягнется на снг
+2020-10-08 03:03:34.569708	target	voron	сразу стреляй такому в голову
+2020-10-08 03:03:42.847349	target	voron	или битой по голове
+2020-10-08 03:03:49.323855	target	voron	а он мне блдяь пишет хуйню эту
+2020-10-08 03:03:54.072677	target	voron	типо не грузить ему говно
+2020-10-08 03:04:04.819482	target	voron	и приводит пример что там пара ботов каких то
+2020-10-08 03:04:11.841988	target	voron	в сетки оказались с снг корнями
+2020-10-08 03:04:16.298990	target	voron	так пусть анхуй их удаляет
+2020-10-08 03:04:22.671254	target	voron	я ебу что там внутри сети
+2020-10-08 03:04:26.312685	target	voron	пиздец полный
+2020-10-08 03:04:29.115920	target	voron	разозлил не на шутку
+2020-10-08 03:06:50.385891	target	voron	[06:08:43] <target> по нетстату? 
+[06:09:18] <troy> shell nltest /domain_trusts /all_trusts 
+[06:09:24] <troy> potom dc 
+[06:09:33] <target> ебать 
+[06:09:37] <troy> shell nltest /dclist: 
+[06:09:38] <target> и как мне это делать блядь в бк? 
+[06:09:43] <target> боты сами отдкуа? 
+[06:09:44] <troy> i tam vidno kto ot kuda 
+[06:09:45] <target> США? 
+[06:09:48] <target> США 
+[06:09:49] <target> да 
+[06:10:01] <target> а что там внутри через нетстат 
+[06:10:07] <target> это уже твоя задача и твоих ребят
+2020-10-08 03:06:53.762464	target	voron	нахуй разозлил меня
+2020-10-08 03:07:14.926369	target	voron	я блядь откдуа знаю что там в сети у них у этих ебучих ботов
+2020-10-08 05:01:38.061993	target	voron	вообщем попроси его
+2020-10-08 05:01:43.858188	target	voron	не оскорблять мои чувства
+2020-10-08 05:02:09.575645	target	voron	он уже второй раз пишет мне это
+2020-10-08 05:02:21.801809	target	voron	fx2-4 
+
+интересный вопрос задали, как думаешь, у них правда проблемы?)))))))))))))))
+2020-10-08 12:51:21.489075	target	voron	C:\Users\Rahukumar\Downloads>"nltest.exe" /domain_trusts /all_trusts List of domain trusts: 0: CBATL atl.careerbuilder.com (NT 5) (Direct Outbound) (Direct Inbound) ( Attr:
+quarantined ) 1: CAREERBUILDER careerbuilder.com (NT 5) (Forest Tree Root) (Direct Outbound) (Direct Inbound) ( Attr: withinforest external ) 2: BROADBEAN broadbean.local
+(NT 5) (Direct Outbound) (Direct Inbound) ( Attr: quarantined ) 3: CB cb.careerbuilder.com (NT 5) (Forest: 1) (Primary Domain) (Native) The command completed
+successfully C:\Users\Rahukumar\Downloads> C:\Users\Rahukumar\Downloads>exit
+2020-10-08 12:51:22.847765	target	voron	careerbuilder.com
+2020-10-08 12:51:30.326338	target	voron	)) личные счеты с ними в 2001
+2020-10-08 19:48:54.491594	target	voron	1
+2020-10-08 19:48:54.498627	target	voron	что за х пишет мне трой
+2020-10-08 19:48:54.499880	target	voron	что там у него какие то снг есть
+2020-10-08 19:48:54.501022	target	voron	боты
+2020-10-08 19:48:54.502284	target	voron	я охуеваю
+2020-10-08 19:48:54.503292	target	voron	хуйня какая то
+2020-10-08 19:48:54.504694	target	voron	все боты сша и европа
+2020-10-08 19:48:54.505920	target	voron	я блядь откуда знаю
+2020-10-08 19:48:54.507185	target	voron	что какой то ебаный бил
+2020-10-08 19:48:54.508256	target	voron	из сша
+2020-10-08 19:48:54.509131	target	voron	с пк в сша
+2020-10-08 19:48:54.509902	target	voron	и ип сша
+2020-10-08 19:48:54.510671	target	voron	и телефоном в сша
+2020-10-08 19:48:54.511431	target	voron	и говорящий на англ
+2020-10-08 19:48:54.512773	target	voron	подключен в трастах где то там
+2020-10-08 19:48:54.513490	target	voron	к снг
+2020-10-08 19:48:54.514223	target	voron	сети
+2020-10-08 19:48:54.514954	target	voron	это блядь ответственность троя
+2020-10-08 19:48:54.515726	target	voron	не лезть дальше если он видит там в трасте такое
+2020-10-08 19:48:54.516496	target	voron	я охуеваю от его притензий
+2020-10-08 19:48:54.517215	target	voron	пиздец нахуй
+2020-10-08 19:48:54.518002	target	voron	если кто то посягнется на снг
+2020-10-08 19:48:54.518743	target	voron	сразу стреляй такому в голову
+2020-10-08 19:48:54.519579	target	voron	или битой по голове
+2020-10-08 19:48:54.520344	target	voron	а он мне блдяь пишет хуйню эту
+2020-10-08 19:48:54.521194	target	voron	типо не грузить ему говно
+2020-10-08 19:48:54.521926	target	voron	и приводит пример что там пара ботов каких то
+2020-10-08 19:48:54.522646	target	voron	в сетки оказались с снг корнями
+2020-10-08 19:48:54.523391	target	voron	так пусть анхуй их удаляет
+2020-10-08 19:48:54.524171	target	voron	я ебу что там внутри сети
+2020-10-08 19:48:54.524976	target	voron	пиздец полный
+2020-10-08 19:48:54.525693	target	voron	разозлил не на шутку
+2020-10-08 19:48:54.526421	target	voron	[06:08:43] <target> по нетстату? 
+[06:09:18] <troy> shell nltest /domain_trusts /all_trusts 
+[06:09:24] <troy> potom dc 
+[06:09:33] <target> ебать 
+[06:09:37] <troy> shell nltest /dclist: 
+[06:09:38] <target> и как мне это делать блядь в бк? 
+[06:09:43] <target> боты сами отдкуа? 
+[06:09:44] <troy> i tam vidno kto ot kuda 
+[06:09:45] <target> США? 
+[06:09:48] <target> США 
+[06:09:49] <target> да 
+[06:10:01] <target> а что там внутри через нетстат 
+[06:10:07] <target> это уже твоя задача и твоих ребят
+2020-10-08 19:48:54.527280	target	voron	нахуй разозлил меня
+2020-10-08 19:48:54.528011	target	voron	я блядь откдуа знаю что там в сети у них у этих ебучих ботов
+2020-10-08 19:48:54.528804	target	voron	вообщем попроси его
+2020-10-08 19:48:54.529522	target	voron	не оскорблять мои чувства
+2020-10-08 19:48:54.530236	target	voron	он уже второй раз пишет мне это
+2020-10-08 19:48:54.530969	target	voron	fx2-4 
+
+интересный вопрос задали, как думаешь, у них правда проблемы?)))))))))))))))
+2020-10-08 19:48:54.534532	target	voron	C:\Users\Rahukumar\Downloads>"nltest.exe" /domain_trusts /all_trusts List of domain trusts: 0: CBATL atl.careerbuilder.com (NT 5) (Direct Outbound) (Direct Inbound) ( Attr:
+quarantined ) 1: CAREERBUILDER careerbuilder.com (NT 5) (Forest Tree Root) (Direct Outbound) (Direct Inbound) ( Attr: withinforest external ) 2: BROADBEAN broadbean.local
+(NT 5) (Direct Outbound) (Direct Inbound) ( Attr: quarantined ) 3: CB cb.careerbuilder.com (NT 5) (Forest: 1) (Primary Domain) (Native) The command completed
+successfully C:\Users\Rahukumar\Downloads> C:\Users\Rahukumar\Downloads>exit
+2020-10-08 19:48:54.535441	target	voron	careerbuilder.com
+2020-10-08 19:48:54.536165	target	voron	)) личные счеты с ними в 2001
+2020-10-08 19:51:00.117043	voron	target	ахах
+2020-10-09 15:17:13.224837	target	voron	)))))))))))))))
+2020-10-09 15:17:18.453295	target	voron	ахахах игла
+2020-10-09 15:17:22.158705	target	voron	стали все на связь выходить
+2020-10-09 15:17:27.023481	target	voron	миллиардные
+2020-10-09 15:17:28.495570	target	voron	выходные
+2020-10-09 15:17:28.904713	target	voron	поебались
+2020-10-09 15:17:30.700624	target	voron	нихуя не сомгли
+2020-10-09 15:17:32.607788	target	voron	теперь игла
+2020-10-09 15:17:34.915506	target	voron	хелп плз игла
+2020-10-09 15:17:40.766298	target	voron	трой подарок сделал
+2020-10-09 15:17:43.642369	target	voron	я сказал сделай подарок
+2020-10-09 15:17:48.677304	target	voron	ебни карьербилдер
+2020-10-09 15:17:53.562663	target	voron	у меня с ними личные счеты в 2001
+2020-10-09 15:18:00.744397	target	voron	сделали его
+2020-10-09 15:18:00.836650	target	voron	и
+2020-10-09 15:18:01.814326	target	voron	щас он пишет
+2020-10-09 15:18:03.041655	target	voron	ебнули
+2020-10-09 15:18:04.344411	target	voron	лол
+2020-10-09 15:18:05.707101	target	voron	))))))))))))))
+2020-10-09 15:18:11.837645	target	voron	мужик слово держит
+2020-10-09 17:13:40.945822	target	voron	)))))))))))))))
+2020-10-09 17:13:40.947886	target	voron	ахахах игла
+2020-10-09 17:13:40.949396	target	voron	стали все на связь выходить
+2020-10-09 17:13:40.950168	target	voron	миллиардные
+2020-10-09 17:13:40.950943	target	voron	выходные
+2020-10-09 17:13:40.952165	target	voron	поебались
+2020-10-09 17:13:40.953266	target	voron	нихуя не сомгли
+2020-10-09 17:13:40.954048	target	voron	теперь игла
+2020-10-09 17:13:40.954832	target	voron	хелп плз игла
+2020-10-09 17:13:40.955605	target	voron	трой подарок сделал
+2020-10-09 17:13:40.956516	target	voron	я сказал сделай подарок
+2020-10-09 17:13:40.957286	target	voron	ебни карьербилдер
+2020-10-09 17:13:40.958056	target	voron	у меня с ними личные счеты в 2001
+2020-10-09 17:13:40.958823	target	voron	сделали его
+2020-10-09 17:13:40.959618	target	voron	и
+2020-10-09 17:13:40.960458	target	voron	щас он пишет
+2020-10-09 17:13:40.961238	target	voron	ебнули
+2020-10-09 17:13:40.961995	target	voron	лол
+2020-10-09 17:13:40.962749	target	voron	))))))))))))))
+2020-10-09 17:13:40.963516	target	voron	мужик слово держит
+2020-10-09 17:15:10.134751	target	voron	1
+2020-10-09 17:15:16.730548	target	voron	игла
+2020-10-09 17:15:18.235592	target	voron	как твои дела
+2020-10-09 17:15:26.436255	target	voron	1
+2020-10-09 17:15:26.682879	target	voron	2
+2020-10-09 17:15:36.717981	voron	target	1
+2020-10-09 17:15:38.316801	target	voron	бота пришла пачка
+2020-10-10 01:00:27.852121	target	voron	1
+2020-10-10 04:05:12.237253	target	voron	пока они думюат там
+2020-10-12 13:52:34.945261	target	voron	1
+2020-10-12 13:52:34.948930	target	voron	пока они думюат там
+2020-10-12 19:01:09.259728	target	voron	1
+2020-10-12 19:01:14.801339	target	voron	привет
+2020-10-12 19:20:02.603750	target	voron	)))))))))
+2020-10-12 19:20:08.403991	target	voron	1
+2020-10-12 19:20:10.646421	target	voron	а что с ноутом
+2020-10-12 19:20:15.188265	target	voron	убанта?))
+2020-10-12 19:20:18.497930	target	voron	или ключ
+2020-10-12 19:20:20.097141	target	voron	закончился
+2020-10-12 19:20:24.959583	target	voron	срочно надо лочить сетки
+2020-10-12 19:20:32.795252	target	voron	нужно теперь 2 ключа
+2020-10-12 19:20:32.999846	target	voron	а это пиздец
+2020-10-12 19:20:42.030871	target	voron	надо в довйне хуячить теперь ))))))
+2020-10-12 19:35:36.546210	target	voron	1
+2020-10-12 19:35:36.548790	target	voron	привет
+2020-10-12 19:35:36.549588	target	voron	)))))))))
+2020-10-12 19:35:36.553023	target	voron	а что с ноутом
+2020-10-12 19:35:36.554098	target	voron	убанта?))
+2020-10-12 19:35:36.554925	target	voron	или ключ
+2020-10-12 19:35:36.555719	target	voron	закончился
+2020-10-12 19:35:36.556519	target	voron	срочно надо лочить сетки
+2020-10-12 19:35:36.557354	target	voron	нужно теперь 2 ключа
+2020-10-12 19:35:36.558128	target	voron	а это пиздец
+2020-10-12 19:35:36.559095	target	voron	надо в довйне хуячить теперь ))))))
+2020-10-14 15:10:33.505872	target	voron	Your offer continues to be unreasonable. Our internal restoration efforts are proceeding well and we continue to run our business.  There is still some value, however, of the decryption key to us to speed our restoration.  Therefore we offer you 200 bitcoin for the decryption key.
+2020-10-14 15:10:39.913213	target	voron	бери 400-500
+2020-10-14 15:10:50.826819	target	voron	или сдохнут, нам ток от этого какой толк
+2020-10-14 15:14:21.430068	target	voron	2-3к они точно не заплатят
+как карьер, думаю да
+2020-10-14 18:49:38.604836	target	voron	Your offer continues to be unreasonable. Our internal restoration efforts are proceeding well and we continue to run our business.  There is still some value, however, of the decryption key to us to speed our restoration.  Therefore we offer you 200 bitcoin for the decryption key.
+2020-10-14 18:49:38.606842	target	voron	бери 400-500
+2020-10-14 18:49:38.607925	target	voron	или сдохнут, нам ток от этого какой толк
+2020-10-14 18:49:38.608893	target	voron	2-3к они точно не заплатят
+как карьер, думаю да
+2020-10-21 10:45:53.376684	voron	target	они решалам отдают свои проблемы
+2020-10-21 10:45:56.512346	voron	target	им те с нами решают
+2020-10-21 10:46:07.242036	voron	target	они 1 ключем не разлочат вторую контору никак
+2020-10-21 10:54:46.487623	voron	target	они решалам отдают свои проблемы
+2020-10-21 10:54:46.660304	voron	target	им те с нами решают
+2020-10-21 10:54:46.660649	voron	target	они 1 ключем не разлочат вторую контору никак
+2020-10-21 11:54:49.564983	target	voron	fx1-6 team A
+2020-10-21 11:55:25.813273	target	voron	fx3-2
+2020-10-21 11:55:27.616968	target	voron	с этими что у нас
+2020-10-21 18:52:08.843247	target	voron	fx1-6 team A
+2020-10-21 18:52:08.999303	target	voron	fx3-2
+2020-10-21 18:52:09.000195	target	voron	с этими что у нас
+2020-10-22 16:04:20.498033	target	voron	привет
+2020-10-22 16:04:26.375867	target	voron	нам пока никто не пишет не звонит?
+2020-10-23 15:47:18.842673	target	voron	axnutlalud1974@protonmail.com
+2020-10-23 15:47:21.754420	target	voron	связались
+2020-10-25 16:42:01.438858	target	voron	хай
+2020-10-25 16:42:10.707134	target	voron	редиал на половину опустишься до 11 мл?)
+2020-10-28 21:15:03.982691	target	voron	привет
+2020-10-28 21:18:33.831025	voron	target	ghbdtn
+2020-10-29 20:35:12.449358	target	voron	что бля
+2020-10-29 20:35:14.100864	target	voron	вы там творите
+2020-10-29 20:35:15.597483	target	voron	))))))))
+2020-10-29 20:35:20.433913	target	voron	с клиникой
+2020-10-29 20:35:21.320731	target	voron	хахахахаха
+2020-10-29 20:35:23.118953	target	voron	СУКА Я РЖУ

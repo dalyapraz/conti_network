@@ -1,0 +1,2 @@
+Timestamp	From	To	Message
+2021-12-07 17:10:20.649616	starfall	stern	Привет

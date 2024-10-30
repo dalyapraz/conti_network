@@ -1,0 +1,130 @@
+Timestamp	From	To	Message
+2020-07-27 14:58:08.127292	steller	hof	привет.
+у тебя есть новые прокладки для pwgrab?
+2020-07-30 18:18:59.681764	hof	steller	обнови плиз модуль pwgrab
+2020-07-30 18:19:29.462135	hof	steller	  
+Windows Defender
+	Trojan:Win64/Trickbot.PA!MTB
+2020-07-30 18:19:41.670629	hof	steller	  
+Eset NOD32 Antivirus
+	a variant of Win64/TrickBot.BI trojan
+2020-07-30 18:20:09.141731	hof	steller	это на 64
+2020-07-30 18:20:15.887090	hof	steller	остальные не так страшно
+2020-07-30 18:23:13.370557	hof	steller	на версии 32 дефендера нет
+2020-07-30 18:23:29.896605	hof	steller	нод есть
+2020-07-30 18:23:51.360574	hof	steller	деткт Trojan:Win64/Trickbot.PA!MTB  - похож на строки
+2020-07-31 06:46:03.638506	hof	steller	обнови плиз модуль pwgrab
+2020-07-31 06:46:03.643013	hof	steller	  
+Windows Defender
+	Trojan:Win64/Trickbot.PA!MTB
+2020-07-31 06:46:03.644720	hof	steller	  
+Eset NOD32 Antivirus
+	a variant of Win64/TrickBot.BI trojan
+2020-07-31 06:46:03.645550	hof	steller	это на 64
+2020-07-31 06:46:03.646429	hof	steller	остальные не так страшно
+2020-07-31 06:46:03.647200	hof	steller	на версии 32 дефендера нет
+2020-07-31 06:46:03.647969	hof	steller	нод есть
+2020-07-31 06:46:03.648797	hof	steller	деткт Trojan:Win64/Trickbot.PA!MTB  - похож на строки
+2020-07-31 06:47:23.053830	steller	hof	принял. сейчас обновлю
+2020-07-31 11:57:45.090833	hof	steller	когда примерно будет модуль?
+2020-07-31 12:00:48.326629	steller	hof	когда примерно будет модуль?
+2020-07-31 14:48:13.692155	steller	hof	привет.
+у тебя есть новые прокладки для pwgrab?
+2020-07-31 14:48:45.486646	hof	steller	привет, нет, у дефа скорее всего или грина
+2020-08-06 07:55:14.217951	hof	steller	привет
+2020-08-06 07:55:43.906675	hof	steller	как с чисткой pwgrab двигается?
+2020-08-06 08:01:09.990234	steller	hof	Привет.
+Уже почистил. С при работе с ботом снова отваливается. Нужно потестить.
+2020-08-06 08:03:51.132578	hof	steller	а что отваливается?
+2020-08-06 08:04:40.554879	steller	hof	Модуль, видимо
+2020-08-06 08:05:09.374518	hof	steller	сделай версию модуля с логом
+2020-08-06 08:05:37.104881	hof	steller	получение конфига, парсинг, сколько прокладок, что отправил, ...
+2020-08-07 07:59:35.337887	steller	hof	Привет.
+pwgrab с логами:
+Dowload URL:
+https://file.io/DMx4rrhgvNXc
+Pass:
+&4_F9ZV2?{UZE|CnG<C2
+
+При последнем тесте с ботом были отвалы. Попробуй посмотреть логи.
+2020-08-07 08:37:48.485103	hof	steller	привет
+2020-08-07 08:37:56.420990	hof	steller	в каком смысле отвалы?
+2020-08-07 08:43:54.571673	steller	hof	Исключение создается и модуль падает.
+2020-08-07 08:44:45.080721	steller	hof	Что-то связано с внедрением в память процесса. В прошлый раз на map падал.
+2020-08-07 08:45:06.117580	hof	steller	изменения какие были в модуле?
+2020-08-07 08:46:24.149259	steller	hof	Да, почистил от map, добавил логи загружаемых прокладок.
+2020-08-07 09:07:41.253211	hof	steller	
+2020-08-07 09:06:08 	tpwgrablog 	DPST 		Successfully sent PASSWORDS of OpenSSH private ke to DPost server: http://203.176.135.102:8082
+2020-08-07 09:05:29 	tpwgrablog 	DPST 		Successfully sent PASSWORDS of OpenVPN passwords to DPost server: http://203.176.135.102:8082
+2020-08-07 09:07:49.982082	hof	steller	работает логированный
+2020-08-18 08:52:50.316769	steller	hof	Привет.
+В pwgrab начальное перемешивание dpost-адресов нужно, если есть сортировка по рабочим адресам?
+2020-08-18 08:53:39.401914	hof	steller	привет
+2020-08-18 08:54:34.832459	hof	steller	думаю перемешивание нужно для того, чтобы все модули не ломились на одну прокладку
+2020-08-18 08:54:45.468210	steller	hof	Допустим, если сразу много ботов прогрузилось, чтобы они через одну прокладку не валили
+2020-08-18 08:55:00.923836	steller	hof	) Тоже об этом подумал
+2020-08-18 08:55:18.957992	hof	steller	да, поэтому лучше сделать
+2020-08-25 08:48:43.921703	hof	steller	привет
+2020-08-25 08:49:05.462952	hof	steller	посмотри плиз pwgrab, приходят отчеты такого плана
+2020-08-25 08:49:14.075136	hof	steller	
+-----------FTILXWTJANZYOPTT
+Content-Disposition: form-data; name="data"
+
+
+
+-----------FTILXWTJANZYOPTT
+Content-Disposition: form-data; name="source"
+
+OpenVPN passwords and configs
+-----------FTILXWTJANZYOPTT--
+2020-08-25 08:49:30.482756	hof	steller	
+-----------SNWJITQGXKECHAWX
+Content-Disposition: form-data; name="source"
+
+OpenSSH private keys
+-----------SNWJITQGXKECHAWX
+Content-Disposition: form-data; name="data"
+
+
+
+-----------SNWJITQGXKECHAWX--
+2020-08-25 08:49:51.078974	hof	steller	нет проверки на пустой список?
+2020-08-31 06:27:43.779382	hof	steller	привет
+2020-08-31 06:27:43.782673	hof	steller	посмотри плиз pwgrab, приходят отчеты такого плана
+2020-08-31 06:27:43.783949	hof	steller	
+-----------FTILXWTJANZYOPTT
+Content-Disposition: form-data; name="data"
+
+
+
+-----------FTILXWTJANZYOPTT
+Content-Disposition: form-data; name="source"
+
+OpenVPN passwords and configs
+-----------FTILXWTJANZYOPTT--
+2020-08-31 06:27:43.784909	hof	steller	
+-----------SNWJITQGXKECHAWX
+Content-Disposition: form-data; name="source"
+
+OpenSSH private keys
+-----------SNWJITQGXKECHAWX
+Content-Disposition: form-data; name="data"
+
+
+
+-----------SNWJITQGXKECHAWX--
+2020-08-31 06:27:43.786105	hof	steller	нет проверки на пустой список?
+2020-08-31 06:59:19.013028	steller	hof	Привет. Возможно.
+Сейчас проверю.
+2021-10-04 07:30:22.073467	steller	hof	Привет
+2021-10-04 07:31:33.071634	steller	hof	Подскажешь, где можно прокдалки на модуль достать?
+Админов нет пока.
+2021-10-04 09:32:55.762243	hof	steller	привет
+2021-10-04 09:33:20.181327	hof	steller	уже наверное пришли
+2021-10-04 09:33:40.687527	steller	hof	Да, уже взял прокладки.
+2021-10-12 16:10:13.591685	steller	hof	Лог есть?
+2021-10-12 16:18:48.990746	hof	steller	не доходит до лога
+2021-10-12 16:20:27.303901	steller	hof	Т.е. при инжекте падает?
+2021-10-12 16:23:53.346678	steller	hof	Завтра с ботом тогда посмотрим.
+2021-10-15 12:43:46.218185	hof	steller	тестерам пиши, я сейчас не могу
+2021-10-18 12:04:49.794445	hof	steller	1

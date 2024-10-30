@@ -1,0 +1,14 @@
+Timestamp	From	To	Message
+2020-06-29 17:14:19.207433	clickclack	nik-da	првиет глянь аки плиз
+2020-07-02 15:51:19.740621	clickclack	nik-da	привет соберешь карьера?
+2020-07-03 12:48:49.272690	clickclack	nik-da	привет в пн денежку закину тебе
+2020-07-06 16:01:35.890857	nik-da	clickclack	hi bro - tam s patnici kyda rassilali - 115 otklik prishlo
+2020-07-06 16:24:29.493617	nik-da	clickclack	hi bro - tam s patnici kyda rassilali - 115 otklik prishlo
+2020-07-16 16:53:23.960935	clickclack	nik-da	привет бро
+2020-07-23 10:45:41.034088	clickclack	nik-da	привет как дела
+2020-08-14 19:04:31.175766	clickclack	nik-da	тут?
+2020-08-14 19:04:31.177017	nik-da	clickclack	тут?
+2020-09-02 13:04:17.480603	clickclack	nik-da	привет бро давай кош
+2020-09-02 13:04:21.357007	clickclack	nik-da	и есть работа
+2020-09-02 13:04:26.425894	clickclack	nik-da	небольшая
+2020-09-28 18:36:45.600155	clickclack	nik-da	бро давай вотсап регнем

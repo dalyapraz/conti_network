@@ -1,0 +1,6 @@
+Timestamp	From	To	Message
+2020-10-19 11:55:43.839724	steve	marsel	hi
+2020-10-19 11:55:51.170685	steve	marsel	отпиши как будешь
+2020-10-19 12:12:37.255259	steve	marsel	hi
+2020-10-19 12:12:37.410103	steve	marsel	отпиши как будешь
+2020-10-19 12:14:32.444075	marsel	steve	Привет

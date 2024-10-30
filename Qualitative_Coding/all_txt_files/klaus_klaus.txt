@@ -1,0 +1,8 @@
+Timestamp	From	To	Message
+2021-10-04 14:30:46.763429	klaus	klaus	silver
+2021-10-04 20:45:25.612632	klaus	klaus	hi
+2021-10-04 20:45:25.613646	klaus	klaus	how are you ?
+2021-10-04 20:45:39.196388	klaus	klaus	guns
+2021-10-05 05:46:24.974208	klaus	klaus	really
+2021-10-05 05:46:51.742129	klaus	klaus	:-)
+2021-10-05 07:46:47.889112	klaus	klaus	привет, Я могу получить доступ к rokcetchat в сети ONION, но не могу войти на платформу с логином и паролем
