@@ -3,6 +3,7 @@ import dateutil.parser
 import json
 import argparse
 import os
+import pickle
 
 def time_parser(data_json):
     parser = argparse.ArgumentParser()
@@ -119,3 +120,14 @@ def count_unique_users_in_conversations(conversations_dict):
         # Add each user_j from the nested dictionary of user_i
         users.update(user_j_convos.keys())
     return len(users)
+
+def save_graph(graph, filename):
+    with open(filename, "wb") as f:
+        pickle.dump(graph, f)
+    print(f"Graph saved as {filename}")
+
+def load_graph(filename):
+    with open(filename, "rb") as f:
+        graph = pickle.load(f)
+    print(f"Graph loaded from {filename}")
+    return graph
